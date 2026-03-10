@@ -12,6 +12,18 @@ What has changed is the entire cost structure of the core technical problem: LLM
 
 ## The single most important change since Palifer's failure is that the core technical capability now costs weeks to build instead of years.
 
+In 2019, Palifer's deep-learning NLP model was a genuine research-and-engineering achievement. Training a domain-specific model to handle the abbreviations, misspellings, and jargon of industrial maintenance language — "brk pad worn lft frnt," "hyd lk nr pump stn" — required large labeled datasets, significant compute, and months of iteration. That work consumed most of Palifer's runway and produced a patented algorithm that was the company's primary asset. In 2026, GPT-4o (released May 2024) and Claude 3.5 Sonnet (released June 2024) handle this class of unstructured domain text with high accuracy out of the box, requiring no labeled training data to bootstrap. A retrieval-augmented generation (RAG) pipeline built on Pinecone or Weaviate can ingest a customer's entire historical work order archive and make it semantically queryable within days. The technical moat Palifer spent three years building can now be prototyped in a sprint.
+
+This changes the business math fundamentally. Palifer needed to conserve runway for model training; a rebuild can spend runway on sales.
+
+**Market size:** The global predictive maintenance market was approximately $4B in 2019. It is projected to exceed $28B by 2028 (MarketsandMarkets, 2023 — specific figure should be verified against the most current report). Enterprise willingness to pay is no longer theoretical; Augury raised $180M+ and achieved commercial scale in manufacturing and mining, demonstrating that procurement committees in heavy industry will sign multi-year AI maintenance contracts.
+
+**Distribution channels available now that did not exist in 2019:** IBM Maximo Application Suite Marketplace, SAP Store (with 25,000+ enterprise customers on SAP), and Fiix's partner ecosystem (Fiix was acquired by Rockwell Automation in 2021 and now has direct access to Rockwell's industrial customer base). These are structured, searchable channels where a maintenance VP can find, trial, and purchase a CMMS add-on without a new vendor procurement process — the single biggest friction point Palifer could not overcome.
+
+**ESG regulatory pull:** Since 2022, mining operators including Glencore, Vale, and Newmont face mandatory Scope 1/2/3 emissions disclosures under frameworks including the SEC's climate disclosure rules (finalized March 2024, though implementation timelines are contested) and the EU's Corporate Sustainability Reporting Directive. Equipment efficiency data derived from maintenance records is directly relevant to these disclosures. This creates a compliance-driven pull for the rebuild's data product that Palifer never had.
+
+---
+
 ## Current Market Analysis
 
 **Market size:** The global predictive maintenance market was approximately $4B in 2019 when Palifer operated. Current projections place it at $28B+ by 2028 (MarketsandMarkets, 2023). The rail asset management software market alone is estimated at $5B+ globally (specific sourcing unavailable — this figure should be verified). Mining equipment maintenance represents a separate multi-billion-dollar software category. The addressable market has grown roughly 7x in less than a decade, and — critically — enterprise budget allocation has grown with it. Maintenance VPs at mining majors now have dedicated AI/analytics line items that did not exist in 2019.

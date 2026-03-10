@@ -10,6 +10,16 @@ The rebuild thesis is not to try again at the same problem with better design. T
 
 ## Why Now?
 
+The single most important change since 42Floors failed is that LLMs can now do what 42Floors could not: extract structured, searchable listing data from the unstructured formats brokers actually use — PDFs, email chains, OM documents, and proprietary spreadsheets — without requiring broker cooperation or manual data entry. GPT-4 (March 2023) and Claude 3 Opus (March 2024) have demonstrated reliable structured extraction from messy real-world documents at scale. This directly eliminates the supply-side dependency that forced 42Floors to give away listings for free and beg brokers to participate. A rebuild can seed its own listing database by ingesting publicly available broker marketing materials, CoStar data leakage through broker-shared PDFs, and direct integrations with broker CRMs like Buildout (which serves 35,000+ CRE professionals as of 2024, per Buildout's own marketing).
+
+The second critical change is market structure. WeWork filed for bankruptcy in November 2023. Knotel filed in January 2021. Together, these two operators controlled millions of square feet of sub-5,000 sq ft flex inventory that is now fragmented across landlords, smaller flex operators, and subleases — with no dominant discovery layer serving the tenants who need it. The US flex office market grew from approximately $6B in 2019 to a projected $50B+ in 2024 (source: JLL Future of Work research, 2023; exact 2024 figure is a projection and should be treated as medium-confidence). That supply exists. The search layer does not.
+
+Third, CoStar's 2023 acquisition of Homes.com and its reported $1B+ marketing commitment to residential search means the incumbent is now fighting a two-front war. CoStar's commercial product attention and sales resources are divided in a way they were not in 2012–2018.
+
+Distribution channels unavailable to 42Floors now exist at scale: the Buildout marketplace for broker workflow tools, direct integrations with VTS (which manages 60B+ sq ft of commercial real estate, per VTS's 2023 figures), and LinkedIn's API for targeting office managers and founders at companies with 10–200 employees — the exact tenant profile 42Floors served.
+
+---
+
 ## Current Market Analysis
 
 ## Market Size

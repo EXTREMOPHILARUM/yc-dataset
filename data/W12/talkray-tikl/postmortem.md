@@ -2,6 +2,17 @@
 
 ## Overview
 
+Talkray (originally TiKL) was a mobile push-to-talk communications app founded in 2010 by former Motorola engineers Zafer Ahmed and Zhong Nan.The company entered Y Combinator's Winter 2012 batch having already accumulated 22 million downloads with zero marketing spend — one of the more striking organic growth stories in YC history.That headline number attracted $7.42 million from top-tier investors including Andreessen Horowitz and General Catalyst.
+
+But downloads were not users, and users were not revenue.The company's core user base was concentrated in developing markets with low advertising ARPU, its single differentiating feature (push-to-talk) was easily replicated by better-funded competitors, and its 2013 pivot to an API platform failed to generate a new growth vector.By 2018, active development had ceased.
+
+The app was removed from Google Play in February 2021.Talkray is now listed as inactive on Y Combinator's company directory — a cautionary case study in how viral download numbers can mask a structurally unmonetizable business.
+
+<report-gallery>
+<media-image src="https://bookface-images.s3.amazonaws.com/avatars/d39c157ff0a7b0405375df0974ebcc3a54cbd526.jpg" alt="Talkray (TiKL): Instantly talk or text to one or a group of friends at ..." caption="The Talkray avatar as it appeared on YC's Bookface platform — a company that arrived at Demo Day with 22 million downloads and zero marketing dollars, a number that turned heads across Silicon Valley in early 2012."></media-image>
+<media-image src="https://images.sftcdn.net/images/t_app-cover-s,f_auto/p/019cd2d6-9b30-11e6-b0c0-00163ed833e7/892770244/talkray-screenshot.jpg" alt="Talkray for Android - Download" caption="The Talkray app interface — a walkie-talkie experience built for a world where data was cheap and voice minutes were not. The product spread virally across developing markets, but its core feature proved impossible to defend once WhatsApp and others added voice."></media-image>
+</report-gallery>
+
 ## Founding Story
 
 Zafer Ahmed and Zhong Nan met as colleagues at Motorola, where both worked in hardware and telecommunications engineering. <sup><a href="https://technode.com/2014/09/25/theres-still-room-messaging-apps-talkray-claims-12m-users-announces-new-funding/">[1]</a></sup> Their shared background in mobile communications gave them a practical understanding of how voice transmission worked over cellular networks — and, crucially, where it was inefficient. The insight that animated TiKL was straightforward: voice calls consumed expensive minutes, SMS consumed expensive message credits, but data was increasingly cheap and abundant. A push-to-talk walkie-talkie app that ran entirely over a data connection could give users the immediacy of voice without the cost.

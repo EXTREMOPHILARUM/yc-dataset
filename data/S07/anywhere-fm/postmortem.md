@@ -105,6 +105,16 @@ None of these models were tested before the acquisition. The company had no reve
 
 ## Traction
 
+Anywhere.FM achieved genuine early traction, driven primarily by TechCrunch coverage at launch in August 2007.<sup><a href="https://techcrunch.com/2007/08/02/listen-to-your-itunes-library-on-the-web-with-anywherefm/">[17]</a></sup> The press hit generated a meaningful user spike, and the product's quality sustained engagement beyond the initial wave.
+
+User count figures are inconsistent across sources and cannot be reconciled with confidence. TechCrunch reported 60,000 users at the time of acquisition in January 2008.<sup><a href="https://techcrunch.com/2008/01/28/imeem-gobbles-up-a-young-startup-anywherefm/">[7]</a></sup> Rekhi himself later cited over 100,000 users.<sup><a href="https://softwaresuggestblog.com/exploring-the-insights-and-journey-of-sachin-rekhi/">[18]</a></sup> A Wikipedia-sourced archive entry, citing the Anywhere.FM player page as accessed in September 2008, reported 88,000+ users.<sup><a href="https://en-academic.com/dic.nsf/enwiki/7467828">[8]</a></sup> Luxiou Chen's professional profile claims 250,000+ users.<sup><a href="https://theorg.com/org/renthop/org-chart/luxiou-chen">[19]</a></sup> The September 2008 figure likely reflects post-acquisition growth under imeem's platform, which would explain why it exceeds the January 2008 acquisition-time figures.
+
+Song upload volume is more consistent and arguably more meaningful: approximately 9 million songs at acquisition per TechCrunch,<sup><a href="https://techcrunch.com/2008/01/28/imeem-gobbles-up-a-young-startup-anywherefm/">[7]</a></sup> growing to 14.5 million by September 2008.<sup><a href="https://en-academic.com/dic.nsf/enwiki/7467828">[8]</a></sup> At 60,000 users and 9 million songs, the average uploading user had transferred 150 songs—a meaningful engagement signal suggesting users who tried the product genuinely used it.
+
+Despite these numbers, Rekhi concluded the company had not found product/market fit: *"Despite following Lean Methodology to the letter, garnering glowing press reviews, and growing to over 100,000 users, we still ultimately failed to find product/market fit."*<sup><a href="https://www.reforge.com/blog/lean-startup-methodology-problems">[20]</a></sup> The engagement metrics masked the absence of a monetization path and, likely, a retention ceiling that the team never had time to measure.
+
+---
+
 ## Post-Mortem
 
 Anywhere.FM was acqui-hired by imeem on January 28, 2008—less than six months after launch and less than a year after founding. The exit price was undisclosed, estimated at under $5 million by TechCrunch<sup><a href="https://techcrunch.com/2008/01/28/imeem-gobbles-up-a-young-startup-anywherefm/">[7]</a></sup> and at approximately $2 million by Golden.com.<sup><a href="https://golden.com/wiki/Anywhere.fm-5K964V5">[21]</a></sup> Against total funding of under $100,000, this was a thin return—and against the company's potential, it was a failure. Rekhi said it plainly: the team was *"acqui-hired by imeem for the impressive tech we had developed, but our dreams of building an independent web music player were over."*<sup><a href="https://www.reforge.com/blog/lean-startup-methodology-problems">[22]</a></sup>

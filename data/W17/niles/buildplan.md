@@ -10,6 +10,16 @@ The go-to-market angle is surgical: land with ops and enablement teams who alrea
 
 ## Why Now?
 
+The single most important change since Niles failed is the arrival of production-quality large language models. GPT-4 (March 2023) and Claude 3 (March 2024) can perform reliable semantic question-answering over unstructured Slack conversations and documents with accuracy that simply did not exist between 2017 and 2020. This directly eliminates what the research identifies as Niles' primary failure cause: the NLP technology was not capable of delivering correct answers consistently enough to retain users. A knowledge bot that answers wrong trains users to stop asking — that loop is now broken.
+
+The supporting infrastructure has matured in parallel. Retrieval-Augmented Generation (RAG) architectures, available today through open-source libraries like LangChain and LlamaIndex (both reaching production maturity in 2023), allow a small team to build a high-quality knowledge retrieval system in weeks. Vector databases — Pinecone (GA 2021), Weaviate, and pgvector — make semantic search over large Slack message corpora cost-effective as managed services. In 2017, this stack would have required months of custom ML engineering that a two-person team with $120K could not sustain.
+
+Distribution has also matured significantly. Slack's App Directory now hosts 2,600+ apps serving 20M+ daily active users (Slack, 2023), and enterprise buyers have normalized purchasing Slack-native tools — a trust threshold that was not cleared when Niles launched. Microsoft Teams has added a parallel ecosystem with 320M+ monthly active users (Microsoft, 2023), doubling the addressable distribution surface.
+
+Finally, the problem has gotten materially worse. Post-2020 remote and hybrid work has dramatically increased the volume of institutional knowledge buried in async Slack threads, making the core pain point Niles identified more acute and the willingness-to-pay more demonstrable than it was during the company's operating years.
+
+---
+
 ## Current Market Analysis
 
 The enterprise knowledge management market has grown substantially since Niles operated. The global knowledge management software market was valued at approximately $4.9 billion in 2022 and is projected to reach $13.4 billion by 2030 (Grand View Research — specific Niles-era baseline figure is not available for direct comparison). More relevant as a demand signal: Glean raised $200M at a $1B+ valuation in 2023 specifically for AI-powered workplace search, and Guru — Niles' most direct 2017 competitor — raised $30M+ in total funding and relaunched with AI features in 2023. These outcomes validate that the exact problem Niles identified carries massive enterprise willingness-to-pay.
@@ -51,3 +61,11 @@ Index documents from Google Drive and Notion workspaces alongside Slack history,
 ---
 
 ## Go-to-Market Strategy
+
+**Target customer segment**: Operations, enablement, or team leads at Slack-native B2B SaaS companies with 25–200 employees — specifically teams experiencing onboarding friction or repetitive question fatigue in high-velocity Slack environments. This is the narrowest viable wedge: these buyers feel the pain acutely, have budget authority without lengthy procurement cycles, and are already comfortable purchasing Slack apps. Apartment List's sales operations team — Niles' one documented reference customer — is the archetype.
+
+**Primary distribution channel**: Slack App Directory (2,600+ apps, 20M+ DAU). Tactics: optimize App Directory listing for "knowledge base," "wiki," and "onboarding" search terms; launch on Product Hunt targeting Slack-native operators; pursue placement in Slack's curated "Top Apps for Remote Teams" editorial lists. Secondary channel: targeted LinkedIn outreach to RevOps and Sales Enablement titles at Series A–C SaaS companies, where onboarding and knowledge decay pain is acute and documented.
+
+**Pricing strategy**: $199/month flat for teams up to 50 Slack users; $399/month up to 150 users; $699/month up to 500 users. No per-seat pricing — team-level pricing reduces friction for the buyer and mirrors how Slack itself is evaluated. This is 8x Niles' original Starter price, justified by the dramatically higher answer accuracy and the validated willingness-to-pay demonstrated by Guru and Glean's growth. A 14-day free trial (no credit card) drives self-serve conversion through the Slack App Directory.
+
+**Differentiation vs. 2026 competitors**: Glean is priced for enterprises and requires IT deployment. Guru requires manual content creation. Notion AI requires leaving Slack. The rebuild's differentiation is the combination of zero-setup knowledge capture (automatic indexing of existing Slack history), Slack-native conversational UX (no context switching), and SMB-accessible pricing — a combination no current competitor offers at this price point.

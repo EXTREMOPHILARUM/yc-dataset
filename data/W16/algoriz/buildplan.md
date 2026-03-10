@@ -6,9 +6,19 @@ Algoriz 2026 is a no-code algorithmic trading platform for retail traders who ha
 
 The viability shift: LLMs are now good enough that custom NLP is no longer the bottleneck. GPT-4o and Claude 3.5 handle strategy parsing reliably. The real moat is the execution layer—seamless OAuth connections to Alpaca and Coinbase, plus backtesting infrastructure that speaks plain English instead of Python. QuantConnect dominates the coder segment; we own the trader segment.
 
-Go-to-market targets active retail traders already frustrated with Python learning curves on QuantConnect or TradingView. We win by removing the 6-month friction tax. Launch on Product Hunt, build community in Discord, partner with retail trading educators. Revenue: 2% commission on live trades, freemium backtesting tier.33:T81d,
+Go-to-market targets active retail traders already frustrated with Python learning curves on QuantConnect or TradingView. We win by removing the 6-month friction tax. Launch on Product Hunt, build community in Discord, partner with retail trading educators. Revenue: 2% commission on live trades, freemium backtesting tier.34:T81d,
 
 ## Why Now?
+
+The single most important change since Algoriz's failure is this: the core technical risk is gone. In 2016–2017, Algoriz's NLP engine had to be custom-built from scratch, and its accuracy parsing complex, multi-condition trading logic was unproven — likely unreliable for edge cases involving chained conditionals, technical indicators, and asset-specific syntax. Today, GPT-4 (March 2023) and Claude 3.5 Sonnet (June 2024) can parse genuinely ambiguous natural language trading instructions with dramatically higher fidelity, handle multi-leg conditional logic, correctly interpret technical indicator references (Bollinger Bands, MACD, RSI), and return structured, executable rule sets. What took Algoriz's entire engineering team years to approximate can now be implemented via API call in weeks.
+
+The second structural blocker — brokerage integration — is equally resolved. Alpaca Markets offers a commission-free REST brokerage API with paper trading support, requiring no regulatory overhead to integrate. Interactive Brokers' Client Portal API and Tradier's brokerage API provide additional coverage. A rebuild could ship with full live trade execution on day one — the exact capability Algoriz lacked at its highest-visibility moment.
+
+Market validation has also arrived. Quantopian raised $48M+ before shutting down in 2020; Robinhood subsequently acquired Quantopian's assets specifically to build algorithmic trading features into its platform (exact acquisition price not publicly disclosed). This confirms institutional willingness to pay for this capability. QuantConnect now reports 300,000+ registered users (source: QuantConnect website, though exact date of this figure is unspecified), demonstrating a large, self-identified retail algorithmic trading audience that was nascent in 2017.
+
+Distribution channels unavailable to Algoriz now exist: QuantConnect's open community, Alpaca's developer ecosystem, and Reddit communities like r/algotrading (1.4M+ members as of 2024, per Reddit) provide direct, low-cost access to the exact target user.
+
+---
 
 ## Current Market Analysis
 
@@ -24,7 +34,7 @@ The global algorithmic trading market was valued at approximately $2.19 billion 
 
 **The gap:** No U.S.-focused platform combines natural language strategy input, live brokerage execution, and multi-asset coverage (equities + crypto) in a single product. Demand signals from Composer's growth and QuantConnect's community size confirm the audience is real and underserved by tools requiring code.
 
----35:T774,
+---36:T774,
 
 ## Recommended MVP
 
@@ -47,3 +57,11 @@ After a strategy is parsed, users run a backtest against historical data (minimu
 ---
 
 ## Go-to-Market Strategy
+
+**Target customer (narrow):** Active retail traders who already use QuantConnect or have attempted to learn Python for trading automation but abandoned it. These users understand algorithmic concepts, have brokerage accounts, and have demonstrated willingness to invest time in trading tools — but are blocked by the coding requirement. They are not passive investors; they have specific strategy ideas they want to automate. Age range approximately 28–45, U.S.-based, trading equities and/or crypto with accounts typically between $10,000–$500,000 (exact data unavailable; directional estimate based on QuantConnect community profiles).
+
+**Primary distribution channel:** QuantConnect's community forums and r/algotrading (Reddit, 1.4M+ members). Tactics: publish genuinely useful content demonstrating LLM-parsed strategy examples; offer free beta access to active community contributors; sponsor QuantConnect's open-source GitHub repository. Secondary: Alpaca's developer community, which self-selects for technically-adjacent but not necessarily Python-fluent traders.
+
+**Pricing:** Free tier (2 live strategies, paper trading only, 1-year backtest) to drive activation. Paid tier at $49/month (10 live strategies, 5-year backtest, equities + crypto, SMS alerts). No $29 entry tier — Algoriz's $29 plan was likely underpriced for the value delivered and the compliance overhead involved. Justification: Composer charges $35–$100/month for a less capable product; $49 is defensible against that benchmark.
+
+**Differentiation vs. 2026 competitors:** Composer offers drag-and-drop but not natural language; QuantConnect requires code; Streak is geographically limited. The rebuild's differentiation is the combination of genuine natural language input (not block-based), live multi-asset execution, and plain-English backtesting output — all in one product, available to U.S. traders on day one.

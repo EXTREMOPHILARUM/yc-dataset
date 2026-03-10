@@ -118,6 +118,18 @@ The company burned through nearly $2 million across all iterations without estab
 
 ## Traction
 
+At the time of the Sifted profile in August 2021—Quest's most visible public moment—the product had approximately 1,000 users and over 10 hours of recorded content. <sup><a href="https://www.cbinsights.com/investor/robert-gaal">[18]</a></sup> <sup><a href="https://sifted.eu/articles/quest-audio-app">[10]</a></sup> The speaker roster had grown to 100+ contributors by Demo Day, according to Robert Gaal's own announcement. <sup><a href="https://sifted.eu/articles/quest-audio-app">[20]</a></sup>
+
+<media-tweet url="https://x.com/robertgaal/status/1432363556691853315" author="@robertgaal" date="2021-08-30" text="Since launching @QuestAudio we grew to 100+ speakers and 10+ hours of audio. Thanks to everyone who's tuning in every week. We also joined @YCombinator to make career advice more meaningful, expressive, and intimate than ever before."></media-tweet>
+
+<media-tweet url="https://x.com/i/web/status/1432363556691853315" author="@YCombinator" date="2021-08-30" text="Welcome to S21, @QuestAudio! Quest is a Q&A app where experts answer questions in short audio clips, including many of YC's founders and operators."></media-tweet>
+
+These numbers tell a specific story. With 100+ speakers and 1,000 users, the listener-to-speaker ratio was roughly 10:1—a thin audience for each contributor. For comparison, a podcast with 1,000 listeners per episode is considered small but viable; Quest's content library had 10+ hours spread across 100+ speakers, suggesting an average of roughly six minutes of content per speaker. That is a low contribution rate and a thin content library for a product asking users to return regularly.
+
+No engagement metrics—daily active users, listen-through rates, or return visit rates—were disclosed at any point. No traction data was published after Demo Day, which is consistent with the company's failure to raise additional funding and its subsequent pivot and shutdown.
+
+---
+
 ## Post-Mortem
 
 Quest shut down in 2022 after four years of operation across three distinct product iterations. Robert Gaal announced the closure on Twitter, citing failure to find product-market fit. <sup><a href="https://www.linkedin.com/pulse/why-startup-lost-2-million-how-avoid-same-fate-chris-monk">[13]</a></sup> The company burned through nearly $2 million in total funding—the bulk of it raised for the Cooper product that was ultimately abandoned—without establishing a revenue model or a durable user base. The failure was not a single event but a compounding sequence of structural problems that no pivot resolved.

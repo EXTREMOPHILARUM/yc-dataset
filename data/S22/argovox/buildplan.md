@@ -2,6 +2,20 @@
 
 ## Overview
 
+The single most important change since Argovox's failure is the commoditization of conversational voice infrastructure. In 2022, building a reliable multi-turn voice AI agent required significant proprietary engineering — speech-to-text, natural language understanding, dialogue management, and text-to-speech had to be assembled and tuned by a small team with limited capital. In 2026, platforms like Bland AI, Vapi, and Retell AI offer sub-200ms latency conversational voice APIs at commodity pricing, with pre-built telephony integrations. What consumed the majority of Argovox's engineering capacity is now a vendor call.
+
+Layered on top of that infrastructure, GPT-4o (May 2024) and Claude 3.5 Sonnet (June 2024) can handle genuinely nuanced multi-turn billing conversations — negotiating payment plans, processing hardship exceptions, responding to balance disputes — with reliability that rule-based systems and early LLMs in 2022 could not approach. The core product Argovox was attempting to build is now achievable by a two-person technical team in weeks, not months.
+
+The regulatory environment has also clarified materially. The CFPB's Regulation F (effective November 2021) explicitly permitted text and email debt collection contact, and subsequent FCC TCPA guidance has established clearer safe harbors for AI-initiated calls with proper consent frameworks. The legal ambiguity that made healthcare billing automation risky in 2022 has been substantially reduced.
+
+On the market side, high-deductible health plans have driven patient-pay balances to approximately 30% of hospital revenue (source: Healthcare Financial Management Association, 2024 — specific figure unverified independently). The problem Argovox identified has worsened, not stabilized.
+
+EHR API access has expanded significantly. Athenahealth's open API program, Epic's App Orchard (now with 500+ certified partners), and Kareo's developer platform now allow a voice agent to read patient balances, post payments, and update records programmatically — integration work that required expensive custom development in 2022 is now largely standardized.
+
+Distribution channels unavailable in 2022 now exist: the Epic App Orchard marketplace, Athenahealth's Marketplace with thousands of active practices, and MGMA (Medical Group Management Association) partner networks provide direct access to revenue cycle decision-makers without a cold outbound sales motion.
+
+---
+
 ## Why Now?
 
 ## Current Market Analysis

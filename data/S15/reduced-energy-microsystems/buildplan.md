@@ -12,6 +12,18 @@ The rebuild thesis is not to retry REM's original approach with more money. It i
 
 ## The single most important change since REM's failure is that the RISC-V ecosystem has become a production-grade distribution channel for processor IP.
 
+When REM joined the RISC-V Foundation in November 2017, RISC-V was an academic project with institutional momentum but almost no commercial deployment. By 2026, RISC-V International reports 4,000+ member organizations, and commercial RISC-V SoCs ship in billions of devices annually — including Western Digital hard drives, Alibaba server chips, and a growing share of IoT microcontrollers. This is not a projection; it is a documented market transition. The ecosystem bootstrapping cost that would have consumed a significant fraction of REM's $2M seed round simply does not exist in 2026.
+
+The second critical change is the collapse of early-stage chip design costs. Open-source EDA tools — OpenROAD, OpenLane, and the SkyWater Sky130 PDK — have matured to the point where a small team can complete early design iterations at a fraction of the cost of commercial EDA licenses. Cadence Virtuoso and Synopsys Design Compiler licenses that cost $200K–$500K annually in 2017 are no longer the only path to a working design. This directly addresses the capital constraint that starved REM's development cycles.
+
+Third, the chiplet architecture transition — enabled by UCIe interconnect standards ratified in 2022 — means a startup can now build a specialized asynchronous processing tile that integrates with standard synchronous chiplets rather than taping out a complete SoC. A full-chip tape-out on an advanced node costs $500K–$5M; a chiplet tile targeting a mature node like GLOBALFOUNDRIES 22FDX (now production-proven with a broad IP ecosystem, unlike its status when REM announced its partnership in December 2017) costs substantially less and reaches customers faster.
+
+Fourth, TinyML frameworks — TensorFlow Lite Micro, ONNX Runtime for microcontrollers — have standardized the software stack for edge inference. REM would have needed to build custom neural network tooling in parallel with hardware; a 2026 rebuild inherits that stack.
+
+Finally, the body camera and drone markets REM targeted now have explicit regulatory demand signals: body camera mandates exist in 40+ U.S. states, and FAA drone weight and power rules create procurement criteria that favor ultra-low-power silicon. Market size data for the specific asynchronous IP licensing segment is not publicly available, but the broader edge AI chip market was valued at approximately $3.5B in 2023 (MarketsandMarkets; exact 2026 figure unknown).
+
+---
+
 ## Current Market Analysis
 
 **Market size:** The global edge AI chip market was valued at approximately $3.5B in 2023 (MarketsandMarkets) and is projected to grow at a CAGR above 20% through the late 2020s, though specific 2026 figures are not confirmed in the research report. For context, REM operated when this market was pre-commercial — Movidius had just shipped its first Myriad 2 units to DJI and Google in 2016. The market has since been validated at scale. The RISC-V processor IP licensing segment specifically is smaller and less publicly quantified; exact TAM figures are not available.

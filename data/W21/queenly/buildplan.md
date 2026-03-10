@@ -106,6 +106,39 @@ Direct community partnerships with pageant coaches, state directors, and titleho
 
 ## Pricing Strategy
 
+# Gownda
+
+## 1. Overview
+
+Gownda is a modern revival of Queenly — a vertical peer-to-peer resale marketplace exclusively for formalwear (pageant gowns, prom dresses, quinceañera gowns, and wedding attire). Buyers find occasion-specific dresses through AI-powered visual search and structured filters; sellers publish listings in under two minutes using GPT-4o-generated descriptions from photos. The core value proposition is community density: every listing, every buyer, and every search result is formalwear-specific, delivering a materially better experience than Poshmark or eBay for a buyer who needs a size-6 red ball gown for a pageant in three weeks.
+
+---
+
+## 2. Core Features
+
+**Listing & Supply**
+- AI-assisted listing creation: seller uploads 3–5 photos → GPT-4o generates structured title, description, style tags, condition grade, and SEO copy → seller confirms/edits → publishes
+- Listing fields: occasion type, silhouette, neckline, color family, embellishment, brand, size (numeric + alpha), bust/waist/hip measurements, condition grade (New/Like New/Good/Fair), asking price, original retail price
+- Draft saving at any step; resume incomplete listings from dashboard
+- Seller photo guidelines overlay (front, back, label, detail shots) shown during upload
+- Listing status: Draft, Pending Review (authenticated tier), Active, Sold, Archived
+
+**Search & Discovery**
+- Occasion filter: Pageant / Prom / Quinceañera / Wedding / Gala
+- Visual attribute filters: silhouette (ball gown, mermaid, A-line, sheath, two-piece), neckline, color family, embellishment
+- Size filter: numeric (0–30) and alpha (XS–3XL), with measurement-range fallback
+- Price range slider
+- Sort: Newest, Price Low→High, Price High→Low, Most Liked
+- Full-text keyword search with formalwear-specific tokenization
+- Saved searches with email/push notification on new matches
+- Listing detail page: photo carousel, all structured attributes, seller profile, shipping estimate, size comparison tool (buyer enters own measurements, system shows fit delta)
+
+**Authentication & Trust**
+- Tier 1 (≤$300): Peer-to-peer. Seller submits 5-photo proof set before listing goes live; reviewed by automated CV check (Google Vision API) for completeness
+- Tier 2 (>$300): Authenticated. Seller submits structured photo set; human authenticator reviews within 24 hours; listing shows "Gownda Authenticated" badge; buyer receives condition guarantee
+- Seller ratings (1–5 stars) after each completed transaction
+- Buyer protection: disputes opened within 3 days of delivery; misrepresentation refund policy
+
 ## Differentiation vs. 2026 Competitors
 
 The rebuild's differentiation is not technology — visual search and AI listings are table-stakes by 2026. The differentiation is community density: a platform where every listing is a formalwear item, every buyer has a specific occasion in mind, and every search result is relevant. Poshmark will never prioritize this. ThredUp's consignment timeline is incompatible with pageant season urgency. The rebuild wins not by being more technologically sophisticated than incumbents, but by being the only place where a contestant can find 3,000 pageant gowns in her size, authenticated, with a 48-hour shipping guarantee — and sell her last competition dress to someone exactly like her.

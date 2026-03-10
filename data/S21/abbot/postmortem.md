@@ -2,6 +2,16 @@
 
 ## Overview
 
+Abbot was a Slack-native customer success tool built by A Serious Business, Inc., a Y Combinator S21 company co-founded by Paul Nakata (CEO) and Phil Haack (CTO) in May 2020. The product began as a hosted ChatOps platform—a spiritual successor to GitHub's Hubot—before pivoting in 2021 to help engineering and customer success teams manage shared Slack channels with customers. At its peak, the product offered conversation monitoring, playbooks, reporting, and AI-powered channel summaries. The company operated with a team of approximately five people throughout its life.<sup><a href="https://www.ycombinator.com/companies/abbot">[1]</a></sup>
+
+Abbot failed because it never achieved product-market fit across either of its two product phases. The first phase produced a platform too abstract to sell; the second identified a real problem but lost the distribution race to a competitor executing the same idea more effectively.
+
+The company shut down in approximately October 2023, roughly 3.5 years after founding and two years after its YC batch. Phil Haack subsequently joined PostHog as a Senior Product Engineer.<sup><a href="https://haacked.com/about/">[2]</a></sup> No acquisition or acqui-hire was publicly announced. The shutdown was quiet—no press coverage, no public investor commentary—consistent with a small team winding down gracefully rather than collapsing spectacularly.
+
+<report-gallery>
+<media-image src="https://avatars.githubusercontent.com/u/74781135?s=200&v=4" alt="A Serious Business Inc GitHub organization avatar - the company behind Abbot" caption="The GitHub organization for A Serious Business, Inc. (aseriousbiz) — the YC S21 company behind Abbot. Its open-source repos, including abbot-web and abbot-py, remain publicly visible long after the shutdown."></media-image>
+</report-gallery>
+
 ## Founding Story
 
 Phil Haack arrived at A Serious Business, Inc. with one of the more credible technical pedigrees in the ChatOps space. At Microsoft, he served as Senior Program Manager and was directly responsible for shipping ASP.NET MVC and NuGet—two foundational pieces of the .NET developer ecosystem.<sup><a href="https://haacked.com/about/">[3]</a></sup> He then moved to GitHub as a Director of Engineering, where he worked closely with Hubot, GitHub's open-source bot framework that became the canonical example of ChatOps culture. Hubot allowed engineering teams to automate deployments, run queries, and coordinate work through chat—a workflow that GitHub's distributed team had refined into an art form.
@@ -159,4 +169,4 @@ The decision to pursue SOC2 compliance—a resource-intensive process that typic
 9. [Abbot — Release Notes (March 2023)](https://ab.bot/release-notes/)
 10. [Phil Haack — "Failure" (November 2023)](https://haacked.com/archive/2023/11/13/failure/)
 11. [Abbot — Home page (post-pivot product features)](https://ab.bot/home/)
-12. [Phil Haack — Blog (SOC2 compliance)](https://haacked.com/)31:T8aa,
+12. [Phil Haack — Blog (SOC2 compliance)](https://haacked.com/)32:T8aa,

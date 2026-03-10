@@ -10,6 +10,18 @@ The play: buyers submit preferences through conversational AI, dealers get 48 ho
 
 ## Why Now?
 
+The single most important change since CarWoo's 2014 failure is dealer consolidation. When CarWoo shut down, it had spent years and millions of dollars signing 11,000 individual franchise dealerships one at a time. Today, the top 10 dealer groups — AutoNation (~250 stores), Lithia Motors (~300+ stores), Sonic Automotive, Penske, and others — collectively control thousands of rooftops under unified procurement and technology decisions. A rebuilt CarWoo could negotiate a single master agreement with AutoNation and reach more dealers than CarWoo signed in three years of field sales. This structural shift alone changes the supply-side economics of the business.
+
+The second enabling change is conversational AI. Claude 3 Opus (March 2024) and GPT-4 (March 2023) can now handle the full buyer intake, preference qualification, and dealer briefing workflow asynchronously at near-zero marginal cost. CarWoo's original model required human-touch customer support to shepherd buyers through an unfamiliar auction mechanic. That cost is now effectively eliminated.
+
+On distribution, the Costco Auto Program currently serves over 1 million members annually and demonstrates that consumers will accept a structured, fee-embedded car-buying service inside a trusted membership relationship. A rebuilt CarWoo embedded in employer benefits platforms (e.g., Alight Solutions, which serves 70+ million employees) or credit union networks (Navy Federal, with 13 million members) could acquire buyers at a fraction of CarWoo's standalone CAC without charging a visible per-transaction fee.
+
+Real-time dealer inventory APIs from CDK Global and Reynolds & Reynolds — not available at CarWoo's scale in 2010–2014 — now allow automatic inventory and pricing verification, eliminating the operational complexity that forced CarWoo to drop entire vehicle segments like Ram trucks.
+
+TrueCar's documented dealer network defections in 2019–2020 (publicly reported by Automotive News) confirm the market has not been definitively solved. Dealer receptivity to alternatives is higher today than at any point since CarWoo's closure.
+
+---
+
 ## Current Market Analysis
 
 The U.S. new car market generated approximately $600 billion in retail sales in 2023 (Cox Automotive estimate), up from roughly $500 billion during CarWoo's operating years. The online automotive lead-generation and marketplace segment is harder to isolate precisely — exact 2026 figures are not available at time of writing — but Cox Automotive, which owns Autotrader and Kelley Blue Book, reported $2.8 billion in revenue in 2022, indicating the addressable intermediary market remains large.

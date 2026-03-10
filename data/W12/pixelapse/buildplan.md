@@ -2,6 +2,18 @@
 
 ## Overview
 
+The single most important change since Pixelapse's 2015 acquisition is the emergence of Figma's public REST API (launched 2021, expanded 2023), which exposes structured version data, component trees, and file history programmatically — eliminating the core technical barrier that consumed most of Pixelapse's engineering capacity. In 2013, Shravan Reddy described syncing large binary design files as "a tremendous problem." That problem is now largely solved by the platforms themselves.
+
+This architectural shift changes the entire build calculus. Where Pixelapse spent years reverse-engineering proprietary .psd and .ai binary formats to support 50 file types, a 2026 rebuild can query Figma's API for structured node data, version snapshots, and change events on day one. Adobe's Creative Cloud SDK and file format APIs — which did not exist in 2013 — similarly expose .psd and .ai metadata without requiring binary parsing. The multi-year engineering effort becomes a multi-week integration.
+
+The second critical enabler is GPT-4 Vision (March 2023) and Claude 3 Opus's vision capabilities (March 2024), which can now generate semantic changelogs from design diffs. Instead of showing designers two screenshots and asking them to spot differences, a 2026 rebuild can automatically produce human-readable summaries: "Primary CTA button color changed from #FF5733 to #CC4422; hero headline font weight reduced from 700 to 600; mobile breakpoint layout reordered." This was technically impossible in 2013 and directly addresses the annotation use case Pixelapse built manually.
+
+Market validation is no longer speculative. Figma reached a reported $10 billion valuation by 2021 before Adobe's blocked $20 billion acquisition attempt. Abstract raised $30 million before pivoting in 2022. The design collaboration category Pixelapse pioneered is proven at scale. The specific gap — intelligent version control for teams operating across Figma, Adobe Creative Cloud, and emerging tools like Framer — remains unoccupied by any dominant standalone player as of early 2026. Exact current market size data for the design version control subcategory is not publicly available, but the broader design software market was valued at approximately $15.1 billion in 2023 (Grand View Research; independent verification recommended).
+
+Distribution channels unavailable in 2013 now exist at scale: the Figma Community with 10 million+ users, the Figma Plugin Marketplace, and the Adobe Exchange marketplace provide direct access to the exact professional designer audience Pixelapse struggled to reach organically.
+
+---
+
 ## Why Now?
 
 ## Current Market Analysis

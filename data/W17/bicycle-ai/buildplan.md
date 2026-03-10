@@ -10,6 +10,14 @@ The go-to-market is direct sales to support leaders drowning in repetitive ticke
 
 ## Why Now?
 
+The single most important change since Bicycle AI's 2017 failure is the arrival of large language models capable of resolving Level 1 customer support tickets autonomously, without human supervision. GPT-4 (March 2023) and Claude 3 (March 2024) can parse ambiguous natural language, handle spelling errors, infer customer intent, and generate contextually appropriate responses across domains — precisely the capabilities that were absent in 2017's rule-based intent classifiers and retrieval rankers. Abhishek Nayak's own post-mortem was blunt: "the AI didn't work that well." That specific problem is now solved for the majority of Level 1 use cases.
+
+Three additional technical shifts compound this advantage. First, Retrieval-Augmented Generation (RAG) architectures — commercially mature since 2023 — allow a support AI to be grounded in a company's specific help docs, past tickets, and product knowledge base with minimal labeled training data per client. This directly eliminates the domain-specific data acquisition problem that made each new Bicycle AI client expensive to onboard. Second, LLM inference costs have fallen approximately 100x between 2020 and 2024 (per publicly available OpenAI pricing history), making per-ticket economics viable at SMB price points. Third, open-source models including Llama 3 (April 2024) and Mistral (September 2023) enable self-hosted deployments for cost-sensitive or data-sensitive clients.
+
+On the distribution side, the Shopify App Store (2M+ merchants as of 2024, per Shopify investor reports) and Intercom's App Store provide direct access to high-ticket-volume SMBs without enterprise sales cycles. Gartner projects that by 2027, chatbots will serve as the primary support channel for roughly 25% of organizations — a demand signal that did not exist in 2017.
+
+---
+
 ## Current Market Analysis
 
 The AI customer support automation market has grown from a nascent, venture-speculative category in 2017 into a validated, multi-billion dollar segment. The global customer service software market was valued at approximately $11.5 billion in 2023 (Grand View Research) and is projected to reach $32.9 billion by 2030. The AI-specific subsegment — negligible in 2017 — is now the primary growth driver. Bicycle AI's original market thesis has been confirmed by capital allocation: Intercom raised $240M+ total, Zendesk was taken private at $10.2B in 2022, and Forethought raised $65M specifically for AI support automation.
@@ -48,3 +56,11 @@ A weekly digest surfaces resolution rate, escalation rate, customer satisfaction
 ---
 
 ## Go-to-Market Strategy
+
+**Target customer segment:** E-commerce and SaaS companies with 10–200 employees, $1M–$20M ARR, currently using Zendesk, Freshdesk, or Intercom, receiving 500–5,000 support tickets per month, and lacking a dedicated support operations team. This is the exact profile Bicycle AI targeted — growing companies where ticket volume is outpacing headcount — but now narrow enough to generate referrals within a single community.
+
+**Primary distribution channel:** Shopify App Store (2M+ merchants) for e-commerce; Product Hunt and the Intercom App Store for SaaS. Initial traction via direct outreach to Shopify merchants in the 50–500 employee band, using publicly available Shopify partner data. Secondary channel: partnerships with Shopify Plus agencies who manage support operations for mid-market merchants.
+
+**Pricing strategy:** $499/month for up to 2,000 tickets, $0.15 per ticket above threshold. This is a managed-service price point — higher than self-serve chatbot tools (Tidio starts at $29/month) but justified by zero-setup, ongoing monitoring, and the managed-service wrapper that SMBs cannot replicate internally. Pricing is grounded in the BPO displacement logic: a 500-ticket/month client paying a human agent $15/hour to handle 2-minute tickets spends approximately $2,500/month; $499 is an 80% cost reduction with 24/7 availability.
+
+**Differentiation vs. 2026 competitors:** Every major competitor — Intercom Fin, Zendesk AI, Forethought — sells software that clients must configure, monitor, and maintain. The rebuild positions as the only fully managed AI support service for SMBs: we handle setup, RAG maintenance, quality monitoring, and escalation tuning. The client's only job is to answer escalations. This is Bicycle AI's original managed-service insight, now executable because the AI handles the volume that made the original model unprofitable.

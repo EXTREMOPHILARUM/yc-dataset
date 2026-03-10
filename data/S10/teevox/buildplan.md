@@ -10,6 +10,20 @@ The go-to-market is direct: launch on Reddit's eSports communities and Discord s
 
 ## Why Now?
 
+The single most important change since Teevox's 2012 failure is the scale of the eSports and live-streaming audience. The market Teevox needed simply did not exist when it operated. The global eSports viewership base has grown from approximately 15 million monthly viewers in 2011 (per founder Jong-Moon Kim's own account) to over 200 million by 2016, and Newzoo's estimates place the broader live-streaming audience — including variety and IRL content on Twitch — well above 700 million monthly viewers by the mid-2020s, though precise 2026 figures are not available in the research record. The demand-side risk that killed the original company has been eliminated.
+
+Three additional structural changes make 2026 materially different from 2012:
+
+**Infrastructure costs have collapsed.** The "hemorrhaging money" problem Kim cited was fundamentally a bandwidth and CDN cost problem. Cloudflare's R2 and Stream products (launched 2022), combined with Fastly's edge delivery network, have reduced multi-stream video delivery costs by an order of magnitude compared to 2012 infrastructure. A rebuilt Teevox no longer faces the same unit economics death spiral.
+
+**The Twitch API is now stable and mature.** Twitch's 2014 acquisition by Amazon for $970 million produced a well-documented, SLA-backed API with OAuth authentication, stream metadata endpoints, and affiliate revenue hooks. The platform fragility risk of building on early Twitch is gone.
+
+**Co-streaming culture is now mainstream.** Major tournaments — League of Legends Worlds, Valorant Champions, The International — routinely feature dozens of streamers broadcasting simultaneous POV feeds of the same event. This behavior did not exist at scale in 2011. It creates a new, high-frequency use case for multi-stream viewing that is structurally different from the original StarCraft tournament use case and generates recurring daily demand rather than seasonal spikes.
+
+**Distribution channels now available:** Twitch's own discovery surface (35M+ daily active users per Twitch's 2023 public disclosures), Reddit communities including r/leagueoflegends (6M+ members) and r/GlobalOffensive (1.5M+ members), and direct integration with Discord servers used by tournament organizers.
+
+---
+
 ## Current Market Analysis
 
 **Market size:** The live-streaming viewing market is orders of magnitude larger than in 2011–2012. Twitch alone reported over 35 million daily active users in 2023 (Twitch public disclosures). Precise 2026 figures are not available in the research record, but the directional trend is unambiguous. The eSports-specific segment — Teevox's core audience — is a meaningful subset of this base.

@@ -10,6 +10,16 @@ The rebuild launches under an existing regional accreditor's partnership (not ch
 
 ## Why Now?
 
+The single most important change since Make School's 2021 collapse is regulatory clarity on income share agreements. In 2021, the CFPB formally classified ISAs as credit products subject to Truth in Lending Act disclosures, and multiple states have since passed ISA-specific consumer protection legislation. This eliminates the legal ambiguity that allowed Make School's ISA structure—engineered with Vemo Education—to generate obligations the Student Borrower Protection Center documented at up to $250,000 per student. A rebuilt program can now deploy a compliant, capped ISA modeled on Purdue University's Back a Boiler program, which caps total repayment at 2.5x the funded amount, making the liability ceiling transparent and legally defensible before a single student enrolls.
+
+Three additional structural shifts compound this regulatory opening. First, LLM-based instruction tools—specifically GPT-4 (March 2023) and Claude 3 (March 2024)—enable adaptive, project-based CS curriculum delivery at near-zero marginal cost per student. Make School's unit economics required ISA amounts large enough to cover expensive human instruction at scale; that constraint is now substantially reduced. Second, GitHub Copilot (launched October 2021) and Replit's AI-assisted IDE (2023) have compressed the time required to produce working software projects, accelerating project-based learning outcomes that were Make School's core pedagogical differentiator. Third, the remote-first hiring market validated by COVID-19 eliminates the need for a San Francisco campus—the physical infrastructure that consumed a significant portion of Make School's $30M raise (exact allocation not publicly disclosed).
+
+On distribution: employer-sponsored education pipelines have matured into proven channels. Amazon Career Choice, Google Career Certificates, and Salesforce Trailhead now represent documented employer co-investment models. A rebuilt program can structure direct employer partnerships that reduce or eliminate student financial obligation, removing predatory lending risk at the structural level rather than patching it contractually.
+
+The U.S. coding bootcamp market reached approximately $1.4 billion in 2023 (Coursera Industry Report 2024; exact figure should be independently verified), with demand for credentialed, job-linked CS education continuing to outpace supply from traditional universities.
+
+---
+
 ## Current Market Analysis
 
 The alternative CS education market has grown substantially since Make School operated. U.S. coding bootcamp enrollment was approximately 23,000 students annually in 2019 (the last pre-COVID benchmark from industry surveys); post-pandemic figures are not independently verified in the research provided, but adjacent signals—including a 25% year-over-year increase in online CS enrollment reported by NCES through 2022—suggest continued expansion. The specific TAM for accredited two-year applied CS degrees remains unquantified in public data; this is a gap a rebuild team should validate before Series A.

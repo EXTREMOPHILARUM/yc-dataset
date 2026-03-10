@@ -2,6 +2,18 @@
 
 ## Overview
 
+The single most important change since Nophin's failure is the arrival of reliable, cheap long-document parsing via large language models — specifically GPT-4 (March 2023) and Claude 3.5 Sonnet (June 2024). This is not a general "AI got better" observation. It is a precise infrastructure unlock for the exact technical bottleneck that killed Cresa.
+
+In 2022, parsing a 60-page offering memorandum or a broker-formatted rent roll required either fine-tuned NLP models trained on domain-specific CRE documents — expensive to build, brittle when document formats varied across brokers — or rule-based extraction logic that broke on any deviation from expected structure. Nophin hired a specialized ML engineer formerly at Kensho/S&P Global just to attempt this. The product was still unreliable. Today, GPT-4o with a structured output prompt and a PDF-to-text pipeline extracts cap rates, NOI, price per unit, occupancy, and debt service coverage from an OM in seconds, with accuracy sufficient for screening-level decisions. The marginal cost per document is fractions of a cent. The engineering time to build this pipeline is days, not months.
+
+The second critical change is market conditions. The post-2022 CRE dislocation — rising interest rates, compressed debt availability, distressed multifamily assets coming to market from forced sellers — has simultaneously increased the volume of deals acquisition teams must screen and reduced the analyst headcount firms are willing to carry. According to MSCI Real Assets (data cited in industry press; specific 2025 figure not independently verified here), transaction volume in multifamily has begun recovering from 2023 lows, with more distressed and value-add deals entering the market. Acquisition teams that previously screened 20 deals per month to find one worth pursuing are now screening 40–60. The ROI case for automated screening — which Nophin struggled to prove in a low-volume 2022 environment — is now self-evident to buyers.
+
+Third, the tooling ecosystem has matured. LangChain, LlamaIndex, and the OpenAI Assistants API (launched November 2023) provide off-the-shelf RAG infrastructure for document Q&A. Excel's Python integration (launched 2023) and the Google Sheets API make reliable model sync buildable in days. Time-to-MVP has compressed from months to weeks, meaning a two-person founding team can reach a testable product before burning meaningful capital.
+
+Distribution channels that did not exist or were immature in 2022 now include the NMHC (National Multifamily Housing Council) digital community, LinkedIn Sales Navigator targeting CRE acquisition titles, and the GP/syndicator networks on platforms like Juniper Square and Covercy, which have established software-buying behavior among exactly the target customer.
+
+---
+
 ## Why Now?
 
 ## Current Market Analysis

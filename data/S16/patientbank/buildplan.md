@@ -10,6 +10,20 @@ The go-to-market is vertical and immediate. Law firms lose thousands per case wa
 
 ## Why Now?
 
+The single most important change since PatientBank's 2018 failure is the enforcement of the 21st Century Cures Act's information-blocking rules (effective April 2021), which legally mandate that healthcare providers expose patient data via standardized FHIR/HL7 APIs. This regulatory shift eliminates the fax-and-mail operational bottleneck that made PatientBank's per-transaction costs structurally unsustainable. The company that needed a physical fax machine and a 2.5-million-contact database to retrieve records can now be rebuilt as a pure software integration layer over mandated infrastructure.
+
+Three additional infrastructure shifts compound this opportunity:
+
+**API network coverage is now substantial.** The CMS Interoperability and Patient Access Final Rule (2020) requires Medicare and Medicaid payers to expose patient data via FHIR APIs, meaning insurance claims data — a reliable proxy for complete medical history — is programmatically accessible without hospital-by-hospital outreach. CommonWell Health Alliance and Carequality now connect thousands of U.S. health systems for electronic record exchange; a rebuilt PatientBank can join these networks as a participant rather than routing fax requests.
+
+**Consumer behavior has been validated.** Apple Health Records (launched 2018, expanded through 2023) and CommonHealth (Android) have established that patients will aggregate medical records via FHIR APIs. PatientBank assumed this behavior in 2016; it now exists at scale.
+
+**LLM-based document processing has matured.** GPT-4 (March 2023) and Claude 3 (March 2024) can extract structured clinical data — diagnoses, medications, lab values, dates — from unstructured PDF medical records with high accuracy. Manual curation that would have required expensive human labor in 2017 is now automatable.
+
+The U.S. telehealth market grew from approximately $2B (2019) to approximately $28B (2023), per publicly cited industry estimates, normalizing digital health record management as a patient expectation rather than a novelty.
+
+---
+
 ## Current Market Analysis
 
 **Market size:** The U.S. medical records retrieval and management market was nascent and difficult to size discretely when PatientBank operated. The broader health information management market is estimated at approximately $33B globally in 2024 (source: Grand View Research — specific PatientBank-era comparison figure not available in the research report). The personal injury legal market alone — one of the highest-value B2B segments for medical records retrieval — processes hundreds of thousands of cases annually, with attorneys routinely paying $50–$200+ per record retrieval. Exact aggregate spend figures are not publicly documented.
@@ -28,6 +42,16 @@ The go-to-market is vertical and immediate. Law firms lose thousands per case wa
 ## Recommended MVP
 
 ## Core Features:
+
+**1. FHIR API-native record aggregation.** Connects to CommonWell, Carequality, and CMS payer APIs to pull structured patient records electronically, without fax or mail. This replaces PatientBank's entire operational infrastructure — the 2.5M contact database, the fax machine, the manual follow-up workflow — with software integrations. The original PatientBank absorbed analog costs linearly with volume; this version does not.
+
+**2. LLM-powered record structuring and summarization.** Uses GPT-4o (May 2024) or Claude 3.5 (June 2024) to extract and normalize clinical data — diagnoses, medications, procedures, lab values, dates of service — from ingested records, including legacy PDFs from providers not yet on FHIR networks. Outputs a structured, searchable longitudinal record. PatientBank stored documents but could not make them queryable without expensive manual curation; this feature makes the stored record the core value asset.
+
+**3. Attorney/adjuster request portal with bulk ordering and status tracking.** A B2B workflow layer that allows personal injury law firms, life insurance underwriters, and disability claims adjusters to submit, track, and receive structured record packages at scale. Includes HIPAA-compliant patient authorization collection via e-signature. PatientBank built consumer authorization flows; this repurposes that infrastructure for institutional buyers with high willingness to pay and recurring volume.
+
+**4. Residual fax/mail fallback with cost transparency.** For the minority of providers not yet reachable via FHIR networks, the system routes requests through automated fax (via eFax or similar API) and flags estimated fulfillment time and cost to the requesting party. This is not the primary workflow — it is an explicit fallback with visible unit economics, not a hidden operational cost.
+
+**What we will NOT build:** Consumer-facing per-record fee product. Patient-owned personal health record vault as a primary use case. Hospital scorecard or content marketing infrastructure. Native mobile app in the MVP phase.
 
 ## Success metrics:
 

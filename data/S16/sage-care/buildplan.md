@@ -10,6 +10,16 @@ The go-to-market angle sidesteps Sage Care's original trap: don't recruit caregi
 
 ## Why Now?
 
+The single most important change since Sage Care's 2017 failure is the arrival of large language models capable of handling genuinely open-ended, conversational care coordination at production quality. Sage Care's pivoted SMS product was almost certainly powered by brittle, rule-based natural language parsing—a system that worked when families typed predictably and broke when they didn't. That fragility was a silent trust killer: a family texting "Mom had a rough night, can we get someone earlier Thursday and maybe check her medications?" would have received a confused or failed response, eroding exactly the confidence a new marketplace needed to build. GPT-4 (March 2023) and its successors handle that sentence fluently, extract intent, manage ambiguity conversationally, and confirm back in plain language. The coordination loop Sage Care envisioned now actually works.
+
+The engineering cost of building the messaging layer has also collapsed. Twilio's Conversations API and the WhatsApp Business Platform (both substantially matured by 2024) reduce what was months of custom SMS infrastructure work in 2016 to days of integration today. HIPAA-compliant messaging infrastructure—TigerConnect, Klara, AWS HealthLake—now exists as off-the-shelf tooling, removing a regulatory and engineering barrier that a 2016 startup would have had to build or navigate manually.
+
+On the supply side, Clipboard Health and CareRev have built large credentialed networks of home health aides accessible via API, meaning a rebuild does not need to construct caregiver supply from scratch—the hardest part of the original two-sided marketplace problem.
+
+Market tailwinds have also strengthened materially. The U.S. 65+ population is projected to reach 73 million by 2030 (U.S. Census Bureau), up from approximately 49 million in 2016. Honor's acquisition by Home Instead in 2021 and Papa's growth have since validated that technology-mediated home care coordination is a real, fundable market—a thesis Sage Care was betting on without proof. Finally, YC's standard seed check has grown from $125,000 (2016) to $500,000+ (2023), providing 4x the runway to survive the long trust-building sales cycles that structurally killed the original company.
+
+---
+
 ## Current Market Analysis
 
 The U.S. home care services market was estimated at approximately $100 billion annually in the mid-2010s. Current market size figures vary by source and definition; the home health and personal care segment is broadly cited as exceeding $130–150 billion by the early 2020s, though the rebuild team should independently verify current figures before fundraising. The demographic driver is unambiguous: 10,000 Baby Boomers turn 65 every day through 2030 (Pew Research Center), and the adult children managing their care represent a growing, time-pressed, digitally fluent customer base with rising willingness to pay for coordination relief.

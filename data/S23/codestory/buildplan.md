@@ -10,6 +10,14 @@ Go-to-market targets mid-market compliance teams directly: engineering leaders a
 
 ## Why Now?
 
+The single most important change since CodeStory's failure is the collapse of inference costs for frontier-grade coding models. When CodeStory was running Claude Sonnet 3.5 and GPT-4o to achieve its SWE-Bench results in mid-2024, API costs were a structural constraint on unit economics for a $500K-funded company. By 2026, open-source models like DeepSeek-V3 (released December 2024) and Llama 3.1 405B (released July 2024) deliver coding performance approaching those frontier models at roughly 90% lower inference cost, according to publicly available pricing comparisons. This single shift transforms the business model viability of a privacy-first, locally-executed agentic IDE from "capital-intensive moonshot" to "defensible niche product."
+
+The second critical change is hardware. CodeStory's Rust-based "Sidecar" local architecture was technically sound but practically limited by what consumer hardware could run in 2023–2024. By 2026, Ollama (released 2023, widely adopted by 2025) enables Qwen2.5-Coder and Llama 3.1 models to run on MacBook Pro M-series chips with acceptable latency for agentic tasks. The privacy-first architecture CodeStory pioneered is now cheap to build and genuinely performant.
+
+Third, the distribution landscape has clarified. Cursor's $9 billion Series B valuation (2025, exact source unconfirmed) and GitHub Copilot's reported 1.3 million paid subscribers (early 2024, GitHub) have validated that developers pay for AI coding tools — but both products send code to cloud APIs by default. This creates a specific, underserved segment: enterprise and regulated-industry developers who cannot use cloud-dependent tools due to compliance requirements. The VSCode Marketplace (with 50M+ VS Code users, per Microsoft's 2023 developer survey) provides a distribution channel CodeStory never fully exploited before shutdown.
+
+---
+
 ## Current Market Analysis
 
 The AI coding tools market has grown substantially since CodeStory operated. GitHub Copilot reported 1.3 million paid subscribers in early 2024; current figures are not publicly confirmed but are widely estimated to be significantly higher. Cursor's valuation trajectory — $400M Series A (August 2024) to a reported $9B Series B (2025) — signals a market expanding faster than most enterprise SaaS categories. The broader developer tools market size in 2026 is not independently confirmed in the research report, so specific TAM figures are omitted here.

@@ -10,6 +10,18 @@ This is the B2B version of the original insight—the paperwork is solvable—ai
 
 ## Why Now?
 
+The single most important change since SimpleCitizen's failure is this: **the correct B2B customer has been publicly identified, and they have already proven they will pay.** Fragomen's 2020 acquisition of SimpleCitizen was not a distressed exit — it was a strategic purchase by the world's largest immigration law firm to compete against Big 4 accounting firms encroaching on immigration services. That acquisition is a public proof-of-concept that immigration workflow technology has a willing, paying buyer in law firms themselves. A rebuilt SimpleCitizen can skip the five-year detour of trying to displace attorneys and go directly to selling to them.
+
+The second structural unlock is LLM-based document understanding. GPT-4 (March 2023) and Claude 3 Opus (March 2024) can now parse unstructured immigration documents — foreign-language birth certificates, passports, employment records — with high accuracy. SimpleCitizen's original workflow required routing every application through a single attorney partnership (Jacob Sapochnick's firm) for document review, which constrained throughput and compressed margins. That bottleneck is now automatable, enabling a rebuilt product to process dramatically more cases per attorney hour.
+
+The market context has also shifted materially. The H-1B visa denial rate rose from 6% in FY2015 to 24% in FY2018 (USCIS data), creating sustained employer demand for error-reduction tools that did not exist at SimpleCitizen's B2B launch in 2017. Remote work normalization post-2020 has expanded the pool of US companies hiring internationally — Deel, Remote.com, and Rippling have collectively raised over $1.5B validating that employers will pay for global employment infrastructure at scale (exact current market size for immigration legal tech in 2026 is not available in the research report; independent verification recommended).
+
+USCIS's expanded e-filing via myUSCIS, now covering more form types than during SimpleCitizen's operating years, creates a direct API integration opportunity that did not exist in 2015–2020. A rebuilt product can submit applications programmatically rather than generating paper packets for attorney review — eliminating the single most time-consuming step in the original workflow.
+
+Distribution channels unavailable to the original SimpleCitizen now include: Rippling's App Shop (HR/payroll platform with built-in immigration module demand), Greenhouse's integration marketplace (ATS used by 7,500+ companies), and Workday's partner ecosystem — all of which sit directly inside the HR workflows where visa sponsorship decisions are made.
+
+---
+
 ## Current Market Analysis
 
 **Market size:** The US immigration legal services market was estimated at approximately $8.5B in 2020 (IBISWorld, cited in adjacent research — exact 2026 figure not available in the research report). The employer-sponsored segment, where SimpleCitizen was pivoting at acquisition, has grown structurally since 2020 due to remote hiring normalization. Deel alone reported $500M+ ARR in 2023 serving global employment, validating the employer willingness-to-pay thesis at scale.

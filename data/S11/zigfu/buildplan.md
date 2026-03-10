@@ -10,6 +10,20 @@ The go-to-market is ruthlessly focused: launch on the Unity Asset Store immediat
 
 ## Why Now?
 
+The single most important change since Zigfu's 2012 failure is the elimination of its core platform risk. Zigfu's entire product depended on Microsoft Kinect hardware, PrimeSense NITE middleware, and the OpenNI framework — all controlled by third parties. PrimeSense's 2013 acquisition by Apple killed OpenNI entirely, which would have destroyed Zigfu's product even if the company had survived its fundraising crisis. In 2026, that risk structure no longer exists.
+
+Apple Vision Pro (launched February 2024) and Meta Quest 3 (launched October 2023) ship hand tracking at the OS level, built directly into visionOS and Meta's Presence Platform respectively. A rebuilt Zigfu building on these platforms has Apple and Meta as distribution infrastructure, not dependency risks. The hardware manufacturers are now incentivized to keep developer tooling alive — the opposite of the Kinect situation.
+
+Critically, dedicated depth sensors are no longer required at all. MediaPipe (Google, open-sourced 2019) and Apple's ARKit hand tracking deliver production-grade skeleton and hand tracking on commodity hardware — smartphones, laptops, standard webcams. The original Zigfu required developers to own a $150 Kinect peripheral with a small installed base. A rebuilt Zigfu targets the 3B+ smartphone install base.
+
+Distribution has also transformed. Unity's Asset Store generated over $200M in annual developer revenue as of 2023, with 1.5M+ monthly active creators — validating the exact $200/seat SDK model Zigfu launched in March 2012, too late and too underfunded to exploit. The Shopify App Store analogy applies directly: a gesture SDK listed on Unity's Asset Store today reaches a pre-qualified, paying developer audience that simply did not exist at scale in 2012.
+
+WebXR (W3C standard, ratified 2019) replaces Zigfu's browser plugin architecture entirely, enabling zero-install gesture-controlled web experiences in any compatible browser — eliminating the adoption friction that limited ZigJS.
+
+The investor landscape has shifted structurally. Andreessen Horowitz's a16z Games fund (launched 2022, $600M) and dedicated XR investment theses at Benchmark, Khosla, and others mean the "doesn't fit VC pattern-matching" problem Hirsch identified as a core fundraising obstacle is materially reduced for a spatial computing developer tools company with traction.
+
+---
+
 ## Current Market Analysis
 
 ## Market Size

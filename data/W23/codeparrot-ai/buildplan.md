@@ -10,6 +10,20 @@ Go-to-market is direct: $49/month per developer seat, no free tier, sold through
 
 ## Why Now?
 
+The single most important change since CodeParrot's failure is the arrival of the Model Context Protocol (MCP), combined with IDE-native agent frameworks like Cursor and GitHub Copilot Workspace, which together eliminate the custom engineering burden that was CodeParrot's most expensive and fragile differentiator.
+
+In 2023–2024, CodeParrot had to build bespoke "codebase awareness" infrastructure from scratch — static analysis pipelines that attempted to infer a project's component library, theming system, and coding conventions before passing that context to an LLM. This was technically difficult, brittle across heterogeneous codebases, and required significant ongoing maintenance. It was the gap between the demo and production reality that collapsed the ROI case for paying customers.
+
+MCP, standardized in late 2024 and now natively supported in Cursor, Windsurf, and GitHub Copilot Workspace, allows tools to expose a developer's live repository context — including component trees, design tokens, and import graphs — directly to the LLM at inference time, without custom engineering per codebase. A rebuild can consume this infrastructure rather than rebuild it.
+
+Two additional structural changes compound this advantage. First, Figma's Dev Mode API (expanded 2024) now exposes structured design tokens, component metadata, and variable bindings programmatically, replacing screenshot parsing with structured data ingestion. Second, LLM API costs have dropped approximately 100x: GPT-4o input tokens cost roughly $2.50 per million tokens in mid-2025 versus approximately $30 per million for GPT-4 at launch in 2023 (OpenAI pricing pages). This makes per-conversion AI calls economically viable at revenue scales far below CodeParrot's $1,500 MRR ceiling.
+
+Finally, design system adoption has accelerated materially. Figma's 2024 State of Design Systems report found that over 60% of enterprise product teams now use a formal design system — a larger and more homogeneous addressable market than existed when CodeParrot operated.
+
+Distribution is also solved differently now. The Figma Plugin Marketplace hosts over 1,000 plugins with millions of installs, providing a native discovery channel CodeParrot never accessed.
+
+---
+
 ## Current Market Analysis
 
 **Market Size:** The AI developer tools market was already large during CodeParrot's operating period, but precise figures for the Figma-to-code niche specifically are not publicly available. The broader AI coding assistant market is estimated to exceed $10 billion annually by 2026 (exact figure unavailable; treat as directional). What is confirmed: Vercel v0's strong consumer adoption since late 2023 has validated willingness to pay for AI-generated UI code, and GitHub Copilot surpassed 1.8 million paid subscribers by early 2024 (GitHub blog, February 2024), establishing a baseline expectation for AI coding tools in professional workflows.

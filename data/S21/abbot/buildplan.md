@@ -12,6 +12,18 @@ The rebuild thesis is simple: the market Abbot identified is real and larger tha
 
 ## The single most important change: LLMs have automated the core product.
 
+When Abbot added AI summaries in March 2023, it was a late-stage feature bolted onto a manually-configured product. In 2026, GPT-4o (May 2024) and Claude 3.5 Sonnet (June 2024) can read an entire Slack Connect channel history, identify the open question, draft a contextually appropriate response, flag the sentiment trend, and surface the at-risk account — without a human writing a single playbook rule. The engineering complexity that required a five-person team to build Abbot's monitoring and playbook layer is now a prompt chain. This is not incremental improvement; it collapses the build cost of the core product by an order of magnitude and eliminates the "skill-writing" abstraction that made Phase 1 unsellable.
+
+**Slack Connect adoption has crossed the mainstream threshold.** Slack reported over 900,000 organizations using Slack Connect as of 2023 (Salesforce earnings, February 2023). The specific workflow Abbot targeted — managing dozens of customer channels simultaneously — is now a standard motion at B2B SaaS companies of all sizes, not an edge case practiced by early adopters. The addressable market of teams with this problem is materially larger than it was in 2021, though precise current figures are not publicly available.
+
+**The competitive landscape has clarified.** Thena and Pylon — the most likely candidates for the unnamed competitor Haack referenced — have both raised disclosed funding rounds (Thena raised a $5M seed in 2023; Pylon raised $17M Series A in 2024, per Crunchbase). Their fundraising validates the market. Their enterprise positioning creates a gap at the lower end.
+
+**Distribution infrastructure has improved.** The Slack App Directory now lists over 2,600 apps, with a structured discovery surface for CS and support tooling. Slack's Bolt SDK (Node.js and Python) reached stable maturity in 2022, eliminating the Bot Framework dependency trap that cost Abbot a full refactoring cycle mid-pivot.
+
+**SOC2 compliance via Vanta or Drata now takes 4–8 weeks** versus the 6–12 month manual process Abbot navigated. For a small team, this removes the single largest operational overhead that competed with product development for engineering attention.
+
+---
+
 ## Current Market Analysis
 
 **Market size.** The broader customer success software market was valued at approximately $1.9 billion in 2023 and is projected to reach $3.1 billion by 2028 (MarketsandMarkets, 2023). The Slack-native CS sub-segment — tools purpose-built for shared channel workflows rather than traditional ticketing — is not separately sized in public research, but Pylon's $17M Series A (2024) implies investors believe it is large enough to support a standalone category leader. Compared to 2021, when Slack Connect was nascent and the workflow problem was theoretical for most buyers, the sub-market is meaningfully larger today.

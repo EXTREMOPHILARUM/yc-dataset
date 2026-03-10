@@ -2,6 +2,16 @@
 
 ## Overview
 
+Atomized was a platform-as-a-service (PaaS) startup that operated from 2019 to January 2022, built to let developers deploy application infrastructure on AWS without needing dedicated cloud expertise. Founded by Nik Kotov — a Russian immigrant and Forbes 30 Under 30 honoree — and CTO Eddie Herbert, the company went through Y Combinator's Summer 2020 batch and raised a $500K pre-seed from Zing Capital, YC, and angels. The product connected a developer's GitHub repository and AWS account to automate infrastructure provisioning, running workloads inside the customer's own cloud environment rather than a shared black-box provider.
+
+Atomized failed primarily because of self-inflicted execution dysfunction. The founding team over-engineered the product to the point of accumulating over seven million lines of code on a two-person pre-seed budget, burning runway on perfectionism and scope creep rather than shipping and selling. A $500K raise left almost no margin for that kind of error.
+
+The company shut down in January 2022, roughly eight months after its public launch and pre-seed announcement. No acquisition occurred. Kotov published a candid post-mortem in April 2022 and subsequently pivoted to startup advisory and angel investing, founding Alderlake Capital. The failure left no public record of what happened to Herbert or to the technology itself.
+
+<report-gallery>
+<media-image src="https://famouswiki.net/wp-content/uploads/2023/11/Nik-Kotov.jpg" alt="Nik Kotov, founder and CEO of Atomized" caption="Nik Kotov, the Russian-born founder who entered YC S20 as a solo founder with a compliance tool called Frontline — and exited with a post-mortem about seven million lines of code."></media-image>
+</report-gallery>
+
 ## Founding Story
 
 Nik Kotov's path to Atomized began with a different company entirely. In 2019, he started building Frontline, a compliance infrastructure tool designed to help enterprises deploy secure, compliant cloud environments on AWS. <sup><a href="https://nkotov.com/works/atomized">[1]</a></sup> Kotov entered Y Combinator's Summer 2020 batch as a solo founder with Frontline — an unusual position in a program that typically favors co-founding teams. <sup><a href="https://techcrunch.com/2021/05/12/atomized-lands-500k-pre-seed-to-help-developers-deploy-infrastructure-faster/">[2]</a></sup>
@@ -84,9 +94,43 @@ At the time of the pre-seed announcement in May 2021, Atomized had 60 beta custo
 
 The figure is modest but real — 60 teams had connected their GitHub repositories and AWS accounts and were actively using the product. However, the announcement did not specify how many of these were paying customers versus free-tier users, what the conversion rate from beta signup to active deployment was, or what retention looked like. For a PaaS product, the critical metric is not signups but active deployments and monthly active infrastructure — neither of which was disclosed.
 
-The gap between the May 2021 launch and the January 2022 shutdown — eight months — with no further traction announcements suggests the 60 beta customers did not compound into a growth story that could support a seed round. Companies that are growing in this space typically announce milestones publicly; Atomized's silence after the pre-seed announcement is consistent with stagnation, though it cannot be confirmed from public data alone.2f:T176f,
+The gap between the May 2021 launch and the January 2022 shutdown — eight months — with no further traction announcements suggests the 60 beta customers did not compound into a growth story that could support a seed round. Companies that are growing in this space typically announce milestones publicly; Atomized's silence after the pre-seed announcement is consistent with stagnation, though it cannot be confirmed from public data alone.30:T176f,
 
 ## Post-Mortem
+
+### Primary Cause: Over-Engineering Consumed the Runway
+
+The most concrete and damning evidence of Atomized's failure is a single number: seven million lines of code. <sup><a href="https://medium.com/@nkotov/why-my-first-yc-backed-startup-failed-b1fe1fc7232b">[13]</a></sup> For context, the Linux kernel — one of the most complex software projects in history — contains approximately 27 million lines of code maintained by thousands of contributors over decades. Atomized accumulated seven million lines with a two-person founding team on a $500K pre-seed budget, in roughly 15 months of active development.
+
+Kotov acknowledged this directly in his post-mortem: the team built custom modules where standard libraries existed, repeatedly delayed launches because the product was not yet "perfect," and never established a shared definition of what "done" meant. <sup><a href="https://medium.com/@nkotov/why-my-first-yc-backed-startup-failed-b1fe1fc7232b">[22]</a></sup> The result was a codebase of extraordinary complexity that could not be shipped, maintained, or iterated on at the speed the market required.
+
+The attempted remedy — continuing to build — was itself the problem. There is no evidence the team recognized the scope creep early enough to course-correct. By the time the shutdown decision was made in January 2022, the codebase had become a liability rather than an asset.
+
+### Secondary Cause: Founder Preferences Over Customer Value
+
+Kotov was candid about a specific failure mode that compounded the over-engineering problem: engineering time was directed by his personal aesthetic preferences rather than by customer demand. He acknowledged spending significant cycles on a complete platform redesign and on making the product "look perfect." <sup><a href="https://medium.com/@nkotov/why-my-first-yc-backed-startup-failed-b1fe1fc7232b">[23]</a></sup>
+
+This is a recognizable failure pattern for technically skilled founders who come from engineering backgrounds: the product becomes a craft project rather than a commercial one. The distinction matters because craft optimization and commercial optimization point in different directions. A customer who needs to deploy a container to AWS does not care whether the underlying codebase is elegant; they care whether it works, costs less than Heroku, and does not require an AWS certification to operate. Kotov's own stated lesson captures this: "Use standard libraries to cut down on time spent. Don't re-invent the wheel because some of the features you built will end up being tossed later. If you're building a software product, aim for simplicity on the UX/UI levels and at the code level." <sup><a href="https://medium.com/@nkotov/why-my-first-yc-backed-startup-failed-b1fe1fc7232b">[24]</a></sup>
+
+### Tertiary Cause: The Pre-Seed Funding Left No Margin for Error
+
+$500K is a thin pre-seed for an infrastructure product. <sup><a href="https://techcrunch.com/2021/05/12/atomized-lands-500k-pre-seed-to-help-developers-deploy-infrastructure-faster/">[11]</a></sup> Infrastructure products are expensive to build — they require deep technical work, extensive testing, and significant iteration before they are reliable enough for production workloads. Competitors like Render were operating with 20–60x more capital during the same period.
+
+With a four-person team and $500K, Atomized had approximately 12–18 months of runway at typical Charlotte-market burn rates (inferred, not confirmed). That window was not long enough to absorb the execution inefficiencies described above. A better-funded team might have survived the over-engineering phase and still had runway to course-correct. Atomized did not.
+
+The absence of any disclosed seed round attempt is notable. Either the team chose not to raise further — perhaps recognizing the metrics were insufficient — or they attempted to raise and were rejected. Either outcome points to the same conclusion: the pre-seed metrics did not support a follow-on investment.
+
+### Structural Cause: The Category Was Being Absorbed by the Platform
+
+Beyond Atomized's specific execution failures, the PaaS-for-developers category faced a structural headwind that would have challenged any independent player: AWS was building the same product natively.
+
+AWS Amplify expanded its deployment capabilities throughout 2021, adding support for more frameworks, more deployment patterns, and tighter integration with other AWS services. For a developer already using AWS — which was Atomized's entire target market — Amplify offered a comparable abstraction layer with zero additional vendor relationship, zero additional billing, and the full weight of AWS's documentation, support, and ecosystem behind it.
+
+Independent PaaS companies can survive this dynamic in one of two ways: by offering meaningfully better developer experience (which requires fast iteration and strong product velocity — exactly what Atomized lacked), or by targeting a customer segment that AWS does not serve well (which typically means enterprise complexity or multi-cloud requirements). Atomized's architecture — customer-owned AWS accounts, no Kubernetes — was a reasonable attempt at the second strategy, but the product was not shipped and iterated fast enough to establish a defensible position before AWS closed the gap.
+
+### Possible Contributing Factor: Co-Founder Instability
+
+One low-confidence data point deserves mention without overstatement. Professional database records suggest Eddie Herbert's tenure as co-founder ended in 2021 — the same year he joined. <sup><a href="https://rocketreach.co/eddie-herbert-email_104454844">[12]</a></sup> If Herbert departed mid-year, that would have reduced the team's engineering capacity precisely during the period when the product needed to ship. Whether Herbert's departure was a cause of the company's struggles, a consequence of them, or simply a data artifact is unknown. No public statement from either founder addresses this.
 
 ## Key Lessons
 
@@ -112,8 +156,8 @@ The gap between the May 2021 launch and the January 2022 shutdown — eight mont
 8. [YC Twitter: Congratulations to Atomized on launch (April 13, 2021)](https://x.com/ycombinator/status/1382037003894669312)
 9. [RocketReach: Eddie Herbert profile](https://rocketreach.co/eddie-herbert-email_104454844)
 10. [Silicon Florist: Hello Portland — Nik Kotov (November 9, 2023)](https://siliconflorist.com/2023/11/09/hello-portland-startup-community-im-nik-kotov/)
-11. [Medium: Nik Kotov author page](https://medium.com/@nkotov)32:T41e,Atomized was a PaaS startup that operated from 2019 to January 2022, built to let developers deploy application infrastructure on AWS without cloud expertise — it shut down after accumulating seven million lines of custom code on a $500K pre-seed budget, a textbook case of over-engineering consuming runway before the product could find its market.
+11. [Medium: Nik Kotov author page](https://medium.com/@nkotov)33:T41e,Atomized was a PaaS startup that operated from 2019 to January 2022, built to let developers deploy application infrastructure on AWS without cloud expertise — it shut down after accumulating seven million lines of custom code on a $500K pre-seed budget, a textbook case of over-engineering consuming runway before the product could find its market.
 
 The rebuild thesis is simple: everything Atomized tried to build from scratch now exists as composable primitives. AWS CDK, Pulumi, and OpenTofu have matured into reliable infrastructure abstraction layers; LLMs can translate natural language app descriptions into production-ready deployment configurations; and the "bring your own cloud account" architecture Atomized pioneered has become a recognized enterprise requirement rather than a niche differentiator. The new Atomized is a thin, LLM-powered orchestration layer on top of existing IaC tooling — a product that ships in weeks, not years, and targets the compliance-sensitive mid-market segment that AWS's own tools still serve poorly.
 
----33:Ta60,
+---34:Ta60,

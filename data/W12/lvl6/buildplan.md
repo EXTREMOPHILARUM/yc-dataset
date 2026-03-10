@@ -10,6 +10,18 @@ The go-to-market is precision targeting of Royal Match and Candy Crush defectors
 
 ## Why Now?
 
+The single most important change since LVL6's failure is the collapse of the content production bottleneck that killed it. In 2015, a two-person team could not ship art, characters, levels, and seasonal events fast enough to retain players at a $30 CAC. In 2026, that constraint is structurally different.
+
+Generative AI tools — specifically Midjourney v6 (released December 2023), Stable Diffusion XL, and emerging generative animation pipelines like Kling AI and Runway Gen-3 (both reaching production-quality outputs in 2024) — allow a micro-studio to produce character art, UI assets, and promotional creatives at a volume that previously required a 10–15 person art department. This directly addresses the operational failure LVL6 documented: the inability to sustain content velocity on a two-person team.
+
+On the UA side, Meta's Advantage+ Shopping Campaigns and Google's App Campaigns with tROAS bidding (both mature as of 2023–2024) automate creative testing and audience segmentation at scale. Lin identified performance marketing expertise as the key differentiator in his 2015 podcast — that expertise is now partially commoditized into platform tooling accessible to micro-studios.
+
+Measurement infrastructure has also matured. AppsFlyer and Adjust now provide 72-hour LTV prediction models using probabilistic attribution. LVL6 was almost certainly making $30/user UA decisions without reliable early LTV signals; today, a soft-launch cohort answers that question within days, not months.
+
+The hybrid-casual segment (2020–2024) has validated that mobile games with sub-$3 CPIs and 30-day ROAS-positive unit economics can be built by studios of 3–6 people. The genre was not wrong. The team size and tooling were. Both are now solvable.
+
+---
+
 ## Current Market Analysis
 
 The global mobile gaming market reached approximately $92 billion in 2023, according to data.ai's State of Mobile 2024 report — up from roughly $13.9 billion in 2013 when LVL6 was operational. The market has grown roughly 6.6x, but so has competition density and UA cost inflation.

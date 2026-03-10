@@ -2,6 +2,17 @@
 
 ## Overview
 
+CapWay was an Atlanta-based neobank founded in 2016 by Sheena Allen to serve the 52 million financially underserved Americans living in banking deserts — rural and low-income communities with no nearby physical bank branch.The company offered a debit card, money transfer tools, savings features, and financial literacy content explicitly designed for the unbanked and underbanked.
+
+Despite earning Y Combinator backing in 2020 and generating significant press attention, CapWay raised just under $800,000 across its entire eight-year life — a figure that proved structurally insufficient for a regulated financial institution competing against well-capitalized neobanks.The company began winding down in 2023 and officially ceased operations in October 2024.
+
+Its failure was not a product failure or a market thesis failure. It was a capital structure failure: the population most in need of financial services is also the hardest to monetize at the margins required to justify venture-scale returns, and the venture ecosystem — compounded by documented racial bias in capital allocation — was unwilling to write the checks required to survive in a heavily regulated industry.<sup><a href="https://techcrunch.com/2024/10/16/y-combinator-backed-fintech-capway-has-shut-down/">[1]</a></sup>
+
+<report-gallery>
+<media-image src="https://corporate.visa.com/content/dam/VCOM/regional/na/us/visa-perspectives/images/sheena-allen-capway-visa.jpg" alt="Sheena Allen, CapWay CEO, featured in Visa's fintech founder interview series" caption="Sheena Allen in Visa's 'Ask a Fintech Founder' series — by this point a recognizable face in fintech circles, speaking openly about the structural barriers facing Black founders trying to raise capital for a bank built to serve people banks had already abandoned."></media-image>
+<media-image src="https://capway.com/wp-content/uploads/2025/01/sheena.png" alt="Message from the Founder, Sheena Allen - CapWay" caption="The founder's farewell, posted to CapWay's website as the company wound down in 2024 — eight years after Allen left Terry, Mississippi with a mission to build the bank her hometown never had, and $800,000 to do it with."></media-image>
+</report-gallery>
+
 ## Founding Story
 
 Sheena Allen grew up in Terry, Mississippi, a small town with a single bank. That geographic reality — a banking desert — shaped her understanding of financial exclusion before she had the vocabulary to name it. When she left for the University of Southern Mississippi, where she earned dual degrees in Psychology and Film, she carried that experience with her.<sup><a href="https://www.crunchbase.com/person/sheena-allen">[2]</a></sup>

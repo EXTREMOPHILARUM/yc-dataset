@@ -10,6 +10,16 @@ The rebuild thesis is not to retry the horizontal platform play that killed the 
 
 ## Why Now?
 
+The single most important change since Struct's failure is the collapse of the infrastructure burden that consumed its runway. In 2023, a three-person team building a real-time multilingual voice platform had to independently integrate and maintain ASR (speech recognition), TTS (text-to-speech), LLM inference, and telephony stacks — each a full engineering problem in its own right. In 2026, that entire stack is commodity infrastructure available via API. Vapi, Retell AI, and LiveKit provide programmable voice orchestration. Cartesia's Sonic model achieves sub-300ms end-to-end latency. ElevenLabs Turbo v2.5 supports 30+ languages with production-grade voice quality. OpenAI's Realtime API (launched October 2024) handles multilingual conversation natively. A three-person team in 2026 can build what Struct attempted in 2023 in weeks, not months — and spend the remaining runway on vertical depth and GTM rather than infrastructure R&D.
+
+The market Struct was targeting has since been validated by well-funded survivors. Bland AI has raised $22M; Retell AI raised $4.5M; Vapi has established a paying developer community. These companies proved that B2B buyers will pay for programmable voice infrastructure — a fact that was genuinely unproven in early 2023 when Struct was selling. The question is no longer "will enterprises buy AI voice?" but "which vertical-specific player will own each segment?"
+
+The LATAM fintech vertical specifically has reached an inflection point. The region's digital lending and neobank sector grew at a compound rate exceeding 25% annually between 2021 and 2024 (source: Finnovista Fintech Radar, 2024 — specific 2026 figures unavailable at time of writing). Companies like Nubank, Konfio, Kueski, and hundreds of smaller lenders are processing millions of customer interactions monthly in Spanish and Portuguese — languages where Bland AI, Retell, and Vapi have minimal vertical depth and no compliance-specific tooling. The FTC's 2024 guidance on AI in debt collection and Brazil's BACEN regulatory framework for AI-assisted financial communications have both clarified the compliance landscape, reducing the enterprise sales friction that would have paralyzed Struct's fintech vertical in 2023.
+
+Distribution channels unavailable to Struct in 2023 now exist: the Salesforce AppExchange (150,000+ business customers), HubSpot's App Marketplace, and direct partnerships with LATAM-focused CRM providers like Zoho (which has significant LATAM penetration) provide warm inbound channels that a horizontal platform could never access efficiently.
+
+---
+
 ## Current Market Analysis
 
 ## Market Size
@@ -82,6 +92,36 @@ LATAM fintech companies at the 50–500 employee scale with active lending or BN
 Direct outbound sales through warm introductions via LATAM fintech investor networks (Kaszek, ALLVP, QED Investors, Monashees). These funds have portfolio companies with exactly the collections automation problem the product solves, and a portfolio company introduction compresses the sales cycle from months to weeks. Secondary channel: LATAM fintech conferences (Finnosummit, Fintech Americas) where the target buyer persona concentrates. The Salesforce AppExchange listing is a medium-term channel (6–12 months post-launch) once the Salesforce FSC integration is production-ready.
 
 ## Pricing Strategy
+
+# Velo
+
+## 1. Overview
+
+Velo is a vertical SaaS platform for AI-powered outbound and inbound call automation built specifically for Latin American fintech companies — a modern revival of Struct's multilingual voice agent vision, rebuilt with vertical depth instead of horizontal breadth. Operations and collections managers at LATAM lending companies (50–500 employees) deploy pre-built, compliance-ready Spanish and Portuguese call flows against their loan portfolios without writing a line of code. Velo connects to Salesforce Financial Services Cloud and HubSpot, writes call outcomes back automatically, and replaces $4,000–$6,000/month BPO contracts with AI agents that run 24/7 at a fraction of the cost.
+
+---
+
+## 2. Core Features
+
+**Call Flow Management**
+- Library of pre-built LATAM collections call flows in Mexican Spanish, Brazilian Portuguese, Colombian Spanish, and Argentine Spanish
+- Visual call flow builder: drag-and-drop nodes for greeting, debt identification, negotiation, payment arrangement, objection handling, and compliant disclosure
+- Flow versioning with rollback; A/B test two flows against the same contact list
+- Configurable escalation rules: hand off to human agent via warm transfer when sentiment score drops below threshold
+- Compliance mode per country: BACEN (Brazil), CONDUSEF (Mexico), SFC (Colombia), BCRA (Argentina) — injects required disclosures automatically
+
+**Voice Agent Configuration**
+- Voice persona library: 8 pre-tuned regional voices (2 per market: male/female) built on ElevenLabs Turbo v2.5
+- Custom voice cloning: upload 30-second sample, generate brand voice in 24 hours
+- Adjustable speech rate, pause duration, and retry cadence per flow
+- Real-time sentiment analysis displayed in live call monitor dashboard
+
+**Campaign Management**
+- Upload contact lists via CSV or pull directly from CRM integration
+- Schedule campaigns: one-time, recurring (daily/weekly), or trigger-based (loan X days past due)
+- Concurrency controls: max simultaneous calls per campaign (1–500)
+- DNC (Do Not Call) list management with automatic suppression
+- Time-zone-aware dialing windows per country
 
 ## Differentiation vs. 2026 Competitors
 

@@ -2,12 +2,6 @@
 
 ## Overview
 
-Rally Tennis entered Y Combinator's Winter 2017 batch with a straightforward premise: connect tennis players with competitive local leagues and practice partners nearby. <sup><a href="https://www.ycombinator.com/companies/zestful">[1]</a></sup> The company's entire public description amounted to a single sentence — "Join tennis league and play competitively with people nearby" — and that sparse footprint proved prophetic. No product screenshots, no press coverage, no funding announcements, and no founder names have surfaced from any public source.
-
-The company almost certainly failed because it was attempting to solve one of the hardest problems in consumer marketplaces: achieving hyper-local critical mass in a participation-dependent network, where the product delivers zero value to any individual user until enough nearby players of compatible skill levels have also joined. That problem requires either deep capital or exceptional community-building — and Rally Tennis appears to have had neither.
-
-The W17 Rally Tennis entity went dark sometime in 2017, leaving no shutdown announcement, acquisition notice, or post-mortem of any kind. <sup><a href="https://www.ycombinator.com/companies/zestful">[1]</a></sup> Its YC profile URL has since been anomalously associated with a different company, suggesting the original listing was repurposed or removed entirely. Four years later, an unrelated founder built a nearly identical product under the same name — a signal that the market demand was real, but the W17 execution did not survive long enough to find it.
-
 ## Founding Story
 
 Almost nothing is known about the founders of the W17 Rally Tennis. No names, LinkedIn profiles, prior company affiliations, or biographical details have surfaced from any recoverable public source. The company was not mentioned in TechCrunch's coverage of the W17 Demo Day, which profiled 52 companies presenting at the Computer History Museum in Mountain View on March 20, 2017. <sup><a href="https://techcrunch.com/2017/03/20/yc-demo-day-winter-2017/">[8]</a></sup> That absence is notable: Demo Day coverage, even when incomplete, tends to capture companies that generated any investor or press interest. Rally Tennis generated none.

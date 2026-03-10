@@ -10,6 +10,20 @@ The go-to-market is direct: land with free tier usage (spot GPU jobs), convert o
 
 ## Why Now?
 
+The single most important change since FloydHub's failure is the emergence of fine-tuning workflows for open-source foundation models as a discrete, high-value enterprise use case. FloydHub served a diffuse "train any deep learning model" market where the buyer was often a student or researcher with near-zero willingness to pay. In 2026, enterprises are paying real money to fine-tune LLaMA 3, Mistral, and Qwen variants on proprietary data — a specific, repeatable workflow with a clear business owner, a measurable ROI, and a budget line. This is a fundamentally different demand shape than FloydHub ever had access to.
+
+Several structural conditions now make a rebuild viable where it wasn't in 2021:
+
+**Compute economics have transformed.** FloydHub resold AWS reserved instances, capping gross margins at roughly 20–30%. In 2026, spot GPU markets through CoreWeave, Lambda Labs, and vast.ai offer H100 and A100 access at 40–60% discounts versus AWS on-demand pricing (exact current spreads should be verified against live provider pricing). A rebuild can achieve sustainable unit economics that FloydHub structurally could not.
+
+**The hyperscaler abstraction gap is real and documented.** AWS SageMaker and Google Vertex AI have expanded into sprawling, poorly integrated platforms. Practitioners consistently cite configuration complexity as a barrier — the same complaint that launched FloydHub in 2017, now directed at the companies that killed it.
+
+**Distribution channels now exist that didn't in 2017.** Hugging Face Hub has over 1 million public models (as of late 2024) and a growing enterprise tier, creating a direct integration surface. The Hugging Face ecosystem is a distribution channel, not just a library. Additionally, GitHub Marketplace and the VS Code Extension Marketplace provide developer-native discovery paths unavailable to FloydHub.
+
+**Market validation from adjacent products is explicit.** Weights & Biases reached a $1B+ valuation. Modal and Replicate have demonstrated that serverless GPU abstractions convert paying customers. The buyer education problem FloydHub faced — "the AI market is still in its nascency" — has been solved by five years of MLOps tooling adoption.
+
+---
+
 ## Current Market Analysis
 
 **Market size:** The global MLOps market was valued at approximately $1.7B in 2022 and is projected to reach $13B+ by 2030 (MarketsandMarkets, 2023 — specific 2026 figures unavailable; treat projections with appropriate uncertainty). The fine-tuning infrastructure sub-segment does not yet have a standalone market size estimate in available sources.

@@ -131,6 +131,14 @@ The iOS pivot introduced a hybrid model: karma points for items under $60, cash 
 
 ## Traction
 
+Australian traction was the company's strongest proof point. In the pilot launch, 4,500 dresses were uploaded and 3,500 were sold—a 78% sell-through rate that demonstrated genuine two-sided marketplace liquidity.<sup><a href="https://techcrunch.com/2012/03/27/yc-demo-day-winter-2012-session-5/">[4]</a></sup> The Facebook validation event reached 40,000 RSVPs from an initial send to 250 contacts, a 160x amplification that signaled strong word-of-mouth potential.<sup><a href="https://itwire.com/profiler/durkins-dreams-and-dresses.html">[2]</a></sup> Women continued emailing Durkin asking when the site would return after it went offline, indicating genuine user attachment rather than passive engagement.<sup><a href="https://techcrunch.com/2012/03/26/99dresses-wants-to-give-women-an-infinite-closet/">[5]</a></sup>
+
+At YC Demo Day, the company was named a favorite by Robert Scoble, Ben Parr, and 500 Startups' George Kellerman, and won the "Scobleizer Demo of the Day" award.<sup><a href="https://internetretailing.com.au/99-dresses-hottest-startup-at-ycombinator/">[7]</a></sup> This represented peak external validation.
+
+US traction data is sparse. Durkin's post-mortem references the comparative startup data point—3x fewer trades and 2.5x fewer members in a comparable startup that nonetheless raised a Series A—which implies 99dresses had measurable US transaction volume in the first 8 months of the iOS app, but specific monthly active user counts or transaction volumes for the US product are not publicly available.<sup><a href="https://mozyrko.pl/wp-content/uploads/2014/10/77-failed-startup-post-mortems.pdf">[16]</a></sup> Durkin's own summary was stark: "We had users and traction, then we fell off a cliff."<sup><a href="https://nikkidurkin.medium.com/my-startup-failed-and-this-is-what-it-feels-like-c5d64b3ae96b">[8]</a></sup>
+
+---
+
 ## Post-Mortem
 
 Durkin's June 2014 Medium post-mortem is one of the most candid founder failure accounts in the YC canon. She catalogued the full arc: "Since then I've survived being stabbed in the back by cofounders, investment rounds falling through, massive technology fuckups that brought sales to a halt, visa problems, lack of money, lack of traction, lack of a team, hiring the wrong people, firing people I didn't want to fire, lack of product-market fit, and everything else in between."<sup><a href="https://nikkidurkin.medium.com/my-startup-failed-and-this-is-what-it-feels-like-c5d64b3ae96b">[8]</a></sup> What follows is an analysis of those failures, organized by causal weight.

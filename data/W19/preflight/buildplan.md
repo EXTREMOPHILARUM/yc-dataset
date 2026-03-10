@@ -12,6 +12,16 @@ The rebuild thesis is simple: the two things that killed Preflight — brittle D
 
 ## The single most important change: LLMs can now write and repair tests that no-code recorders could not sustain.
 
+Preflight's core technical failure was that its Chrome extension recorded tests by capturing DOM selectors — CSS classes, element IDs, XPath expressions — that broke every time a developer renamed a button or restructured a component. Self-healing logic existed in the product (Applitools' CTO cited it as the differentiator), but it was heuristic-based and fragile on dynamic, JavaScript-heavy applications. GPT-4 (March 2023) and Claude 3 Opus (March 2024) changed this structurally: a model that understands the semantic intent of a user action ("click the primary checkout button") can locate the correct element even after a full UI redesign, without relying on brittle selectors. Momentic, Octomind, and Reflect have demonstrated this capability in production since 2023 — the technical risk is no longer speculative.
+
+**Infrastructure costs have collapsed.** Browserless, Playwright Cloud, and BrowserStack Automate now offer headless browser execution at commodity pricing. Running 10,000 cross-browser test executions per month costs roughly $50–200 depending on provider (exact 2026 pricing unknown), compared to the significant infrastructure overhead that constrained a $1.5M-funded startup in 2021.
+
+**The no-code app market is substantially larger.** Bubble reported over 4 million registered developers as of 2023 (source: Bubble.io press materials); Webflow claimed 3.5 million users as of 2023 (source: Webflow). The combined no-code/low-code development platform market was estimated at $26.9B in 2023, growing at approximately 28% CAGR through 2030 (source: Grand View Research, 2023). This is not the same market Preflight was addressing in 2019 — it is materially larger and more production-oriented.
+
+**PLG distribution is now a proven motion for developer tools.** The Chrome Web Store, Bubble Plugin Marketplace, and Webflow App Marketplace provide zero-CAC distribution channels with built-in intent signals. This was less trusted by buyers in 2019; it is now the default expectation for tools in this category.
+
+---
+
 ## Current Market Analysis
 
 **Market size today vs. 2019:** The global test automation market was approximately $12.6B in 2019 (source: Allied Market Research); it reached an estimated $28.8B in 2023 (source: MarketsandMarkets). The no-code testing subsegment has no reliable standalone sizing data — any figure here would be invented. What is documentable: the no-code app development platforms that represent the rebuild's primary distribution channel have grown from niche tools to production infrastructure used by millions of builders, creating a testing gap that did not exist at meaningful scale when Preflight launched.

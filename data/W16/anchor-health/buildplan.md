@@ -10,6 +10,20 @@ Go-to-market is direct outbound to agency administrators in high-reimbursement s
 
 ## Why Now?
 
+The single most important change since Anchor Health's failure is the establishment of CMS Remote Patient Monitoring (RPM) reimbursement codes — CPT 99453, 99454, and 99457 — formalized and expanded between 2019 and 2021. In 2016, Anchor Health's hardware layer had no direct billing pathway: agencies couldn't charge Medicare for connected device data collection, making the hardware an operational cost with no revenue offset. Today, a home health agency can bill Medicare approximately $120–$150 per patient per month for RPM services under these codes (CMS fee schedule; exact rates vary by geography). This transforms hardware from a cost center into a revenue-generating service line — a structural change that makes the original Anchor Health thesis economically viable for the first time.
+
+Additional tailwinds compound this shift:
+
+- **LLM-based documentation automation**: GPT-4 (March 2023) and Claude 3 (March 2024) can now generate OASIS clinical assessments, care plans, and compliance reports from structured visit data. This directly addresses the "operating solutions" layer Anchor Health could never staff affordably with two people.
+- **IoT infrastructure commoditization**: AWS IoT Core and Azure IoT Hub (both mature as of 2022–2023) reduce connected device backend development from months to weeks. Contract manufacturing platforms like Fictiv and PCH enable small teams to prototype and produce hardware without dedicated manufacturing operations.
+- **Market growth**: The U.S. home health care market grew from approximately $103B (2018) to over $150B (2023), driven by aging demographics and post-COVID preference for in-home care (source: research report). The addressable software and technology layer has grown proportionally.
+- **Regulatory tailwinds**: CARES Act (2020) and permanent CMS telehealth flexibilities created a reimbursement environment for distributed home care technology that simply did not exist in 2016.
+- **Distribution**: The WellSky and Homecare Homebase installed bases have proven agencies will pay for integrated software — de-risking buyer willingness, which was unvalidated when Anchor Health operated.
+
+The window is open. The question is execution discipline.
+
+---
+
 ## Current Market Analysis
 
 ## Market Size

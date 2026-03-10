@@ -2,6 +2,17 @@
 
 ## Overview
 
+Booth AI was a San Francisco-based B2B SaaS company founded in August 2022 by Nick Locascio, Ian Baldwin, and Mitra Morgan. <sup><a href="https://thefounderspack.beehiiv.com/p/hark-five-yc-w23-cohort-companies-reading-pleasure">[1]</a></sup> The company built a "virtual photoshoot as a service" platform for e-commerce brands: sellers submitted basic product photos, and Booth AI's generative AI pipeline returned hundreds of high-quality lifestyle images — eliminating the cost and logistics of physical photo shoots. <sup><a href="https://www.ycombinator.com/companies/booth-ai">[2]</a></sup> The company joined Y Combinator's Winter 2023 cohort with a team of three, raising $500K in seed funding from Foundation Capital, Amino Capital, and three other investors. <sup><a href="https://www.ycombinator.com/companies/booth-ai">[3]</a></sup>
+
+Booth AI failed because it entered a market that was commoditizing faster than its $500K runway could sustain, then compounded the problem by pivoting away from its core product within roughly 60 days of launch — before accumulating the customer evidence needed to justify abandoning it or the capital needed to build something new.
+
+The company went operationally dormant after August 2023 and officially ceased service on August 5, 2024. <sup><a href="https://www.dresma.com/blog/best-alternative-to-booth-ai">[4]</a></sup> YC lists the outcome as "Acquired," while Crunchbase lists it as "Closed" — a contradiction that likely reflects an acqui-hire with no public announcement. <sup><a href="https://www.ycombinator.com/companies/booth-ai">[5]</a></sup> <sup><a href="https://www.crunchbase.com/organization/booth-ai">[6]</a></sup> Co-founder Ian Baldwin joined DoorDash as a GenAI engineer after the shutdown. <sup><a href="https://theorg.com/org/doordash/org-chart/ian-baldwin">[7]</a></sup>
+
+<report-gallery>
+<media-image src="https://images.crunchbase.com/image/upload/c_thumb,h_256,w_256,f_auto,g_face,z_0.7,q_auto:eco,dpr_1/aefa3wdz8xkr8dx0ar06?ik-sanitizeSvg=true" alt="Nick Locascio, Co-Founder and CEO of Booth AI" caption="Nick Locascio, Co-Founder and CEO of Booth AI — the MIT-trained computer vision engineer who called generative AI a 'complete gold rush' in January 2023, months before his own company went quiet."></media-image>
+<media-image src="https://images.crunchbase.com/image/upload/c_thumb,h_256,w_256,f_auto,g_face,z_0.7,q_auto:eco,dpr_1/y03jlygg4wcat6uthpoa?ik-sanitizeSvg=true" alt="Ian Baldwin, Co-Founder of Booth AI" caption="Ian Baldwin, Co-Founder — Oxford PhD, NASA JPL and Zoox veteran, who departed for DoorDash as a GenAI engineer after Booth AI's August 2024 shutdown."></media-image>
+</report-gallery>
+
 ## Founding Story
 
 Nick Locascio brought a deep computer vision and machine learning pedigree to Booth AI. He holds a Master of Engineering in Computer Science from MIT and had spent years at the intersection of AI and commerce: he built recommendation algorithms at Pinterest, developed computer vision systems at Perch Fitness, consulted on deep learning at Symantec, and served as Director of Engineering at Standard AI (Standard Cognition), an autonomous checkout startup. <sup><a href="https://www.prnewswire.com/news-releases/nick-locascio-earns-wtf-innovators-award-301865938.html">[8]</a></sup> The through-line across those roles was applying visual AI to physical retail problems — a background that made e-commerce photography a natural target.

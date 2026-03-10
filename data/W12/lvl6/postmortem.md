@@ -93,6 +93,14 @@ The company received seed funding from Y Combinator and Great Oaks Venture Capit
 
 ## Traction
 
+LVL6 produced two titles that reportedly achieved top sales rankings in the App Store over four years, according to a single secondary source. <sup><a href="https://medium.com/@cripco/nft-project-research-valhalla-a1d13fc930fb">[1]</a></sup> This claim could not be independently verified through App Store records or press coverage, and should be treated with caution.
+
+The most concrete traction signal available is Lin's June 2015 disclosure that LVL6 was paying $30 per user for user acquisition for Toon Squad. <sup><a href="https://podcast.tapstream.com/post/120626104308/tmp-episode-17-alex-lin-ceo-cofounder-at-lvl6">[2]</a></sup> The willingness to pay $30/user implies the team believed — or had data suggesting — that Toon Squad's LTV could support that CAC. A team that had seen no monetization signal would not be spending at that level. This suggests Toon Squad was generating real revenue from a subset of paying users, but the scale of that revenue base is unknown.
+
+No DAU, MAU, retention curves, revenue figures, or App Store review volumes are publicly available for either title. The Toon Squad Tumblr and Twitter accounts confirm the game had an active player community during its operational period, but community size is undocumented. The post-acquisition existence of Toon Squad as "Toon Squad Neo" under R2 Games confirms the IP had enough residual value to be worth acquiring, but R2 Games is a browser and mobile game publisher known for acquiring and operating mid-tier titles — not a signal of exceptional commercial performance.
+
+---
+
 ## Post-Mortem
 
 LVL6 closed in 2016 with no public shutdown announcement, no founder post-mortem, and no press coverage of the wind-down. <sup><a href="https://www.ycdb.co/company/lvl6">[1]</a></sup> The absence of a public explanation is itself informative: the company did not fail dramatically enough to generate press, and the founders did not feel compelled to document the experience publicly. What follows is reconstructed from the available evidence.

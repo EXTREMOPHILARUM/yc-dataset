@@ -106,6 +106,18 @@ The $20,000 YC seed round was the only external capital the company raised. <sup
 
 ## Traction
 
+Teevox's traction story is one of the more striking in the YC S10 cohort — genuine user growth with no corresponding business model to capture its value.
+
+At YC Demo Day in August 2010, the original teevoxRemote product reported 1,200 users in its first 24 hours after launch. <sup><a href="https://techcrunch.com/2010/08/24/y-combinator-demo-day-2/">[20]</a></sup> True Ventures specifically called out Teevox as an example of innovative tablet use cases. <sup><a href="https://trueventures.com/blog/thoughts-on-y-combinator-demo-day">[9]</a></sup> This early investor attention did not translate into follow-on funding.
+
+The eSports pivot produced substantially stronger organic traction. The product hit the front page of Reddit upon launch — a signal of genuine product-market fit with the gaming community, not a paid acquisition event. <sup><a href="https://www.alistdaily.com/strategy/how-teevox-was-resurrected-for-new-age-of-esports/">[21]</a></sup>
+
+At its peak, Teevox reached 700,000 monthly users. <sup><a href="https://www.alistdaily.com/strategy/how-teevox-was-resurrected-for-new-age-of-esports/">[10]</a></sup> For a two-person team with no marketing budget, this was a meaningful number. However, growth was seasonal and event-driven. The product spiked during summer StarCraft tournament seasons, when multiple matches ran concurrently and the multi-stream use case was most compelling. <sup><a href="https://www.alistdaily.com/strategy/how-teevox-was-resurrected-for-new-age-of-esports/">[22]</a></sup> Outside of tournament windows, usage dropped. No daily active user figures, retention rates, or engagement depth metrics are available in the public record.
+
+The seasonality pattern was a structural warning sign. A product whose usage is tied to a tournament calendar rather than daily habit is vulnerable to off-season churn and cannot demonstrate the consistent engagement metrics that investors require for a Series A.
+
+---
+
 ## Post-Mortem
 
 Teevox's failure was not a single event but a compounding sequence of structural problems, each of which might have been survivable in isolation. Together, they were fatal.

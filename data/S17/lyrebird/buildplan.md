@@ -10,6 +10,20 @@ Launch into communities where the pain is sharpest: indie author networks, audio
 
 ## Why Now?
 
+The single most important change since Lyrebird's failure is this: **willingness to pay for voice cloning inside content creation workflows is now empirically proven at scale.** ElevenLabs reached a $1.1B valuation in 2024 (per Bloomberg) on the back of subscription revenue from creators and enterprises. Descript's Overdub—built directly on Lyrebird's technology—demonstrated that podcasters and video editors will pay monthly for voice correction. The commercial thesis Lyrebird could not validate in 2017 has since been validated by competitors generating real revenue. A new entrant is no longer betting on market creation; it is betting on differentiated execution in an established category.
+
+Three additional structural shifts make 2026 the right moment for a focused rebuild:
+
+**Model quality and onboarding friction have collapsed.** XTTS v2 (Coqui, late 2023) and ElevenLabs' v2 API (2023) produce near-indistinguishable voice clones from 10–30 seconds of audio, versus the one minute Lyrebird required in 2017. Lower enrollment friction directly expands the addressable use case set and reduces drop-off during onboarding.
+
+**GPU inference economics are viable.** H100 spot pricing on Lambda Labs in 2025 runs approximately $2–3/hour, versus 2017 cloud GPU rates that were 10–100x higher per equivalent compute. Per-sample margins that were structurally unworkable for Lyrebird's freemium model are now achievable at modest usage volumes.
+
+**Compliance infrastructure now exists.** The EU AI Act (effective August 2026 for high-risk provisions) mandates disclosure of AI-generated audio. C2PA provenance standards and Meta's AudioSeal watermarking framework (2024) provide technical tooling for consent verification. A new entrant can ship enterprise-grade abuse prevention from day one—directly neutralizing the "sinister startup" reputational problem that shadowed Lyrebird throughout its independent life.
+
+**Distribution channels are specific and accessible.** The Spotify Creator Marketplace, Audible's ACX platform (with 600,000+ registered audiobook producers as of 2024, per ACX public data), and the Adobe Creative Cloud plugin ecosystem (with 33M+ subscribers per Adobe's 2024 annual report) offer direct access to the creator verticals that Lyrebird's horizontal API approach never targeted.
+
+---
+
 ## Current Market Analysis
 
 **Market size.** The global AI voice generation market was valued at approximately $3.8B in 2024 and is projected to reach $11.2B by 2030 (MarketsandMarkets, 2024). For context, the addressable market for personalized voice cloning specifically—as distinct from generic TTS—did not exist as a measurable commercial category in 2017. The audiobook production market alone reached $5.5B globally in 2023 (Association of American Publishers and Deloitte estimates; precise breakdown between AI-generated and human-narrated is not publicly available). The podcast advertising market exceeded $4B in the US in 2024 (IAB Podcast Advertising Revenue Study, 2024).

@@ -6,9 +6,21 @@ Rally Tennis (YC W17) entered Y Combinator's Winter 2017 batch with a single-sen
 
 What has changed is the market itself: U.S. tennis participation grew 22% between 2019 and 2021, the 2021 Rally Tennis (an unrelated company) independently validated the concept by reaching 20,000+ players across 150 cities, and LLM-powered matchmaking now makes it possible to deliver a useful experience with far fewer players per city than the original product required. The rebuild is a mobile-first competitive tennis league platform that uses AI-driven compatibility scoring to deliver value at low local density, then converts engaged players into paying league members through a subscription model normalized by Strava and Hinge.
 
----32:T92e,
+---31:T92e,
 
 ## Why Now?
+
+The single most important change since 2017 is the size of the addressable market itself. The COVID-19 pandemic triggered the largest documented surge in U.S. tennis participation in decades: the Tennis Industry Association reported a 22% increase in players between 2019 and 2021, adding roughly 4 million players to a base that was approximately 17.9 million before the pandemic. That growth has not fully reversed. A product that needed 500 active players in a metro area to feel functional in 2017 now has a materially larger pool to draw from in every major U.S. city — reducing the capital required to reach minimum viable density.
+
+The second critical change is AI-powered matchmaking. GPT-4 (March 2023) and its successors can ingest unstructured inputs — self-reported skill descriptions, match history narratives, play style preferences — and generate dynamic compatibility scores without requiring a statistically large structured dataset. In 2017, reliable NTRP-style matching required enough players to produce meaningful rating distributions from structured match results. In 2026, a new city with 50 players can receive useful match recommendations on day one. This directly attacks the cold-start problem that killed the original.
+
+Third, real-time coordination infrastructure is dramatically cheaper. Twilio's SMS API, OneSignal's push notification layer, and geofencing tools available through the Google Maps Platform and Apple MapKit JS have commoditized the scheduling coordination layer that would have required significant engineering investment in 2017. A two-person team can ship reliable match reminders, court availability pings, and cancellation alerts in weeks, not months.
+
+Fourth, organic distribution channels that did not exist for a 2017 mobile startup are now central to consumer app growth. TikTok and Instagram Reels enable zero-cost city-level virality through match highlight clips and leaderboard content — distribution that would have required paid acquisition budget in 2017.
+
+Specific market data on the 2026 recreational tennis league software market size is not available in the research report. The 2021 Rally Tennis's 20,000-player claim across 150 cities is the best available proxy for validated demand, though that company's current status and revenue are not documented in the research.
+
+---
 
 ## Current Market Analysis
 
@@ -45,6 +57,14 @@ Players log match scores after each session. The app maintains a rolling local l
 
 **Cold-start threshold:** The product is designed to deliver useful match recommendations at 30–50 players in a single metro. The launch strategy (see Section 4) targets 100 players in one city before any second city is opened.
 
----35:Ta17,
+---34:Ta17,
 
 ## Go-to-Market Strategy
+
+**Target customer:** Adult recreational tennis players, ages 25–45, in a single U.S. metro with high tennis court density and documented post-pandemic participation growth. Austin, TX or Denver, CO are strong candidates based on population growth, outdoor court availability, and the documented presence of active tennis communities; specific 2026 market data is not available in the research report to confirm this ranking.
+
+**Primary distribution channel:** Tennis clubs and public court communities, not app stores. The launch playbook is direct community seeding: identify the five to ten most active public court locations in the launch city using Google Maps reviews and local Facebook tennis groups, then show up physically — or partner with a local tennis instructor or club pro — to recruit the first 100 players face-to-face. This is the approach that hyper-local consumer marketplaces (Nextdoor, early Airbnb city launches) have used to solve cold-start problems. TikTok and Instagram Reels content — match highlights, leaderboard reveals, player profiles — serve as the secondary organic channel to accelerate past the initial seeded cohort.
+
+**Pricing:** Free to join and schedule matches. A $12/month subscription ("League Tier") unlocks seasonal league standings, priority match recommendations, and match history analytics. This price point is benchmarked against Strava's $11.99/month and Hinge's $29.99/month, and is positioned below both. The stress-test: players currently organize matches for free via group texts and Facebook groups. The subscription is only justified if the AI-matched league experience is materially better than those free alternatives — specifically, if it surfaces compatible opponents the player would not have found otherwise and provides the competitive structure (standings, seasons) that free tools cannot. If the product cannot demonstrate that value within a player's first two to three matches, the subscription will not convert. The freemium tier must therefore be generous enough to prove the core value before asking for payment.
+
+**Differentiation vs. 2026 competitors:** Against the 2021 Rally Tennis, the rebuild's advantage is AI-powered low-density matching that makes the product functional in cities where the competitor's thin player pool produces a poor experience. Against the USTA, the advantage is year-round, mobile-native, no-club-membership-required access. Against free coordination tools, the advantage is structured competition and AI-matched opponents — neither of which a group text can provide.

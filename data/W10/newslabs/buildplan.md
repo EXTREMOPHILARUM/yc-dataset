@@ -10,6 +10,22 @@ The rebuild thesis is simple: every infrastructure problem that killed NewsTilt 
 
 ## Why Now?
 
+The single most important change since 2010 is that the correct monetization model has been proven in market. NewsTilt's advertising-based revenue model was structurally incompatible with individual creator economics in 2010 — display CPMs could not support a $30,000–$70,000 annual income for a journalist with no existing audience. Substack, launched in 2017 and now valued at over $650 million, demonstrated that the identical market thesis works when funded by direct reader subscriptions rather than advertising. The demand was always real; the revenue model was wrong for the era.
+
+The second critical change is infrastructure commoditization. The feature that killed NewsTilt — journalist-owned personal domains — can now be provisioned in hours using Cloudflare for SaaS or Vercel's custom domain API, both of which launched after 2015. In 2010, this required months of custom engineering that a two-person team could not deliver. Today it is a weekend integration.
+
+The supply side has also shifted dramatically. U.S. newspaper newsroom employment fell 57% between 2008 and 2020 (Pew Research Center), creating a far larger pool of displaced professional journalists actively seeking independent publishing infrastructure than existed when NewsTilt launched. This is not a speculative trend — it is a decade-long structural shift that has already produced Substack's reported 35 million active subscriptions (Substack, 2023; more recent figures are not publicly confirmed).
+
+Specific enabling technologies now available:
+- **Stripe Connect** (launched 2012) makes automated 80/20 revenue splits and journalist payouts trivial to implement
+- **Cloudflare for SaaS / Vercel custom domains** (post-2015) solve the exact MVP gap that killed NewsTilt
+- **GPT-4 (March 2023) and successors** enable automated SEO meta-tagging, social card generation, and newsletter digest drafting — the manual distribution work NewsLabs promised but could not staff
+- **Sign in with Apple (2019) and passkeys (2023)** eliminate the privacy-hostile Facebook login that suppressed reader engagement at launch
+
+Distribution channels available now that did not exist in 2010 include the Substack writer migration pipeline (writers actively seeking alternatives to Substack's 10% take rate), LinkedIn's 1B+ professional network for journalist acquisition, and Beehiiv's and Ghost's existing communities as competitive displacement targets.
+
+---
+
 ## Current Market Analysis
 
 **Market size:** The creator economy broadly is estimated at $250 billion in 2023 (Goldman Sachs Research), though the specific segment of professional journalist publishing tools is not broken out in public data — any figure cited here would be an inference. What is documented: Substack reported over 35 million active subscriptions in 2023, Ghost processes payments for over 2 million subscribers across its hosted platform, and Beehiiv raised a $33 million Series B in 2023 citing rapid newsletter creator growth. The addressable market for professional journalist publishing infrastructure is real and actively contested.
@@ -59,3 +75,11 @@ Accepted journalists can opt into a weekly cross-recommendation digest — each 
 ---
 
 ## Go-to-Market Strategy
+
+**Target customer segment:** Mid-career journalists, 5–15 years of institutional experience, currently employed at contracting legacy outlets (regional newspapers, digital media companies undergoing layoffs) or recently departed. Specifically: journalists with an existing Twitter/X or LinkedIn following of 5,000–50,000 who have considered going independent but found Substack's 10% take rate punitive at their projected income level, or Ghost's lack of network support isolating. This is not the Pulitzer winner who writes twice a year — it is the beat reporter with a loyal niche following who publishes three times a week.
+
+**Primary distribution channel:** Direct outreach via LinkedIn and Twitter/X to journalists who have publicly announced layoffs or departures from institutional outlets. Layoff announcements in journalism are public, frequent, and concentrated — outlets like Nieman Lab and Poynter cover them in real time, creating a warm outreach list updated weekly. Secondary channel: partnerships with journalism schools (Columbia, Northwestern Medill, CUNY) to position the platform as the recommended independent publishing infrastructure for graduating students.
+
+**Pricing strategy:** $25/month flat fee, no revenue percentage. Stress-test: Substack charges 10% of subscription revenue — a journalist earning $2,000/month in subscriptions pays $200/month to Substack versus $25 here. The break-even point where this platform is cheaper than Substack is $250/month in subscription revenue, achievable with 25 subscribers at $10/month. Ghost's comparable hosted plan runs $25–$50/month but offers no network or AI distribution features. The free alternative is Substack's free tier — but Substack's free tier takes 10% of all revenue, meaning it is only "free" for journalists earning nothing. A journalist who expects to earn any meaningful subscription income has a clear financial incentive to pay $25/month for a zero-percentage alternative. The pricing is justified by the revenue-percentage savings, not by the feature set alone.
+
+**Differentiation vs. 2026 competitors:** Substack owns the network but taxes success. Ghost owns the infrastructure but provides no network. This rebuild owns both — at a price that scales with the platform's costs, not with the journalist's success. The AI-assisted distribution layer is the operational differentiator that neither competitor currently matches at the individual journalist level.

@@ -2,17 +2,6 @@
 
 ## Overview
 
-Opkit was a New York-based healthcare technology startup, founded in 2021 and backed by Y Combinator's Summer 2021 batch, that built AI-powered phone call automation for the US healthcare industry.The company began as an insurance verification platform for telehealth companies, then pivoted in August 2024 to a broader generative AI call center for medical practices.
-
-Despite strong technical execution, credible investor backing, and at least one beta customer who called the product existentially necessary, Opkit never raised a Series A.It was acqui-hired by AI digital workers startup 11x in late 2024 for its voice AI technology and engineering talent, with the Opkit platform subsequently wound down.
-
-The core failure was structural: the initial insurance verification product was too narrow to build a venture-scale business independently, and the pivot to a broader AI call center—while technically validated—arrived too late and with too little runway to attract growth-stage capital on its own terms.
-
-<report-gallery>
-<media-image src="https://www.enterprisetimes.co.uk/wp-content/uploads/2024/08/SherwoodCallawayOpkit-e1723026367432.jpeg" alt="SherwoodCallawayOpkit - Enterprise Times" caption="Opkit CEO Sherwood Callaway, photographed around the time of the company's August 2024 pivot to a generative AI call center — a bold last bet that arrived too late to secure a Series A."></media-image>
-<media-image src="https://www.agetech.news/content/images/size/w300/2023/04/opengraph.png" alt="Opkit Raises Over $1M in Funding" caption="Opkit's branding at the time of its March 2023 public launch and $1M+ seed round — the high-water mark of the company's independent life before the pivot and eventual acqui-hire by 11x."></media-image>
-</report-gallery>
-
 ## Founding Story
 
 Sherwood Callaway and Justin Ko met in early 2019 as early employees at Brex, the $12 billion fintech startup.<sup><a href="https://www.opkit.co/about/">[1]</a></sup> Together they built "Cash," a business bank account product—an experience that gave them direct, hands-on exposure to the engineering challenges of integrating with regulated financial counterparties and building API-driven infrastructure at scale.<sup><a href="https://www.opkit.co/about/">[1]</a></sup>

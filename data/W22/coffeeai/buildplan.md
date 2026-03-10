@@ -8,6 +8,18 @@ The market shift that makes this work now: real-time signal infrastructure (Prox
 
 ## Why Now?
 
+The single most important change since CoffeeAI's failure is the emergence of real-time signal infrastructure that makes trigger-based personalization genuinely actionable at the moment of outreach. In 2022–2023, CoffeeAI's Blueprints feature was conceptually correct but operationally hollow: it personalized message *structure* without access to live prospect context. Today, providers like Trigify, Proxycurl, and RocketReach deliver job change alerts, funding announcements, and LinkedIn post activity at costs below $0.01 per signal. This transforms the core product from "AI mail-merge with better templates" into "right message, right person, right moment" — a meaningfully different value proposition.
+
+The model capability gap has also closed decisively. CoffeeAI ran on GPT-3.5-class models that produced personalization in form but not in substance. GPT-4o (May 2024) and Claude 3.5 Sonnet (June 2024) can now ingest a prospect's full LinkedIn profile, recent posts, company news, and role transition history in a single context window and generate outreach that references genuinely specific, timely details. The difference in output quality is not marginal — it is the gap between a message that reads as AI-generated and one that reads as researched.
+
+Market validation has also arrived. Clay (reportedly $6M ARR as of 2024, per public reporting — exact figure unverified), Apollo.io, and Lavender have collectively demonstrated enterprise willingness to pay $50–$200 per seat per month for AI-assisted prospecting, a price point CoffeeAI could not validate in 2022 before the market matured.
+
+Distribution infrastructure has improved materially. The Plasmo framework reduces Chrome extension development from weeks to days. Chrome Web Store organic discovery for productivity tools has improved. And LinkedIn's API restrictions, which tightened in 2023, have paradoxically created a moat for browser-extension-based tools: they remain viable while server-side scraping competitors face increasing legal and technical friction.
+
+The 269 surviving Chrome Web Store reviews (4.1/5) represent a free voice-of-customer dataset the original team never fully mined — a rebuilt product can prioritize accordingly.
+
+---
+
 ## Current Market Analysis
 
 **Market Size:** The global sales enablement software market was valued at approximately $2.6 billion in 2022 (source: Grand View Research). By 2025, estimates place it at $4.5–$5.5 billion, though precise 2026 figures are not yet available. The AI-powered sales tools subsegment is growing faster than the broader category, driven by enterprise adoption of generative AI workflows.
@@ -53,3 +65,11 @@ Shared Blueprint templates at the team level, with open/reply rate data fed back
 ---
 
 ## Go-to-Market Strategy
+
+**Target Customer Segment:** B2B SaaS companies with 10–100 employees running outbound sales motions, specifically SDR teams of 3–15 reps managed by a VP of Sales or Head of Sales who owns the tools budget. These buyers are sophisticated enough to understand signal-based outreach but lack the RevOps infrastructure to build Clay-style workflows. They are actively searching for tools that improve reply rates without requiring a dedicated data engineer. Geographic focus: US-based teams, with the founding team operating from or regularly visiting San Francisco to close the distribution gap that hurt the original CoffeeAI.
+
+**Primary Distribution Channel:** Chrome Web Store organic discovery, supplemented by direct community seeding in sales practitioner Slack communities (Pavilion, Revenue Collective, SDR Nation) and LinkedIn content from the founders demonstrating live signal-to-message workflows. The Chrome Web Store remains the highest-intent discovery channel for this buyer — a salesperson searching "AI LinkedIn outreach" is a warm lead. Unlike 2022, the Web Store now surfaces productivity tools more prominently in editorial collections, reducing paid acquisition dependency.
+
+**Pricing Strategy:** $49/seat/month (billed annually) with a 14-day free trial, no freemium tier. Minimum team size of 3 seats ($147/month floor). Justification: Clay and Lavender have validated $50–$200/seat/month willingness to pay in this segment. A freemium tier, which the original CoffeeAI likely used, attracts non-converting users and inflates install counts without improving revenue. The 3-seat minimum forces team-level evaluation, which accelerates the Blueprint Library feature's value demonstration and reduces single-user churn.
+
+**Differentiation vs. 2026 Competitors:** Clay requires a RevOps operator to configure; this product is designed for the SDR to use in 60 seconds. Apollo generates generic AI copy; this generates signal-specific copy with a documented quality rubric. Lavender coaches email quality after drafting; this generates the draft from a live trigger before the rep has opened a blank compose window. The positioning is "the outreach tool that knows why you're reaching out before you do."

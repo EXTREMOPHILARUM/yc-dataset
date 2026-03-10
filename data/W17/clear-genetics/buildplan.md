@@ -10,6 +10,18 @@ The go-to-market targets genetics department heads at 500–2,000 bed systems al
 
 ## Why Now?
 
+The single most important change since Clear Genetics' 2019 acquisition is the collapse of its acquirer. Invitae filed for bankruptcy in February 2023 and liquidated its assets, almost certainly deprecating or orphaning the Gia and Clinic Hub products. The workflow automation niche Clear Genetics built and validated—with named deployments at Geisinger and Huntsman Cancer Institute and 67,000 patients served at 92% satisfaction—now has no incumbent defending it. This is not a greenfield market; it is a proven market with a vacant throne.
+
+The second transformative change is the capability leap in conversational AI. Gia's 2017–2019 architecture relied on rule-based NLP that could handle structured flows but broke down on ambiguous questions, emotional responses, and clinical edge cases. GPT-4 (March 2023) and Claude 3 (March 2024) can conduct genuinely nuanced, multi-turn clinical conversations—explaining variant pathogenicity, navigating insurance questions, and responding to patient anxiety—at a quality level that was technically impossible when Clear Genetics was operating. This directly removes the core limitation that constrained Gia's clinical scope.
+
+Two regulatory changes further reduce friction that slowed the original company. The 21st Century Cures Act (2020) mandated FHIR R4 interoperability across certified EHR systems, replacing the custom integration work that would have consumed significant engineering resources in 2017–2019. A rebuilt platform can connect to Epic, Oracle Health, and athenahealth via standardized APIs on day one.
+
+The genetic counselor shortage has intensified structurally. The US had approximately 5,000 certified genetic counselors in 2019; the American Board of Genetic Counseling projects demand will continue outpacing supply through the 2030s. Genomic testing volumes have grown dramatically—specific current figures are not available in the research record, but the directional trend is unambiguous and well-documented. The bottleneck Clear Genetics targeted is larger today than when the company was founded.
+
+Additionally, voice AI (real-time speech-to-speech models, commercially available from ElevenLabs and OpenAI as of late 2024) now enables phone-based counseling automation, reaching elderly and low-literacy patients entirely outside the app-based chatbot paradigm Gia operated within.
+
+---
+
 ## Current Market Analysis
 
 ## Market Size

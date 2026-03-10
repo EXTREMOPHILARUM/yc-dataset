@@ -2,6 +2,18 @@
 
 ## Overview
 
+The single most important change since Orbiter's failure is the emergence of LLM-powered reasoning as a practical, affordable capability for small teams. In 2020, automated root cause analysis — explaining *why* a metric dropped, not just *that* it dropped — required either a large data engineering team or expensive proprietary ML infrastructure that Orbiter couldn't build on a pre-seed budget. GPT-4 (March 2023) and Claude 3 (March 2024) changed this equation entirely: a rebuilt Orbiter can now query a warehouse's metadata API, pull recent schema changes, inspect dbt model lineage, and ask an LLM to synthesize a plain-English explanation of a metric anomaly — all in a single API call costing fractions of a cent. This collapses what was previously a multi-engineer workflow into a product feature a two-person team can ship.
+
+The second structural shift is the standardization of the modern data stack. In 2020, the analytics ecosystem was fragmented across dozens of warehouse configurations, custom SQL dialects, and bespoke pipeline architectures. By 2026, the market has consolidated: Snowflake reported 9,820 customers as of fiscal year 2024 (Snowflake Q4 FY2024 earnings), BigQuery serves millions of projects, and Databricks crossed 10,000 customers in 2023. Each platform now exposes native metadata APIs, query history endpoints, and access logs — meaning a rebuilt Orbiter can achieve deeper, more reliable integrations in weeks rather than the months it would have taken in 2020.
+
+Critically, dbt has become the de facto transformation layer for mid-market data teams, with over 50,000 companies using dbt Cloud or dbt Core as of 2024 (dbt Labs, 2024). The dbt semantic layer and dbt Metrics codify business metric definitions in version-controlled YAML — a rebuilt Orbiter can hook directly into these definitions rather than inferring metrics from raw SQL, which was almost certainly a major source of false positives in Orbiter's original ML models.
+
+Distribution friction has also collapsed. Slack's Workflow Builder, Microsoft Teams' adaptive card ecosystem, and the normalization of bot-delivered operational alerts mean that a non-engineering team receiving an automated metric alert in 2026 requires zero change management. In 2020, this was a novel behavior that required selling. Today it is expected.
+
+The Slack App Directory currently lists over 2,600 apps with 750,000+ daily active users on the platform (Slack, 2023 — more recent figures not publicly available). The specific mid-market segment — companies with 50–500 employees on Snowflake or BigQuery with an active dbt project — is addressable through dbt's own partner ecosystem and Snowflake's partner marketplace, both of which did not exist as meaningful distribution channels in 2020.
+
+---
+
 ## Why Now?
 
 ## Current Market Analysis

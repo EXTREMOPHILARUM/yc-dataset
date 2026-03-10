@@ -10,6 +10,16 @@ The rebuild thesis is not to re-enter the consumer VPN market — that ship has 
 
 ## Why Now?
 
+The single most important change since CryptoSeal's failure is the commoditization of hardware-attested confidential computing. In 2011, Ryan Lackey had to build custom Trusted Computing infrastructure from scratch to guarantee server-side application integrity to remote users. In 2026, that infrastructure is a cloud API call. AWS Nitro Enclaves (launched November 2020), Azure Confidential Computing (GA December 2020), and Google Confidential VMs (GA September 2020) provide hardware-rooted execution environments where even the cloud provider cannot inspect running workloads. CryptoSeal's founding vision — cryptographically attested, tamper-evident secret management — is now buildable by a two-person team in a weekend, not a multi-year infrastructure project.
+
+The market that CryptoSeal was too early for has since produced billion-dollar validation. HashiCorp Vault, which launched in 2015 (four years after CryptoSeal's founding), was acquired by IBM for $6.4 billion in 2024. AWS Secrets Manager, launched in 2018, is now used by hundreds of thousands of AWS accounts (exact figure not publicly disclosed by AWS). The secrets management market is estimated at approximately $1.4 billion in 2024, projected to reach $4.2 billion by 2030 (MarketsandMarkets, 2024 — note: third-party market sizing figures should be independently verified before use in investor materials). Tom Sparks himself noted in 2018 that EnvKey was succeeding at exactly what CryptoSeal had attempted in 2011.
+
+The legal architecture has also shifted. The two-party relay model — used by Cloudflare WARP (launched April 2019) and Apple iCloud Private Relay (launched September 2021) — structurally defeats the Lavabit-style SSL key compulsion that killed CryptoSeal Privacy, because no single provider holds both user identity and traffic simultaneously. This design pattern is now well-documented and implementable.
+
+Distribution channels that did not exist in 2013 are now primary: the AWS Marketplace has over 300,000 active customers (AWS, 2023); the GitHub Marketplace reaches 100 million+ developers directly; and SOC 2 compliance requirements have made secrets management a procurement checkbox for any enterprise SaaS vendor, creating a pull-based sales motion that CryptoSeal's 2013 market entirely lacked.
+
+---
+
 ## Current Market Analysis
 
 **Market size:** The global secrets management market was approximately $1.4 billion in 2024 (MarketsandMarkets — verify independently). The adjacent confidential computing market is estimated at $5.4 billion in 2024, growing at roughly 45% CAGR through 2029 (Grand View Research — verify independently). For context, neither category existed as a named market segment when CryptoSeal operated in 2011–2014.

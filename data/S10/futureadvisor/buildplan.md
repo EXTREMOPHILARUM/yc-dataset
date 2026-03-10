@@ -12,6 +12,16 @@ We win by being the only product that lives inside the HR workflow, not a separa
 
 ## The single most important change: 401(k) data infrastructure has gone from a bespoke engineering problem to a commodity API layer.
 
+When FutureAdvisor built its 401(k) optimization feature in 2010–2012, aggregating fund menu data across thousands of employer plans required building proprietary data pipelines from scratch. That was a genuine technical moat — and also a genuine cost center. Today, Finicity (acquired by Mastercard, 2020), Plaid (launched investment data APIs, 2021), and Vestwell (launched recordkeeper API integrations, 2022) collectively provide real-time 401(k) account aggregation, fund menu data, and in some cases trade execution within plan limits. The infrastructure FutureAdvisor spent years and millions building is now available on a per-call pricing model. This collapses the time-to-MVP from 18+ months to roughly 90 days for the core data layer.
+
+**The distribution channel that didn't exist in 2010 now does.** Employer-sponsored financial wellness benefits have grown into a $1.5B+ market (SHRM, 2023 Employee Benefits Survey — exact figure cited in rebuild signals; independent verification of precise market size not confirmed in primary sources reviewed). Workday, ADP, and Gusto each operate app marketplaces or partner ecosystems through which benefits vendors reach HR buyers directly. Gusto's partner ecosystem alone covers 300,000+ small businesses. This is a fundamentally different acquisition model than digital advertising — it routes customers through a trusted employer relationship rather than a cold paid-search funnel.
+
+**LLM-powered financial coaching arrived at scale in March 2023 (GPT-4).** The ability to generate personalized, plain-language explanations of portfolio recommendations — "here is why the Fidelity Freedom 2045 fund in your 401(k) is costing you $1,200 per year more than the index alternative available in your plan" — was not feasible at consumer scale before large language models. This creates a premium coaching tier that justifies a higher fee than the 0.50% FutureAdvisor charged, addressing the unit economics problem directly.
+
+**Apex Fintech Solutions and DriveWealth** now offer API-first brokerage-as-a-service with fractional share support, eliminating the Fidelity/TD Ameritrade custody dependency that created onboarding friction in the original product.
+
+---
+
 ## Current Market Analysis
 
 **Market size:** The U.S. 401(k) market held approximately $7.4 trillion in assets across 70 million active participants as of year-end 2023 (Investment Company Institute, 2024 Factbook). The broader defined contribution market, including 403(b) and 457 plans, exceeds $10 trillion. The employer financial wellness benefits market is estimated at $1.5B+ (SHRM, 2023) — though this figure covers a broad category including student loan assistance, emergency savings, and financial coaching, not robo-advice specifically. Precise sizing of the 401(k)-specific personalized advice segment is not available in public sources reviewed.
@@ -74,3 +84,10 @@ The product is embedded as a financial wellness benefit within the HR platform t
 **Primary distribution channel:** Workday Marketplace, Gusto Partner Ecosystem, and ADP Marketplace — all three offer self-serve or lightly assisted listing processes for benefits vendors. The go-to-market motion is inbound from HR buyers browsing the marketplace, supplemented by direct outreach to benefits brokers (who influence 60–70% of mid-market benefits decisions, per industry estimates — exact figure not confirmed in primary sources reviewed). This is the structural CAC advantage the original FutureAdvisor never had.38:T711,
 
 ## Pricing strategy:
+
+- *Employer-paid tier:* $4–$8 per employee per month, billed to the employer as a benefits line item. This is consistent with pricing for other financial wellness benefits (emergency savings tools, student loan assistance platforms). The employer subsidy eliminates the consumer willingness-to-pay problem entirely — employees receive the product as a benefit, not a subscription they chose.
+- *Employee premium upgrade:* $15/month or 0.25% AUM for managed account automation (rebalancing, tax-loss harvesting). This is the individual upsell for employees who want hands-off management after seeing the free analysis.
+
+**Stress-test against free alternatives:** The primary free alternative is doing nothing — most 401(k) participants are in default target-date funds and receive no personalized advice. The secondary free alternative is the recordkeeper's own tools (Fidelity NetBenefits, Empower's dashboard), which offer fund performance data but no cross-account optimization or AI coaching. The employer-paid model sidesteps the consumer subscription objection entirely: the employee is not asked to pay monthly for something they currently get for free, because the employer is paying.
+
+**Differentiation vs. 2026 competitors:** Edelman Financial Engines wins on incumbent relationships with large plan sponsors but loses on UX, speed, and AI coaching. Betterment and Wealthfront win on brand in taxable accounts but have no within-plan 401(k) optimization product. The rebuild wins on the specific combination of: (1) works within any existing plan without asset transfer, (2) distributed through HR platforms at employer-subsidized CAC, and (3) LLM-powered personalized explanations that make the advice legible to non-experts — a combination no current competitor offers as a unified product.

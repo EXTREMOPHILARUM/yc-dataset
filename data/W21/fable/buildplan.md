@@ -10,6 +10,16 @@ The rebuild thesis is not to retry the sync layer — it's to solve the problem 
 
 ## Why Now?
 
+The single most important change since Fable's failure is the emergence of AI coding agents as a mainstream engineering workflow. Cursor crossed 1 million active developers in late 2024 (per Cursor's own public announcement); GitHub Copilot Workspace entered public beta in April 2024; Devin (Cognition AI) launched publicly in 2024 with enterprise contracts. These agents do not read Confluence pages or Notion docs — they consume tickets. And the quality of their output is directly, measurably constrained by the quality of the ticket they receive. This is a structurally new problem that did not exist when Fable operated, and it is one that Jira, Linear, and Notion are architecturally ill-positioned to solve because their editors are general-purpose, not spec-quality-enforcing.
+
+The second critical change is the Model Context Protocol (MCP), introduced by Anthropic in November 2024 and adopted by OpenAI, Google DeepMind, and major tool vendors through 2025. MCP allows an AI application to read from and write to Jira, Linear, GitHub, and other tools through a standardized interface — without brittle point-to-point API integrations. This directly eliminates the maintenance burden that likely consumed Fable's two-person engineering capacity. A rebuilt Fable can write structured tickets to any MCP-compatible tool with a single integration surface, not four separate ones.
+
+On market timing: the AI developer tools market was valued at approximately $4.7 billion in 2024 and is projected to reach $22.5 billion by 2030 (MarketsandMarkets, 2024 — exact figures should be independently verified before use in investor materials). The PM tooling segment specifically is harder to size precisely; the research report cites approximately 875,000 PMs in the U.S. alone, with global estimates exceeding 3 million.
+
+Distribution channels unavailable to Fable in 2022 now include: the **Linear Marketplace** (launched 2024), the **Cursor Plugin Directory**, the **GitHub Marketplace** with Copilot Extensions (opened to third parties in 2024), and the **Atlassian Marketplace** with AI app categories added in 2023–2024. Each of these channels places a spec-quality tool directly in front of the engineering workflow where the pain is now most acute.
+
+---
+
 ## Current Market Analysis
 
 **Market size today vs. 2021–2022:** The PM tooling market is not cleanly reported as a standalone segment. The broader project management software market was approximately $6.1 billion in 2021 (Grand View Research) and is estimated at $9–10 billion in 2024 — growth driven substantially by AI feature additions. The AI-augmented developer productivity segment is growing faster; specific figures for "spec tooling" as a category do not exist in available sources and should not be invented. What is documentable: Linear reported over 25,000 paying companies in 2024 (per their public blog), and Notion reported 20 million users in early 2022, a figure that has grown since. The addressable buyer pool is larger and better-funded than in 2022.

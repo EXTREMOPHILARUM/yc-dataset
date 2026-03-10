@@ -67,3 +67,13 @@ The first 500 members are invited exclusively from three sources: NeurIPS/ICML 2
 ---34:T95e,
 
 ## Go-to-Market Strategy
+
+**Target customer:** ML engineers with 3+ years of experience, globally distributed, who are either actively job-seeking or building a public research profile. Secondary customer: technical hiring managers at AI-native companies (Cohere, Mistral, AI startups) who are paying LinkedIn Recruiter fees ($8,000–$10,000/seat/year) and finding the signal quality inadequate for senior ML hires.
+
+**Primary distribution channel:** Hugging Face community + conference author lists. Hugging Face has over 500,000 registered users (2024 estimate; exact figure not independently verified) with public profiles that already function as partial reputation signals. Outreach to top contributors is warm, not cold — these users already care about professional reputation in the ML community. NeurIPS 2024 had approximately 16,000 attendees; the author list is public and filterable by institution.
+
+**Secondary channel:** Maven partnership. Maven hosts ML courses with paying cohorts of practitioners who have already demonstrated willingness to invest in professional development. A co-marketing arrangement (not confirmed; would require outreach) could seed the first 200–300 members.
+
+**Pricing:** $20/month for members (individual reputation profile + recommendation access); $500/month for recruiters (queryable access to verified profiles + direct introduction requests). The $20/month individual price stress-tests as follows: LinkedIn Premium Career costs $39.99/month and is widely perceived as low-value by engineers. Discord and Slack communities are free but offer no structured reputation output. The $20 price is justified only if the member receives a tangible career outcome — a better job offer, a speaking invitation, a co-founder introduction — traceable to their profile. This means the product must instrument and surface these outcomes explicitly, or churn will be high. If the product cannot demonstrate outcome attribution within 6 months of launch, the individual subscription price should be reconsidered.
+
+**Differentiation vs. 2026 competitors:** Polywork remains horizontal and unverified. LinkedIn remains generic and low-signal for technical roles. The rebuild's differentiation is vertical depth plus verification — not a better profile editor, but a trust graph that a hiring manager at a serious AI lab would treat as a primary signal rather than a supplementary one.

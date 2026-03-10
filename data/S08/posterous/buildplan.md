@@ -10,6 +10,16 @@ We win by being the fastest way to capture and share: one email address, no logi
 
 ## Why Now?
 
+The single most important change since Posterous failed is that the monetization problem is solved. Posterous ran for nearly four years on $10.14M in venture capital without establishing a durable revenue model, which meant that when traffic collapsed in 2011–2012, an acqui-hire was the only available exit. That constraint no longer exists. Substack has demonstrated $650M+ in valuation with 35M+ active subscriptions (as of 2023). Ghost processes $200M+ in creator revenue annually. Beehiiv reached a reported $33M ARR run rate by 2024 (exact current figures unavailable). The market has proven, repeatedly, that users will pay recurring fees for owned publishing infrastructure — a thesis Posterous never tested.
+
+The technical barriers that forced Posterous's awkward "accidental" design decisions have also collapsed. In 2008, Agarwal used a shared inbox (post@posterous.com) because he didn't know how to configure per-user mail routing. In 2026, Cloudflare Email Workers, AWS SES, and Make/Zapier allow a solo developer to build per-user email ingestion and routing in days. More consequentially, GPT-4 (March 2023) and Claude 3 (March 2024) can now automatically classify, format, tag, and summarize any email attachment — photos, PDFs, audio, video links — with high accuracy. The "post anything, it just works" promise Posterous made but struggled to execute cleanly across media types is now technically trivial to fulfill.
+
+Distribution channels unavailable in 2008–2012 now exist at scale. The Beehiiv referral network, Ghost's marketplace, and the Substack writer community represent concentrated populations of publishing-native users actively seeking better tools. iOS Shortcuts and Android share sheets eliminate the need to build proprietary mobile apps — a development overhead that consumed significant Posterous engineering resources between 2009 and 2011.
+
+Finally, Posthaven — Garry Tan's direct response to Posterous's failure, launched February 2013 — has demonstrated for over a decade that a small team charging a modest monthly fee with a "never sell" covenant can sustain a publishing service. The business model Posterous never committed to has a working proof of concept.
+
+---
+
 ## Current Market Analysis
 
 **Market size.** The personal publishing and creator tools market has expanded dramatically since 2012. Exact TAM figures for the specific "private and semi-private group publishing" niche targeted here are not publicly available, but adjacent signals are instructive: the broader creator economy was estimated at $250B+ globally in 2023 (Goldman Sachs), up from effectively zero as a recognized category in 2012. Email newsletter platforms alone — Substack, Beehiiv, ConvertKit — collectively serve tens of millions of paying subscribers.
@@ -64,3 +74,11 @@ Subscribers to any Space receive a clean, formatted email digest (daily or weekl
 ---
 
 ## Go-to-Market Strategy
+
+**Target customer segment.** The initial wedge is narrow and specific: adults aged 30–55 who currently use group iMessage threads or WhatsApp chats to share family updates, travel photos, or life milestones — and who find those formats ephemeral, unsearchable, and visually inadequate. This is not the "creator" audience chased by Substack and Beehiiv. It is the person who wants to share their kid's first year, a hiking trip, or a family reunion in a format that persists, looks good, and doesn't require recipients to join another social network. Secondary segment: small professional teams maintaining internal logs, field notes, or project diaries.
+
+**Primary distribution channel and tactics.** Launch on Product Hunt and Hacker News simultaneously (Show HN: "Email anything to publish it — rebuilt for 2026"). Seed with 200–300 beta users recruited from Posthaven's existing user base (publicly reachable via their site) and from Ghost/Substack communities where users explicitly discuss wanting simpler, more private tools. Run a "bring your family" referral mechanic: each new user gets a unique invite link; successful referrals extend their free trial by 30 days. Target parenting and family-oriented newsletters (exact publications to be identified; data not available) for sponsored placement.
+
+**Pricing strategy.** $8/month or $72/year (10% discount), with a 30-day free trial requiring no credit card. Justification: Posthaven charges $5/month and has sustained operations for over a decade with a small team, validating that this price point covers costs at modest scale. The $8 price point positions above Posthaven (differentiated by AI formatting and group spaces) and well below Ghost ($11–$25/month), which targets professional publishers. No free tier — consistent with the Posthaven lesson that free tiers create unsustainable cost structures and misaligned user expectations.
+
+**Differentiation vs. 2026 competitors.** Against Substack and Beehiiv: explicitly private-first, no audience-growth tools, no monetization layer. Against Ghost: zero setup friction, email-in publishing, no developer knowledge required. Against Posthaven: AI-powered media formatting, group spaces with audience controls, and mobile capture via share sheet. Against iMessage/WhatsApp group chats: persistent, searchable, beautifully formatted, accessible via browser to anyone with the link. The positioning statement: *"The fastest way to share anything with the people who actually matter — not the algorithm."*

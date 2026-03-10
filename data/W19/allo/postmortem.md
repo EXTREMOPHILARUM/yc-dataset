@@ -2,8 +2,6 @@
 
 ## Overview
 
-## Founding Story
-
 Catherine Hrdy came to Allo through a combination of elite academic credentials and a deeply personal experience of the problem she was trying to solve. She studied at Harvard University and earned her MBA from UC Berkeley's Haas School of Business, then built her professional career in enterprise software at athenahealth and TIBCO — companies known for complex, data-intensive platforms serving large institutional clients.<sup><a href="https://www.crunchbase.com/person/catherine-hrdy">[3]</a></sup><sup><a href="https://rocketreach.co/catherine-hrdy-email_92815426">[4]</a></sup> Neither role was in consumer social products or community-building, which made Allo a significant departure from her prior work.
 
 The founding insight was not drawn from a market analysis but from lived experience. As a new mother, Hrdy encountered firsthand the friction of coordinating practical support among nearby families — the logistical difficulty of finding a neighbor to watch a child for an hour, or arranging a carpool with parents whose kids attended the same school.<sup><a href="https://blog.ycombinator.com/17-companies-from-the-yc-w19-batch-part-4/">[5]</a></sup> This gave the company authentic problem-market fit at the individual level: the founder was the user, and the pain was real.
@@ -18,6 +16,8 @@ Allo was flagged by Crunchbase as both Women Founded and Women Led — a demogra
 
 ---
 
+## Founding Story
+
 ## Timeline
 
 - **2017 (low confidence):** Allo potentially founded, per PitchBook<sup>[[11]](https://pitchbook.com/profiles/company/265245-13)</sup>
@@ -27,9 +27,29 @@ Allo was flagged by Crunchbase as both Women Founded and Women Led — a demogra
 - **March 22, 2019:** Allo presents at YC W19 Demo Day; TechCrunch describes it as "a marketplace where parents can exchange babysitting and errand-running"<sup>[[14]](https://techcrunch.com/2019/03/22/top-yc-startups/)</sup>
 - **2019 (exact date unknown):** Allo winds down; no follow-on funding raised, no acquisition recorded; Catherine Hrdy's LinkedIn shows Allo tenure ending in 2019<sup>[[15]](https://www.linkedin.com/in/catherinehrdy/)</sup>
 
----2b:Te04,
+---2c:Te04,
 
 ## What They Built
+
+Allo was an iOS-first mobile application — with an additional presence in the Microsoft Store — that functioned as a private, geographically bounded favor-exchange network for families.<sup><a href="https://catherine-hrdy-x7ze.squarespace.com/">[16]</a></sup> The core product loop was simple: a parent could post a Request (asking for help with something specific) or an Offer (signaling availability to help others), and nearby families in their network could respond. The types of favors the app was designed to facilitate included babysitting, school carpool coordination, pet-sitting, and playdate arrangements — the recurring, low-stakes exchanges that define daily life for parents of young children.<sup><a href="https://www.ycombinator.com/companies/allo">[17]</a></sup>
+
+**The Karma System**
+
+The central mechanism for making this exchange sustainable was a Karma points system. Every new user started with 100 points. Users could earn additional Karma by posting offers or requests and by helping other members of their network. The system was designed to solve the free-rider problem inherent in any favor economy: without a tracking mechanism, the same people tend to give while others only take, which erodes trust and participation over time.<sup><a href="https://www.allocommunity.com/faq">[18]</a></sup> By making reciprocity visible and quantified, Allo attempted to create a lightweight social contract that would sustain the exchange loop.
+
+**Discovery via MapView**
+
+A second key feature was a MapView that allowed users to discover recommended new connections nearby. The matching logic incorporated overlapping interests, children's ages, and schools attended — the natural Venn diagram of compatibility for families with kids.<sup><a href="https://www.allocommunity.com/faq">[19]</a></sup> This addressed a real onboarding challenge: a new parent moving into a neighborhood has no existing social graph to draw on, and the MapView was intended to accelerate the formation of the trusted connections that would make the favor exchange meaningful.
+
+**Positioning Against Incumbents**
+
+Allo explicitly differentiated itself from Nextdoor and Facebook Groups. Where those platforms connect strangers within a geographic area, Allo positioned itself as a tool for people who already know each other — or who are in the process of forming genuine relationships — rather than a broadcast channel to anonymous neighbors.<sup><a href="https://www.allocommunity.com/faq">[20]</a></sup> The product was categorized under Communities, Internet, and Social Network verticals, and classified as a mobile-first company.<sup><a href="https://pitchbook.com/profiles/company/265245-13">[21]</a></sup>
+
+The product's brand language — "The modern family deserves a modern village" — was values-driven and targeted at millennial parents who understood the concept of a "village" as a cultural aspiration rather than a geographic reality.<sup><a href="https://blog.ycombinator.com/17-companies-from-the-yc-w19-batch-part-4/">[22]</a></sup> This framing was coherent and emotionally resonant, but it also implied a product that needed to deliver on a high-trust, high-warmth experience — a bar that is difficult to clear when the network is sparse.
+
+No product screenshots, onboarding flow documentation, or detailed UX records are available in the public domain. It is also unclear how the "people who already know each other" positioning was enforced technically — whether the app used an invite system, social graph import, or some form of trust verification.
+
+---
 
 ## Market Position
 
@@ -61,9 +81,17 @@ Allo's business model at the time of shutdown was not publicly documented. The p
 
 The most plausible monetization paths for a product like Allo — subscription fees for premium features, sponsored placements for family-oriented businesses, or a freemium model with enhanced discovery tools — were never publicly articulated. At the time of Demo Day in March 2019, the company was almost certainly pre-revenue, focused on user growth rather than monetization.<sup><a href="https://techcrunch.com/2019/03/22/top-yc-startups/">[14]</a></sup> The absence of a clear revenue model, combined with the non-transactional nature of the core product, would have made the path to sustainable unit economics difficult to articulate to investors evaluating the company post-Demo Day.
 
----2e:T5ab,
+---2f:T5ab,
 
 ## Traction
+
+During the Y Combinator batch period (January through March 2019), Allo reported growing more than 100% week-over-week in its target San Francisco neighborhoods.<sup><a href="https://blog.ycombinator.com/17-companies-from-the-yc-w19-batch-part-4/">[24]</a></sup> The geographic strategy was deliberately concentrated: the team chose to roll out neighborhood by neighborhood in San Francisco rather than attempting broad distribution — the correct approach for a density-dependent product, where thin coverage across many areas produces a worse user experience than deep coverage in a few.
+
+The 100%+ week-over-week growth figure, while striking as a percentage, almost certainly reflects a very small absolute user base. A product launching in January 2019 with a two-person team and no marketing budget would realistically begin with dozens of users, not thousands. Doubling from 20 to 40 to 80 users across a few neighborhoods is mathematically consistent with the reported growth rate but does not constitute the kind of density required to make the favor-exchange loop reliably useful for any given user on any given day.
+
+No data is available on absolute user counts, daily or monthly active user ratios, retention curves, or the frequency of completed favor exchanges. There is no evidence of geographic expansion beyond San Francisco, and no evidence that the growth rate reported during the batch sustained after Demo Day in March 2019.
+
+---
 
 ## Post-Mortem
 
@@ -122,8 +150,8 @@ The Microsoft Store presence is a minor but telling detail. Building and maintai
 9. [TechCrunch – Top YC Startups, March 22 2019](https://techcrunch.com/2019/03/22/top-yc-startups/)
 10. [CB Insights – Allo Financials](https://www.cbinsights.com/company/allo/financials)
 11. [PitchBook – Allo Company Profile](https://pitchbook.com/profiles/company/265245-13)
-12. [LinkedIn – Catherine Hrdy](https://www.linkedin.com/in/catherinehrdy/)32:T500,By 2026, Allo is a school-network-native coordination tool for elementary parents—not a broad neighborhood app, but a tight, verified community within a single school's parent base. The product solves one problem obsessively: matching parents who need practical help (carpool coverage, last-minute pickup, meal swaps) with parents who can provide it, all within a trust boundary that actually works.
+12. [LinkedIn – Catherine Hrdy](https://www.linkedin.com/in/catherinehrdy/)33:T500,By 2026, Allo is a school-network-native coordination tool for elementary parents—not a broad neighborhood app, but a tight, verified community within a single school's parent base. The product solves one problem obsessively: matching parents who need practical help (carpool coverage, last-minute pickup, meal swaps) with parents who can provide it, all within a trust boundary that actually works.
 
 The viability shift is AI-powered request matching. In 2019, Allo required manual browsing and messaging—friction that killed adoption in sparse networks. Now, parents post requests in natural language ("need pickup Tuesday 3pm, can babysit Friday evening"), and GPT-4o instantly surfaces compatible matches with transparent reciprocity tracking. The cold-start problem dissolves when matching is frictionless enough to work even with 50 active parents, not 5,000.
 
-The go-to-market is PTO partnerships at target schools—10 to 15 schools per metro, starting in Austin. Schools provide the trust gate (verified parent directory) and distribution (PTO email). Parents get a free, ad-free, family-only tool that actually reduces their logistics burden. Allo wins by being boring, practical, and genuinely useful within a bounded community—the opposite of social-feed sprawl.33:T881,
+The go-to-market is PTO partnerships at target schools—10 to 15 schools per metro, starting in Austin. Schools provide the trust gate (verified parent directory) and distribution (PTO email). Parents get a free, ad-free, family-only tool that actually reduces their logistics burden. Allo wins by being boring, practical, and genuinely useful within a bounded community—the opposite of social-feed sprawl.34:T881,

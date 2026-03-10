@@ -2,8 +2,6 @@
 
 ## Overview
 
-## Founding Story
-
 Gabrielle Chou arrived at Allure Systems with a track record that few first-time founders can match. She had already built and sold two companies: ChinaLOOP, a digital marketing platform she sold to Acxiom (NASDAQ: ACXM), and MOOD BY ME, which she exited in 2015.<sup><a href="https://shanghai.nyu.edu/academics/faculty/directory/gabrielle-chou">[1]</a></sup> That background in data-driven marketing and consumer behavior gave her a specific lens on the fashion eCommerce problem: brands were spending enormous sums on photography that still failed to convert shoppers, particularly those outside the narrow size range that traditional model shoots represented.
 
 The market gap Chou identified was both quantifiable and underserved. According to Y Combinator's own batch writeup, 67% of Americans wear a size 12 or above, yet 90% of online fashion catalogs do not represent these women.<sup><a href="https://blog.ycombinator.com/17-companies-from-the-yc-w19-batch-part-4/">[2]</a></sup> This was not merely a social equity observation — it was a commercial inefficiency. Brands were leaving conversion on the table by showing garments only on a single body type, and the cost of fixing that through traditional photography (hiring models across size ranges, booking studios, coordinating shoots) was prohibitive at scale.
@@ -13,6 +11,8 @@ To solve the technical side of that problem, Chou partnered with Jeremy Chamoux,
 From the start, the company operated across two geographies. Allure Systems Corp was headquartered in Brooklyn, New York, at 37 Greenpoint Avenue, while a fully owned French subsidiary — Allure Systems Research France — handled R&D in Paris.<sup><a href="https://www.cbinsights.com/company/allure-systems">[5]</a></sup><sup><a href="https://www.thefashionlaw.com/farfetch-sheds-light-on-ma-ai-tech-resale-ambitions-in-new-sec-filing/">[6]</a></sup> This dual structure likely reflected Chamoux's technical network and access to European computer vision talent, while the US headquarters positioned the company for enterprise sales to American and global fashion retailers. It also proved strategically useful for accessing French luxury industry relationships — a market where Allure would eventually find its most significant customer validation.
 
 On her personal website, Chou describes the founding mission in direct terms: building "a generative AI solution that produces images for the fashion industry thanks to architectures based on the CNN and GAN algorithms."<sup><a href="https://www.gabriellechou.net/about">[7]</a></sup> The company's selection into Y Combinator's Winter 2019 batch marked a major inflection point, prompting Chou to relocate to the United States for approximately three years to pursue the American enterprise market.<sup><a href="https://shanghai.nyu.edu/academics/faculty/directory/gabrielle-chou">[8]</a></sup>
+
+## Founding Story
 
 ## Timeline
 

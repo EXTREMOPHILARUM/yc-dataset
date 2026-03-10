@@ -6,11 +6,21 @@ Sqreen was a Paris-founded application security platform (2015–2021) that embe
 
 The rebuild thesis is not to fight that convergence — it is to exploit the gap it created. Datadog's acquisition validated the CNAPP category and set enterprise pricing that leaves the mid-market underserved; eBPF-based instrumentation now eliminates the per-language SDK burden that constrained Sqreen's original addressable market; and new regulatory mandates (SEC cybersecurity disclosure rules, EU AI Act) have converted "security nice-to-have" into "compliance necessity" for exactly the engineering-led companies Sqreen served best. The new version is a zero-agent-install, eBPF-native application security platform built for platform engineering teams, distributed through the Internal Developer Platform layer rather than competing head-on with Datadog for agent real estate.
 
----33:T971,
+---34:T971,
 
 ## Why Now?
 
 ## The single most important change since Sqreen's failure: eBPF has made language-specific agent distribution obsolete.
+
+Sqreen's original architecture required maintaining separate SDK integrations for six language runtimes (Ruby, Node.js, PHP, Go, Java, Python). Each integration was an engineering liability, a sales friction point, and a ceiling on addressable market — a company running Elixir or Rust was simply out of scope. eBPF (Extended Berkeley Packet Filter), now production-stable in Linux kernel 5.8+ (released August 2020) and battle-tested in tools like Cilium, Falco, and Pixie, enables kernel-level instrumentation of any application regardless of language, without modifying application code or deploying a language-specific library. A rebuilt Sqreen can instrument a polyglot microservices fleet — Go services, Python ML pipelines, Node.js APIs — with a single kernel-level probe. This is not an incremental improvement; it eliminates the primary engineering and sales bottleneck that constrained Sqreen's growth.
+
+**Regulatory tailwinds have created a new buying trigger that did not exist in 2021.** The SEC's cybersecurity disclosure rules (effective December 2023) require public companies to disclose material cybersecurity incidents within four business days and to describe their cybersecurity risk management processes in annual filings. The EU AI Act (phased enforcement 2024–2026) imposes security and auditability requirements on AI-integrated applications. These mandates convert application-layer security monitoring from an engineering preference into a compliance obligation with board-level visibility — a fundamentally different sales motion than Sqreen faced.
+
+**Market sizing:** The global CNAPP market — the Gartner-defined category that now encompasses what Sqreen called "Application Security Management" — was valued at approximately $7.9B in 2023 and is projected to reach $28.4B by 2030 (MarketsandMarkets, 2023; exact figures should be independently verified). Sqreen had to invent its category; a rebuild enters a validated, analyst-covered market with established buyer vocabulary.
+
+**Distribution infrastructure now exists.** The AWS Lambda Layers marketplace, Kubernetes admission controller ecosystem, and Helm chart repositories provide pre-existing instrumentation pathways that Sqreen had to build from scratch. The CNCF landscape lists 40+ security tooling projects with active contributor communities that a rebuild can integrate with rather than compete against.
+
+---
 
 ## Current Market Analysis
 

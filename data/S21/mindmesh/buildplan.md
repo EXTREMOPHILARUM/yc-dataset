@@ -10,6 +10,16 @@ We go after Series A–C product and engineering teams (50–500 people) who liv
 
 ## Why Now?
 
+The single most important change since Mindmesh's failure is the arrival of the Model Context Protocol (MCP) and standardized AI tool-use APIs, which collapsed what would have been a multi-year integration engineering roadmap into a configuration problem measurable in days. In 2021–2022, Mindmesh's "virtual desk" required brittle, custom-built read/write integrations with Gmail, Slack, Jira, Google Calendar, and Drive — each one a maintenance liability and a potential point of failure. Today, MCP-compatible agents can authenticate against and operate across all five of those surfaces with minimal custom code. This is not incremental improvement; it removes the foundational technical risk that made the original product commercially fragile.
+
+Layered on top of this, GPT-4 (March 2023) and its successors — including Claude 3.5 Sonnet (June 2024) and GPT-4o (May 2024) — can perform genuine semantic synthesis across heterogeneous, unstructured data sources within a single context window. The "big picture" aggregation that Mindmesh described aspirationally but could not reliably deliver is now a tractable engineering problem, not a research challenge.
+
+The PM tooling market has also provided commercial validation that was absent in 2022. Notion AI, Linear's AI features, and Productboard AI have demonstrated that product managers will pay for AI-assisted synthesis of fragmented information. The "AI for PM" category is no longer a hypothesis — it is a documented spending pattern.
+
+Distribution infrastructure has also matured. The Slack App Directory now lists 2,600+ apps with a documented enterprise procurement pathway. The Atlassian Marketplace serves 300,000+ customers globally (Atlassian, FY2024 annual report). Both channels provide direct access to the PM and knowledge worker persona Mindmesh originally targeted, without requiring cold outbound or Product Hunt spikes as the primary acquisition mechanism. Specific market size data for the 2026 productivity AI segment is not available at time of writing, but analyst estimates for AI-augmented work tools broadly exceeded $15B in 2024 (IDC, 2024 — exact figure should be verified before use).
+
+---
+
 ## Current Market Analysis
 
 The global project management and collaboration software market was estimated at approximately $6.7B in 2023 (Grand View Research — exact figure should be independently verified), up from roughly $5B in the early 2020s when Mindmesh operated. The more relevant adjacent market — AI-augmented productivity tools for knowledge workers — did not exist as a distinct category in 2021 and is now a primary investment and procurement priority across enterprise software buyers.

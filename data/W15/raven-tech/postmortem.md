@@ -98,6 +98,14 @@ Post-acquisition under Baidu, the business model shifted to hardware sales. The 
 
 ## Traction
 
+Music Flow reached the top 50 in the App Store within 30 hours of its launch—the clearest consumer traction metric available for any Raven Tech product.<sup><a href="https://kitrum.com/blog/the-inspiring-journey-of-jesse-lyu-ceo-and-founder-of-rabbit-inc/">[20]</a></sup> No download figures, active user counts, or retention data for Music Flow or Project Flow have been publicly disclosed.
+
+For the Raven H, the production figures tell the story: Baidu initially ordered 100,000 units but manufactured fewer than 10,000 due to poor sales and internal disagreements.<sup><a href="https://voicebot.ai/2018/06/05/baidu-is-about-to-stop-producing-the-most-intriguing-smart-speaker-on-the-planet/">[24]</a></sup> This represents a 90%+ shortfall against the initial production plan—a commercial failure by any measure. The actual number of units sold to consumers (as opposed to manufactured) is not publicly available, but the production collapse implies that sell-through was insufficient to justify continued manufacturing.
+
+Jesse Lyu's personal traction as a founder was more durable: Forbes China 30 Under 30 in 2015, Forbes Asia 30 Under 30 in 2016, and a $3M angel check secured in one minute on television.<sup><a href="https://kitrum.com/blog/the-inspiring-journey-of-jesse-lyu-ceo-and-founder-of-rabbit-inc/">[2]</a></sup> These signals reflect genuine founder credibility but also suggest that Raven Tech's fundraising success was partly a function of Lyu's salesmanship in a hype cycle, rather than product-market fit evidence.
+
+---
+
 ## Post-Mortem
 
 Raven Tech's failure has two distinct chapters: the pre-acquisition struggle to find product-market fit for Project Flow, and the post-acquisition collapse driven by strategic misalignment with Baidu. The second chapter destroyed the company faster and more completely than the first would have.

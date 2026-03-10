@@ -100,6 +100,16 @@ The target ACV (average contract value) is unknown. Given the enterprise-readine
 
 ## Traction
 
+Cardinal's traction signals are directionally positive but thin in the public record.
+
+The Product Hunt launch on September 20, 2023 received 97 upvotes and a 4.9/5 rating based on 10 reviews. <sup><a href="https://www.producthunt.com/posts/cardinal-6">[13]</a></sup> This is a modest but clean signal: the reviews were substantive (not generic), and at least one reviewer explicitly cited Cardinal as superior to Productboard for large-scale feedback management. <sup><a href="https://ai-productreviews.com/cardinal-review/">[24]</a></sup> The 97 upvotes, however, is not a strong virality signal — it indicates a warm reception among a small audience, not breakout growth.
+
+Weizmann's statement at launch — crediting "hundreds of product and GTM leaders" consulted during the prior six months — indicates extensive customer discovery. <sup><a href="https://www.linkedin.com/posts/nadavwiz_cardinal-your-ai-product-backlog-product-activity-7110167646813241344-FVDj/">[11]</a></sup> Whether those consultations converted to paying customers is unknown.
+
+In February 2024, YC featured Cardinal in its Top Gen AI startups list — a signal that YC viewed the company as a standout within its cohort. <sup><a href="https://x.com/cardinalappio">[14]</a></sup> This is a credibility signal, not a revenue signal, but it suggests Cardinal was among the more promising AI companies in the W23 batch.
+
+No ARR, paying customer count, retention data, or growth rate figures are available in the public record. The acquisition occurred before Cardinal would have needed to disclose these metrics in a fundraising context, which means the traction picture remains incomplete. What is clear is that Miro found the product and team valuable enough to acquire within 18 months of founding — which is itself a form of market validation, even if the financial terms remain undisclosed.
+
 ## Post-Mortem
 
 Cardinal's story is not a conventional post-mortem. The company did not fail — it was acquired. But the acquisition itself reveals the structural dynamics that made independent success unlikely, and the speed of the outcome raises legitimate questions about whether Cardinal could have built a durable standalone business.

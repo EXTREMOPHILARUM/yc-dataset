@@ -2,6 +2,17 @@
 
 ## Overview
 
+Sqreen was an application security platform founded in Paris in 2015 by Pierre Betouin and Jean-Baptiste Aviat, two former members of Apple's offensive security Red Team. The company built a lightweight microagent — analogous to an APM agent — that instrumented web applications from the inside, detecting and blocking attacks at runtime without the friction of traditional perimeter-based security tools. It operated from 2015 until its acquisition by Datadog in April 2021, having raised approximately $16–18M across three rounds and grown to roughly 800 customers.
+
+Sqreen's core failure as an independent company was structural, not operational: the architecture that made its product technically superior — an in-app agent surfacing security telemetry to a central platform — was identical to the architecture that observability platforms like Datadog were already deploying at scale. When the market began converging observability and security into unified platforms, Sqreen's standalone value proposition became a feature rather than a category.
+
+Datadog acquired Sqreen in April 2021 for a reported ~$220M (unconfirmed officially). <sup><a href="https://www.marketscreener.com/quote/stock/DATADOG-INC-65956839/news/Datadog-Inc-completed-the-acquisition-of-Sqreen-SAS-33444339/">[1]</a></sup> The technology became the foundation for Datadog's Application Security Management product. Jean-Baptiste Aviat joined Datadog post-acquisition. <sup><a href="https://www.linkedin.com/in/jeanbaptisteaviat/">[2]</a></sup> For investors who backed a ~$18M total raise, the outcome — if the $220M figure is accurate — represented a strong multiple, though the company never reached the independent scale its Series A suggested was possible.
+
+<report-gallery>
+<media-image src="https://www.techcompanynews.com/wp-content/uploads/2019/04/sqreen-team.png" alt="Sqreen team photo at Series A announcement, April 2019" caption="The Sqreen team at the time of their $14M Series A close in April 2019 — 500 customers protected, Greylock on the board, and a US office newly opened in San Francisco."></media-image>
+<media-image src="https://blog.smartbrain.io/wp-content/uploads/2023/12/1115-about-distributed-team-of-sqreen-an-interview-with-pierre-betouin-300x300.jpg" alt="Pierre Betouin, co-founder and CEO of Sqreen" caption="Pierre Betouin, Sqreen's CEO — a 9-year Apple Red Team veteran who described joining YC as a 'go big or go home' bet on US market entry."></media-image>
+</report-gallery>
+
 ## Founding Story
 
 Pierre Betouin joined Apple in 2006 and spent nine years leading the Red Team for Apple's Internet Services department — the internal group responsible for offensive security assessments, finding vulnerabilities before adversaries did, and designing protections for Apple's web-facing products. <sup><a href="https://www.ycombinator.com/companies/sqreen">[3]</a></sup> Jean-Baptiste Aviat worked alongside him in the same organization. By the time they left to found Sqreen in 2015, both had accumulated a depth of applied security knowledge that few startup founders in the space could match: they had spent nearly a decade thinking about how attackers actually exploit production web applications, not how security vendors marketed protection against them.

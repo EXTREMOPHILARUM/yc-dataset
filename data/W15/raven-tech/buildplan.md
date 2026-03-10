@@ -10,6 +10,20 @@ The go-to-market wins on distribution and trust. Launch inside WeChat (zero fric
 
 ## Why Now?
 
+The single most important change since Raven Tech's failure is the arrival of large language models capable of reliable multi-step task orchestration. GPT-4 (March 2023) and Claude 3 (March 2024) can parse complex, multi-intent natural language commands — "book me a table at a good Italian restaurant near my office, then get me a taxi there" — and execute them across services with dramatically higher accuracy than anything available in 2014–2016. This is not an incremental improvement; it eliminates the core technical bottleneck that made Project Flow unreliable and ultimately unsellable.
+
+The second structural unlock is the Model Context Protocol (MCP), introduced by Anthropic in late 2024, alongside mature agentic frameworks including LangChain and LlamaIndex. These provide standardized infrastructure for connecting LLMs to third-party services — replacing the bespoke "shell-free architecture" Raven Tech had to engineer from scratch, and reducing the integration cost of multi-service orchestration by an estimated order of magnitude (exact figure unavailable, but the shift from hand-coded to protocol-standardized integrations is qualitatively transformative).
+
+On the hardware side, on-device speech recognition — including Apple's Whisper-derived models and Google's Universal Speech Model — now achieves greater than 95% word error rate accuracy in Mandarin Chinese at low latency without cloud dependency, resolving the reliability and privacy constraints that plagued voice-first products in China during Raven Tech's operating years.
+
+Market validation that was entirely absent in 2015 now exists. The global smart speaker market has shipped over 500 million cumulative units by 2023 (Statista), proving consumer willingness to adopt voice-first home interfaces. More directly, the Rabbit R1's January 2024 launch generated $10M in preorders at $199, demonstrating that consumers will pay for dedicated AI hardware outside the smartphone paradigm — the precise hypothesis Raven Tech could not prove.
+
+Distribution infrastructure has also matured. China's WeChat Mini Program ecosystem and Alipay's open APIs now expose standardized interfaces for booking, payment, and navigation — services that Raven Tech would have had to negotiate proprietary integrations for one by one in 2015. Globally, the Shopify App Store (2M+ merchants) and Apple's App Store developer ecosystem provide software distribution channels unavailable at Raven Tech's founding.
+
+The vision was correct. The decade is now.
+
+---
+
 ## Current Market Analysis
 
 ## Market Size

@@ -6,9 +6,23 @@ By 2026, 20n is a cloud-native AI platform that turns target molecules into vali
 
 The viability shift is structural: AlphaFold solved protein structure prediction, making enzymatic pathway design computationally tractable. Simultaneously, cloud lab APIs (Emerald, Strateos) eliminated the need for in-house fermentation. The original 20n died waiting for industrial biotech to move at software speed. This version wins by removing that friction—validation happens in parallel, not sequentially, compressing the sales cycle from 18 months to 90 days.
 
-The go-to-market is direct: land one mid-market customer with a high-value molecule, prove 70% pathway success rates in cloud validation, and expand into their ingredient roadmap. Undercut Ginkgo on speed and capital efficiency while staying focused enough to own the "fast pathway discovery" niche before the incumbents build it themselves.33:T87a,
+The go-to-market is direct: land one mid-market customer with a high-value molecule, prove 70% pathway success rates in cloud validation, and expand into their ingredient roadmap. Undercut Ginkgo on speed and capital efficiency while staying focused enough to own the "fast pathway discovery" niche before the incumbents build it themselves.34:T87a,
 
 ## Why Now?
+
+The single most important change since 20n's failure is the collapse of the protein structure prediction bottleneck. In 2015, predicting whether a candidate enzyme would actually catalyze a target reaction required expensive, slow experimental structural biology. AlphaFold2 (July 2021) and ESMFold (October 2022) now predict protein 3D structure from amino acid sequence with near-experimental accuracy at effectively zero marginal cost. This directly removes the core scientific uncertainty that made 20n's pathway predictions probabilistic guesses rather than high-confidence designs—and it means a rebuilt platform can rank candidate enzymatic routes by predicted structural compatibility, not just by literature co-occurrence.
+
+Three additional infrastructure shifts compound this advantage:
+
+**Wet lab automation closes the CRO bottleneck.** Emerald Cloud Lab, Strateos, and Arctoris now offer programmatic API access to robotic wet lab execution. A software-first team can submit organism designs, receive fermentation results, and iterate—without managing a CRO relationship or waiting weeks for scheduling. This directly addresses the validation bottleneck that structurally disadvantaged 20n against Ginkgo Bioworks' in-house Foundry.
+
+**DNA synthesis costs have dropped 10x.** From ~$0.50/base pair in 2015 to under $0.05/base pair in 2024 (Twist Bioscience pricing, publicly available), the cost of physically testing a predicted DNA design has fallen dramatically, compressing the unit economics of each validation cycle.
+
+**Policy tailwinds now exist.** The Inflation Reduction Act (2022) and EU Green Deal create direct financial incentives for bio-based chemical manufacturing. The "sustainable production from sugar" value proposition that 20n had to argue for in 2015 now has procurement mandates and tax incentives behind it—reducing the sales cycle friction at the customer's end.
+
+Distribution channel available now that did not exist in 2015: Ginkgo Bioworks' Codebase marketplace, which connects biodesign tools with Ginkgo's network of industrial customers, offers a direct route to qualified buyers that 20n had to build from scratch.
+
+---
 
 ## Current Market Analysis
 

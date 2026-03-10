@@ -78,6 +78,40 @@ No revenue figures, pricing information, or customer counts are available from a
 
 ## Post-Mortem
 
+Anchor Health left no post-mortem, no founder interviews, and no public documentation of what went wrong. The analysis below is constructed from structural evidence — the team size, funding amount, product scope, and market characteristics — rather than from direct testimony. It should be read as an informed inference, not a confirmed account.
+
+### Insufficient Capital for the Scope of the Problem
+
+The most immediate and concrete constraint on Anchor Health was money. The company raised approximately $125,000 in total funding,<sup><a href="https://pitchbook.com/profiles/company/226130-14">[15]</a></sup> consistent with a standard YC seed check of the era and nothing beyond. For a company building a combined software, hardware, and operations platform in a regulated industry, this figure represents an extremely constrained runway.
+
+In San Francisco in 2016, $125,000 would cover roughly six to nine months of living expenses for two founders, with little left over for hardware development, manufacturing, regulatory compliance work, or sales. Hardware alone — even a simple connected device — typically requires tens of thousands of dollars in engineering, prototyping, and initial production runs before a single unit reaches a customer. Software development for a healthcare product requires compliance with HIPAA privacy and security rules, adding legal and engineering costs that a general-purpose SaaS product would not face.
+
+No follow-on funding round was identified in any database reviewed.<sup><a href="https://www.crunchbase.com/organization/anchor-health">[16]</a></sup> This strongly suggests the company did not achieve the customer traction or product milestones that would have attracted a Series A investor. The absence of any fundraising announcement — even a failed one — is consistent with a team that ran out of runway before reaching a fundable milestone, or that chose not to pursue additional capital after concluding the path forward was not viable.
+
+### A Two-Person Team Attempting a Three-Layer Product
+
+Anchor Health's product description — software, hardware, and operating solutions — describes a scope that would challenge a well-funded team of twenty, let alone two founders.<sup><a href="https://www.ycombinator.com/companies/anchor-health">[17]</a></sup> Each layer represents a distinct discipline: software engineering, hardware design and manufacturing, and service delivery operations. Executing all three simultaneously requires not just technical breadth but also the organizational capacity to manage vendors, support customers, and iterate on multiple product surfaces at once.
+
+Ryan Martin's background as a JD-trained CTO<sup><a href="https://rocketreach.co/ryan-martin-email_756200635">[18]</a></sup> suggests the team may have had legal and regulatory fluency — genuinely valuable in healthcare — but potentially at the cost of deep engineering execution capacity. Jennifer Ma's background is entirely unknown, making it impossible to assess whether the team's combined skills were sufficient for the technical demands of the product. What is clear is that two people, regardless of their individual capabilities, face hard limits on how much they can build and sell simultaneously.
+
+The likely outcome of this constraint was that the team was forced to make difficult choices about which layer to prioritize, potentially delivering a product that was incomplete on one or more dimensions. A home health agency evaluating a new platform would need confidence that the software was reliable, the hardware was functional, and the operational support was available — a bar that is difficult to clear with a two-person team still in development.
+
+### A Slow-Moving, Heavily Regulated Market
+
+Home health care agencies are structurally difficult customers for early-stage startups. They operate on thin margins — Medicare and Medicaid reimbursement rates are set by regulation, not negotiated — which limits their willingness to pay for new technology. They are subject to extensive federal and state oversight, which makes administrators risk-averse about adopting unproven systems that could create compliance exposure. And they are often small businesses whose owners are clinicians by training, not technology buyers, making the sales process educational as well as transactional.
+
+The electronic visit verification (EVV) mandate under the 21st Century Cures Act, which required home health agencies to implement digital visit tracking, was signed into law in December 2016 — potentially creating a compliance-driven demand signal for Anchor Health's product. However, the mandate's implementation deadlines were repeatedly delayed, and many states did not enforce EVV requirements until 2019 or later. If Anchor Health was counting on regulatory pressure to accelerate adoption, the timeline would have been far slower than anticipated.
+
+No evidence exists that Anchor Health closed any paying customers, but the absence of evidence is not conclusive. What is clear is that the company generated no press coverage, no community discussion, and no public product presence — suggesting it never achieved a public launch or meaningful scale.
+
+### A Quiet End With an Unresolved Footnote
+
+Anchor Health is listed as inactive on the YC company directory,<sup><a href="https://www.ycombinator.com/companies/anchor-health">[19]</a></sup> with no active job postings.<sup><a href="https://www.ycombinator.com/companies/anchor-health/jobs">[20]</a></sup> PitchBook records a possible acquisition on December 1, 2021,<sup><a href="https://pitchbook.com/profiles/company/226130-14">[21]</a></sup> but the acquirer is not disclosed and the nature of any transaction is unknown. This record could represent a genuine acquisition of the company's technology or team, an asset sale at minimal value, or a data artifact with no corresponding real-world event.
+
+If the acquisition is real, it suggests the company survived in some form for approximately five years after the W16 batch — longer than a typical fast failure, but with no public evidence of growth, product development, or commercial activity during that period. Ryan Martin's subsequent career trajectory — moving to Loop11 and then to a Managing Director role at MW Founders in Durham, NC<sup><a href="https://rocketreach.co/ryan-martin-email_756200635">[22]</a></sup> — is consistent with a founder who concluded that the Anchor Health path was not viable and moved on, whether through a quiet wind-down or a low-value exit.
+
+The most likely narrative is that Anchor Health exhausted its YC funding within the first year, was unable to raise follow-on capital due to insufficient traction, and either shut down quietly or sold its assets for a nominal sum years later. The absence of any public record of the company's activities after 2016 is the most telling data point available.
+
 ## Key Lessons
 
 - **Scope must match resources at the seed stage.** Anchor Health attempted to build software, hardware, and an operations layer simultaneously with two founders and approximately $125,000 in funding.<sup><a href="https://pitchbook.com/profiles/company/226130-14">[23]</a></sup> Each additional product layer multiplies the capital, time, and talent required to reach a shippable product. Early-stage companies in complex markets are generally better served by identifying the single highest-value layer and building credibility there before expanding scope.

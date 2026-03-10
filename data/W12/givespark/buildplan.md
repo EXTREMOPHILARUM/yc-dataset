@@ -10,6 +10,18 @@ The go-to-market angle: land through talent management platforms and creator net
 
 ## Why Now?
 
+The single most important change since GiveSpark's failure is the professionalization of the creator economy, which has transformed celebrity digital monetization from an ad hoc relationship problem into a standardized infrastructure problem. In 2012, convincing a celebrity to participate in a charity campaign required navigating personal managers, unproven digital payment rails, and zero precedent for fan-to-cause transactions. In 2026, that supply-side friction has been systematically dismantled.
+
+Cameo processed over $100M in celebrity-fan transactions by 2021 (per public reporting), training thousands of celebrities and their management teams to accept digital campaign requests through structured workflows. Talent agencies including WME and CAA now have dedicated creator monetization desks. This means the cold-start celebrity onboarding problem that almost certainly killed GiveSpark's post-Demo Day pipeline is now a solved category — not a novel negotiation.
+
+On the payment infrastructure side, Stripe Connect (launched 2012, matured by 2016) and Stripe Climate (launched 2020) have reduced the technical complexity of routing funds between fans, celebrities, and nonprofits to near-zero. A solo founder in 2012 faced genuine engineering overhead building compliant charitable payment flows; a 2026 team does not.
+
+Distribution has also shifted decisively. TikTok's native donation stickers (launched 2020) demonstrated that fans will donate directly inside a social feed — validating GiveSpark's core thesis in a format that didn't exist when Teplow pitched. The influencer marketing industry reached approximately $21B in 2023 (Influencer Marketing Hub), generating standardized campaign contracts and MCN relationships that a rebuilt GiveSpark can plug into rather than build from scratch.
+
+GoFundMe surpassed $9B in total platform donations by 2020, confirming that online charitable giving at consumer scale is no longer a behavior that needs to be created — it needs to be redirected.
+
+---
+
 ## Current Market Analysis
 
 Total U.S. charitable giving reached approximately $499B in 2022 (Giving USA 2023), up from $316B in 2012 — a 58% increase. Online giving's share of that total has grown substantially, though precise 2026 figures are not available at time of writing. The influencer-driven fundraising niche remains difficult to size independently, as it is fragmented across platform-native tools, standalone campaigns, and agency-managed efforts.

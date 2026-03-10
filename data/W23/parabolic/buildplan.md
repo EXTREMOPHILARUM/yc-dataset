@@ -10,6 +10,16 @@ The go-to-market angle is simple: sell to revenue ops and customer success leade
 
 ## Why Now?
 
+The single most important change since Parabolic's failure is the maturation of fine-tuning and retrieval-augmented generation (RAG) APIs, which now make customer-specific model personalization feasible for a two- to three-person team at a fraction of the 2023 infrastructure cost. OpenAI's fine-tuning API (generally available September 2023) and Anthropic's model customization offerings allow a small team to build genuinely company-specific response models without the MLOps overhead that would have consumed Parabolic's entire $500K budget. This directly addresses the core technical constraint that made Parabolic's self-improving feedback loop more architectural promise than shipped reality.
+
+The competitive landscape has also clarified in a way that creates a defensible wedge. Intercom Fin (launched March 2023), Zendesk AI Suite (Q1 2023), and Freshdesk Freddy AI have all converged on the same product: a general-purpose autonomous bot optimized for deflection. None has meaningfully built the revenue-generating side of the support interaction. Gorgias, focused exclusively on e-commerce, has moved toward revenue attribution for support—validating demand in one vertical—but leaves mid-market SaaS companies entirely unserved.
+
+Distribution infrastructure has also matured. The Salesforce AppExchange hosts 7,000+ apps with access to Salesforce Service Cloud's enterprise customer base. HubSpot's App Marketplace now reaches 228,000+ customers (HubSpot reported figure, 2024). These channels did not exist as viable go-to-market paths for a seed-stage AI tool in early 2023 the way they do today.
+
+Reverse-ETL tooling—Census, Hightouch, and dbt—has standardized the Snowflake and Segment integrations that Parabolic listed as features but likely struggled to maintain at two-person team scale, reducing the engineering cost of the personalization layer to weeks rather than months. Specific market size data for the AI customer support sub-segment in 2026 is not available in the research corpus; the broader customer service software market was $11.5B in 2023 growing at ~15% CAGR.
+
+---
+
 ## Current Market Analysis
 
 The global customer service software market was valued at approximately $11.5 billion in 2023, growing at roughly 15% CAGR per the research report. Extrapolating to 2026 suggests a market approaching $17–18 billion, though this figure is a projection rather than a sourced data point and should be treated accordingly. The AI-augmented support sub-segment—Parabolic's specific layer—is growing faster than the overall market, driven by enterprise budget reallocation from headcount to tooling. Specific 2026 sub-segment sizing is not available in the research corpus.

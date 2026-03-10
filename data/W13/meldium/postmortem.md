@@ -102,6 +102,14 @@ The model was designed for self-serve adoption. There is no evidence of a direct
 
 ## Traction
 
+Meldium demonstrated genuine early traction before its public launch. The company had paying customers before YC Demo Day, including at least one company with 250 employees—the maximum addressable by its highest pricing tier.<sup><a href="https://techcrunch.com/2013/02/25/meldium/">[9]</a></sup> This pre-launch validation was meaningful: it indicated that the product solved a real problem for real organizations, not just early adopters experimenting with free tools.
+
+By the time of the LogMeIn acquisition in September 2014, Jabes characterized the user base as "thousands of early-adopters."<sup><a href="https://www.globenewswire.com/news-release/2014/09/04/663764/10097111/en/LogMeIn-Acquires-Meldium-to-Add-Single-Sign-On-SSO-to-IT-Management-Portfolio.html">[23]</a></sup> Whether "thousands" referred to paying customers or included free-tier users is ambiguous. LogMeIn's concurrent statement that Meldium's revenue would not materially impact its financials suggests the paying customer count was in the hundreds rather than thousands, or that average contract values were low enough to keep total ARR modest.<sup><a href="https://www.securityweek.com/logmein-acquires-meldium-15-million-cash/">[22]</a></sup>
+
+LogMeIn explicitly praised Meldium's growth rates at the time of acquisition, which implies the trajectory was positive even if the absolute numbers were small.<sup><a href="https://www.securityweek.com/logmein-acquires-meldium-15-million-cash/">[22]</a></sup> The team remained fewer than 10 employees through acquisition,<sup><a href="https://www.securityweek.com/logmein-acquires-meldium-15-million-cash/">[24]</a></sup> suggesting either deliberate capital efficiency—the company had raised only approximately $1 million total<sup><a href="https://tracxn.com/d/companies/meldium/__36ZHblnKcMZJjVPSU0SSZKalAHD4kyGbgSLTzpgUazk/funding-and-investors">[25]</a></sup>—or a go-to-market motion that had not yet scaled beyond the founding team's direct network. The product's app coverage growth from 150 to 1,500 in 19 months is the clearest quantitative signal of active development and product investment during this period.
+
+---
+
 ## Post-Mortem
 
 Meldium's story does not fit the conventional startup failure template. The product worked. Customers paid for it. The team exited for $15 million in 25 months on $1 million raised. The company's end was not a market verdict—it was a portfolio rationalization by an acquirer who subsequently bought a larger competitor. Understanding what happened requires separating the company's independent trajectory from the decisions made by LogMeIn after the acquisition.

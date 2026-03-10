@@ -2,6 +2,18 @@
 
 ## Overview
 
+The single most important change since Fabius's original failure is the commoditization of LLM inference. In 2022, extracting structured MEDDPICC qualification data from unstructured call transcripts required expensive custom NLP pipelines that a two-person team could not realistically build and maintain. GPT-4 (March 2023) and Claude 3 (March 2024) demonstrated that this extraction is now a prompt-engineering problem, not a machine learning infrastructure problem. The engineering cost to build Fabius's core scoring feature has dropped by an order of magnitude.
+
+Three additional timing factors compound this shift:
+
+**Gong's pricing has created a structural gap.** Gong charges approximately $1,200–$1,600 per seat per year (exact current pricing not publicly confirmed for 2026, but consistent with reported ranges from 2023–2025). This prices out any sales organization under roughly 50 reps, leaving a large mid-market and SMB segment with no methodology-enforcement tooling. The sales enablement software market was estimated at $2.6 billion in 2023 (MarketsandMarkets); current 2026 figures are not available in this report.
+
+**Adjacent products have validated the demand.** Tools like Momentum (CRM auto-population via Slack) and Orum (AI-assisted dialing with live coaching) have raised meaningful rounds and found paying customers, confirming that sales teams will pay for automated workflow enforcement as a standalone product — not just as a feature inside Gong.
+
+**Distribution infrastructure now exists.** The HubSpot App Marketplace (with 200,000+ customers as of 2024, per HubSpot's public reporting) and Salesforce AppExchange provide inbound discovery channels that did not exist as viable SMB distribution paths for a two-person team in 2023. Fabius's original go-to-market was entirely founder-led outbound; that constraint is now addressable.
+
+---
+
 ## Why Now?
 
 ## Current Market Analysis

@@ -6,9 +6,23 @@ By 2026, Selfycart is a mobile scan-and-go platform purpose-built for independen
 
 The viability shift: POS integration is no longer a bottleneck. Standard AI and Grabango have commoditized loss prevention APIs, eliminating the need to build proprietary computer vision. Meanwhile, Walmart and Sam's Club proved scan-and-go behavior at scale—but locked it behind their own ecosystems. Independents are desperate for the same experience without the hardware cost or vendor lock-in.
 
-Go-to-market is direct: target independent grocers through the National Grocers Association and regional trade shows. Charge $799/month per location (no consumer fees), undercut hardware-based competitors like Caper Cart, and win on speed of deployment and unit economics. The insight is simple—independents have the same checkout pain as big-box retailers, but none of the capital to solve it. Selfycart solves it with software.33:T7f1,
+Go-to-market is direct: target independent grocers through the National Grocers Association and regional trade shows. Charge $799/month per location (no consumer fees), undercut hardware-based competitors like Caper Cart, and win on speed of deployment and unit economics. The insight is simple—independents have the same checkout pain as big-box retailers, but none of the capital to solve it. Selfycart solves it with software.34:T7f1,
 
 ## Why Now?
+
+The single most important change since Selfycart's failure is the **collapse of the merchant integration problem**. In 2016, CTO Erick Lee identified connecting to legacy retail POS and inventory systems as the hardest engineering challenge — a custom project for every new store that consumed the entire two-person team. That bottleneck no longer exists at the same severity. Stripe Terminal, Square for Retail, and Lightspeed now offer pre-built APIs that abstract away back-end heterogeneity across POS systems, transforming what was weeks of custom integration work per merchant into days of configuration work.
+
+The second structural shift is **consumer behavior normalization**. Sam's Club's Scan & Go reached 30%+ adoption among members by 2022 (per Sam's Club public reporting), proving that the scan-as-you-shop behavior Selfycart assumed in 2016 is now demonstrated and habitual in a large, measurable shopper segment — not a speculative behavior change requiring consumer education.
+
+On the payments side, Apple Pay is accepted at over 90% of U.S. retailers as of 2023 (Apple), and Google Wallet NFC is active on the majority of Android devices. The payment enrollment friction that was a genuine barrier in 2016 is effectively gone.
+
+The loss prevention dependency — the human store associate checking QR codes at exit — can now be replaced. Computer vision loss prevention is available as an API service through Standard AI and Grabango, removing the staffing requirement that undermined Selfycart's labor-cost savings pitch to retailers.
+
+Finally, the independent grocery sector is now actively seeking checkout technology rather than needing to be convinced. The National Grocers Association reported in 2022 that independent grocers' technology investment increased significantly post-COVID, and Instacart's Caper Cart has signed hundreds of independent grocers — the exact customer segment Selfycart originally targeted.
+
+The market timing that Dalton Caldwell called "inevitable" in 2016 has arrived.
+
+---
 
 ## Current Market Analysis
 
@@ -26,7 +40,7 @@ Go-to-market is direct: target independent grocers through the National Grocers 
 
 **Demand Signals:** Ibotta's 2024 IPO at a $2.7B valuation and Fetch Rewards' growth validate that loyalty and cashback models funded by retailer data monetization are proven and investor-legible — directly validating Selfycart's analytics value proposition as a primary revenue driver rather than a feature.
 
----35:T87e,
+---36:T87e,
 
 ## Recommended MVP
 

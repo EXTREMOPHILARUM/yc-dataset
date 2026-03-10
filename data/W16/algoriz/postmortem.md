@@ -2,8 +2,6 @@
 
 ## Overview
 
-## Founding Story
-
 Soraya Taghavi spent four years as a Vice President and Strategist at Goldman Sachs from April 2010 to March 2014, working directly on trading floors where she observed a persistent structural problem.<sup><a href="https://contactout.com/Soraya-Taghavi-1990366">[1]</a></sup> Traders with sophisticated market intuitions — people who understood when and why to move on a position — routinely lacked the programming skills to encode those intuitions into automated algorithms. The gap between "I have an idea" and "I have a working algorithm" required either a technical co-pilot or months of learning to code. Neither was practical at the speed of markets.
 
 After Goldman Sachs, Taghavi moved to Millennium Partners, where she served as Head of Energy Commodities Data Analytics from December 2013 to December 2015.<sup><a href="https://contactout.com/Soraya-Taghavi-1990366">[2]</a></sup> The same problem persisted in a different context. Taghavi held a PhD in Electrical Engineering from the University of Southern California, completed between 2006 and 2010, which gave her the technical foundation to actually build the natural language processing engine the solution would require.<sup><a href="https://www.crunchbase.com/person/soraya-taghavi">[3]</a></sup> She was, in other words, one of the few people who had both observed the problem from the inside and possessed the skills to address it.
@@ -13,6 +11,8 @@ As TechCrunch reported in March 2017, Taghavi "previously worked in trading at G
 The company was built by alumni of Goldman Sachs and Millennium Partners, giving it immediate credibility with its target market.<sup><a href="https://www.crunchbase.com/organization/algoriz">[6]</a></sup> YC's own company page lists a team size of four, though only Taghavi is publicly identified as a founder.<sup><a href="https://www.ycombinator.com/companies/algoriz">[7]</a></sup> The remaining team composition has never been publicly documented.
 
 One data discrepancy is worth noting. Y Combinator's own company page lists Algoriz as a Winter 2016 (W16) batch company, while TechCrunch's March 2017 coverage and the YC W17 Demo Day roundup both describe Algoriz as a W17 participant.<sup><a href="https://techcrunch.com/2017/03/20/yc-demo-day-winter-2017/">[8]</a></sup> The most likely explanation is that Algoriz was accepted into the W16 batch but presented publicly at the W17 Demo Day — or that a data entry error propagated across secondary sources. This report treats the YC W16 acceptance as accurate and the March 2017 Demo Day presentation as the company's primary public milestone.
+
+## Founding Story
 
 ## Timeline
 
@@ -76,9 +76,17 @@ The key competitive differentiation Algoriz claimed was the NLP translation laye
 
 Algoriz's intended revenue model had two components. The primary model was a tiered subscription: a free "Lite" plan to drive user acquisition, a "Professional" plan at $29/month, a "Premium" plan at $69/month, and an "Enterprise" plan at custom pricing for institutional clients.<sup><a href="https://captainaltcoin.com/algoriz-review/">[22]</a></sup> The secondary model — planned but apparently never implemented — was brokerage revenue: users who traded through Algoriz as their broker would use the platform for free, with Algoriz earning on order flow or brokerage commissions.
 
-The math on the subscription model was challenging. Even if all 500 professional traders reported at Demo Day converted to the highest retail tier ($69/month), monthly revenue would reach approximately $34,500 — insufficient to sustain a four-person fintech team in New York City without additional funding. Converting the $200 million hedge fund LOI to a paying Enterprise contract would have changed the economics materially, but no evidence exists that this conversion occurred. The institutional sales cycle — compliance review, security audits, legal negotiation — typically runs three to twelve months, a timeline incompatible with a startup operating on a $120,000 seed round.2e:T65e,
+The math on the subscription model was challenging. Even if all 500 professional traders reported at Demo Day converted to the highest retail tier ($69/month), monthly revenue would reach approximately $34,500 — insufficient to sustain a four-person fintech team in New York City without additional funding. Converting the $200 million hedge fund LOI to a paying Enterprise contract would have changed the economics materially, but no evidence exists that this conversion occurred. The institutional sales cycle — compliance review, security audits, legal negotiation — typically runs three to twelve months, a timeline incompatible with a startup operating on a $120,000 seed round.2f:T65e,
 
 ## Traction
+
+At the YC W17 Demo Day in March 2017, Algoriz reported 500 professional traders signed up on the platform since its November 2016 launch — approximately 500 users acquired in four months.<sup><a href="https://techcrunch.com/2017/03/20/yc-demo-day-winter-2017/">[11]</a></sup> For a niche B2B fintech product targeting a specific professional segment, this was a meaningful early signal.
+
+The company also reported a letter of intent from a $200 million hedge fund to use the platform.<sup><a href="https://techcrunch.com/2017/03/20/yc-demo-day-winter-2017/">[11]</a></sup> A letter of intent is not a contract and carries no revenue obligation, but it indicated that at least one institutional buyer found the product credible enough to signal intent. Whether this LOI converted to a paying relationship is unknown.
+
+According to Algoriz's own webpage (cited in a 2024 review), over 10,000 different strategies were made and tested on the platform.<sup><a href="https://captainaltcoin.com/algoriz-review/">[25]</a></sup> This figure, if accurate, suggests genuine user engagement — traders were not merely signing up but actively building and testing algorithms. However, this claim comes from the company's own marketing materials and cannot be independently verified. The timing of when this milestone was reached is also unknown.
+
+No revenue figures were ever publicly disclosed. No user growth data beyond the 500-trader Demo Day figure was found in any source. The gap between the last press coverage in March 2017 and the company's shutdown around January 2021 represents approximately four years of operational silence.
 
 ## Post-Mortem
 

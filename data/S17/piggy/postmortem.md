@@ -2,6 +2,14 @@
 
 ## Overview
 
+Piggy was an Indian fintech startup that offered commission-free direct mutual fund investing through a mobile app, positioning itself as the "mobile-first Vanguard for India." Founded in 2016 by two ex-Nomura investment bankers and an ex-Amazon technologist, the company entered Y Combinator's S17 batch and spent nearly nine years building a real product with real users—reaching 100,000+ customers and $250M in assets under management at its peak.Yet Piggy never raised meaningful institutional capital beyond its YC batch, and the Indian direct mutual fund distribution market it pioneered quickly attracted far better-funded competitors: Groww, Kuvera, and Zerodha Coin all offered the same commission-free model with orders of magnitude more capital behind them.
+
+Piggy's core failure was structural: it built a thin intermediary business in a commoditizing market, where UX quality and a first-mover advantage in commission-free distribution proved insufficient moats against capitalized rivals.The platform shut down on June 30, 2025, with 30 days' notice and no public explanation.
+
+<report-gallery>
+<media-image src="https://images.firstpost.com/wp-content/uploads/2017/08/piggy-founders_380.jpg" alt="Piggy founders" caption="The three co-founders of Piggy — ex-Nomura bankers Nikhil Mantha and Ankush Singh alongside Amazon technologist Kunal Sangwan — photographed around the time of their Y Combinator S17 debut in August 2017, when the startup was reporting 90% month-over-month growth and $30M in assets under management."></media-image>
+</report-gallery>
+
 ## Founding Story
 
 Nikhil Mantha and Ankush Singh spent their early careers in fixed income analytics at Nomura, one of Japan's largest investment banks. They understood financial products from the inside—how funds were structured, how commissions flowed, and how the distribution system was designed to benefit intermediaries rather than retail investors. Kunal Sangwan brought a different perspective: a product and engineering background from Amazon, where he had worked on consumer-facing technology at scale. The three co-founders came together around a shared frustration that was personal before it was professional.

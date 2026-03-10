@@ -6,9 +6,19 @@ Marft 2026 targets full-stack developers and small engineering teams building B2
 
 The market shift is simple: in 2012, ML was exotic. By 2026, every developer knows what a model is, cloud infrastructure is commodity, and the pain point has crystallized. SageMaker dominates enterprise but requires DevOps expertise to configure. There's no fast path for a solo engineer or small team. Marft fills that gap by removing all the infrastructure decisions—just data in, model out, your control.
 
-Go-to-market is organic and native to where developers already live: GitHub, Hacker News, Vercel marketplace. Free tier removes activation friction. Win on portability (models run in your stack, not locked to our platform) and simplicity (no architecture design, no tuning knobs, no DevOps overhead). Charge when teams scale to multiple models and production monitoring.2f:T7af,
+Go-to-market is organic and native to where developers already live: GitHub, Hacker News, Vercel marketplace. Free tier removes activation friction. Win on portability (models run in your stack, not locked to our platform) and simplicity (no architecture design, no tuning knobs, no DevOps overhead). Charge when teams scale to multiple models and production monitoring.30:T7af,
 
 ## Why Now?
+
+The single most important change since Marft's 2012 failure is the complete collapse of the market education barrier. In 2012, most application developers did not understand that ML was a tool available to them. Today, that problem has been solved — not by startups, but by a decade of AWS SageMaker, Google Vertex AI, and Azure ML marketing spend, plus the cultural normalization of AI features in consumer products. Developers in 2026 are not asking *whether* to add ML to their applications; they are asking *how to do it faster*.
+
+The enabling infrastructure has followed. Hugging Face's Inference API now provides access to 100,000+ public models (as of 2024) via simple REST calls. Llama 3 (April 2024) and Mistral 7B (September 2023) are open-weight models that can be fine-tuned on custom data and deployed on GPU spot instances at approximately $0.50/hr on Lambda Labs — compared to the prohibitive hardware costs of 2012 that made Marft's unit economics structurally impossible. GPT-4 (March 2023) demonstrated that sophisticated inference could be delivered through a single API call, establishing the developer expectation Marft was too early to meet.
+
+Distribution channels that did not exist in 2012 are now mature. The Vercel marketplace reaches millions of full-stack developers. The Shopify App Store hosts 2M+ merchants, many running custom applications. The GitHub Marketplace provides direct access to engineering teams already in a buying workflow. Replit's extensions ecosystem reaches a younger generation of developers building production apps without traditional infrastructure expertise.
+
+The MLaaS market was valued at approximately $1.58 billion in 2017 and is projected to exceed $200 billion by the early 2030s (source: research report). Marft's 2012 timing was wrong by roughly five years. In 2026, the market is not only formed — it is actively seeking better developer experience at the edges the hyperscalers have ignored.
+
+---
 
 ## Current Market Analysis
 

@@ -10,6 +10,14 @@ The rebuild thesis is not about fixing what SafeBase got wrong — it got nearly
 
 ## Why Now?
 
+The single most important change since SafeBase's founding is that enterprise security scrutiny has cascaded down-market. In 2020, security questionnaires were primarily a problem for growth-stage SaaS companies selling to Fortune 500 buyers. By 2026, even seed-stage startups routinely face SOC 2 requests, vendor risk assessments, and NDA-gated documentation demands from mid-market buyers — driven by tightening supply chain security regulations (including the SEC's 2023 cybersecurity disclosure rules and the EU's NIS2 Directive, which took effect October 2024) and a wave of high-profile software supply chain breaches that made procurement teams structurally more demanding.
+
+The second critical change is model capability. GPT-4 (March 2023) and its successors demonstrated that large language models could reliably extract, synthesize, and respond to structured compliance questions from unstructured security documentation — the exact task that made questionnaire completion so labor-intensive. SafeBase's own November 2023 AI launch validated this: completion time dropped from five hours to under one hour using domain-fine-tuned models. By 2026, frontier models are meaningfully more capable at structured document reasoning, and fine-tuning costs have dropped by an order of magnitude since 2023 (specific current pricing data not available, but the directional trend is well-documented).
+
+The third change is distribution. The Drata acquisition repositioned SafeBase as a premium product within a $250M+ GRC suite. Drata's pricing and positioning targets companies that already have compliance programs — leaving a large, underserved population of early-stage SaaS companies that need a Trust Center before they can afford Drata. The Product Hunt marketplace, the Rippling App Shop, and the HubSpot App Marketplace (with 1,500+ integrations and millions of SMB users) now offer distribution channels to reach exactly this segment at near-zero customer acquisition cost. The GRC software market was valued at approximately $50 billion globally as of the mid-2020s (per the research report); specific 2026 market sizing data is not available, but regulatory tailwinds suggest continued expansion.
+
+---
+
 ## Current Market Analysis
 
 **Market size:** The GRC software market was valued at approximately $50 billion globally as of the mid-2020s, growing at a mid-teens CAGR, per the research report. The specific "Trust Center" subcategory that SafeBase created does not have independent analyst sizing available as of this writing. The $250 million acquisition price is the most reliable proxy for category value: Drata paid a significant premium for the category leader rather than building natively, which implies the TAM justified the price.

@@ -10,6 +10,18 @@ We win by being the easiest path to a portable music library. Launch with a free
 
 ## Why Now?
 
+The single most important change since Anywhere.FM's 2008 failure is the Music Modernization Act (MMA), signed into law in October 2018. For the first time, the MMA created a unified mechanical licensing collective (the MLC), standardized royalty rates for interactive streaming, and eliminated the legal ambiguity that made the "personal backup copy" doctrine a fragile foundation for any cloud music business. Anywhere.FM operated under a legal theory that was never tested in court on its behalf — and that theory was later invalidated when applied to Mp3tunes (EMI v. MP3tunes, decided 2014). A 2026 rebuild operates in a categorically different legal environment.
+
+The infrastructure economics have also inverted. AWS S3 storage costs fell from approximately $0.15/GB/month in 2007 to $0.023/GB/month in 2024 — an 85% reduction per the rebuild signals above. Storing 45TB of music (equivalent to Anywhere.FM's 9 million songs at ~5MB each) now costs under $1,100/month versus roughly $6,750/month at 2007 prices. This alone changes the unit economics from structurally unviable to bootstrappable.
+
+Distribution channels that didn't exist in 2007 now provide direct access to the highest-intent audience. Bandcamp (acquired by Songtradr in 2022, then restructured) retains a community of buyers who purchase music rather than stream it — exactly the user who has a local library worth preserving. Plex's developer ecosystem and Jellyfin's open-source community have collectively demonstrated, between 2015 and 2024, that millions of users will pay for managed "your library, anywhere" access. The Plex Pass subscription (currently $4.99/month or $119.99 lifetime, per Plex's public pricing) is a direct pricing proof point.
+
+Spotify's Web API (available since 2014, with current catalog matching endpoints) now enables automatic matching of uploaded local tracks to licensed catalog entries — eliminating the legal locker risk while preserving the core value proposition. This technical capability did not exist in 2007 and changes the product architecture entirely.
+
+The market signal is unambiguous: vinyl sales hit 40-year highs in 2022 (RIAA data), and streaming catalog removals (most visibly Neil Young's 2022 Spotify protest and ongoing Taylor Swift licensing disputes) have created documented consumer anxiety about library permanence. The "own your music" sentiment is not nostalgia — it is a measurable behavioral shift among high-value music buyers.
+
+---
+
 ## Current Market Analysis
 
 **Market size:** The global cloud storage market was valued at approximately $137 billion in 2024 (MarketsandMarkets, 2024 — specific music locker sub-segment data is not publicly available). The more relevant proxy is the personal cloud media management market, where Plex reported 8 million registered users as of 2023 (Plex blog, 2023). Anywhere.FM's total addressable market in 2007 was theoretically large but practically inaccessible due to licensing barriers; in 2026, the MMA has opened a statutory licensing pathway that makes the market genuinely reachable.

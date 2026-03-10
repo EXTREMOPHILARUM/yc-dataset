@@ -101,6 +101,56 @@ The platform was live for approximately 74 days. No total article count was disc
 
 ## Post-Mortem
 
+Paul Biggar published a ~7,000-word post-mortem on September 15, 2010 — one of the most detailed founder post-mortems of the early YC era.<sup><a href="https://blog.paulbiggar.com/why-we-shut-newstilt-down/">[40]</a></sup> What follows draws primarily from that document, supplemented by Nathan Chong's shutdown email and external observer commentary.
+
+### Primary Cause: The MVP Launched Without Its Core Feature
+
+The single most consequential decision in NewsTilt's short life was cutting personal journalist domains from the MVP.
+
+The product's entire value proposition rested on a specific claim: journalists would own their brand, their audience, and their domain. This was what differentiated NewsTilt from simply writing for another publication. Without personal domains, a journalist writing on NewsTilt was writing for NewsTilt — contributing content to someone else's platform, building someone else's SEO authority, and directing readers to a URL they did not control.
+
+The feature was cut to make the April 13 launch date. After launch, technical complications introduced by the Facebook login integration made re-adding it difficult.<sup><a href="https://blog.paulbiggar.com/why-we-shut-newstilt-down/">[41]</a></sup> The team never solved the technical problem before running out of money.
+
+The consequence was immediate and direct. As Biggar wrote: *"Journalists felt that they were writing for us, instead of writing for themselves, for their own brands."*<sup><a href="https://blog.paulbiggar.com/why-we-shut-newstilt-down/">[42]</a></sup> Journalists stopped posting. The content pipeline dried up. Without content, there were no readers. Without readers, there was no advertising revenue. The cascade was complete within two months.
+
+The attempted remedy — promising journalists that personal domains were coming — failed because the team could not deliver on the timeline. The technical debt introduced by the Facebook integration and the from-scratch build decision meant that adding a feature that should have been foundational required significant re-architecture that a two-person team with no runway could not execute.
+
+### Secondary Cause: Co-Founder Dysfunction
+
+Biggar was explicit about the co-founder relationship as a company-level failure: *"Nathan and I had major communication problems, we weren't intrinsically motivated by news and journalism, making a new product required changes we could not make, our motivation to make a successful company got destroyed by all of the above."*<sup><a href="https://archives.cjr.org/the_news_frontier/whatever_happened_to_newstilt.php">[43]</a></sup>
+
+The structural conditions for co-founder dysfunction were present from day one. Biggar and Chong had never worked together before NewsLabs.<sup><a href="https://failedstartups.wordpress.com/2011/06/15/newstilt/">[44]</a></sup> They lived in different cities throughout the company's operation. And critically, neither founder had intrinsic motivation for the domain — journalism was a market they had reasoned their way into, not one they cared about.
+
+When the product began failing, the co-founder relationship did not provide the resilience needed to iterate. The attempted remedy — continuing to operate as a distributed two-person team — was not a remedy at all. The team could not make the product changes required to fix NewsTilt because the organizational capacity to make those changes had already been compromised.
+
+### Tertiary Cause: Founder Bandwidth Collapse
+
+Paul Biggar launched NewsTilt on April 13, 2010 — the same day he defended his PhD thesis.<sup><a href="https://fact.directory/List-of-Y-Combinator-startups-facts">[45]</a></sup> He was married a month later and spent most of May 2010 on his honeymoon.<sup><a href="https://readwrite.com/7000-words-on-failure-newstilt/">[46]</a></sup>
+
+This meant the CEO of a two-month-old startup with 20 active users, a broken core feature, and a co-founder communication problem was effectively absent during the entire month of May — the platform's first full month of operation. The attempted remedy was presumably that Chong could hold things together in Biggar's absence. Given the communication problems already present in the co-founder relationship, this was an optimistic assumption.
+
+The bandwidth collapse was not a single catastrophic event but a sustained constraint. Biggar was finishing a PhD, planning a wedding, and launching a startup simultaneously. Each of these is a full-time commitment. The combination meant that none of them received adequate attention at the critical moment.
+
+### Structural Cause: Domain Ignorance and Wrong Journalist Cohort
+
+Neither founder read the news, had worked in journalism, or understood the professional culture of the journalists they were recruiting.<sup><a href="https://en.wikipedia.org/wiki/NewsTilt">[47]</a></sup> This produced two specific failures.
+
+First, the founders did not appreciate that journalists need editors. The platform had no editorial infrastructure beyond the initial vetting process. Journalists accustomed to working with editors were publishing into a void, without feedback, without quality control, and without the collaborative process that professional writers depend on.
+
+Second, the founders recruited the wrong journalists. Established Pulitzer and Emmy winners were credibility signals — they made the platform look legitimate in press coverage — but they were the wrong users for a growth-stage platform. As Biggar acknowledged, NewsTilt needed prolific, brand-hungry emerging voices who would post constantly to build an audience.<sup><a href="https://blog.paulbiggar.com/why-we-shut-newstilt-down/">[48]</a></sup> The high-profile journalists wrote infrequently, generating insufficient content volume to attract or retain readers.
+
+David Cohn, founder of Spot.us, identified the deeper version of this problem: NewsTilt *"put too much emphasis on their tech-wizardry and the idea that they would build tools for journalists and all of a sudden POOF — journalism would be solved."*<sup><a href="https://en.wikipedia.org/wiki/NewsTilt">[49]</a></sup> The founders believed that engineering competence was sufficient to solve a domain problem. It was not.
+
+### Structural Cause: The Market Was Not Ready for the Model
+
+The underlying market thesis — that individual journalists could build sustainable independent businesses through advertising revenue on a third-party platform — was not validated in 2010 and would not be validated for nearly a decade.
+
+The advertising economics of individual journalist content in 2010 were deeply unfavorable. Display CPMs were low, programmatic advertising was nascent, and the audience fragmentation required to make per-journalist advertising viable did not yet exist at scale. The model that eventually worked — Substack's subscription-first approach, launched in 2017 — bypassed advertising entirely and relied on direct reader payment, a mechanism that required Stripe's payment infrastructure and a cultural shift toward paying for digital content that had not yet occurred in 2010.
+
+NewsTilt was attempting to build a sustainable journalist-brand business on an advertising model, in a market where advertising revenue was insufficient to support individual creators, without the subscription infrastructure that would later make the model viable. The True/Slant acquisition by Forbes in May 2010 — one month into NewsTilt's operation — demonstrated that the journalist-brand concept had value, but only when attached to an institution with existing distribution and advertising relationships. As a standalone startup, the model required conditions that did not yet exist.
+
+<media-tweet url="https://news.ycombinator.com/item?id=2106766" author="Hacker News" date="2011-01-19" text="Sometimes YC gets it wrong — Paul Biggar (NewsTilt)"></media-tweet>
+
 ## Key Lessons
 
 - **Cutting the core differentiating feature to make a launch date is not an MVP decision — it is a product redefinition.** NewsTilt's entire value proposition was journalist-owned personal brands and domains. When that feature was cut on April 13, 2010, the product that launched was not a simplified version of the intended product; it was a categorically different product that competed on dimensions where NewsTilt had no advantage. The lesson is not "don't cut features" but rather: if the feature being cut is the reason users would choose your product over alternatives, the launch should be delayed, not the feature.

@@ -2,6 +2,17 @@
 
 ## Overview
 
+Pebble Technology Corporation was a smartwatch company founded in 2008 by Eric Migicovsky at the University of Waterloo, initially under the name Allerta. After a pivotal Y Combinator Winter 2011 batch, Pebble launched a Kickstarter campaign in April 2012 that became the most-funded project in Kickstarter history at the time, raising $10.3 million. Over its eight-year life, the company sold more than 2 million watches and generated over $230 million in cumulative revenue — a genuine commercial success by most hardware startup measures.<sup><a href="https://medium.com/@ericmigi/why-pebble-failed-d7be937c6232">[1]</a></sup>
+
+Pebble failed because it abandoned a profitable, loyal niche — developer-friendly smartwatches for technically sophisticated users — to chase mass-market volume, and executed that pivot poorly at precisely the moment Apple Watch entered the market with overwhelming distribution, marketing spend, and platform lock-in. The company doubled its operating costs in 2015 while missing its sales forecast by $20 million, destroying the profitability it had earned in 2013 and 2014.<sup><a href="https://medium.com/@ericmigi/why-pebble-failed-d7be937c6232">[2]</a></sup>
+
+Fitbit acquired Pebble's intellectual property — the OS, apps, cloud services, and patents — for $23 million in December 2016, excluding hardware.<sup><a href="https://techcrunch.com/2017/02/22/fitbit-pebble-acquisition/">[3]</a></sup> Approximately 60% of Pebble's employees were laid off and all lost their stock options. The company had previously turned down a reported $740 million offer from Citizen in 2015 — a decision that, in hindsight, defined the outer boundary of what Pebble could have been.<sup><a href="https://techcrunch.com/2016/11/30/fitbit-pebble/">[4]</a></sup>
+
+<report-gallery>
+<media-image src="https://cdn.iphoneincanada.ca/wp-content/uploads/2012/04/pebblegroup.jpg" alt="Early Pebble smartwatch lineup from the 2012 Kickstarter campaign" caption="The original Pebble lineup photographed during the April 2012 Kickstarter campaign — the campaign hit its $100K goal in two hours and became the most-funded Kickstarter project in history within six days."></media-image>
+<media-image src="https://www.golem.de/2510/201034-539275-539273_rc.jpg" alt="Pebble 2 smartwatch, the company's final hardware product released in September 2016" caption="The Pebble 2, released September 2016 at $129 — the company's last hardware product, launched on Kickstarter just months before Fitbit acquired Pebble's IP for $23 million."></media-image>
+</report-gallery>
+
 ## Founding Story
 
 Eric Migicovsky was born in 1986 in Vancouver, Canada, and studied Systems Design Engineering at the University of Waterloo — a program known for producing technically rigorous founders through its co-op model.<sup><a href="https://en.wikipedia.org/wiki/Eric_Migicovsky">[5]</a></sup> The idea for a smartwatch did not emerge from a whiteboard exercise. It came from a practical frustration: while on exchange at Delft University of Technology in the Netherlands, Migicovsky wanted to read smartphone notifications safely while cycling — a daily activity in the Netherlands where stopping to check a phone is both inconvenient and dangerous.<sup><a href="https://en.wikipedia.org/wiki/Eric_Migicovsky">[6]</a></sup> The problem was personal, specific, and immediately legible to anyone who had tried to use a phone while moving.

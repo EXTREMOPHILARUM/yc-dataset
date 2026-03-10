@@ -98,6 +98,18 @@ The last documented funding type was an angel round.<sup><a href="https://www.cr
 
 ## Traction
 
+InboxQ's most concrete traction milestone was its integration into the HootSuite App Directory in February 2012, which placed the product in front of over three million HootSuite users worldwide.<sup><a href="https://www.hootsuite.com/newsroom/press-releases/third-app-directory-release-api-press-release">[7]</a></sup> HootSuite's user base was predominantly social media managers and agencies—precisely InboxQ's target audience.
+
+<media-image src="https://lisamariediasdesigns.com/wp-content/uploads/2012/02/inboxq-hootsuite-stream.png" alt="InboxQ stream inside HootSuite dashboard showing Twitter questions filtered by keyword" caption="A real user's HootSuite dashboard with InboxQ installed — showing the question stream integrated directly into the social media management tool"></media-image>
+
+Beyond the HootSuite integration, the available traction data is thin. No plugin download numbers, active user counts, or retention metrics were ever published. The company earned strong early press coverage from TechCrunch, VentureBeat, The Next Web, and others in 2011, suggesting meaningful launch momentum. User-generated tutorials and walkthroughs—including a detailed product review from ILoveFreeSoftware and a HootSuite integration guide from a marketing blogger—indicate the product had real users who found it valuable enough to document.
+
+The most telling traction signal came from Fahrner himself, in a February 2014 Twitter reply explaining the shutdown: "lots of users but very little $."<sup><a href="https://twitter.com/krampage/status/107091791483908096">[8]</a></sup> The product attracted users. It did not attract revenue.
+
+<media-tweet url="https://twitter.com/krampage/status/107091791483908096" author="@JoeF" date="2014-02-20" text="@nizmul lots of users but very little $. :) Company has new owner who manage the sites. No plans to relaunch @inboxq AFAIK."></media-tweet>
+
+---
+
 ## Post-Mortem
 
 InboxQ closed in approximately June 2013, roughly 3.5 years after founding and 2.5 years after the InboxQ rebrand. No public shutdown announcement was made. The only direct founder statement came eight months later, when Joe Fahrner replied to a Twitter user asking why the company shut down: "lots of users but very little $."<sup><a href="https://twitter.com/krampage/status/107091791483908096">[8]</a></sup> That single sentence is the clearest available summary of what went wrong. The failure had multiple contributing causes, but they all fed into the same structural problem.

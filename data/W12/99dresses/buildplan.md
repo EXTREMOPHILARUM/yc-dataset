@@ -10,6 +10,22 @@ Go-to-market is TikTok-native. Every listing auto-generates a 15-second vertical
 
 ## Why Now?
 
+The single most important change since 99dresses failed is that the secondhand fashion market has been fully legitimized by massive acquisitions that validated Nikki Durkin's original thesis. Depop sold to Etsy for $1.6B in 2021. Poshmark sold to Naver for $1.2B in 2022. The consumer behavior 99dresses was trying to create already exists at scale — Durkin was early, not wrong.
+
+The market tailwind is now structural, not speculative. ThredUp's 2024 Resale Report projects the US secondhand apparel market will reach $82B by 2026, up from $28B in 2019. Gen Z's sustainability values have transformed "buying used" from a frugal behavior into a cultural identity signal — the exact emotional reframe that Durkin's "guilt-free shopping" pitch anticipated in 2012.
+
+Three specific technology shifts make a 2026 rebuild materially different from the 2013 attempt:
+
+**Computer vision for listing automation.** eBay deployed AI-powered listing tools in 2023 that auto-tag items by brand, condition, size, and category from a single photo. Similar capability is now available via API (Google Vision, GPT-4V released November 2023). This eliminates the manual listing friction that throttled supply-side growth on every early resale platform, including 99dresses.
+
+**Normalized platform currencies.** The "buttons" mechanic that confused US users in 2012 is no longer exotic. Roblox (Robux), Fortnite (V-Bucks), and BeReal's social credit systems have made platform-native currencies fluent behavior for users under 30. A rebuilt 99dresses can reintroduce a closed-loop currency without the education overhead Durkin faced.
+
+**Mature payment infrastructure.** Stripe Connect (launched 2012, matured by 2016) now handles peer-to-peer payouts, escrow, and dispute resolution out of the box — directly addressing the "massive technology fuckups that brought sales to a halt" that Durkin cited in her post-mortem.
+
+Distribution is also categorically different. TikTok Shop (launched US 2023) and Instagram Shopping allow inventory to surface inside existing social behavior. The cold-start community building that made 99dresses' US launch so slow relative to its Australian viral growth is no longer the only path.
+
+---
+
 ## Current Market Analysis
 
 ## Market Size

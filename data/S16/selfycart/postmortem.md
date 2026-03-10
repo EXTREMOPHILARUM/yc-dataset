@@ -2,8 +2,6 @@
 
 ## Overview
 
-## Founding Story
-
 Selfycart was founded in June 2015 by Sahle Hashelit and Erick Lee, two operators with unusually direct domain experience for the problem they were attacking. Both had worked at PayPal and eBay — the intersection of payments infrastructure and consumer commerce — before turning their attention to offline retail. As Hashelit put it: "Both Erick and I have domain expertise in payments and mobile commerce. We worked at PayPal and Ebay." <sup><a href="https://blog.ycombinator.com/selfycart/">[1]</a></sup>
 
 Hashelit's background was particularly well-suited to the enterprise side of the business. He had served as Head of Global Technical Service at eBay and PayPal, and had additional stints at Facebook and Symantec — a profile that combined payments operations with enterprise-scale technical management. <sup><a href="https://everipedia.org/wiki/lang_en/sahle-hashelit">[2]</a></sup> Lee brought a different kind of credibility: a whitehat security hacker and serial entrepreneur who had founded three startups before Selfycart, with prior PayPal experience giving him direct exposure to the payment rails the product would depend on. <sup><a href="https://www.zoominfo.com/c/selfycart-inc/373817703">[3]</a></sup>
@@ -15,6 +13,8 @@ The company was accepted into Y Combinator's Summer 2016 batch, <sup><a href="ht
 No public account exists of how Hashelit and Lee first met, and the founding year is listed inconsistently across databases (2015 vs. 2016), though Hashelit's LinkedIn tenure beginning in June 2015 is the most reliable signal. <sup><a href="https://contactout.com/Sahle-Hashelit-2448334">[6]</a></sup> The company was headquartered in the Bay Area, with sources variously citing San Mateo, Santa Clara, and San Jose. <sup><a href="https://www.ycombinator.com/companies/selfycart">[7]</a></sup>
 
 ---
+
+## Founding Story
 
 ## Timeline
 
@@ -102,9 +102,19 @@ The Demo Day pitch described the model slightly differently, framing the 2% as a
 
 At $19,800 per store per year, Selfycart needed approximately 100 merchant locations to reach $2M in annual recurring revenue from subscriptions alone — a scale that required a sales and integration team far larger than two people could support.
 
----2e:T66a,
+---2f:T66a,
 
 ## Traction
+
+Selfycart launched with two confirmed merchant partners — Rainbow Grocery and Zanotto's — both independent Bay Area grocers. <sup><a href="https://techcrunch.com/2016/08/01/selfycart-launch-y-combinator/">[13]</a></sup> Twitter artifacts from the @selfycart account show the app being used at Bianchini's Market as well, suggesting at least a third location was added in the months after launch. <sup><a href="https://twitter.com/selfycart">[23]</a></sup> CEO Sahle Hashelit's personal Twitter account shows the app being used at Walgreens in early 2017, though it is unclear whether this represented a formal partnership or an informal demonstration. <sup><a href="https://twitter.com/sahle">[24]</a></sup>
+
+<media-tweet url="https://twitter.com/sahle" author="@sahle" date="2017-01-01" text="@selfycart for free just use it so I can spend more time with my family. pic.twitter.com/opDatbIUtF – at Walgreens"></media-tweet>
+
+Selfycart reached the finalist stage at 43North, a major startup competition offering a $1M prize, confirming the company was still active and pitching well after YC Demo Day. <sup><a href="https://43north.org/governor-cuomo-announces-finalists-selected-for-4th-annual-43north-competition/">[25]</a></sup>
+
+No data on app downloads, active users, transaction volume, or revenue is available from any source. The company never published metrics, and no investor or press source cited specific usage numbers. The absence of any quantitative traction data in coverage from a company that had TechCrunch attention and YC backing is itself a signal — companies with strong early numbers typically share them.
+
+---
 
 ## Post-Mortem
 

@@ -6,9 +6,19 @@ By 2026, CreatorML rebuilds as a packaging-optimization platform for faceless Yo
 
 The viability shift is infrastructure cost collapse. In 2022, building multimodal ML models was capital-intensive; by 2025, open-source vision models and cheaper inference make the same predictions 10x cheaper to serve. That cost floor now aligns with operator unit economics—creators paying $50–150/month per channel can sustain the business at scale.
 
-The go-to-market angle targets operators directly through YouTube automation communities and faceless-channel Discords, positioning the product as the missing piece between video production and upload. Win condition: become the standard packaging tool for portfolio operators before broader creator tools build this feature themselves.33:T71b,
+The go-to-market angle targets operators directly through YouTube automation communities and faceless-channel Discords, positioning the product as the missing piece between video production and upload. Win condition: become the standard packaging tool for portfolio operators before broader creator tools build this feature themselves.34:T71b,
 
 ## Why Now?
+
+The single most important change since CreatorML's failure is the collapse of ML infrastructure costs. In 2022–2023, building a view-prediction model required custom training pipelines, proprietary datasets, and compute budgets that consumed most of a $500K raise before a single customer churned. In 2026, GPT-4o (May 2024) and Claude 3.5 Sonnet (June 2024) can jointly analyze thumbnail images and video titles in a single multimodal API call, approximating the core prediction capability CreatorML spent years and significant capital building from scratch. A comparable inference pipeline today costs cents per query rather than thousands per month in infrastructure.
+
+The second structural shift is distribution. CreatorML's Chrome Extension was clever but required active installation by individual creators. In 2026, the YouTube Partner Program API exposes richer performance signals than were available in 2022, and the Shopify App Store analogy now has a YouTube equivalent: the YouTube BrandConnect marketplace and creator tool ecosystems built around platforms like Beehiiv, Kit (formerly ConvertKit), and Kajabi give B2B SaaS products warm distribution channels into professional creator audiences without cold outreach.
+
+Market validation has also arrived. VidIQ reportedly crossed $50M+ ARR (source: industry estimates; exact figure unconfirmed), and TubeBuddy was acquired by Jellysmack, proving that YouTubers pay recurring SaaS fees for optimization tools at scale. This de-risks the business model assumption CreatorML could never fully validate before shutdown.
+
+Finally, open-source vector infrastructure — Pinecone, Weaviate, and pgvector — makes the Outlier-Video Database feature sustainable on a seed budget. What required dedicated ML engineering in 2022 is now a weekend integration.
+
+---
 
 ## Current Market Analysis
 
@@ -25,7 +35,7 @@ The go-to-market angle targets operators directly through YouTube automation com
 
 **Demand signals:** The faceless channel community on Reddit (r/NewTubers, r/YouTubeCreators) and Discord servers shows consistent, unprompted demand for "will this thumbnail work before I post it" tooling.
 
----35:T7d2,
+---36:T7d2,
 
 ## Recommended MVP
 
@@ -48,3 +58,11 @@ A single interface managing packaging predictions across 3–10 channels simulta
 ---
 
 ## Go-to-Market Strategy
+
+**Target Customer Segment:** Faceless YouTube channel operators running 3–10 monetized channels, generating $2K–$20K/month in AdSense revenue, with no dedicated content strategist. These operators are highly cost-conscious, data-driven, and motivated by portfolio-level optimization rather than personal brand building. They congregate in private Discord communities, paid newsletters (e.g., Matt Giaro's creator business newsletter), and Reddit's r/NewTubers and r/PassiveIncome communities. This segment is larger, more reachable, and more willing to pay than the individual mega-creator CreatorML originally targeted.
+
+**Primary Distribution Channel:** Direct community seeding in faceless channel Discord servers and YouTube automation forums, combined with a public-facing "Free Packaging Score" tool — enter any YouTube URL, get a free outlier analysis. This generates organic top-of-funnel without paid acquisition. Secondary channel: partnerships with YouTube automation course creators (e.g., affiliates within the Income School or Channel Makers communities) who have direct access to thousands of operators.
+
+**Pricing Strategy:** $49/month for single-channel access; $149/month for the multi-channel operator tier (up to 10 channels). Pricing anchors to AdSense revenue: a single optimized video for a 500K-subscriber channel can generate $5K–$15K in incremental views, making $149/month trivially justifiable. No free tier — a 14-day trial only, to filter for serious operators. Annual plans offered at 20% discount to improve cash flow predictability.
+
+**Differentiation vs. 2026 Competitors:** VidIQ and TubeBuddy optimize for breadth; this product optimizes for prediction accuracy on a narrow, high-value workflow. The multi-channel operator dashboard is a feature neither competitor has prioritized. The positioning is "the only tool that tells you if your packaging will work before you publish" — a falsifiable, specific claim that generic AI content tools cannot match.

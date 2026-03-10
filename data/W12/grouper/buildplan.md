@@ -10,6 +10,20 @@ The go-to-market angle is precision targeting: launch in one city, acquire throu
 
 ## Why Now?
 
+The single most important change since Grouper's 2016 failure: **LLMs can now replace the human curation layer that made Grouper's unit economics structurally unworkable.** Every match Grouper made required a human reviewer plus real-time CRM staffing — a cost that scaled linearly with volume and almost certainly made individual outings unprofitable at $20/person. GPT-4 (March 2023) and its successors can now perform nuanced personality, interest, and compatibility matching from unstructured social data at near-zero marginal cost. The bottleneck that killed the original company is gone.
+
+Several additional conditions have converged to make 2026 the right moment:
+
+**Demand is now explicit and named.** The U.S. Surgeon General's 2023 advisory on loneliness formally declared social isolation a public health crisis. In 2011, Grouper had to educate users on why they needed the product. In 2026, that education has been done by the Surgeon General, every major media outlet, and a decade of cultural conversation about digital exhaustion. Timeleft, a near-identical "strangers at a dinner table" concept launched in 2022, was operating in 100+ cities by 2024 — direct proof that Grouper's core thesis has durable consumer demand without the original company's brand.
+
+**Venue infrastructure is now programmable.** Grouper manually built relationships with 400 partner bars across 20 cities. OpenTable and Resy now offer programmatic reservation APIs, enabling automated venue booking at scale without that operational overhead.
+
+**Distribution channels didn't exist in 2012.** Bumble BFF's user base (exact size not publicly disclosed, but Bumble reported 50M+ registered users as of 2023 per their investor filings) represents a pre-qualified audience of people actively seeking structured social connection — a direct acquisition channel. Reddit communities like r/MakeNewFriendsHere (1M+ members) and r/lonely provide organic demand signals.
+
+**Payment infrastructure is solved.** Stripe and Apple Pay make recurring membership billing trivial. Waxman explicitly acknowledged payment and membership clarity as execution failures in his October 2014 Mixergy interview. That problem no longer exists.
+
+---
+
 ## Current Market Analysis
 
 **Market size:** The U.S. online dating market was approximately $1B annually when Grouper operated (2012–2016). By 2024, it had grown to approximately $3.5B (Statista, 2024), with Match Group alone reporting $3.4B in 2023 revenue. However, the more relevant market framing for a rebuilt Grouper is the emerging "social facilitation" category — structured IRL experiences for adults — which does not yet have a clean market size estimate. Timeleft's rapid expansion to 100+ cities without disclosed funding rounds suggests the category is real but not yet institutionally sized.

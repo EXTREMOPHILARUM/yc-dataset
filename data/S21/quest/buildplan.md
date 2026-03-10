@@ -2,6 +2,18 @@
 
 ## Overview
 
+The single most important change since Quest's 2022 shutdown is the elimination of the supply-side bottleneck that killed the original product. Quest's core failure was structural: it depended entirely on time-constrained experts voluntarily recording audio clips for a 1,000-person audience. In 2026, that dependency is gone.
+
+Large language models — specifically GPT-4 (March 2023) and its successors — can generate high-quality, personalized career advice responses at near-zero marginal cost. A rebuilt Quest can seed its content library with AI-generated answers on day one, eliminating the cold-start problem that consumed $2M without resolution. Human expert audio becomes a premium tier, not a prerequisite for launch.
+
+The second unlock is voice synthesis. ElevenLabs (launched 2022) and OpenAI TTS (released November 2023) now produce natural-sounding audio from text with sub-second latency. Quest's original thesis — that audio is more expressive and authentic than text — no longer requires experts to record anything. An expert writes or approves a response; the platform renders it as audio. Gaal's acknowledged constraint ("too busy to record a podcast") is now a product configuration, not a blocker.
+
+The demand side has also been validated externally. Career-focused content on TikTok ("CareerTok") and LinkedIn's creator feed has demonstrated at scale that junior professionals actively seek the "lingo and mindset" content Quest was built around. LinkedIn's own push into Audio Events (2023–2024) confirms the professional audio thesis — but LinkedIn's creator tooling remains clunky and algorithmically hostile to new voices, per consistent creator complaints documented in creator economy newsletters including Passionfroot's 2024 State of Creator report (specific revenue figures for LinkedIn audio creators are not publicly available).
+
+Distribution infrastructure has also matured. The Shopify App Store analogy applies here to LinkedIn's developer ecosystem and Substack's 35M+ active subscriber base (Substack, January 2024), both of which offer direct channels to knowledge workers and creators who represent Quest's expert supply side.
+
+---
+
 ## Why Now?
 
 ## Current Market Analysis

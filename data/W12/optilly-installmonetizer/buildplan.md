@@ -10,6 +10,16 @@ We win by making creative the variable that moves the needle again. LLM-powered 
 
 ## Why Now?
 
+The single most important change since Optilly's failure is the commoditization of bid-level optimization by the platforms themselves. Meta's Advantage+ (launched 2022) and Google's Performance Max (launched 2021) have absorbed the exact functionality Optilly charged for in 2014 — automated bidding, audience expansion, and basic creative rotation — directly into their free native tools. This is not a threat to a rebuild; it is the prerequisite for one. It clears the field of undifferentiated competitors and forces the market to the next layer of the stack: creative intelligence and privacy-resilient measurement.
+
+That next layer is now buildable in a way it wasn't in 2014. GPT-4 (March 2023) and Claude 3 (March 2024), combined with image generation via Midjourney v6 (December 2023) and Stable Diffusion 3 (February 2024), enable the production of thousands of ad creative variants at near-zero marginal cost. Optilly's 2014 multivariate testing engine was bottlenecked by the cost and time of producing human-made assets. That bottleneck is gone.
+
+Simultaneously, Apple's App Tracking Transparency framework (ATT, April 2021) and the mandatory adoption of SKAdNetwork have created a measurement crisis that did not exist when Optilly operated. According to AppsFlyer's 2023 State of App Marketing report, iOS app marketers are misattributing or losing visibility into a significant share of their conversion data — the firm estimates over $7 billion in annual mobile ad spend is affected by attribution degradation. Specific figures on total misattributed spend vary by source and should be verified against current AppsFlyer and Adjust benchmark reports.
+
+Distribution channels unavailable to Optilly now exist at scale: the Meta Business Partner directory (with direct API access to ~10M advertisers), the Shopify App Store (2M+ merchants increasingly running app-install campaigns for their mobile commerce apps), and the Apple Search Ads partner program provide structured, credentialed go-to-market paths that a 2014-era startup had to build from scratch.
+
+---
+
 ## Current Market Analysis
 
 The mobile app install advertising market has grown substantially since Optilly's 2014 pivot. Data.ai (formerly App Annie) estimated global app install ad spend at approximately $118 billion in 2022, up from roughly $13 billion in 2014 (Statista). The specific 2026 projection is not available in the research report, but the directional trend — continued growth driven by gaming, fintech, and commerce apps — is well-documented. Readers should verify current figures against Data.ai's 2025 State of Mobile report.

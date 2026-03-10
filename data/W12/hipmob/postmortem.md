@@ -2,6 +2,17 @@
 
 ## Overview
 
+Hipmob was a Palo Alto-based mobile software company, founded in 2012 and part of Y Combinator's Winter 2012 batch, that built an SDK enabling iOS and Android developers to embed live customer support chat directly inside their apps.The company correctly identified that mobile apps lacked the customer communication infrastructure that web products like Olark and Zendesk had already built—and spent five years building a technically sound, feature-rich solution to that problem.
+
+But the market it chose proved too narrow to sustain an independent company.Hipmob raised only its initial $120,000 YC seed check, never closed a Series A, and was acquired by U.K.-based social customer care platform Conversocial in March 2017 in an all-stock deal of undisclosed value.
+
+The core failure was not execution but market selection: the founders built the right product for a niche that was too small, too cost-sensitive, and too susceptible to absorption by larger platforms to generate the growth investors required.
+
+<report-gallery>
+<media-image src="https://github.com/Hipmob.png" alt="Hipmob GitHub organization avatar/logo" caption="Hipmob's GitHub presence — 30+ public repositories spanning iOS, Android, and Cordova SDKs — a testament to the years of meticulous engineering the team poured into a market that would ultimately prove too narrow to sustain them."></media-image>
+<media-image src="https://www.iculture.nl/wp-content/uploads/2012/07/hipmob-connecting.jpg" alt="Hipmob maakt live supportchat in iPhone-apps mogelijk" caption="A screenshot of Hipmob's live chat interface connecting inside an iPhone app, circa mid-2012 — the product that Ayo Omojola called 'Olark for mobile,' built to solve the support gap the founders had felt firsthand while shipping their own gaming app during YC W12."></media-image>
+</report-gallery>
+
 ## Founding Story
 
 Hipmob was founded in early 2012 by three co-founders: brothers Ayo Omojola and Femi Omojola, and Gaurav Namit. <sup><a href="https://app.dealroom.co/companies/hipmob">[1]</a></sup> Ayo served as CEO; Femi was the primary SDK engineer, with an extensive GitHub footprint across the company's iOS, Android, and cross-platform repositories; Gaurav's specific role is not documented in public sources. The team brought roughly five years of prior mobile product development experience to the founding, giving them genuine domain credibility in a space that most enterprise software founders had not yet taken seriously. <sup><a href="https://techmoran.com/2014/02/01/ceo-weekends-hipmob-wants-to-provide-killer-customer-support-to-your-mobile-customers/">[2]</a></sup>
@@ -93,9 +104,17 @@ Hipmob charged on a hybrid per-seat plus per-volume basis. <sup><a href="https:/
 
 The pricing structure was reasonable for SMB customers but created a ceiling problem. At $25 per seat, a five-agent support team represented $125 per month—$1,500 annually. Even at 100 such customers, annual recurring revenue would be $150,000, barely enough to sustain a team of two in the Bay Area. Scaling to enterprise contracts required a sales motion the team was not resourced to execute. The "reach" component (chats per month) added a usage-based dimension that could theoretically scale with customer growth, but no public data exists on whether any customers reached volumes that generated meaningful revenue uplift.
 
----2e:T57b,
+---2f:T57b,
 
 ## Traction
+
+Hipmob's documented customer base included Rackspace and Samsung SmartThings as marquee accounts, alongside a taxi app in Mexico and multiple e-commerce companies. <sup><a href="https://www.lead.bank/team/ayokunle-ayo-omojola">[14]</a></sup> These names provided credibility for press coverage and enterprise sales conversations, but the customer list's heterogeneity suggests the company never achieved the repeatable sales motion that would have supported a Series A fundraise.
+
+No public data exists on total SDK integrations, monthly active developers, chat volume, or revenue at any point in the company's five-year life. The YC company profile lists a team size of two employees and status as "Inactive." <sup><a href="https://www.ycombinator.com/companies/hipmob">[5]</a></sup> Operating for five years on a $120,000 seed round with a two-person team implies either near-breakeven revenue or extreme capital efficiency—but also that the company lacked the resources to invest in sales, marketing, or product expansion at the pace required to compete as the market matured.
+
+The strongest signal on traction is the absence of a Series A. Investors who saw the company's metrics between 2012 and 2017 did not find sufficient evidence of growth to justify a follow-on investment. That judgment, made repeatedly over five years, is the most reliable proxy for the company's revenue trajectory.
+
+---
 
 ## Post-Mortem
 

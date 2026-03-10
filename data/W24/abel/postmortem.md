@@ -2,6 +2,8 @@
 
 ## Overview
 
+## Founding Story
+
 Abel was founded in 2023 by Sean Safahi and Chenyu Li, two operators who had each previously built and sold companies before turning their attention to legal technology.
 
 Safahi served as CEO. His background was in consumer product development at scale: he held product roles at Netflix and Airbnb before co-founding Bold, a startup that Airbnb subsequently acquired.<sup><a href="https://www.ycombinator.com/companies/abel">[1]</a></sup> That acquisition gave him firsthand experience navigating the transition from independent startup to enterprise integration — a signal that he understood how large organizations adopt new tools.
@@ -17,8 +19,6 @@ The company's stated mission carried an access-to-justice dimension: to "empower
 Abel created its Twitter account in November 2023 but never posted a single tweet from it — an early indicator that go-to-market execution was not running in parallel with product development.<sup><a href="https://x.com/abelforlaw?lang=en">[5]</a></sup>
 
 ---
-
-## Founding Story
 
 ## Timeline
 
@@ -112,9 +112,17 @@ Abel's precise pricing model was never publicly disclosed. The product was sold 
 
 The most plausible revenue model for a platform of this type would be a subscription fee per seat or per matter, potentially with usage-based components tied to document volume or pipeline runs. Law firms typically evaluate software on a per-attorney or per-case basis, and eDiscovery pricing conventions often include per-gigabyte data processing fees. Without confirmed pricing, it is impossible to assess whether Abel's unit economics were viable or whether the pricing model itself created friction with prospective buyers.
 
----2f:T606,
+---2e:T606,
 
 ## Traction
+
+No revenue figures, customer counts, or retention metrics for Abel are publicly available. The available traction signals are limited to press coverage and social indicators.
+
+On the positive side: Abel was selected by TechCrunch as one of the 18 most interesting startups from YC's Winter 2024 Demo Day on April 3, 2024<sup><a href="https://techcrunch.com/2024/04/03/ycs-winter-2024-demo-day-confirms-that-we-are-indeed-in-an-ai-bubble/">[23]</a></sup> — a meaningful editorial endorsement in a batch that included dozens of AI companies. Garry Tan's personal endorsement on launch day provided additional visibility to a large audience of founders and investors.
+
+On the negative side: Abel's @abelforlaw Twitter account accumulated only 44 followers and never posted a single tweet.<sup><a href="https://x.com/abelforlaw?lang=en">[24]</a></sup> No Hacker News launch discussion is publicly findable, which is unusual for a YC company — most W24 startups generated at least some practitioner discussion on the platform. The last known external coverage of Abel was a third-party blog post published on June 27, 2024,<sup><a href="https://hiretop.com/blog2/abel-transforming-document-review-litigation-teams/">[25]</a></sup> roughly ten weeks after Demo Day — suggesting that media interest did not translate into sustained public engagement. No additional funding rounds were recorded after the initial $500K pre-seed.<sup><a href="https://tracxn.com/d/companies/abel/__ieaAuqtoDlLnC2Mbf4wUM-PPHV9R8K0yai-6Q67xaTM">[26]</a></sup>
+
+---
 
 ## Post-Mortem
 

@@ -119,6 +119,16 @@ The addition of search, annotation, and sharing features represented an attempt 
 
 ## Traction
 
+PatientBank's user growth was real and followed a steep trajectory. The company began collecting records in October 2015. By late 2016, it had processed over 10,000 records from more than 2,300 hospitals.<sup><a href="https://www.ycombinator.com/blog/patientbank/">[9]</a></sup> By December 2016, at the time of the seed round close, that figure had grown to 11,000+ completed requests spanning 2,500 hospitals.<sup><a href="https://www.mobihealthnews.com/content/patientbank-gets-22m-online-medical-record-sharing-system">[25]</a></sup>
+
+Growth accelerated sharply in 2017. By August of that year, PatientBank had processed over 60,000 total requests across 6,900 hospitals — a roughly 5x increase in total volume in under nine months.<sup><a href="https://www.prnewswire.com/news-releases/with-us-news-hospital-rankings-delayed-patientbank-releases-national-scorecard-to-evaluate-medical-records-departments-at-hospitals-across-the-us-300497507.html">[12]</a></sup> July 2017 alone saw 14,000 requests — the company's single highest monthly volume on record.<sup><a href="https://www.prnewswire.com/news-releases/with-us-news-hospital-rankings-delayed-patientbank-releases-national-scorecard-to-evaluate-medical-records-departments-at-hospitals-across-the-us-300497507.html">[12]</a></sup> The cause of that spike is not documented in available sources.
+
+At shutdown in January 2018, PatientBank had served over 150,000 users and had interacted with nearly every hospital in the United States.<sup><a href="https://medium.com/patientbank-blog/saying-goodbye-to-patientbank-7456247851b6">[13]</a></sup>
+
+The operational quality of the service was also demonstrable. PatientBank delivered records in approximately 10 days, roughly three times faster than the average request fulfilled through traditional channels.<sup><a href="https://www.ycombinator.com/blog/patientbank/">[22]</a></sup> The product worked. The users came. Revenue did not follow at the scale required to sustain the business.
+
+---
+
 ## Post-Mortem
 
 PatientBank's shutdown on January 12, 2018 was not a product failure or a demand failure. It was a business model failure — one that the founder acknowledged directly and that the company's operational history makes legible in retrospect.

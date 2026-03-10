@@ -2,6 +2,16 @@
 
 ## Overview
 
+Tydo was a direct-to-consumer analytics platform founded in 2020 by Manav Kohli and Scott Sonneborn under the legal entity PolyOps, Inc. Operating out of the Y Combinator S20 batch, the company built a no-code dashboard that consolidated fragmented DTC data — Shopify orders, Facebook Ads spend, Klaviyo email metrics, Amazon sales — into a single interface for lean brand teams that lacked in-house data engineers. Over four years, it cycled through at least three distinct product identities: PolyOps, Tydo, and finally Tydo.ai, each representing a repositioning attempt in an increasingly crowded market.
+
+Tydo failed because it built an aggregation layer on top of platforms that had strong commercial incentives to absorb exactly that functionality natively. The no-code analytics dashboard was a real product solving a real problem, but it was structurally exposed: every data source Tydo connected to was also a potential competitor, and the DTC macro environment that created Tydo's initial tailwind reversed sharply in 2022–2023.
+
+Y Combinator lists Tydo as inactive. <sup><a href="https://www.ycombinator.com/companies/polyops">[6]</a></sup> Co-founder Manav Kohli has since moved to Ribbit Capital. <sup><a href="https://www.linkedin.com/in/manavkohli/">[24]</a></sup> No acquisition or acqui-hire has been publicly disclosed, and no founder post-mortem has been published. The company appears to have wound down quietly, its runway exhausted without a path to a Series A.
+
+<report-gallery>
+<media-image src="https://saaslandingpage.com/wp-content/uploads/2022/06/tydo-380x475.png" alt="Tydo SaaS landing page screenshot" caption="Tydo's landing page circa 2022 — the clean, no-code positioning that attracted 500+ DTC brands before platform consolidation eroded the value proposition."></media-image>
+</report-gallery>
+
 ## Founding Story
 
 Manav Kohli and Scott Sonneborn both attended Claremont McKenna College, a connection that almost certainly predates the company and provided the trust foundation for a co-founder relationship. <sup><a href="https://wellfound.com/company/tydo/people">[4]</a></sup> <sup><a href="https://wellfound.com/company/tydo/people">[5]</a></sup>

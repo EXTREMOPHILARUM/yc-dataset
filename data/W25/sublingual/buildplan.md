@@ -10,6 +10,16 @@ The go-to-market is direct: land with compliance and security teams who control 
 
 ## Why Now?
 
+The single most important change since Sublingual's failure is regulatory: the EU AI Act's conformity assessment requirements took effect in 2025, and at least 12 U.S. states had enacted AI-specific legislation by early 2026 (exact count varies by source; confirm against current legislative trackers). For engineering teams building LLM applications in financial services, healthcare, and defense contracting, "where do your model traces go?" is now a procurement question with legal consequences, not a philosophical preference. Sublingual's local-first architecture — which the original company treated as a free differentiator — is now a compliance checkbox that enterprise buyers will pay to check.
+
+The second structural change is technical standardization. OpenTelemetry (OTel) was adopted as the de facto LLM tracing standard by OpenAI, Anthropic, and LangChain between 2024 and 2025. This matters enormously for the rebuild: the original Sublingual had to build custom static and dynamic code analysis to achieve zero-code-change instrumentation, a fragile and expensive engineering approach. A rebuilt product can instrument via a single OTel collector sidecar — a solved infrastructure primitive — dramatically reducing engineering complexity and improving reliability across Python, TypeScript, and Go stacks simultaneously.
+
+The third change is validated willingness-to-pay. When Sublingual launched, it assumed developers would eventually pay for LLM observability but had no market proof. That proof now exists: Braintrust raised a Series B in 2024 (exact amount not confirmed in research sources; verify independently), Langfuse raised a Series A, and Helicone's paid tiers are publicly documented at $200–$2,000/month. The "lazy devs" free-forever positioning Sublingual chose was a reasonable hypothesis in early 2025; it is an unnecessary concession in 2026.
+
+Distribution has also matured. The AWS Marketplace and Azure Marketplace now have established procurement paths for developer security and compliance tooling, with pre-approved vendor categories that regulated-industry buyers use specifically to bypass lengthy procurement cycles. Neither channel existed as a meaningful path for a two-person team in early 2025.
+
+---
+
 ## Current Market Analysis
 
 **Market size:** The broader AI observability market was estimated at $1.5–2B by 2025 analyst projections (sources vary; no single authoritative figure was found in the research report). The specific segment relevant to this rebuild — LLM evaluation tooling for regulated industries — is smaller but higher-value per contract. No precise sizing for this vertical was found; founders should commission or synthesize primary research before fundraising.
@@ -51,3 +61,13 @@ The local agent is free and open-source. The paid tier adds encrypted team sync:
 ---35:T8c1,
 
 ## Go-to-Market Strategy
+
+**Target customer:** Engineering teams of 5–50 developers at Series A–C companies in financial services, healthcare technology, or defense contracting who are building multi-provider LLM applications and have already received a security review comment or procurement blocker about third-party data transmission. This is narrow by design — these teams have budget, have already identified the pain, and cannot use the free alternatives.
+
+**Primary distribution channel:** Direct outreach through compliance-adjacent communities — specifically, engineers who have posted in the OWASP LLM Top 10 GitHub discussions, the AI security Slack communities (e.g., MLSecOps Community), and the AWS Financial Services Competency partner network. Secondary channel: AWS Marketplace and Azure Marketplace listings, which regulated-industry buyers use specifically to find pre-vetted tooling with existing procurement pathways.
+
+**Pricing:** Free tier — local collector, unlimited traces, single-user dashboard, open-source. Paid team tier — $299/month for up to 10 seats, hosted encrypted sync, SSO, audit export. Enterprise — custom pricing, air-gapped self-hosted sync, SLA, compliance documentation package.
+
+**Stress-testing the price against free alternatives:** A developer can accomplish basic LLM logging with OpenAI's native traces (free), a local SQLite logger (30 minutes of engineering), or Langfuse's free self-hosted tier. The $299/month price is not justified by logging alone — it is justified by the compliance audit export, the SSO/RBAC that makes it a team tool rather than an individual tool, and the agentic trace visualization that free alternatives do not offer. If a prospect says "I can do this with Langfuse free," the correct response is: "Can your security team sign off on Langfuse's self-hosted deployment for a SOC 2 audit? Here's our pre-written compliance documentation." That is the actual purchase.
+
+**Differentiation vs. 2026 competitors:** Braintrust wins on evaluation depth; LangSmith wins on LangChain integration; Helicone wins on cost analytics. The rebuild wins on one axis only: regulated-industry teams who cannot send traces to any third-party cloud. Own that axis completely before expanding.

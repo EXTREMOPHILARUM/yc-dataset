@@ -2,6 +2,18 @@
 
 ## Overview
 
+The single most important change since Deepsilicon's failure is that ternary quantization has graduated from a startup's unvalidated claim into a first-class, peer-reviewed training paradigm — which means a rebuild no longer needs to spend runway proving the core thesis.
+
+When Deepsilicon launched its HN post in September 2024, the Microsoft BitNet b1.58 paper had been public for only a few months, and community skepticism about ternary accuracy tradeoffs was live in the comments. By 2026, that skepticism has been largely resolved: follow-on work from Microsoft Research, together with open implementations in the Hugging Face ecosystem, has demonstrated that 1.58-bit ternary models can match FP16 baselines on a range of reasoning and instruction-following benchmarks. A rebuild inherits this credibility for free.
+
+The second structural shift is the robotics procurement cycle. In 2024, Deepsilicon's target customers — autonomous vehicle and robotics OEMs — were still in R&D mode with diffuse, hard-to-reach buying centers. By 2026, the humanoid robot wave has produced named, funded buyers: Figure AI (raised $675M as of early 2024, per Crunchbase), 1X Technologies, Unitree, and Agility Robotics (acquired by Amazon). These companies have explicit edge-inference requirements — their onboard compute must run vision-language-action models in real time under a strict power envelope — and they have hardware engineering teams with procurement authority. Customer discovery, which likely consumed significant runway at the original Deepsilicon, is now a warm outbound exercise.
+
+On the tooling side, the llama.cpp ecosystem has demonstrated massive, organic developer demand for on-device inference — the project exceeded 60,000 GitHub stars by mid-2024 (GitHub, public repository data) — but remains CPU/GPU-bound with no ternary-native hardware path. A rebuild can ride this proven distribution channel rather than creating developer demand from scratch.
+
+Finally, open-source silicon tooling (OpenROAD, Google's open PDK, RISC-V chiplet IP) has materially reduced tape-out costs since 2022. Exact cost reductions are difficult to pin down publicly, but industry practitioners have cited mature-node shuttle runs via IHP SG13G2 or GlobalFoundries 22FDX at costs an order of magnitude below leading-edge TSMC tape-outs. Hardware remains capital-intensive; it is no longer structurally impossible at seed scale.
+
+---
+
 ## Why Now?
 
 ## Current Market Analysis

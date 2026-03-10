@@ -124,6 +124,18 @@ Will Haringa's self-reported $30K ARR figure, reached within three months of lau
 
 ## Traction
 
+CoffeeAI's traction data is limited but internally consistent: the product worked, users engaged with it, but growth stalled well below venture scale.
+
+The Chrome extension accumulated 269 ratings at a 4.1/5 average on the Chrome Web Store.<sup><a href="https://chromewebstore.google.com/detail/coffeeai-hyper-personaliz/ljganmjpdpdhihlanmnioaldnbgpokep?hl=en">[12]</a></sup> A 4.1-star rating from 269 reviewers indicates a product that genuinely solved a problem for its users—low-quality or broken extensions typically accumulate negative reviews quickly. At least one user reported sending approximately 500 emails through the platform over two months, describing it as "central to my personalized cold email outreach."<sup><a href="https://chromewebstore.google.com/detail/coffeeai-hyper-personaliz/ljganmjpdpdhihlanmnioaldnbgpokep?hl=en">[19]</a></sup> This is a meaningful engagement signal: the product was sticky for active users.
+
+Will Haringa's profile on The Org states that CoffeeAI "scaled to $30K ARR within three months" of the pivot launch.<sup><a href="https://theorg.com/org/segna/org-chart/will-haringa">[18]</a></sup> This figure is self-reported and unverified, but it is directionally plausible given the Chrome Web Store rating count. $30K ARR in three months suggests early product-market fit signals—enough to validate the concept, but far below the $1M+ ARR threshold that typically justifies a Series A in the current environment.
+
+The most telling traction data point is negative: in June 2023, Haringa publicly celebrated CoffeeAI's second Chrome Web Store review on LinkedIn.<sup><a href="https://www.linkedin.com/posts/will-haringa_generativeai-sales-sdr-activity-7071971078100692992-IzC7">[11]</a></sup> Celebrating a second review—more than a year after YC Demo Day—indicates that user acquisition had not achieved any meaningful organic momentum. A product growing at venture scale would be receiving dozens of reviews per week, not celebrating its second.
+
+No third-party community discussion of CoffeeAI—on Reddit, Hacker News, or sales practitioner forums—was found in publicly available records, suggesting the product did not generate significant word-of-mouth beyond its direct user base.
+
+---
+
 ## Post-Mortem
 
 CoffeeAI's failure was not a single catastrophic event. It was a slow-motion mismatch between the growth rate the product could achieve and the growth rate a VC-backed company needed to justify continued operation. Four distinct factors drove this outcome.

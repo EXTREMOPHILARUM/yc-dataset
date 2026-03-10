@@ -6,9 +6,21 @@ The 2026 Automate Ads is a cross-platform campaign orchestration engine for DTC 
 
 The market has fundamentally shifted. In 2015, full automation was contrarian. Today it's table stakes—every major platform has built native optimization, and brands expect it. What's missing is the cross-channel orchestration layer. Brands are fragmented across Meta, Google, and TikTok with no unified decision engine. That gap is the opening.
 
-Go-to-market is Shopify-native: embed directly into the Shopify admin as a performance app, target brands already using Shopify's native ad tools, and win through frictionless onboarding—a conversational setup that asks for goals and budget, then configures campaigns automatically. The unit economics work: $500–$2K MRR per customer, 40%+ gross margins, and a distribution channel that reaches 2M+ active merchants.33:T80d,
+Go-to-market is Shopify-native: embed directly into the Shopify admin as a performance app, target brands already using Shopify's native ad tools, and win through frictionless onboarding—a conversational setup that asks for goals and budget, then configures campaigns automatically. The unit economics work: $500–$2K MRR per customer, 40%+ gross margins, and a distribution channel that reaches 2M+ active merchants.34:T80d,
 
 ## Why Now?
+
+The single most important change since Automate Ads failed is this: **full ad campaign automation is no longer a contrarian thesis — it is the industry standard**. Meta's Advantage+ and Google's Performance Max now route billions of dollars annually through fully automated campaign systems, validating precisely what Szymanski and Torba were arguing in 2015. The market Kuhcoon was trying to create exists. The question is who serves the SMBs that Meta and Google's native tools underserve.
+
+The enabling technology shift is the availability of production-grade LLM APIs. OpenAI's GPT-4 (March 2023) and Anthropic's Claude 3 (March 2024) make it possible to generate, evaluate, and iterate on ad copy and creative briefs at near-zero marginal cost — something Automate Ads could not do with rule-based automation in 2015. A rebuilt product can offer genuinely intelligent creative optimization, not just bid-management rules.
+
+Two additional infrastructure changes matter. First, TikTok's ad platform has matured into a mandatory channel for SMB advertisers, and its API (available to third-party tools since 2021) means a cross-channel automation layer is now technically achievable without building proprietary integrations from scratch. Second, the Meta Marketing API, Google Ads API, and TikTok Marketing API all offer webhook-based event triggers that enable real-time automated responses to campaign performance — a capability that was far more limited in 2015.
+
+On distribution: the Shopify App Store now hosts 2M+ merchants, many of whom are active paid advertisers. This is a direct, high-intent distribution channel that did not exist at meaningful scale for Automate Ads.
+
+Specific market data: global digital ad spend reached $740 billion in 2024 (Statista, 2024). The SMB segment of that spend is not precisely broken out publicly, but Meta reported that more than 10 million active advertisers use its platform as of 2023, the majority of whom are small businesses — confirming the addressable base has grown dramatically since 2015.
+
+---
 
 ## Current Market Analysis
 

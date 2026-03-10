@@ -6,9 +6,21 @@ Booth AI (founded August 2022, YC W23) built a generative AI platform that conve
 
 The rebuild is viable now because the two structural killers — GPU-intensive per-product fine-tuning and the absence of a low-friction distribution channel — have both been resolved: ControlNet/IP-Adapter techniques eliminate the fine-tuning pipeline entirely, inference costs have dropped roughly 10x, and Shopify's App Store provides a direct channel to 2M+ active merchants. The new version is a usage-based, Shopify-native AI product photography engine that turns a single product image into a full library of brand-accurate lifestyle scenes in under 60 seconds, priced per image and billed in arrears.
 
----33:T8e7,
+---34:T8e7,
 
 ## Why Now?
+
+The single most important change since Booth AI's failure is the elimination of per-product fine-tuning as a technical requirement. In 2023, maintaining product identity — preserving exact color, texture, label text, and shape — across diverse generated lifestyle scenes required fine-tuning a diffusion model on each individual SKU. That process consumed GPU compute at a cost that was existential for a $500K-funded startup facing 200+ competitors. The original Booth AI was, in part, a GPU cost problem wearing a SaaS costume.
+
+That constraint no longer exists. ControlNet (released February 2023, but not production-mature until late 2023, after Booth AI went dormant) and IP-Adapter (released September 2023) enable precise product identity preservation through inference-time conditioning rather than fine-tuning. A rebuilt product can process any new SKU in seconds without retraining. Combined with multimodal foundation models — specifically GPT-4o (May 2024) and Stable Diffusion 3 (February 2024) — the pipeline can now interpret natural-language scene descriptions and return brand-accurate lifestyle imagery without the per-product compute overhead that made Booth AI's unit economics unworkable.
+
+On infrastructure cost: public GPU cloud pricing on AWS, Lambda Labs, and Replicate has declined by approximately 10x since early 2023 (exact current figures vary by provider and should be verified at build time), meaning the same inference workload that constrained Booth AI now costs a fraction of what it did.
+
+On distribution: Shopify's App Store has over 10,000 apps and serves 2M+ active merchants as of 2025. Booth AI had a Shopify integration but no App Store presence — it acquired customers through cold outreach on a $500K budget. A rebuilt version can be discovered organically by merchants already searching for photography and creative tools inside the platform they use daily.
+
+Demand is now empirically confirmed, not assumed. Shopify's native AI image generation tools and Adobe Firefly's product photography features — both launched in 2023–2024 — have demonstrated that e-commerce merchants will adopt AI-generated imagery at scale. The question Booth AI was trying to answer in 2023 has been answered by platform adoption data.
+
+---
 
 ## Current Market Analysis
 
@@ -26,11 +38,11 @@ Current direct competitors include:
 - **Adobe Firefly (Generative Fill)**: Excellent quality but requires Creative Cloud subscription, lives inside Photoshop, and demands design literacy. Not accessible to the median Shopify merchant.
 - **Shopify Magic (native)**: Convenient but limited to simple background replacement, not full lifestyle scene generation. Validates demand without satisfying it.
 
-The gap: no current competitor combines Shopify-native distribution, natural-language scene control, batch processing across an entire product catalog, and usage-based pricing with no upfront commitment.35:T497,$0.15 per downloaded image, billed monthly in arrears, with the first 20 images free. A merchant generating 100 images per month pays $15. A merchant running a full catalog refresh of 500 images pays $75 that month and nothing the next month if usage drops.
+The gap: no current competitor combines Shopify-native distribution, natural-language scene control, batch processing across an entire product catalog, and usage-based pricing with no upfront commitment.36:T497,$0.15 per downloaded image, billed monthly in arrears, with the first 20 images free. A merchant generating 100 images per month pays $15. A merchant running a full catalog refresh of 500 images pays $75 that month and nothing the next month if usage drops.
 
 Stress test against free alternatives: Shopify Magic (background removal only, not lifestyle scenes), Canva's AI tools (requires design work, not batch catalog processing), and Stable Diffusion (requires technical setup, no Shopify integration, no product identity preservation). None of these alternatives deliver what a merchant actually needs — a full lifestyle scene library for their catalog, generated in bulk, with their product looking exactly right. The $0.15/image price is justified because the alternative is a $500–$2,000 freelance photography session for the same output. The question is not "why pay vs. free" but "why pay $0.15 vs. $500" — and that answer is obvious to any merchant who has booked a photographer.
 
-For merchants who prefer predictability, offer an optional $49/month plan for 400 images (~$0.12/image) — a modest discount that converts high-volume users to recurring revenue.36:T8a4,
+For merchants who prefer predictability, offer an optional $49/month plan for 400 images (~$0.12/image) — a modest discount that converts high-volume users to recurring revenue.37:T8a4,
 
 ## Defensibility Against Platform Incumbents
 
@@ -86,6 +98,40 @@ Independent Shopify merchants with 50–500 SKUs in home goods, apparel, or pack
 Shopify App Store, with three supporting tactics: (1) optimize the App Store listing for "product photography" and "lifestyle images" search terms, which are high-intent queries from merchants already experiencing the pain; (2) partner with 10–15 Shopify-focused YouTube creators and newsletter writers (Shopify Masters podcast, My Wife Quit Her Job, etc.) for sponsored content targeting the exact merchant profile; (3) activate a referral program where merchants who refer another paying merchant receive 50 free images — leveraging the existing merchant community rather than paid acquisition.
 
 ## Pricing Strategy
+
+# Scenik
+
+## 1. Overview
+
+Scenik is a Shopify-native AI product photography platform that transforms a single product image into a full library of brand-accurate lifestyle scenes in under 60 seconds — a modern revival of Booth AI's original vision, rebuilt with 2026-era inference techniques that eliminate the per-product fine-tuning bottleneck that made the original economically unviable. E-commerce merchants on Shopify connect their store once, describe a scene in plain English, and receive 8–12 photorealistic lifestyle images per SKU with exact product identity preserved via IP-Adapter conditioning. Billing is usage-based at $0.15/image charged in arrears, with the first 20 images free — inverting the upfront-payment friction that drove Booth AI's only recorded user reviews to be uniformly negative.
+
+---
+
+## 2. Core Features
+
+**Shopify Integration**
+- OAuth 2.0 Shopify app installation flow; merchant authenticates once
+- Full product catalog sync: imports all products and variant images organized by SKU
+- Webhook listeners for `products/create`, `products/update`, `products/delete` to keep catalog in sync
+- Display sync status per product (synced, pending, error)
+
+**Scene Generation**
+- Natural-language scene prompt input ("white oak kitchen counter, morning light, coffee and herbs nearby")
+- IP-Adapter + ControlNet inference pipeline preserves exact product color, texture, label text, and shape
+- Generates 8 images per job at 1024×1024 (upscaled to 2048×2048 on download)
+- Job completes in under 60 seconds; real-time progress via SSE stream
+- Per-job generation history with thumbnails and prompt stored
+
+**Brand Scene Templates**
+- Save any successful generation as a named template ("Kitchen Morning", "Studio White")
+- Apply a saved template to any single product or entire catalog in one batch job
+- Templates store: prompt text, negative prompt, IP-Adapter strength, seed range, style preset
+- Template library page with preview thumbnails and usage count
+
+**Batch Processing**
+- Select multiple SKUs from catalog and apply a template to all in one operation
+- Batch job queue with per-SKU progress tracking
+- Batch results page: per-SKU image grid, bulk download as ZIP
 
 ## Differentiation vs. 2026 Competitors
 

@@ -10,6 +10,22 @@ Go-to-market is structural advantage reborn. The YC alumni network — 4,000+ ac
 
 ## Why Now?
 
+The single most important change since Triplebyte's failure is this: the 15-minute phone screen and 45-minute technical interview that made FastTrack work — and made it unscalable — can now be conducted by AI at zero marginal cost per candidate.
+
+Triplebyte's original unit economics were strangled by human interviewer time. Every candidate who passed the initial quiz required a trained Triplebyte interviewer to conduct two live sessions. That labor cost created a hard ceiling on throughput and made the high-touch model incompatible with venture-scale growth. The $35M Series B forced a choice between quality and volume; Triplebyte chose volume and died. That tradeoff no longer exists.
+
+GPT-4 (March 2023) and Claude 3 Opus (March 2024) can now conduct open-ended, adaptive technical conversations — probing for reasoning, not just pattern-matching — at a quality level sufficient to replace Triplebyte's phone screen tier. More specifically, models fine-tuned on structured technical evaluation rubrics (a capability available via OpenAI's fine-tuning API since August 2023) can maintain consistent scoring criteria across millions of candidates simultaneously. The marginal cost of the 45-minute technical interview drops from ~$40–60 in interviewer time to effectively zero.
+
+This resolves the core structural failure. A rebuilt Triplebyte can maintain FastTrack's quality bar — the thing clients actually paid for — while scaling candidate throughput to a level the original model could never reach.
+
+Additional tailwinds are real and documented. LinkedIn's 2023 Future of Work report noted a 21% increase in job postings emphasizing skills over degrees. IBM, Google, and the US federal government have formally removed degree requirements for many roles. Triplebyte had to evangelize skills-based hiring; a 2026 rebuild does not.
+
+The 2022–2023 tech layoff wave (150,000+ US tech workers laid off per Layoffs.fyi) created a structural surplus of experienced, senior engineers actively seeking new roles — precisely the candidate demographic Triplebyte's Screen strategy failed to attract during the 2021 hiring boom. Supply-side conditions have inverted.
+
+Distribution channels unavailable to the original Triplebyte now exist at scale: the Wellfound (AngelList) startup network with 8M+ registered candidates, the Shopify App Store with 2M+ merchants (relevant for commerce-focused engineering roles), and LinkedIn's API partnerships for verified credential overlays. Otherbranch's 2024 founding by ex-Triplebyte employees — people with direct institutional knowledge of what worked — further validates that the thesis survives the company.
+
+---
+
 ## Current Market Analysis
 
 **Market Size:** US companies spend an estimated $150 billion annually on recruiting across all functions, per the original research. The technical recruiting subset commands premium fees (15–25% of first-year salary) due to engineering talent scarcity. Specific 2026 market size data for technical recruiting as a standalone category is not available in the research provided; the $150B figure is the best available anchor. The AI-augmented hiring tools market is growing rapidly — exact figures are not available in the research — but the structural demand for better technical screening has only increased as engineering compensation has risen and mis-hires have become more expensive.

@@ -6,9 +6,23 @@ By 2026, Talkray is a B2B workforce communications platform for operations teams
 
 The market shift is simple: enterprise customers now pay for compliance and searchability. Talkray's original consumer app failed because voice-over-data was a commodity feature. But in logistics and field service, a PTT channel that auto-transcribes every transmission and integrates with ServiceNow or Zendesk is defensible—and worth $200–500/month per team.
 
-The go-to-market targets operations managers at SMBs (10–200 field workers) in last-mile delivery, maintenance, and warehousing. Launch with a tight integration to one dispatch system, win 10 paying accounts in 90 days, and expand vertically. The win is speed and compliance where Motorola's enterprise PTT is overkill and Slack has no voice.33:T76a,
+The go-to-market targets operations managers at SMBs (10–200 field workers) in last-mile delivery, maintenance, and warehousing. Launch with a tight integration to one dispatch system, win 10 paying accounts in 90 days, and expand vertically. The win is speed and compliance where Motorola's enterprise PTT is overkill and Slack has no voice.34:T76a,
 
 ## Why Now?
+
+The single most important change since Talkray's failure is the emergence of a validated, high-ARPU B2B market for push-to-talk that TiKL never pursued. Motorola Solutions' WAVE PTX enterprise PTT service charges $15–30/user/month, and the broader enterprise PTT software market is estimated at over $30 billion globally (exact 2026 figure unavailable; this figure is directionally supported by Mordor Intelligence and MarketsandMarkets reports on the broader workforce communications market — verify current sizing independently). TiKL died chasing low-ARPU consumer advertising in developing markets. A rebuild targets the opposite end of the value chain.
+
+Three additional technical shifts make 2026 structurally different from 2013:
+
+**Infrastructure cost collapse.** TiKL's Motorola-pedigreed founders had to build custom voice transmission infrastructure from scratch. Today, Agora SDK (available since 2014, mature by 2020) and Daily.co's WebRTC API (launched 2016) deliver sub-300ms voice latency at approximately $0.001/minute. A two-person team can replicate TiKL's core PTT functionality in weeks, not months.
+
+**Reliable background processing.** TiKL's always-on PTT experience was technically undermined by iOS and Android battery management. Android 8.0 Oreo (August 2017) and iOS 13 (September 2019) introduced background processing APIs and persistent WebSocket support via Firebase Cloud Messaging that make low-latency PTT technically trivial today.
+
+**B2B distribution channels.** The Salesforce AppExchange (3,000+ listed apps), ServiceNow Store, and Microsoft Teams App Store (with 320 million Teams monthly active users as of Microsoft's FY2023 disclosures) provide direct access to enterprise buyers — distribution infrastructure that simply did not exist for TiKL.
+
+The consumer messaging war is over. WhatsApp won. The enterprise field communications war is not.
+
+---
 
 ## Current Market Analysis
 

@@ -106,6 +106,16 @@ The Kytetime teen product, launched in April 2013, may have represented an attem
 
 ## Traction
 
+The only traction data available comes from TechCrunch's April 2013 coverage of the Kytetime launch, which reported that Kytephone had between 10,000 and 50,000 installs and users across 60 countries at that point—approximately 10 months after the public launch.<sup><a href="https://www.crunchbase.com/organization/kytephone">[20]</a></sup> This range is wide enough to be of limited analytical value, but it confirms the product had real users outside North America.
+
+The organic discovery of the autism/developmental disabilities use case by December 2012—six months after launch—suggests the product was generating genuine word-of-mouth in communities where it solved a real problem.<sup><a href="https://archive.canadianbusiness.com/business-news/canadian-made-app-kytephone-makes-phones-and-tablets-kid-proof/">[21]</a></sup> Parents in these communities are known for active online information-sharing, and Drashkov's awareness of this use case implies it was surfacing through user feedback or support channels.
+
+Canadian press coverage from CTV News and CBC in late 2012, combined with the TechCrunch launch coverage, gave the product meaningful earned media for a seed-stage consumer app. The CBC segment featuring Drashkov on national television represented the kind of distribution that most YC consumer companies cannot access.<sup><a href="https://www.cbc.ca/player/play/video/1.451058">[23]</a></sup> Whether this translated into sustained user acquisition is unknown.
+
+No retention data, revenue figures, or churn metrics are available for any period of the company's operation.
+
+---
+
 ## Post-Mortem
 
 Kytephone shut down on or around August 12, 2014—approximately 26 months after its public launch.<sup><a href="https://secureblitz.com/kytephone-parental-control-review">[14]</a></sup> No founder post-mortem, shutdown announcement, or public statement about the closure exists in the available record. The failure analysis below is reconstructed from structural evidence, contemporaneous press coverage, and the company's funding history.

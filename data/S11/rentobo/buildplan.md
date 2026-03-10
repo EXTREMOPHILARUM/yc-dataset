@@ -6,9 +6,21 @@ Rentobo was a San Francisco-based rental management platform founded in 2011 and
 
 The rebuild thesis is this: the market Rentobo was right about but too underfunded to win is still structurally intact — 17 million individual landlords, mostly on spreadsheets — but the cost structure has inverted. Commodity APIs for e-signature, ACH, open banking, and LLM-powered document analysis now make it possible to build in months what took Rentobo years, and to monetize through AI-automated tenant underwriting at margins that didn't exist in 2012. **Build the AI-native rental operating system for the 1–10 unit landlord: free to list, free to manage, and monetized through an instant AI underwriting report that replaces the $40 credit bureau pull with a $15 open-banking screen that closes in 90 seconds.**
 
----32:T91d,
+---33:T91d,
 
 ## Why Now?
+
+The single most important change since Rentobo's failure is the collapse in the cost and complexity of the tenant screening transaction — the revenue event that Rentobo correctly identified in 2012 but could never execute cheaply enough to make the unit economics work.
+
+In 2012, running a background and credit check required integrating with TransUnion, Equifax, or Experian through expensive enterprise contracts, waiting 24–72 hours for results, and charging tenants $30–50 to cover bureau fees and margin. The friction was high on both sides. Today, Plaid's Income and Assets API (generally available since 2021) and MX's open banking platform allow instant verification of a tenant's bank balance, income deposits, and spending patterns directly from their bank account — no bureau pull required, results in under two minutes, and API costs in the low single-digit dollars per call. This is not a marginal improvement; it is a structural cost reduction that changes the monetization math entirely.
+
+The second enabling shift is LLM-powered document parsing. GPT-4 (March 2023) and Claude 3 (March 2024) can extract, classify, and risk-score unstructured documents — pay stubs, offer letters, bank statements — with accuracy sufficient for a first-pass underwriting decision. A rebuilt Rentobo can offer landlords an AI-generated applicant risk summary that would have required a human analyst or an expensive third-party integration in 2016.
+
+On the infrastructure side, DocuSign's eSignature API and HelloSign (now Dropbox Sign) are commodity services with per-envelope pricing under $1 at volume. Stripe's ACH transfer product handles security deposit collection at 0.8% capped at $5. These were not available at this price point or reliability level when Rentobo was building.
+
+Market context: TurboTenant reported 700,000+ landlords on its platform as of 2023 (per company press releases), validating that the free-landlord, fee-from-tenant model scales. The U.S. Census Bureau's 2021 Rental Housing Finance Survey estimates approximately 17 million individual landlords owning 1–4 unit properties. Exact current SaaS penetration data for this segment is not publicly available, but TurboTenant's 700K figure against a 17M addressable base implies roughly 4% penetration — a market that is still early.
+
+---
 
 ## Current Market Analysis
 

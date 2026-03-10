@@ -10,6 +10,16 @@ The rebuild thesis: three structural changes have converged to make this viable 
 
 ## Why Now?
 
+The single most important change since Eventjoy's absorption is the collapse of the mid-market event app competitive set. DoubleDutch — which had raised over $50 million by 2014 and was Eventjoy's most well-funded direct competitor in mobile event apps — was acquired by Cvent in 2019 and effectively discontinued as a standalone product. Guidebook pivoted toward enterprise and higher education, pricing itself out of the independent organizer market. Quickmobile was acquired by Cvent in 2018. The three specialists that made Eventjoy's bundling strategy look redundant in 2014 have all been absorbed upmarket, leaving the sub-$50,000 event segment structurally underserved. This is not an inference — Whova, Swoogo, and Bizzabo have all publicly repositioned toward enterprise accounts in the $100,000+ event budget range, and the research report confirms the mid-market gap has been "repeatedly vacated by consolidation."
+
+The second critical change is embedded finance infrastructure. Stripe Connect (launched 2012, but reaching platform-grade maturity by 2018–2019) and Adyen for Platforms now enable a "free ticketing, monetize the float" model: hold ticket revenue in interest-bearing accounts during the window between ticket sale and event payout, generate yield, and pass the platform cost to treasury rather than to organizers or attendees. At 4–5% annualized yield on float (approximate Fed funds rate environment as of 2024–2025; exact 2026 rates unknown), a platform processing $10 million in monthly GMV generates $400,000–$500,000 in annualized float revenue before charging a single fee. This model did not exist at scale in 2014 — it is why Eventjoy was forced to drop its ticketing fees without a validated replacement.
+
+The third change is behavioral. Post-COVID, QR code check-in and event apps are expected infrastructure, not a behavioral ask. Convincing attendees to download an app before arriving at a 2014 hackathon was a genuine friction point; in 2026, the friction has inverted — organizers who don't offer a digital check-in experience look unprepared. This eliminates the adoption barrier that constrained Eventjoy's attendee-side growth.
+
+Distribution channels unavailable in 2014 now exist: the Shopify App Store (2M+ merchants, many running in-person events), Squarespace's third-party integrations marketplace, and Notion's template gallery all provide organic discovery for a tool that embeds into existing organizer workflows. The global event management software market was approximately $6 billion in 2014; it reached an estimated $14.5 billion by 2023 (source: Grand View Research, though exact 2026 figures are unknown and should be verified independently). The market has more than doubled while the mid-market competitive set has shrunk.
+
+---
+
 ## Current Market Analysis
 
 **Market size:** The global event management software market was estimated at approximately $14.5 billion in 2023 (Grand View Research), up from roughly $6 billion in 2014 when Eventjoy operated. The DIY and independent organizer segment — events with 50–2,000 attendees, budgets under $50,000, no dedicated technical staff — is not broken out separately in available public data, so the addressable slice of this market for a rebuild is an inference, not a verified figure.
@@ -71,3 +81,40 @@ The free core must be stress-tested against Luma (free, no app), Eventbrite (pai
 **Differentiation vs. 2026 competitors:** Against Luma — native attendee app and in-event communication. Against Eventbrite — zero fees and organizer-aligned incentives. Against Whova — 10x lower price point for the same core feature set. The positioning is not "better than Eventbrite" — it is "Eventbrite for organizers who run events as a community, not a business."38:T896,
 
 ## Pricing strategy:
+
+# Fete
+
+## 1. Overview
+
+Fete is a modern revival of Eventjoy — a free, mobile-first event operating system for independent organizers running recurring in-person events. Organizers create branded event pages, sell tickets at zero cost, check in attendees via QR code, broadcast real-time announcements, and promote events through self-serve ad tools. The platform monetizes through float yield on ticket revenue held in Stripe Connect accounts and a 15% management fee on promotional ad spend — never through per-ticket fees — creating incentive alignment with organizers that Eventbrite structurally cannot match.
+
+---
+
+## 2. Core Features
+
+**Event Management**
+- Create event pages with title, description, cover image, date/time, location (address + map embed), and capacity limit
+- Rich text event description editor (bold, italic, links, headings, bullet lists, images)
+- Publish, unpublish, or duplicate events
+- Set events as free or paid; configure multiple ticket types (e.g., General Admission, VIP, Early Bird) with individual prices, quantities, and sale windows
+- Automatic slug generation from event title with collision handling
+
+**Ticketing & Registration**
+- Public registration/checkout flow for free events (name + email only)
+- Stripe-powered checkout for paid events with no platform fee passed to organizer or attendee
+- Ticket confirmation email with QR code attachment (PNG) sent via Resend
+- Organizer receives payout via Stripe Connect after event date
+- Refund management from organizer dashboard (full refunds only, up to 24 hours before event)
+
+**Attendee App (PWA)**
+- Progressive Web App served at `/e/[slug]/app` — installable on iOS and Android, no App Store required
+- Event schedule/agenda with session blocks (title, time, location, speaker)
+- Real-time push announcements from organizer (via Web Push API)
+- QR code display for check-in (attendee's unique ticket QR)
+- Event map with venue pin
+
+**Organizer Check-In**
+- QR code scanner in organizer dashboard (camera-based, works on mobile browser)
+- Manual attendee search and check-in by name or email
+- Real-time check-in counter and attendee list with checked-in status
+- Export attendee list as CSV

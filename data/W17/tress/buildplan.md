@@ -10,6 +10,16 @@ Go-to-market is stylist-led, not consumer-led. Recruit 50 anchor stylists per ci
 
 ## Why Now?
 
+The single most important change since Tress failed is the collapse of the "reach millions of users before earning a dollar" requirement. Tress died because its ad-dependent model needed scale it couldn't afford to reach. In 2026, a rebuilt Tress can generate revenue from its first 500 users through booking commissions — a structural shift made possible by the maturation of beauty-vertical booking infrastructure that simply did not exist at Tress's scale in 2016–2018.
+
+Booksy, StyleSeat, and Mindbody have collectively proven that service booking in beauty is a high-margin, repeatable business. Booksy alone processes millions of appointments monthly (exact 2026 figures unavailable), and its API ecosystem has normalized the expectation that discovery platforms connect directly to booking. A rebuilt Tress can charge a 10–15% commission on every stylist appointment booked through the platform — generating real revenue at 1,000 users, not 1,000,000.
+
+Three additional infrastructure shifts compound this advantage. First, React Native (stable cross-platform parity achieved circa 2021) allows a two-person engineering team to ship and maintain iOS and Android simultaneously, eliminating the Android-only constraint that locked Tress out of the higher-CPM US and UK markets during its critical growth window. Second, Shopify's Storefront API and affiliate platforms like LTK (formerly LikeToKnowIt, rebranded 2021, 40M+ users) enable shoppable product links embedded directly in posts, replacing ad revenue with transaction revenue that scales from the first sale. Third, TikTok's algorithmic feed — proven by 2022 to drive massive organic reach for hair transformation content without requiring a pre-existing social graph — offers a distribution model that directly addresses the founders' day-one complaint that "getting the word out has been challenging."
+
+The US Black hair care market was valued at approximately $9 billion in 2016 (Newsweek). Current market size data for 2026 is unavailable, but Unilever, P&G, and L'Oréal have all launched dedicated multicultural hair lines since 2018, signaling sustained CPG investment in this segment. That brand attention means a platform with 50,000 engaged users — a number Tress already reached — can now command direct sponsorship revenue that was structurally unavailable in 2016.
+
+---
+
 ## Current Market Analysis
 
 **Market Size:** The global Black hair care market was cited at approximately $9 billion at the time of Tress's operation (Newsweek, December 2016). A precise 2026 figure is not available in the research report. However, the directional signal is clear: major CPG brands including Unilever (SheaMoisture parent company), P&G (Pantene Gold Series), and L'Oréal (Mizani, Dark & Lovely) have all expanded dedicated multicultural hair portfolios since 2018, indicating the commercial opportunity has grown, not contracted.

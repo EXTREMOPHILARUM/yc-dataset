@@ -10,6 +10,18 @@ The go-to-market is AWS Marketplace distribution to healthcare technology buyers
 
 ## Why Now?
 
+The single most important change since Documents.Me failed is HIPAA enforcement becoming financially catastrophic. In 2012, OCR penalty collections totaled approximately $4M industry-wide — a number that made compliance feel optional for many small healthcare technology vendors. By 2023, OCR collected over $28M in a single year, and IBM's 2023 Cost of a Data Breach Report pegged the average healthcare breach cost at $10.9M per incident. For a mobile health app developer in 2026, non-compliance is no longer a theoretical risk; it is an existential one. This is the forcing function that CloudClear needed but did not have.
+
+The second structural shift is infrastructure commoditization. Co-founder Anirudh Ramachandran spent meaningful engineering time building `keyserve` — a custom encryption key management service — from scratch. In 2026, AWS Key Management Service (available since 2014), HashiCorp Vault (available since 2015), and the open-source `age` encryption library (stable since 2021) make that foundational layer a configuration problem, not a research problem. A rebuilt team can skip directly to product and distribution.
+
+Third, the market now has validated comps that did not exist in 2012. Virtru, which offers end-to-end encrypted file and email sharing for enterprises, has raised over $100M. Tresorit, offering encrypted cloud storage, was acquired by SwissPost. These outcomes confirm that enterprises will pay a meaningful premium for client-side encryption — a demand signal that was entirely absent when Documents.Me was operating.
+
+Finally, Apple's end-to-end encrypted iCloud Advanced Data Protection (December 2022) and Google's client-side encryption for Workspace (generally available 2023) have validated the zero-knowledge thesis at the platform level while simultaneously closing the consumer opportunity. Incumbents now own consumer encryption. The HIPAA developer tooling market remains genuinely underserved.
+
+The distribution channel that did not exist in 2012: the AWS Marketplace, which now hosts over 12,000 software listings and is the primary procurement path for healthcare technology buyers already operating on AWS infrastructure.
+
+---
+
 ## Current Market Analysis
 
 The HIPAA-compliant software and compliance tooling market has grown substantially since 2012, though precise market size figures for the specific niche of HIPAA encryption APIs for mobile developers are not available in public sources. The broader healthcare cybersecurity market was valued at approximately $17.6B in 2023 (MarketsandMarkets), compared to a nascent and largely unquantified market in 2012. The adjacent compliance-as-a-product category — validated by Drata and Vanta for SOC 2, and Aptible specifically for HIPAA — has attracted hundreds of millions in venture capital, confirming investor appetite for the model.

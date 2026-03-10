@@ -105,6 +105,46 @@ No traction data — customer counts, ARR, distributor partnerships, or contract
 
 ## Post-Mortem
 
+### Primary Cause: Serial Pivoting Exhausted Capital Before Any Thesis Could Be Validated
+
+The most direct explanation for Onsite Pro's failure is arithmetic. The company raised approximately $2.4 million — all of it by November 2021 — and executed two full pivots over the following two years.<sup><a href="https://leadiq.com/c/onsite-pro/61143c9832ba15bae286c029">[39]</a></sup> Each pivot required rebuilding the product, reorienting the go-to-market, and re-establishing credibility with a new customer segment. At an estimated burn of $80K–$120K per month, the company had roughly 20–30 months of runway from its last funding close. That runway had to cover the wind-down of the training model, the build-out and operation of the hiring marketplace, the decision to abandon the hiring marketplace, the pivot to HVAC software, the product rebuild, the HARDI membership and advisor recruitment, and the early sales motion — all before any of those bets could compound.
+
+The hiring marketplace phase lasted roughly 12 months (early 2022 through late 2022 or early 2023) before being abandoned. The HVAC software phase was still described as "attacking a new problem" — implying early-stage — when Steyer stepped down in November 2023.<sup><a href="https://www.linkedin.com/posts/sam-steyer_im-sharing-big-news-today-gautam-jayaraman-activity-7128053914549026816-keKM">[40]</a></sup> That means the final pivot had at most 12–18 months of runway behind it before the company effectively ran out of both capital and leadership energy.
+
+The team attempted to address the capital constraint implicitly by keeping headcount lean and by framing each pivot publicly as a success rather than a failure — a narrative strategy that may have been intended to preserve investor confidence and recruiting ability. But no additional funding round was raised after November 2021, suggesting the strategy did not attract follow-on capital.
+
+### Secondary Cause: The Hiring Marketplace Faced Structural Competition It Could Not Overcome
+
+The clean energy hiring marketplace was a reasonable pivot from the training model — more transactional, more immediately monetizable, and aligned with real employer demand. But the competitive landscape was structurally unfavorable. Indeed, LinkedIn, and ZipRecruiter already dominated general hiring; niche job boards for trades (like iHireConstruction or Tradesmen International) had existing networks. Greenwork's differentiation was its focus on clean energy specifically and its supply-side relationships with trade schools — a genuine but narrow moat.
+
+The marketplace also faced a classic chicken-and-egg problem. Employers pay for access to job seekers; job seekers come for employer density. With 500 job seekers and "tens of companies," the platform was too thin on both sides to generate the match quality that would justify employer subscription fees over free alternatives. The White House recognition and the Allume Energy partnership were credibility signals, not demand signals — they did not translate into disclosed revenue or accelerating user growth.
+
+The team's attempted remedy was to focus on the clean energy vertical specifically, where general-purpose platforms had less depth. But the clean energy trades market in 2022 was still nascent — the Inflation Reduction Act, which dramatically accelerated clean energy installation demand, was not signed until August 2022, and its workforce effects would take years to materialize. The market Greenwork was building for was real, but it was 3–5 years from the scale needed to support a standalone hiring marketplace.
+
+### Tertiary Cause: The HVAC Software Market Rewarded Incumbents and Relationships Over Product Elegance
+
+The pivot to HVAC proposal software was analytically defensible — the problem was real, the market was large, and the distributor-as-customer model was clever. But the HVAC distribution market has structural characteristics that make it difficult for a new entrant to penetrate quickly.
+
+HVAC distributors are relationship-driven businesses. They have long-standing ties to manufacturers, contractors, and software vendors. Switching costs are high: migrating a pricebook requires re-entering pricing data, retraining contractor users, and managing a transition period during which the old and new systems must coexist. A distributor evaluating Onsite Pro was not just evaluating the product — they were evaluating whether a two-year-old startup with no prior HVAC history would still exist in three years to support them.
+
+The competitive threat from manufacturer-owned tools was particularly acute. Goodman had already acquired at least one HVAC sales software company.<sup><a href="https://www.onsitepro.co/about">[41]</a></sup> Manufacturers can offer proposal tools for free or at subsidized cost because the tool drives equipment sales — a fundamentally different economic model than a standalone SaaS company that must charge for the software itself. Onsite Pro's flat-fee-per-pricebook model was competing against tools that manufacturers had every incentive to give away.
+
+The team attempted to address the credibility gap by joining HARDI, recruiting HVAC-specific advisors, and building a product that integrated AHRI matchups and financing — features that required genuine domain knowledge. These were the right moves, but they take time to translate into sales. The company did not have time.
+
+### Compounding Factor: Founder Fatigue and Leadership Transition at a Critical Moment
+
+Steyer's November 2023 departure was unusually candid about its cause. "I am also, honestly, a little tired after 3 years as CEO, on the heels of a presidential campaign and another startup founding experience," he wrote.<sup><a href="https://www.linkedin.com/posts/sam-steyer_im-sharing-big-news-today-gautam-jayaraman-activity-7128053914549026816-keKM">[42]</a></sup> This is a rare public acknowledgment of founder fatigue as a factor in a company's trajectory.
+
+The timing was damaging. The HVAC pivot was still in early stages — Steyer himself described it as "attacking a new problem" — meaning the company was at its most vulnerable moment: a new product, a new customer segment, no proven revenue, and dwindling runway. A CEO transition at that stage forces the incoming CEO (Jayaraman) to simultaneously manage the existing team, re-establish investor relationships, and close the first meaningful customer deals — all while the clock runs down.
+
+Jayaraman was technically capable (MIT, DoorDash, Dropbox, two prior YC companies), but his background was engineering-heavy. The HVAC software business at that stage needed a sales-intensive motion — cold calls to regional distributors, conference attendance, relationship-building with HARDI members. Whether Jayaraman had the sales orientation to execute that motion is unknown, but the outcome — YC listing the company as "Inactive" within roughly 18 months of his taking over — suggests the transition did not produce a breakthrough.
+
+### Structural Factor: The Product Was a Feature in a Market Where Platforms Win
+
+Zooming out from company-specific decisions, Onsite Pro's final product occupied a dangerous position in the software stack. Proposal generation is a workflow feature, not a platform. The dominant HVAC software platforms (ServiceTitan, Jobber) had the contractor relationships, the data, and the capital to add proposal features natively — and ServiceTitan in particular had been systematically expanding its feature set to cover more of the contractor workflow. A standalone proposal tool, however well-designed, faces the constant risk of being absorbed as a feature by a platform that already owns the contractor's daily workflow.
+
+The distributor-as-customer model was an attempt to avoid this trap by approaching contractors through a different channel. But it created a different vulnerability: distributors are not software buyers by nature, and convincing them to pay for a tool that primarily benefits their contractor customers — rather than their own operations — is a harder sell than it appears.
+
 ## Key Lessons
 
 - **Two pivots on $2.4M is a structural constraint, not just a strategic choice.** Greenwork's capital efficiency was impressive in one sense — the team kept the company alive for over two years on a pre-seed round. But each pivot reset the clock on product-market fit validation. By the time Onsite Pro had a product worth selling to HVAC distributors, the company had roughly 12–18 months of runway left and no confirmed path to a Series A. Startups with thin capital reserves need to pick a thesis and stay with it long enough to generate the metrics that attract follow-on funding; Greenwork's pivot cadence made that impossible.

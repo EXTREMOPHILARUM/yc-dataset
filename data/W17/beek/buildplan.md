@@ -18,6 +18,16 @@ As of 2024–2025, ElevenLabs, OpenAI TTS, and Google's Chirp 2 can produce near
 
 ## Specific market signals:
 
+- Audible's December 2024 year-end review explicitly cited 486 million native Spanish speakers and approximately 50,000 Spanish audiobooks as a strategic priority — the same gap Beek identified in 2019, barely closed five years later. (Source: Audible Newsroom, December 2024.)
+- Spotify's audiobook tier, launched in the U.S. in 2023 and expanded to multiple markets in 2024, now reaches 100M+ Latin American users who are already paying subscribers — the subscription behavior Beek had to educate the market on is now ambient.
+- WhatsApp audio messaging has 90%+ penetration in Mexico and Brazil, establishing habituated mobile audio consumption among the exact demographic Beek targeted. No behavior change is required.
+- Mercado Pago and Stripe's Mexico/Brazil expansion (Stripe launched full Mexico support in 2022) have matured the creator payout infrastructure that made per-minute royalty distribution operationally complex for Beek in 2019.
+- The global audiobook market was valued at approximately $6.7 billion in 2023 and is projected to reach $35 billion by 2030 (Grand View Research, 2024 — note: LatAm-specific breakdown not publicly available in sources reviewed).
+
+The distribution channels available now — Spotify's partner API, Apple Podcasts Connect, and WhatsApp Business for creator acquisition — did not exist in their current form when Beek was building. A new entrant does not need to build distribution from scratch.
+
+---
+
 ## Current Market Analysis
 
 ## Market size today vs. Beek's operating years:
@@ -91,6 +101,45 @@ Primary: Spanish-language podcast creators in Mexico with existing audiences of 
 Direct outreach to the top 500 Spanish-language podcast creators on Spotify Mexico (Spotify for Podcasters dashboard provides public listener data). Offer a 90-day exclusive window with a guaranteed minimum payout of $500 for their first AI-produced audiobook — funded from seed capital, not ongoing operations. This is a creator acquisition cost, not a subsidy. WhatsApp Business for creator onboarding and support (90%+ penetration in Mexico; creators already use it for audience communication). No paid consumer acquisition until creator flywheel is validated.
 
 ## Pricing strategy:
+
+# Voxa
+
+## 1. Overview
+
+Voxa is an AI-native Spanish-language audio subscription platform — a modern revival of Beek — where independent creators submit text manuscripts and receive finished, narrated audiobooks within hours using AI voice synthesis with regional accent selection. Listeners pay $7.99/month for unlimited access to an exclusive catalog of original Spanish-language audio content, while creators earn per-minute-listened royalties paid out via Mercado Pago and Stripe. The core value proposition is a two-sided flywheel: AI production collapses the cost of creating Spanish-language audio content by 100x, enabling a catalog depth no licensing-first competitor can match, while per-minute creator payouts turn creators into the platform's primary distribution channel.
+
+---
+
+## 2. Core Features
+
+**Creator Studio**
+- Submit manuscript (plain text or DOCX upload) to generate a narrated audiobook via ElevenLabs TTS API
+- Select regional accent: Mexican, Colombian, Argentine, or Castilian Spanish
+- Upload own voice recording for AI voice cloning (ElevenLabs voice clone API)
+- Preview generated audio chapter-by-chapter before publishing
+- Edit chapter order, titles, and cover art before publishing
+- Track per-title listening minutes, completion rates, and estimated earnings in real time
+- View monthly payout history and upcoming payout date
+
+**Content Catalog**
+- Browse catalog by genre (ficción, no ficción, desarrollo personal, negocios, historia, ciencia, meditación)
+- Search titles, authors, and descriptions with full-text search
+- View title detail page: cover, description, sample audio, creator profile, listener count
+- Play 5-minute sample without subscription
+
+**Listener Experience**
+- Persistent audio player with playback speed control (0.5×–3×), sleep timer, and chapter navigation
+- Personalized "For You" feed powered by GPT-4o based on listening history and explicit preferences
+- Continue listening queue across devices (progress synced server-side)
+- Mark titles as favorites; build a personal library
+- Rate titles (1–5 stars) after completing 80%+ of content
+
+**Subscription & Payments**
+- $7.99/month or $59.99/year subscription via Stripe
+- 7-day free trial for new subscribers
+- Subscription management: upgrade, downgrade, cancel, reactivate
+- Mercado Pago checkout for Mexico, Argentina, Colombia, Brazil (currency-local pricing)
+- Invoice history and downloadable receipts
 
 ## Differentiation vs. 2026 competitors:
 

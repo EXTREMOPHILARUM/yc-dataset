@@ -2,6 +2,20 @@
 
 ## Overview
 
+The single most important change since Demo Gorilla's failure is the maturation of large language models capable of generating contextually accurate, persona-specific sales content in real time. When Demo Gorilla launched in early 2022, GPT-3-class models were the state of the art — prone to factual hallucination, generic outputs, and inconsistent quality. In a live enterprise demo, a single bad AI-generated talking point can cost a deal. That reliability ceiling was likely Demo Gorilla's most fundamental product constraint. GPT-4 (March 2023) and Claude 3.5 Sonnet (June 2024) have since crossed the threshold where structured, domain-specific generation from product documentation and CRM context is reliable enough for live deployment. This is the unlock that makes the rebuild viable.
+
+Beyond the core AI capability, three additional structural shifts matter:
+
+**Buyer behavior normalization.** Gong (which raised over $580M total, per Crunchbase) and Otter.ai have trained enterprise sales teams to accept AI assistance during live calls. The behavioral change Demo Gorilla required in 2022 — trusting AI during a high-stakes live interaction — is no longer novel.
+
+**Market validation from adjacent categories.** The interactive demo software category (Navattic, Reprise, Walnut, Storylane) has collectively raised hundreds of millions of dollars since 2022, confirming strong buyer appetite for demo-improvement tooling. AI sales coaching platforms including Second Nature and Quantified raised significant Series A and B rounds in 2023–2024, demonstrating that sales teams are now actively budgeting for AI-native workflow tools.
+
+**Richer API infrastructure.** Salesforce and HubSpot CRM APIs, alongside Outreach and Salesloft engagement platform APIs, now offer more standardized, accessible deal data than in 2022 — making automatic generation of persona-specific talk tracks from existing customer data feasible without manual configuration overhead that a small team cannot support.
+
+The sales enablement software market was valued at approximately $2.6 billion in 2022 with projected 15%+ CAGR. Current market size data for 2026 is not available in the research provided, but directional growth is consistent with the category trends above.
+
+---
+
 ## Why Now?
 
 ## Current Market Analysis

@@ -10,6 +10,16 @@ The wedge is Heroku's collapse. Heroku stagnated after 2017, killed its free tie
 
 ## Why Now?
 
+The single most important change since SolidStage's 2012 failure is the arrival of LLM-powered agents capable of reading cloud documentation, generating valid infrastructure-as-code, and diagnosing misconfiguration errors from raw logs — tasks that previously required a human sysadmin. Claude 3.5 Sonnet (June 2024) and GPT-4o (May 2024) can produce syntactically valid Terraform and AWS CDK templates, interpret CloudWatch error traces, and suggest remediation steps with accuracy sufficient for production use cases. This collapses the engineering headcount SolidStage would have needed in 2012 to build a comparable abstraction layer, fundamentally changing the unit economics of "sysadmin as a service."
+
+The second structural shift is that infrastructure-as-code has won. Pulumi, Terraform (HashiCorp, acquired by IBM in 2024), and AWS CDK are now the dominant configuration paradigms, meaning a rebuilt SolidStage does not need to build raw configuration management from scratch. It can sit as an AI-driven natural-language interface on top of mature, battle-tested IaC tooling — the exact differentiation SolidStage lacked against Heroku and Elastic Beanstalk.
+
+The market has also validated the demand SolidStage assumed but could not prove. AWS reported over 1 million active customers as of 2023 (AWS re:Invent 2023 keynote). The global cloud managed services market is projected to exceed $100 billion by 2025, per MarketsandMarkets (2023 report) — though exact 2026 figures are not yet available. Adjacent products — Render, Railway, Fly.io, and Vercel — achieved venture scale between 2017 and 2023, proving developer-friendly cloud abstraction layers can find product-market fit. None of them, however, have incorporated AI-native incident response or natural-language infrastructure management as a core product surface.
+
+Distribution channels unavailable in 2012 now exist at scale: the AWS Marketplace with 300,000+ active customers, the Vercel integration ecosystem, and the GitHub Marketplace with 100M+ registered developers (GitHub Octoverse 2023).
+
+---
+
 ## Current Market Analysis
 
 The cloud managed services market SolidStage entered in 2012 was large but contested by free, well-capitalized incumbents. In 2026, the market is larger, more segmented, and meaningfully underserved at the AI-native layer.

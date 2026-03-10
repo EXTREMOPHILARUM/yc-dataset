@@ -6,9 +6,25 @@ The 2026 Cloudstitch is a bridge tool for freelance designers and small agencies
 
 The market timing is fundamentally different now. Airtable and Notion proved that spreadsheet-like databases are enterprise-grade infrastructure—not toys. Designers have already adopted Figma as their standard. And the no-code market exploded from $4B to $27B, but most tools force you into their builder or their design paradigm. We're solving the actual workflow: take what designers already make and make it dynamic.
 
-The wedge is ruthless: target the 50,000+ freelancers who currently hand off static HTML to clients, then manually rebuild it every time data changes. We win by being invisible—your template stays yours, your client relationship stays yours, we just add the database layer. Charge per site or per update. Designers keep 80% of their margin instead of hiring a developer.33:T848,
+The wedge is ruthless: target the 50,000+ freelancers who currently hand off static HTML to clients, then manually rebuild it every time data changes. We win by being invisible—your template stays yours, your client relationship stays yours, we just add the database layer. Charge per site or per update. Designers keep 80% of their margin instead of hiring a developer.34:T848,
 
 ## Why Now?
+
+The single most important change since Cloudstitch's failure is this: Airtable's $11B valuation (2021) and Notion's $10B valuation (2021) have permanently resolved the investor skepticism that killed Cloudstitch's Series A. In 2015–2017, "non-technical users will pay for spreadsheet-as-database products" was an unproven thesis. Today it is a documented market reality, and the infrastructure, distribution channels, and buyer education that Cloudstitch would have had to build from scratch now exist and actively pull customers toward this category.
+
+The no-code/low-code market grew from approximately $4.3B (2017) to $26.9B (2023), according to market research cited in the research report. Gartner projected the low-code development platform segment alone would reach $65B by 2027. Cloudstitch was operating in pre-category conditions; a rebuild operates in a defined, funded, enterprise-procurable category.
+
+Three specific technology shifts make the rebuild structurally easier than the original:
+
+**LLM-powered binding generation.** GPT-4 (March 2023) and Claude 3.5 Sonnet (June 2024) can auto-generate the schema-to-component binding layer that required Cloudstitch's manual template-authoring workflow. The 15-minute learning curve Benson validated in MIT research can now compress to under 60 seconds with AI-assisted setup.
+
+**Figma's plugin ecosystem.** Cloudstitch's Sketch plugin and Framer module were ahead of their time. Figma's plugin marketplace now reaches 5M+ developers (2023) with built-in monetization via Figma Community—a distribution channel that did not exist in 2015.
+
+**JAMstack normalization.** Vercel and Netlify have commoditized the static-frontend-plus-external-data-source architecture Cloudstitch pioneered. Hosting, CDN, and deployment infrastructure that required custom engineering in 2015 now costs near zero.
+
+Microsoft's Power Platform reaching 33M monthly active users (2023) confirms the Excel-as-backend market Cloudstitch targeted with its Office integration was real and enormous—it simply needed enterprise distribution Cloudstitch could not afford to build.
+
+---
 
 ## Current Market Analysis
 
@@ -26,9 +42,23 @@ The wedge is ruthless: target the 50,000+ freelancers who currently hand off sta
 
 **The gap:** No current competitor lets a designer bring their own HTML/CSS template, connect it to an existing Google Sheet or Excel file they already own, and publish a live, AI-assisted, automatically-synced website without migrating data into a proprietary system. That is the exact gap Cloudstitch occupied—and it remains unoccupied in 2026.
 
----35:T92b,
+---36:T92b,
 
 ## Recommended MVP
+
+**Core Feature 1: Bring-Your-Own-Template Publisher.** Users upload or paste an existing HTML/CSS template; the product identifies data-bindable elements and suggests spreadsheet column mappings. This directly addresses Cloudstitch's original value proposition—designers who know HTML/CSS but cannot program backends—while differentiating from Softr and Glide, which require users to abandon their existing designs and adopt proprietary templates. The original Cloudstitch required manual template authoring; this version uses AI to automate the mapping step.
+
+**Core Feature 2: AI-Assisted Schema Binding (powered by Claude 3.5 Sonnet or GPT-4o).** When a user connects a Google Sheet or Excel file, the AI analyzes column headers and sample data, then auto-generates the binding configuration between spreadsheet columns and HTML elements. This eliminates the 15-minute learning curve Benson validated in MIT research and compresses onboarding to under two minutes. No competitor currently offers AI-assisted binding generation for bring-your-own-template workflows.
+
+**Core Feature 3: Figma-to-Live-Site Export with Sheet Sync.** A Figma plugin (distributed via Figma Community marketplace, 5M+ developers) that exports a Figma frame to clean HTML/CSS and immediately connects it to a user-specified Google Sheet. This replaces Cloudstitch's Sketch plugin with a distribution channel that is orders of magnitude larger and includes built-in monetization infrastructure.
+
+**Core Feature 4: Two-Way Form Sync.** Visitor form submissions write directly to the connected spreadsheet; spreadsheet edits update the live site within 60 seconds. This is Cloudstitch's Magic Forms, rebuilt on the mature Google Sheets API v4 and Microsoft Graph API rather than the less reliable 2015-era integrations.
+
+**What we will NOT build:** A proprietary database, a drag-and-drop visual editor, a mobile app builder, a CMS with its own content model, or a WordPress plugin. Each of these expands the competitive surface into Webflow, Bubble, and Softr territory where the rebuild has no differentiation advantage.
+
+**Success metrics:** 500 active published sites within 90 days of launch; 15% week-4 retention among users who publish at least one site; $10K MRR within 6 months; Figma plugin installs exceeding 2,000 within 30 days of Community listing.
+
+---
 
 ## Go-to-Market Strategy
 

@@ -6,9 +6,19 @@ The 2026 CapWay targets hourly workers at mid-sized employers—retail, food ser
 
 The infrastructure shift that makes this viable now is the post-Synapse rebuild. The middleware collapse forced fintech to move away from fragile third-party layers toward direct bank partnerships and cleaner APIs. That means lower operational risk and faster onboarding—exactly what employers need to integrate payroll accounts at scale.
 
-The go-to-market angle is employer-first, not consumer-first. You're not competing with Chime for attention in an app store. You're selling HR and payroll teams a retention tool that costs them nothing to offer and solves real cash-flow problems for their workforce. Workers get same-day or next-day access to earned wages. Employers reduce turnover. You build a defensible moat through embedded distribution.32:T8df,
+The go-to-market angle is employer-first, not consumer-first. You're not competing with Chime for attention in an app store. You're selling HR and payroll teams a retention tool that costs them nothing to offer and solves real cash-flow problems for their workforce. Workers get same-day or next-day access to earned wages. Employers reduce turnover. You build a defensible moat through embedded distribution.33:T8df,
 
 ## Why Now?
+
+The single most important change since CapWay's failure is the collapse of the Synapse middleware layer — and the infrastructure rebuild that followed it. Synapse's 2024 bankruptcy froze consumer funds across dozens of neobanks and exposed the catastrophic risk of the three-party neobank stack (fintech → middleware → bank). The regulatory and market response has been decisive: Banking-as-a-Service providers are now consolidating around direct-bank API models that eliminate the middleware entirely. Column Bank, a nationally chartered bank that also offers developer APIs, represents this new architecture. A CapWay rebuild using Column or a comparable direct-BaaS provider faces fundamentally lower infrastructure risk than the original — the proximate operational cause of CapWay's closure is now a solvable engineering problem, not an existential dependency.
+
+Beyond infrastructure, the embedded finance stack has matured dramatically. Stripe Treasury (launched November 2020), Unit, and Synctera now offer compliance infrastructure, card issuance, and FDIC-insured account access at a fraction of the cost and capital requirement that CapWay faced in 2016–2020. A 2026 rebuild can reach a functional, compliant product with significantly less capital before triggering the banking partner cash-on-hand minimums that trapped CapWay.
+
+The target market remains large and underserved. The FDIC's 2023 household survey reported the U.S. unbanked rate fell to 4.2%, but 14.2% of households — approximately 19 million — remain underbanked, still relying on check cashers, payday lenders, and prepaid cards alongside or instead of bank accounts. Chime (valued at approximately $25 billion at its 2021 peak) and Cash App have not solved this population's needs; they have skimmed the most digitally comfortable segment of it.
+
+Distribution channels unavailable to the original CapWay now exist at scale. The employer-sponsored financial wellness channel — which CapWay identified but did not execute — is now validated by DailyPay (valued at $1.75 billion) and Even (acquired by Walmart). The Shopify App Store (2M+ merchants) and Gusto's partner ecosystem offer B2B2C distribution to exactly the hourly and gig workforce CapWay was built to serve.
+
+---
 
 ## Current Market Analysis
 

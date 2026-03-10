@@ -106,6 +106,14 @@ The model's fatal flaw was the price point relative to the customer's willingnes
 
 ## Traction
 
+Early signals were genuinely encouraging. Between the December 2011 soft launch and the March 2012 official launch — a period of roughly three months — players logged over 6,000 hours of Minecraft through the platform.<sup><a href="https://techcrunch.com/2012/03/12/minefold-launch/">[22]</a></sup> That figure indicated real organic interest and product-market fit at small scale.
+
+At the time of the YC W12 Demo Day, Minefold reported 34% week-over-week user growth and 36% week-over-week revenue growth — metrics strong enough to place it among the more notable companies in the cohort. The company's Alexa traffic rank of approximately 783,034 at that time placed it among the more-trafficked companies in the W12 batch.<sup><a href="http://amundblog.blogspot.com/">[23]</a></sup>
+
+The problem was that these growth rates did not sustain. The gap between usage and payment was the defining metric of the business: many users wanted the product, but the conversion rate from free interest to paid subscription was insufficient to support the company. The founders never disclosed total paying customer counts or revenue figures at any point in the company's life, making it impossible to reconstruct the exact economics. What is clear from the shutdown post is that the paying customer base was small enough that losing subscribers to cheaper competitors was materially damaging to the business.
+
+---
+
 ## Post-Mortem
 
 Minefold's shutdown post on Tumblr is unusually candid for a startup wind-down announcement. The founders did not attribute failure to bad luck, market timing, or external shocks. They diagnosed the problem precisely: the gap between willingness to use and willingness to pay.<sup><a href="https://minefold.tumblr.com/">[24]</a></sup>

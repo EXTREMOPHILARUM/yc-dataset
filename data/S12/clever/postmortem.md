@@ -2,17 +2,6 @@
 
 ## Overview
 
-Clever was a San Francisco-based EdTech infrastructure company founded in June 2012 by Tyler Bosmeny, Dan Carroll, and Rafael Garcia — three Harvard classmates who met in Y Combinator's Summer 2012 batch. The company built a standardized API and single sign-on platform that connected K-12 school districts' Student Information Systems with the growing ecosystem of educational software applications, eliminating the need for hundreds of bespoke data integrations. Over nine years as an independent company, Clever grew to serve 89,000 schools, 65% of US K-12 districts, and 20 million monthly active students.<sup><a href="https://techcrunch.com/2021/05/06/kahoot-acquires-clever-the-us-based-edtech-portal-for-up-to-500m/">[1]</a></sup>
-
-Clever's central tension was not failure — it was a mismatch between market dominance and financial capture. By making its platform free for districts to maximize adoption, Clever locked in the infrastructure layer of US K-12 edtech but capped its revenue at the developer-pays side of the market, reaching only $44M in projected 2021 revenues despite owning 65% of the addressable market.<sup><a href="https://kahoot.com/press/2021/05/06/kahoot-acquires-clever-accelerating-vision-leading-learning-platform/">[2]</a></sup>
-
-Kahoot! acquired Clever on September 2, 2021, for $435–500M in enterprise value — a roughly 10x return on $43M raised — with Clever continuing to operate independently under its own brand within the Kahoot! Group.<sup><a href="https://www.prnewswire.com/news-releases/kahoot-completes-acquisition-of-leading-us-k-12-edtech-learning-platform-clever-301368111.html">[3]</a></sup> Founder Tyler Bosmeny later joined Y Combinator as a General Partner, cementing Clever's status as one of the defining EdTech infrastructure stories of the 2010s.
-
-<report-gallery>
-<media-image src="https://kenkarlo.com/assets/images/startup/team/809868-dan-carroll.jpg" alt="Dan Carroll, Clever co-founder and CPO" caption="Dan Carroll, Clever's co-founder and CPO — the former Teach For America teacher whose firsthand experience with school data fragmentation became the founding insight for the company."></media-image>
-<media-image src="https://web.archive.org/web/20130601000000im_/http://getclever.com/images/logo.png" alt="Clever's original logo from getclever.com, circa 2013" caption="Clever's original branding from the getclever.com era, circa 2013 — before the company migrated to clever.com in early 2014, a signal of its growing institutional ambitions."></media-image>
-</report-gallery>
-
 ## Founding Story
 
 Clever's origin story is unusually clean: one founder had the problem, and three friends had the skills to solve it.

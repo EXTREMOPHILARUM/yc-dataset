@@ -10,6 +10,22 @@ Distribution is built-in: Greenhouse and Ashby's integration marketplaces reach 
 
 ## Why Now?
 
+The single most important change since StrongIntro's 2016 failure is this: the dedicated human recruiter who made every sourcing party work can now be replaced by an LLM-powered workflow. That one substitution transforms StrongIntro from a services business into a software business.
+
+In 2016, the recruiter layer was non-negotiable. Someone had to educate employees on effective referrals, craft personalized outreach messages, and manage follow-through. That labor was the product. Today, GPT-4 (March 2023) and Claude 3.5 Sonnet (June 2024) can generate contextually personalized candidate outreach at near-zero marginal cost, and agentic frameworks like LangChain (production-ready since late 2023) can orchestrate multi-step recruiting workflows without human intervention. The "sourcing party" can now run as a 30-minute async Slack workflow or a guided video session—no recruiter travel required.
+
+Three additional infrastructure shifts compound this advantage:
+
+**Network data is now commoditized.** Clay (launched 2021, Series B 2023) and Apollo.io (150M+ contact database as of 2024) provide real-time enrichment of second-degree connections—job title, seniority, open-to-work signals—via API. StrongIntro's Chrome extension and manual contact imports are unnecessary; the matching layer can be built on top of existing enrichment APIs in weeks, not months.
+
+**Remote work eliminated geographic constraints.** Post-2020, the physical office visit that capped StrongIntro to San Francisco customers is irrelevant. A rebuilt product serves distributed companies globally from day one.
+
+**The market has grown substantially.** The global HR technology market was valued at approximately $32 billion in 2023 (Grand View Research; exact 2016 comparable figure unavailable for direct comparison), with recruiting software among the fastest-growing subcategories. The performance-fee contingency model has been validated at scale by Hired and Triplebyte, confirming market acceptance.
+
+Distribution is now available through Greenhouse's partner marketplace (12,000+ customers as of 2024) and Ashby's integration ecosystem—channels that did not exist in 2016.
+
+---
+
 ## Current Market Analysis
 
 ## Market Size

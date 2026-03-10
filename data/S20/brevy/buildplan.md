@@ -12,6 +12,14 @@ The rebuild thesis centers on Brevy Care, the company's final and most structura
 
 ## The single most important change: LLMs can now reliably parse and reason over state-specific Medicaid regulatory text.
 
+In 2023, when Brevy Care surfaced, GPT-4 (March 2023) had just become available via API, but its ability to handle long, jurisdiction-specific legal documents — Medicaid waiver manuals routinely exceed 200 pages — was inconsistent and required expensive prompt engineering to produce reliable outputs. By 2025, models including GPT-4o (May 2024) and Claude 3.5 Sonnet (June 2024) demonstrated materially improved long-context reasoning, structured output generation, and form-filling accuracy on regulatory documents. This is not a marginal improvement: it is the difference between a product that requires a human caseworker to review every output and one that can produce a defensible eligibility assessment with flagged exceptions for human review.
+
+The market context has also shifted. As of 2023, AARP reported that over 53 million Americans provide unpaid family caregiving — a figure that has grown as the U.S. population ages. Medicaid HCBS (Home and Community-Based Services) waivers, which can reimburse family caregivers in 47 states under programs like Consumer Directed Care and Cash and Counseling, remain among the most underutilized benefits in the U.S. social safety net. The primary barrier is not eligibility — it is navigational complexity. State waiver manuals are written for caseworkers, not families. Average application-to-approval timelines exceed 90 days in most states, and denial rates for incomplete applications are high (specific denial rate data by state is not publicly aggregated; this is a research gap the rebuild team should close in discovery).
+
+Distribution channels unavailable to the original Brevy team now exist at scale. AARP's caregiver support network reaches millions of family caregivers directly. Caregiver.org (Family Caregiver Alliance) and state-level Area Agencies on Aging (AAAs) — federally mandated under the Older Americans Act — represent a structured referral network of over 600 local agencies actively seeking digital tools to extend their capacity. These organizations were not meaningfully integrated with software products in 2020–2022; by 2026, post-COVID digitization of social services has made them receptive partners.
+
+---
+
 ## Current Market Analysis
 
 ## Market Size

@@ -12,6 +12,18 @@ The rebuild thesis is this: the FAA's 2023 BVLOS NPRM has transformed the regula
 
 ## The single most important change: the FAA published its BVLOS NPRM in 2023.
 
+Iris Automation's entire commercial life was spent waiting for a regulatory window that never opened. The FAA's Notice of Proposed Rulemaking for BVLOS operations, published in 2023, fundamentally changes that calculus. For the first time, the agency is moving toward standardized, scalable BVLOS rules rather than the case-by-case waiver process that kept Iris Automation's addressable market structurally tiny. A DAA company founded in 2026 is building into an opening regulatory window — the exact inverse of Iris Automation's position. The final rule timeline remains uncertain (this is the FAA; caution is warranted), but the direction is unambiguous and the rulemaking machinery is now in motion rather than stalled.
+
+**Hardware and AI capability have leapfrogged the 2019 baseline.** NVIDIA's Jetson Orin (released 2022) delivers up to 275 TOPS of AI inference performance at under 60W — roughly 10–100x the compute density available when Casia launched commercially. Qualcomm's Flight RB5 5G platform (2021) was purpose-built for drone autonomy at drone-compatible size, weight, and power (SWaP) constraints. These chips make real-time computer vision DAA feasible on commodity hardware without the custom silicon investment Iris required.
+
+**Foundation vision models eliminate the 7,000-flight training data moat.** Meta's SAM 2 (July 2024) and DINOv2 (April 2023) are pre-trained on massive visual datasets and can be fine-tuned for aircraft detection with dramatically less proprietary flight data than Iris Automation needed to accumulate. The training data barrier that took Iris four years to clear can now be cleared in months.
+
+**Demand-side validation is no longer speculative.** Wing (Alphabet) surpassed 1 million commercial deliveries by 2023. Amazon Prime Air received FAA Part 135 approval. Zipline operates at commercial scale across multiple countries. AUVSI estimated that routine BVLOS operations could generate $34.4B in U.S. economic impact over the decade following rule publication — and that decade is now beginning. The use case Iris was building toward is proven; the market is real.
+
+**Sensor costs have collapsed.** High-resolution camera sensors and supporting optics have dropped 60–80% in cost since 2019, driven by automotive AV programs (source: rebuild signals from research report). A Casia-equivalent sensor stack that cost thousands of dollars per unit in 2019 can now be sourced at a fraction of that price, enabling a lower hardware price point and improved unit economics.
+
+---
+
 ## Current Market Analysis
 
 **Market size.** The commercial drone services market has grown substantially since Iris Automation's founding. AUVSI projects that routine BVLOS operations will generate $34.4B in U.S. economic impact and 100,000 jobs over the decade following rule publication. McKinsey estimated the drone delivery market alone at $13B by 2030. Precise current market size figures for the DAA subsegment specifically are not publicly available — any number cited here would be an estimate, not a fact. What is clear is that the addressable market for DAA compliance tools expands dramatically as BVLOS rules move from waiver-by-exception to standardized approval, and that transition is now underway.

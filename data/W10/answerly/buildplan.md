@@ -10,6 +10,18 @@ The go-to-market angle is direct: land with a free tier that surfaces 5–10 que
 
 ## Why Now?
 
+The single most important change since InboxQ's 2013 failure is the arrival of large language models capable of replacing InboxQ's brittle, hand-tuned NLP pipeline with near-perfect question classification at effectively zero marginal cost.
+
+InboxQ's core technical constraint was that its NLP engine classified only ~1% of question-mark tweets as genuine, answerable questions. That ceiling wasn't a product choice—it was a capability limit. The result: too few actionable signals per keyword per day to make the tool indispensable, which killed daily retention and made the freemium-to-paid conversion nearly impossible. GPT-4 (March 2023) and Claude 3 Opus (March 2024) can now classify question intent, specificity, and commercial relevance in a single API call with accuracy that would have been unachievable in 2011. Critically, they can match a question against a business's product description semantically—not just by keyword—making InboxQ's Campaign Configurator workaround (expanding seed keywords into thousands of long-tail phrases) entirely unnecessary.
+
+The second structural shift is market education. Sprout Social reported $281M in revenue for fiscal year 2023 (source: Sprout Social 2023 Annual Report). Sprinklr went public in 2021. Hootsuite has served enterprise social teams for over a decade. Brands now have established budget lines for social customer engagement tools—a buyer psychology that simply did not exist when InboxQ was trying to charge for premium analytics in 2012.
+
+The third shift is pricing normalization. AI-native signal tools like Clay ($149–$720/month) and Apollo ($99–$149/seat/month) have trained B2B buyers to pay $500–$2,000/month for tools that surface high-intent signals from public data. That pricing model didn't exist in 2011.
+
+Distribution infrastructure has also matured. The HubSpot App Marketplace now lists 1,500+ integrations serving 200,000+ customers (source: HubSpot 2023 Annual Report). The Salesforce AppExchange hosts 7,000+ apps. These are direct channels to the SMB and mid-market buyers a rebuilt Answerly should target—channels InboxQ never had access to.
+
+---
+
 ## Current Market Analysis
 
 **Market size:** The social media management software market was estimated at $23.4B globally in 2023 and is projected to reach $41.6B by 2028 (source: MarketsandMarkets, 2023). This compares to a market that was a few hundred million dollars annually when InboxQ operated in 2011–2013. The relevant sub-segment—social customer care and engagement tools—is not broken out separately in public data; exact sizing is unknown.
@@ -53,3 +65,11 @@ Deliver a daily email or Slack digest ranking the day's top 5–10 questions by 
 ---
 
 ## Go-to-Market Strategy
+
+**Target customer:** B2B SaaS companies with 10–200 employees, an active social media presence, and a sales or marketing team of 2–10 people. Specifically: companies where a founder, head of marketing, or SDR is personally responsible for social engagement but has no dedicated social media manager. These buyers already pay for tools like Apollo or Clay, understand signal-based pricing, and have a clear ROI frame: answered questions convert to pipeline. This is a narrower segment than InboxQ targeted—deliberately so.
+
+**Primary distribution channel:** HubSpot App Marketplace (200,000+ customers, source: HubSpot 2023 Annual Report) and direct outreach via LinkedIn to heads of marketing at B2B SaaS companies with 10–200 employees. Secondary: ProductHunt launch for initial press and early adopter acquisition. The HubSpot integration is the priority because it places the product inside an existing workflow that target buyers use daily—solving InboxQ's adoption friction problem structurally rather than through a browser plugin.
+
+**Pricing:** $199/month for up to 3 users and 5 monitored topics; $499/month for up to 10 users and 20 topics. No free tier. A 14-day free trial with a credit card required at signup. This pricing is justified by the Clay/Apollo pricing norm ($149–$720/month for signal tools) and directly solves InboxQ's freemium trap—the core value is never given away permanently. API costs (estimated at $50–$150/month per customer at scale using GPT-4o pricing as of 2024) must be modeled carefully; exact margins should be validated before pricing is finalized.
+
+**Differentiation vs. 2026 competitors:** Answerly 2026 wins on specificity, not breadth. Where Sprout Social and Hootsuite are horizontal platforms, Answerly does one thing—surface and help answer questions from potential customers—better than any horizontal tool can justify prioritizing. The LLM semantic matching layer, multi-platform ingestion, and response drafting combine into a workflow that no current competitor offers as a focused product. The positioning is simple: "Find every customer question about your product on the internet. Answer it before your competitor does."

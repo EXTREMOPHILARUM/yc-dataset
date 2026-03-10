@@ -36,6 +36,26 @@ No major pivot is documented in the public record. The company appears to have p
 
 ## What They Built
 
+Struct built a platform for deploying real-time, conversational AI voice agents capable of handling inbound and outbound phone calls. <sup><a href="https://docs.struct.app/start-here/introduction/">[8]</a></sup> The core value proposition was that businesses could configure and deploy AI agents that could listen, understand, and respond to callers — completing tasks autonomously without human intervention — across multiple languages. <sup><a href="https://docs.struct.app/start-here/introduction/">[9]</a></sup>
+
+**Core Capability: Real-Time Voice Conversation**
+
+The platform's defining technical claim was sub-600ms response latency — meaning the AI agent could respond to a caller within 600 milliseconds of the caller finishing a sentence. <sup><a href="https://docs.struct.app/start-here/introduction/">[9]</a></sup> In voice AI, latency is the primary determinant of whether a conversation feels natural or robotic. A 600ms threshold is roughly at the edge of what most humans perceive as a natural conversational pause, making it a meaningful — if not exceptional — benchmark. Competitors in the same period were targeting similar or lower latency figures, suggesting this was a category baseline rather than a true differentiator.
+
+**Multi-Lingual Architecture**
+
+The "multi-lingual" positioning was Struct's most distinctive angle. The platform was designed from the ground up to handle calls in multiple languages, not just English with add-on translation. This suggested either a multilingual speech recognition stack, multiple language-specific models, or a combination — though the specific languages supported and the underlying technology stack (whether built on OpenAI Whisper, Deepgram, ElevenLabs, or proprietary models) are not publicly documented.
+
+**Platform Breadth**
+
+Struct positioned itself as infrastructure for "any phone-based task" — a deliberately broad framing. <sup><a href="https://www.ycombinator.com/companies/struct">[5]</a></sup> The YC listing tagged the company across fintech, legaltech, SaaS, and CRM — four distinct verticals with meaningfully different compliance requirements, call patterns, and buyer personas. <sup><a href="https://www.ycombinator.com/companies/struct">[5]</a></sup> This horizontal positioning implied an API-first or configurable platform model, where customers could define the agent's behavior, knowledge base, and task logic. Whether the product was API-first, no-code, or a hybrid is not documented.
+
+**Open Beta Status**
+
+At the time its documentation was published in April 2023, Struct's platform was available in "open beta." <sup><a href="https://docs.struct.app/start-here/introduction/">[10]</a></sup> This is a meaningful signal: open beta typically indicates a product that is functional but not yet hardened for production enterprise use — lacking the reliability SLAs, compliance certifications (SOC 2, HIPAA), and support infrastructure that enterprise telephony buyers require before committing to a vendor.
+
+<media-image src="https://framerusercontent.com/images/P3IGdx5RGA8BlfCV114DDrZYG8w.webp" alt="Struct platform interface" caption="A marketing visual from Struct's website illustrating the platform's voice agent capabilities — the product was in open beta as of April 2023, still short of the reliability threshold enterprise telephony buyers typically require."></media-image>
+
 ## Market Position
 
 ### Target Customers

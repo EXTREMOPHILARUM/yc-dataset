@@ -12,6 +12,18 @@ Three structural shifts have converged to make this viable in 2026: delivery pla
 
 ## The single most important change: AI-powered data orchestration has eliminated the integration engineering bottleneck that killed the original company.
 
+ZeroStorefront's fatal constraint was not its product vision — it was that building and maintaining integrations across 24+ restaurant software systems (POS, delivery platforms, review aggregators, reservation tools, SMS providers) required more engineering capacity than a seven-person, sub-$500K-funded team could sustain. In 2026, that constraint no longer exists in the same form. LLM-based API orchestration frameworks — specifically GPT-4 with structured outputs (March 2023), LangChain's tool-calling architecture (mature as of late 2023), and purpose-built data normalization pipelines built on these primitives — can now ingest, normalize, and unify heterogeneous restaurant data formats without custom per-integration engineering. A two-engineer team can today maintain what required a full engineering organization in 2019. This is not a marginal improvement; it is a structural change in the cost curve of the original product.
+
+**Platform data access has materially improved.** DoorDash launched its Restaurant Data Insights API in 2023, and Uber Eats expanded its Orders API to include customer-level behavioral signals (order frequency, basket composition, reorder rates) under pressure from restaurant advocacy coalitions and municipal regulatory scrutiny in New York City and Chicago. Grubhub similarly expanded data-sharing terms following the New York City third-party delivery fee cap legislation (Local Law 2021/2022). The data hostility that was ZeroStorefront's core structural obstacle has not disappeared, but it has meaningfully diminished. Exact API coverage rates by platform are not publicly disclosed, so founders should validate specific data field availability before committing to integration roadmaps.
+
+**Market demand has been validated.** Olo reported approximately $400M in annualized revenue as of 2023 (per public filings), and PAR Technology's acquisition of Punchh for $500M in 2021 confirmed that restaurants will pay for data infrastructure at scale. The market Thanx's CEO described as "not currently heavily in demand" in April 2022 has since been proven out by public market data.
+
+**SMS unit economics are now viable at small restaurant counts.** Twilio's per-message pricing has declined approximately 60% since 2019 (per Twilio public pricing history), making direct-to-guest SMS campaigns economically viable for operators with customer lists in the low thousands rather than the tens of thousands required to justify the cost in 2019–2022.
+
+**Ghost kitchens are a new, acutely underserved segment.** Virtual restaurant operators running multiple brands from a single kitchen — a segment that barely existed in 2019 — have acute cross-platform attribution needs with no purpose-built tooling. This segment is addressable today in a way it was not when ZeroStorefront operated.
+
+---
+
 ## Current Market Analysis
 
 **Market size.** The U.S. restaurant industry generates over $1 trillion in annual revenue (National Restaurant Association, 2024). The restaurant marketing technology and CDP sub-market is not cleanly segmented in public research, but Olo's ~$400M ARR and PAR Technology's $500M Punchh acquisition establish a credible floor for what the infrastructure layer alone can be worth. The ghost kitchen segment, estimated at $1B+ in U.S. revenue in 2023 by Euromonitor (exact figure not independently verified in the research report), represents an incremental addressable segment that did not exist at meaningful scale in 2019.

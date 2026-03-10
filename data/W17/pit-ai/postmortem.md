@@ -103,6 +103,38 @@ The Research Paper Series launched in July 2018 was the company's most substanti
 
 ## Traction
 
+Pit.AI closed quietly in early 2021, approximately four years after its YC Demo Day, with no public shutdown announcement, no post-mortem, and no investor statement. <sup><a href="https://www.crunchbase.com/organization/pit-ai-technologies">[12]</a></sup> The founder moved on to found KXY Technologies and later joined Google as a Senior Staff Machine Learning Engineer. <sup><a href="https://www.zoominfo.com/p/Yves-laurent-Samo/-1035690918">[11]</a></sup> The absence of any public explanation makes definitive causal analysis impossible, but the evidence points to several compounding failures.
+
+### The Business Model Required LP Capital Before It Could Generate Revenue
+
+The most structurally fatal decision Pit.AI made was to operate as an actual hedge fund rather than as a software or data company. This choice meant the company's entire revenue model depended on first raising LP capital, then deploying it, then generating auditable returns, and only then collecting carry. Every step in that chain required clearing a bar that a two-person, $120K startup was not equipped to clear.
+
+Institutional LP allocators—endowments, family offices, fund-of-funds—require a minimum track record before committing capital. The industry standard is typically 12–24 months of audited live returns, a compliance infrastructure (SEC registration or exemption, a prime broker relationship, an administrator), and a team large enough to handle operations, risk management, and investor relations separately from portfolio management. Pit.AI had none of these at Demo Day, and its $120,000 in seed funding was insufficient to build them. <sup><a href="https://pitchbook.com/profiles/company/178851-88">[8]</a></sup>
+
+The carry-only fee structure compounded this problem. Management fees—the 2% annual charge that Pit.AI explicitly rejected—exist in part because they fund operations during the pre-performance phase. By eliminating them, Pit.AI removed the only revenue stream available to a fund before it starts generating returns. The company had no bridge between its seed capital and its first dollar of carry. No evidence suggests the team attempted to address this by raising a larger seed round, seeking a strategic partnership with an existing fund, or pivoting to a software licensing model.
+
+### The Technical Timeline Was Underestimated
+
+The founder himself provided the clearest articulation of the second failure in a March 2020 Medium post: "financial markets are noisy, much noisier than physical systems, so much so that overall, for the same model complexity, one would need a lot more financial data than physical data to achieve the same level of accuracy." <sup><a href="https://medium.com/kxytechnologies/the-case-for-finance-first-machine-learning-research-91cdc8492c12">[20]</a></sup>
+
+This is a precise statement of a well-known problem in quantitative finance: the signal-to-noise ratio in financial data is extremely low. A reinforcement learning system trained on physical systems—robotics, game-playing, logistics—can iterate quickly because the environment is relatively stationary and the reward signal is dense. Financial markets are non-stationary (the relationships between variables change over time), adversarial (other participants adapt to and arbitrage away any detectable pattern), and sparse in signal (a strategy that works 52% of the time is exceptional). Building an RL system that reliably outperforms on these dimensions requires far more data, far more compute, and far more iteration time than the YC 3-month batch cycle assumed.
+
+The March 2017 projection of live trading within one year was almost certainly optimistic given this constraint. The Research Paper Series launched in July 2018—16 months after Demo Day—may represent the team's recognition that the models were not ready for live deployment and that publishing research was a way to build credibility while continuing to iterate. But no evidence suggests the research series attracted LP interest or accelerated the technical timeline.
+
+### The Market Was Not Ready to Trust an AI-Native Fund Without a Track Record
+
+Kom Samo identified a third obstacle in the same 2020 post: "cultural and social obstacles" to an AI revolution in finance, including "noise from AI hype and dogmatic modeling paradigms." <sup><a href="https://medium.com/kxytechnologies/the-case-for-finance-first-machine-learning-research-91cdc8492c12">[21]</a></sup> This is a candid acknowledgment that the institutional finance community was skeptical of AI-native investment approaches in 2017–2020, and that the hype cycle around AI was actively working against credibility with sophisticated allocators.
+
+LP allocators in 2017 had seen a wave of AI-in-finance pitches and were increasingly skeptical of claims that were not backed by live returns. The very language Pit.AI used—"solving intelligence for investment management"—was the kind of framing that sophisticated institutional investors had learned to discount. The company's response was the Research Paper Series, which positioned Pit.AI as a serious research organization rather than a hype-driven startup. But publishing on Medium, without peer-reviewed academic papers or institutional co-authors, was unlikely to move the needle with the endowments and family offices that Pit.AI needed to convince.
+
+### Team Size Made Execution Impossible
+
+Pit.AI remained at two employees throughout its operating life. <sup><a href="https://www.ycombinator.com/companies/pit-ai">[18]</a></sup> Running a hedge fund—even a small one—requires simultaneous execution across model research, data engineering, compliance, investor relations, legal, and operations. A two-person team cannot staff these functions. The founder's Oxford academic page included a March 2017 hiring announcement, suggesting he recognized the team needed to grow. But no evidence of successful hires appears in the public record, and the company's headcount never increased above two.
+
+The $120,000 seed round was the binding constraint. At San Francisco salary levels in 2017, $120,000 covered roughly three to four months of a single senior engineer's compensation, let alone the compliance infrastructure, data costs, and legal fees required to launch a registered fund. Without a follow-on raise—which would have required demonstrating progress toward live trading—the team could not grow, and without team growth, the company could not make progress toward live trading. The loop was closed.
+
+---
+
 ## Post-Mortem
 
 ## Key Lessons

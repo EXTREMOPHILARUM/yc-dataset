@@ -10,6 +10,18 @@ Go-to-market is vertical: land with 10–100 person SaaS companies selling upmar
 
 ## Why Now?
 
+The single most important change since Zillabyte's failure: LLMs have eliminated the human-in-the-loop curation bottleneck that made web-scale sales intelligence economically unviable at seed stage. In 2013, extracting structured company signals from unstructured web text required expensive human review pipelines. GPT-4 (March 2023) and Claude 3 Opus (March 2024) can now perform that extraction at near-zero marginal cost per document, with accuracy sufficient for commercial sales intelligence applications.
+
+Compounding this, Common Crawl now provides a free, continuously updated petabyte-scale web index refreshed monthly — removing what was Zillabyte's single largest capital expenditure. The proprietary 2-billion-page crawl that consumed the company's $1.5M seed round is now a free commodity. A rebuilder can skip directly to the application layer.
+
+The original competitors that forced Zillabyte's pivot have since fragmented. Infer merged with Ignite Technologies; Mintigo was acquired by Teradata. Neither acquisition produced a dominant, modern platform. Apollo.io has grown to reportedly 1M+ users (per their own marketing claims; independent verification unavailable), but serves a volume-prospecting motion rather than signal-based ICP matching — a meaningful gap.
+
+The vector embedding infrastructure required to implement Zillabyte's "Pandora for sales leads" mechanic now exists as managed services: Pinecone (launched 2021), Weaviate (open-source, production-ready 2022), and pgvector (PostgreSQL extension, stable 2023). Embedding a customer's best accounts and retrieving semantically similar companies from a public-data corpus is now a weeks-long engineering project, not a multi-year infrastructure build.
+
+Distribution channels unavailable in 2013 now include the HubSpot App Marketplace (1,500+ integrations, 200,000+ customers) and Salesforce AppExchange (7,000+ apps, 150,000+ customers) — both providing direct access to the exact buyer Zillabyte targeted.
+
+---
+
 ## Current Market Analysis
 
 The sales intelligence market has grown substantially since Zillabyte operated. The global sales intelligence market was valued at approximately $2.8B in 2022 and is projected to reach $7.3B by 2030 at a ~12.9% CAGR, according to Grand View Research — though these projections should be treated as directional rather than precise. In 2013, the market was nascent enough that Zillabyte's primary competitors were raising Series A rounds; today the category is established and buyers are familiar with the value proposition.

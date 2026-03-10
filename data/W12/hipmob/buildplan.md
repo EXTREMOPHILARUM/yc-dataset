@@ -6,9 +6,17 @@ The 2026 Hipmob is an AI-first in-app support layer for mobile-first fintech and
 
 The market shift is production LLM inference. In 2012, live chat was the bottleneck. Today, it's the cost of human agents. Fintech apps—where support density is highest and margins are tight—are desperate to reduce per-ticket cost without degrading experience. Intercom owns the enterprise; we own the segment where AI deflection is the primary value prop, not a feature bolt-on.
 
-We go to market through fintech platforms and embedded finance networks (Stripe, Plaid, Treasury Prime), positioning as "support automation for apps that can't afford Intercom." First 50 paying customers in 6 months, targeting $2–5K MRR per app by month 12.33:T7a5,
+We go to market through fintech platforms and embedded finance networks (Stripe, Plaid, Treasury Prime), positioning as "support automation for apps that can't afford Intercom." First 50 paying customers in 6 months, targeting $2–5K MRR per app by month 12.34:T7a5,
 
 ## Why Now?
+
+The single most important change since Hipmob's failure is the arrival of production-grade LLM inference capable of autonomously resolving tier-1 customer support queries inside a mobile SDK. GPT-4 (March 2023) and Claude 3 (March 2024) demonstrated that AI agents can handle 60–80% of common support queries without human intervention—a capability that did not exist at any price point during Hipmob's entire operating life. This one shift breaks the unit economics that killed the original company: instead of charging $25 per human agent seat (a model that required hundreds of enterprise seats to generate meaningful ARR), a rebuilt Hipmob can charge per conversation resolved by AI, pricing on outcomes rather than headcount.
+
+The market has also structurally expanded to meet the thesis. The global app economy grew from approximately $35B in 2013 to over $430B in 2022 (data: Sensor Tower / App Annie annual reports), meaning the universe of apps with paying users who require in-app support is orders of magnitude larger than when Hipmob launched. Intercom's growth to $200M+ ARR and Zendesk's acquisition by Hellman & Friedman for $10.2B (2022) confirm that in-app customer messaging is a large, durable category—Hipmob's directional thesis was correct; the market simply needed another decade to fully materialize.
+
+Distribution infrastructure has also matured in Hipmob's favor. The React Native ecosystem (stable since 2018) and Flutter (production-ready since 2021) mean a single SDK implementation now covers both iOS and Android, cutting the original engineering maintenance burden roughly in half. Specific distribution channels now available include the Shopify App Store (2M+ merchants, many with companion mobile apps), the Stripe Partner Ecosystem (hundreds of fintech app builders), and the AWS Marketplace (enterprise procurement already unlocked). None of these existed as meaningful developer acquisition channels in 2013.
+
+---
 
 ## Current Market Analysis
 

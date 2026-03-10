@@ -94,6 +94,20 @@ The company's longer-term model likely depended on selling or leasing machines t
 
 ## Traction
 
+Bistrobot's public traction was limited to a single deployment and a disproportionately large press footprint relative to that deployment.
+
+The company debuted at YC Demo Day in August 2015, generating coverage from TechCrunch, which noted the novelty of a hardware company presenting at the speed typically associated with software startups. <sup><a href="https://techcrunch.com/2015/08/19/hardware-at-the-speed-of-software/">[9]</a></sup> Three months later, in November 2015, the machine went live at Andi's Market in Bernal Heights — the company's first and, as far as public records show, only commercial deployment. <sup><a href="https://bernalwood.com/2015/11/16/sandwich-making-robot-installed-in-andis-market/">[5]</a></sup>
+
+Coverage followed from IEEE Spectrum's robotics column, Hackaday, the Atmel Corporation blog, and the Bernalwood neighborhood blog, whose review produced the memorable line that the sandwich "tasted just like a sandwich mom would have made." <sup><a href="https://bernalwood.com/2015/11/16/sandwich-making-robot-installed-in-andis-market/">[19]</a></sup>
+
+<media-tweet url="https://twitter.com/bistrobot" author="@bistrobot" date="2015-11-17" text="\"it tasted just like a sandwich mom would have made\""></media-tweet>
+
+By March 2016 — four months after launch — TechCrunch revisited the machine and confirmed it was still operating at the same Andi's Market location. <sup><a href="https://techcrunch.com/video/bistrobot-the-sandwich-making-robot/">[10]</a></sup> No second deployment was confirmed in any press coverage. The gap between the December 2015 stated goal of expanding into more stores and the March 2016 reality of a single unchanged deployment is the clearest available signal that commercial scaling had stalled.
+
+<media-image src="https://techcrunch.com/wp-content/uploads/2016/03/bistrobot.jpg" alt="TechCrunch video thumbnail for Bistrobot sandwich-making robot feature, March 2016" caption="TechCrunch reporter Lucas Matney visited the Bistrobot at its Bernal Heights corner store location in March 2016, producing a video feature on the machine."></media-image>
+
+No transaction volume, revenue, or customer satisfaction data was made public during the company's operating life.
+
 ## Post-Mortem
 
 Bistrobot's failure was overdetermined: hardware reliability problems, a menu too narrow to sustain commercial demand, and capital insufficient to iterate through either problem. These three causes reinforced each other. The company could not fix the reliability issues without more capital, could not raise more capital without demonstrating commercial traction, and could not demonstrate commercial traction with a machine that was frequently offline making only peanut butter sandwiches.

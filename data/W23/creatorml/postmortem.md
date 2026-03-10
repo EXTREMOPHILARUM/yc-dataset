@@ -2,6 +2,15 @@
 
 ## Overview
 
+CreatorML was a New York-based B2B SaaS company founded in 2022 by Charles Weill, a former Google Research machine learning lead, that used ML models to help YouTube creators predict how many views a title or thumbnail change would generate before publishing.Accepted into Y Combinator's Winter 2023 batch and backed by ~$500K from YC, Amino Capital, Goodwater Capital, and Pioneer Fund, the company built a technically sophisticated product suite targeting YouTubers with over 100,000 subscribers.
+
+Despite landing credible enterprise customers and generating what appears to be meaningful early revenue, CreatorML was listed as inactive on YC's platform by 2024, with founder Charles Weill subsequently joining xAI as a Member of Technical Staff.The company's failure reflects a structural mismatch between the capital required to sustain an ML-infrastructure-heavy product and the ceiling imposed by a deliberately narrow target market.
+
+<report-gallery>
+<media-image src="https://bookface-images.s3.amazonaws.com/avatars/4ae1530922f24f10b74c13bc79afe2ba17da15c1.jpg" alt="CreatorML: Foundation Model for Human Attention | Y Combinator" caption="CreatorML's Y Combinator profile photo — the company's official face during its Winter 2023 batch, when founder Charles Weill brought his Google Research pedigree to bear on a deceptively simple question: could an ML model tell a YouTuber whether their thumbnail would flop before they ever hit publish?"></media-image>
+<media-image src="https://files.atlas.so/IljbezPQuiLiYGUP6xfQ_Screenshot%20(1050).png" alt="Understanding Your Subscription Plan | CreatorML" caption="A screenshot from CreatorML's subscription management interface — a glimpse of the product in its final form, built for creators with 100K+ subscribers who were willing to pay for algorithmic certainty in an uncertain platform economy. The polished UI belied the structural tension underneath: an ML-heavy product chasing a market too narrow to sustain it."></media-image>
+</report-gallery>
+
 ## Founding Story
 
 Charles Weill founded CreatorML in 2022 under the legal entity Antifragile Research Inc., incorporated in New York. <sup><a href="https://www.ycombinator.com/companies/creatorml">[1]</a></sup> <sup><a href="https://creatorml.com/register/">[2]</a></sup> He came to the company as a solo founder — a deliberate choice, though the rationale for not recruiting a co-founder was never publicly stated.
@@ -102,9 +111,19 @@ The company targeted larger channels (100K+ subscribers) for custom onboarding o
 
 The Chrome Extension served as a distribution mechanism rather than a direct revenue driver, embedding CreatorML's value into the YouTube interface to generate awareness and conversion. Revenue would have flowed from paid subscriptions to the core prediction and analytics platform. No information is available on pricing, average contract value, or the ratio of free to paid users.
 
----2e:T6fc,
+---2f:T6fc,
 
 ## Traction
+
+CreatorML's most concrete traction signal was its enterprise customer roster. The Infographics Show, with 13.8M+ subscribers, was a named customer — a credible reference account that validated the product's appeal at the top of the creator market. <sup><a href="https://www.linkedin.com/company/creatorml">[22]</a></sup> Promoting Sounds (2.9M subscribers) and Astralis R6's content strategist were also named, suggesting a pattern of mid-to-large creator adoption rather than isolated wins. <sup><a href="https://ytcreator.tools/directory/creatorml/">[14]</a></sup>
+
+Weill's LinkedIn activity references bootstrapping to $50K MRR as a solo founder with one enterprise customer and three more in the pipeline. <sup><a href="https://www.linkedin.com/in/cweill/">[23]</a></sup> If this figure refers to CreatorML — the context suggests it does, though this cannot be confirmed with certainty — it represents meaningful early revenue for a pre-seed stage company. $50K MRR implies $600K in annualized recurring revenue, which would exceed the company's total recorded funding.
+
+The Twitter/X account had 1,298 followers as of its last active period, and the pinned post dated February 8, 2024 was still promoting a 7-day free trial — indicating the product remained commercially active into early 2024, roughly 18 months after launch. <sup><a href="https://x.com/CreatorML_">[9]</a></sup>
+
+Employee count data is inconsistent across sources: YC lists 6 employees, PitchBook records 3. <sup><a href="https://www.ycombinator.com/companies/creatorml">[24]</a></sup> <sup><a href="https://pitchbook.com/profiles/company/523185-31">[25]</a></sup> The discrepancy likely reflects different snapshot dates rather than a data error, suggesting the team grew modestly after the YC batch.
+
+---
 
 ## Post-Mortem
 

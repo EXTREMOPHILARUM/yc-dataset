@@ -12,6 +12,18 @@ The rebuild thesis is simple: the structural flaw was never the product idea —
 
 ## The single most important change: GPT-4 (March 2023) and Claude 3 (March 2024) have made high-quality structured extraction from unstructured conversation data a commodity API call, not a multi-month NLP engineering project.
 
+Buzzle's three-person team spent meaningful engineering bandwidth building and maintaining custom NLP models to extract themes, competitive signals, and feature requests from call transcripts. That work is now largely replaceable with a well-engineered prompt chain against a foundation model. The implication is not just cost reduction — it is a fundamental shift in what a small team can build and maintain. A two-person engineering team in 2026 can ship extraction quality that would have required a dedicated ML team in 2021.
+
+The unit economics of call processing have also collapsed. OpenAI's Whisper (released September 2022) and competing transcription APIs from AssemblyAI and Deepgram have reduced transcription costs by approximately 90% versus 2021 rates, according to publicly available API pricing comparisons — though precise historical benchmarks are not available from primary sources. This removes a key constraint on processing large call libraries at acceptable margins.
+
+On the buyer side, the product analytics market has validated the persona Buzzle could not close at scale. Amplitude raised $150M at a $4B valuation in 2021; Productboard raised $125M Series D in 2022 (Crunchbase). Product managers and product marketing managers now routinely carry software budgets and are trained buyers of standalone data tools. The AI-native GTM category — Clay, Common Room, Unify — has further normalized the purchase of AI-powered signal tools as point solutions rather than platform add-ons.
+
+On distribution, the HubSpot App Marketplace now lists 1,500+ integrations with active B2B buyers, and Notion's partner ecosystem has grown to serve product teams directly. Neither channel existed as a meaningful distribution path for Buzzle in 2021.
+
+Finally, Gong's 2023 acquisition of Mindtickle and Chorus's absorption into ZoomInfo's revenue intelligence suite have both pushed these platforms further toward sales enablement and away from product-team use cases — potentially reopening the gap Buzzle identified but could not hold.
+
+---
+
 ## Current Market Analysis
 
 **Market size:** The global conversational intelligence market was valued at approximately $9.8B in 2023 and is projected to reach $34.8B by 2030 (Grand View Research — this figure covers the full category including sales coaching, not the product-team VOC subset specifically). No reliable public sizing exists for the standalone VOC-for-product-teams segment; any number cited here would be fabricated. What is documentable: Dovetail, the closest adjacent product in user research synthesis, raised a $63.5M Series A at a $700M valuation in 2022 (Crunchbase), validating that product teams will pay for structured insight tools at meaningful scale.

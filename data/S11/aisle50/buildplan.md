@@ -10,6 +10,18 @@ The wedge is simple: approach a single national retailer with an API integration
 
 ## Why Now?
 
+The single most important change since Aisle50's failure: retailer mobile apps have replaced loyalty card infrastructure as the primary consumer touchpoint — and they expose API-level offer loading that eliminates the bespoke POS integration bottleneck that killed Aisle50's retailer acquisition pace.
+
+In 2013, signing a new retail partner meant months of IT negotiation, staff training, and contractual wrangling to connect Aisle50's platform to proprietary loyalty card systems. Today, Kroger's loyalty program (62M+ households), Albertsons' Just for U platform, and Walmart's app all expose offer-loading APIs or SDK integrations that a modern rebuild can connect to programmatically. The retailer integration that took Aisle50 12–18 months per chain can now be completed in weeks.
+
+The second structural shift is on the manufacturer side. US digital CPG ad spend reached approximately $15B in 2023 (source: eMarketer), compared to a fraction of that in 2013. More importantly, retail media networks — Kroger Precision Marketing, Albertsons Media Collective, and Instacart Ads — have spent the past five years training CPG brand managers to pay for targeted, measurable in-store promotions with closed-loop attribution. Aisle50 had to educate that buyer from scratch. A 2026 rebuild walks into a sales motion that already exists.
+
+Ibotta's April 2024 IPO at approximately $2B market cap and Fetch Rewards' $2.5B valuation (as of 2022) have publicly validated that digital CPG promotions delivered via mobile can achieve consumer scale. These are not competitors to fear — they are proof points to cite in every CPG sales conversation.
+
+Finally, grocery e-commerce reached approximately 12% of US grocery sales by 2023 (source: FMI/NielsenIQ; exact figure for 2026 not available at time of writing), meaning a digital offer platform can now operate entirely within the online purchase flow — no loyalty card swipe required.
+
+---
+
 ## Current Market Analysis
 
 **Market size:** The US grocery market generates approximately $1T+ in annual sales as of 2023 (source: FMI), up from roughly $700B when Aisle50 operated. US digital CPG ad spend reached approximately $15B in 2023 (source: eMarketer), representing the promotional budget pool a rebuild would target. The FSI/print coupon market that Aisle50 originally positioned against has continued its structural decline — Sunday newspaper circulation has fallen below 20M (source: Pew Research; exact 2026 figure not available), accelerating budget migration to digital.

@@ -10,6 +10,18 @@ Go-to-market is freemium through the VS Code Marketplace (30M+ active users). In
 
 ## Why Now?
 
+The single most important change since Omniref's failure is this: **LLMs have eliminated the cold-start problem that made the original product structurally unbuildable as a business.** Omniref's annotation layer was only valuable after a critical mass of developers contributed content — but those contributors were open-source developers who qualified for the free tier and had no incentive to pay. In 2026, Claude 3.5 Sonnet (June 2024) and GPT-4o (May 2024) can generate contextually accurate, line-level code annotations on day one, before any human community forms. The product ships useful. The cold-start problem is gone.
+
+The second structural unlock is proven willingness to pay. GitHub Copilot reached 1.8 million paid subscribers by early 2024 at $10–$19/month (GitHub, 2024), and Cursor reported $100M ARR in 2024 at similar price points. These benchmarks directly refute the assumption that developers won't pay for workflow-embedded code intelligence tools. Omniref's $50/month tier failed partly because the value wasn't immediate enough to justify the price. At $15/month with AI-generated annotations available instantly, the conversion math changes fundamentally.
+
+The underlying market has also grown materially. The npm registry expanded from ~600,000 package versions in 2015 to over 2.5 million packages as of 2024 (npm, 2024 — exact figure unverified independently). Navigating underdocumented dependencies is proportionally more painful. Sourcegraph's $225M raise and enterprise adoption validates that companies will pay substantial sums for codebase navigation tools — the exact problem Omniref addressed.
+
+Distribution channels unavailable in 2015 now exist at scale: the VS Code Marketplace has over 50,000 extensions with 30M+ active users (Microsoft, 2024), and JetBrains Marketplace serves 12M+ developers. Embedding directly in the IDE — where developers already live — eliminates the context-switching friction that killed Omniref's browser plugin strategy.
+
+Semantic search via pgvector (PostgreSQL extension, GA 2023) and Pinecone now enables intent-aware code retrieval that would have required years of ML infrastructure in 2015. A two-person team can implement this in weeks today.
+
+---
+
 ## Current Market Analysis
 
 **Market Size:** The global developer tools market was valued at approximately $6.8 billion in 2023 and is projected to reach $13.7 billion by 2028 (MarketsandMarkets, 2023 — treat as directional; independent verification recommended). The specific segment of code intelligence and documentation tooling is harder to isolate, but Sourcegraph's $2.6B valuation (2021) and GitBook's continued growth suggest the addressable market for "understanding code at scale" is well into the billions. In 2013–2015, this segment was nascent; today it is a recognized enterprise budget line item.

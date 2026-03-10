@@ -10,6 +10,16 @@ The go-to-market is direct: target the 50,000+ employees at Series B–D startup
 
 ## Why Now?
 
+The single most important change since Compound's failure is the emergence of large language models capable of parsing complex financial documents at scale. GPT-4 (March 2023) and Claude 3 Opus (March 2024) can now extract structured data from cap tables, option grant agreements, 83(b) election forms, and RSU schedules with high accuracy — eliminating the manual tracking labor that made Compound's illiquid asset aggregation expensive and structurally unscalable. In 2022, Compound employed roughly one staff member per 18 clients. LLM-powered document parsing could collapse that ratio by an order of magnitude, converting the company's most expensive operational burden into a software problem.
+
+The second critical change is the maturation of RIA infrastructure-as-a-service. Platforms like Altruist, Orion, and RIA-in-a-Box now allow a new firm to register as a Registered Investment Advisor and launch with compliant portfolio management, billing, and reporting infrastructure in weeks, not the months or years Compound spent building this from scratch. This removes the primary justification for Compound's three-year stealth period.
+
+The third change is macro: the 2022–2023 tech downturn that compressed Compound's catalyst-event pipeline has passed. IPO filings are recovering (Renaissance Capital reported 2024 U.S. IPO proceeds up approximately 50% year-over-year — specific 2025–2026 data unavailable at time of writing). More importantly, a new cohort of tech employees is accumulating equity in AI-era private companies — Anthropic, OpenAI, xAI, Perplexity, and others — recreating exactly the illiquid-equity complexity Compound was built to address, with a larger and wealthier underlying population than the 2019 cohort.
+
+Distribution has also matured. LinkedIn's creator tools, Substack, and X/Twitter now provide direct, low-cost access to the exact audience Compound reached through a single essay in 2019 — but with persistent, compounding audience ownership rather than a one-time spike.
+
+---
+
 ## Current Market Analysis
 
 The U.S. RIA market managed approximately $128 trillion in assets as of 2023 (Investment Adviser Association, 2023 Evolution Revolution report). Compound's actual addressable market — tech employees with illiquid equity complexity — is a fraction of this, but it is a meaningfully larger fraction in 2026 than in 2019. The AI startup boom has created a new generation of employees holding options in companies valued at tens of billions of dollars privately, before any liquidity event. The population of people holding pre-IPO equity in companies valued above $1 billion (so-called "unicorn employees") has grown substantially since 2019, though precise current headcount data is not publicly available.
@@ -75,3 +85,40 @@ Pricing is anchored significantly below Compound's reported ~$2,000/month repres
 **Differentiation vs. 2026 competitors:** Compound Planning serves clients with existing liquid wealth; this rebuild serves employees *before* liquidity, when decisions matter most and no competitor is present. Harness Wealth charges for referrals; this product charges for software. Carta serves companies; this serves employees. The rebuilt Compound owns the pre-liquidity moment — the highest-anxiety, highest-value point in a tech employee's financial life — and builds the advisory relationship that persists through every subsequent catalyst event.38:T8fb,
 
 ## Pricing strategy:
+
+# Velo
+
+## 1. Overview
+
+Velo is a self-serve wealth intelligence platform for tech employees navigating complex equity compensation — stock options, RSUs, and pre-IPO grants. A modern revival of Compound (YC S19), Velo replaces the manual advisory bottleneck with LLM-powered document ingestion, interactive scenario modeling, and on-demand CFP access, serving mid-career engineers and PMs at the exact moment equity decisions matter most. The core value proposition: upload your grant documents, model every exercise scenario with real tax implications, and get a CFP on a video call — all before your options expire.
+
+---
+
+## 2. Core Features
+
+**Equity Document Ingestion**
+- Upload option grant agreements, RSU schedules, offer letters, and cap table summaries (PDF, PNG, JPEG)
+- LLM extracts: strike price, grant date, vesting schedule (cliff + monthly), expiration date, share class (ISO/NSO/RSU), exercise window post-termination
+- Structured equity dashboard auto-populated from extracted data
+- Manual override for any extracted field with audit trail
+- Document vault storing all uploaded files with extraction status
+
+**Scenario Modeling Engine**
+- Interactive calculator for: early exercise vs. wait, ISO vs. NSO tax treatment, cashless exercise at IPO, secondary sale
+- User-defined inputs: assumed exit valuation, exit timing (1–10 years), current FMV, personal income
+- Side-by-side comparison of up to 3 scenarios
+- Output: net proceeds after federal + state tax, AMT exposure, effective tax rate per scenario
+- Shareable scenario links (read-only, expiring 7 days)
+
+**Integrated Tax Estimation**
+- Real-time AMT exposure calculation tied to scenario inputs
+- QSBS eligibility flagging (Section 1202 — 5-year hold, C-corp, $50M asset threshold)
+- State tax impact modeling for CA, NY, WA, TX, MA, and all other US states
+- ISO spread bargain element calculation at exercise
+- 83(b) election deadline alerts (30-day window from exercise)
+
+**Advisor Access (Advisory Tier)**
+- Async messaging thread with assigned CFP, 48-hour response SLA
+- Scheduled 30-minute video consultations via embedded calendar (one per quarter on base Advisory plan)
+- Shared scenario workspace: advisor can annotate and comment on client scenarios
+- Advisor notes visible to client in their dashboard

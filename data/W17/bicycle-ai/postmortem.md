@@ -75,6 +75,14 @@ Bicycle AI operated as a managed service provider, most likely charging clients 
 
 ## Traction
 
+Bicycle AI had 11 employees at the time of its YC listing — a significant headcount for a company that raised only $120K. <sup><a href="https://www.ycombinator.com/companies/bicycle-ai">[5]</a></sup> With the standard YC W17 deal of $120K for 7% equity, and 11 employees drawing salaries across two countries, the company's runway at the time of the seed round was measured in weeks to a few months at most, even accounting for lower salary costs in Bengaluru.
+
+A 2023 podcast summary of Abhishek Nayak's account of the company states that Bicycle AI "saw success there" before the AI issues became insurmountable — suggesting the product did achieve some commercial traction with paying clients. <sup><a href="https://www.ivoox.com/building-a-250-million-saas-startup-abhishek-nayak-audios-mp3_rf_104497780_1.html">[17]</a></sup> However, no revenue figures, customer names, MRR data, or retention metrics appear in any public source. Whether "success" meant a handful of pilot clients, meaningful recurring revenue, or simply positive qualitative feedback from early users cannot be determined from available data.
+
+No evidence exists that Bicycle AI attempted to raise a Series A or additional seed capital after YC Demo Day in March 2017 — consistent with a company that recognized its core technology was not performing well enough to justify further investment.
+
+---
+
 ## Post-Mortem
 
 ### Primary Cause: The AI Did Not Work Well Enough

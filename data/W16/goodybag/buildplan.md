@@ -10,6 +10,20 @@ Go-to-market is bottoms-up: land ops managers at 50–100 tech and professional 
 
 ## Why Now?
 
+The single most important change since Goodybag's 2016 exit is the empirical validation of the market itself. ezCater — Goodybag's best-funded competitor at the time — reached a $1.6 billion valuation in 2019 and processed over $1 billion in annual gross merchandise volume by 2022. The demand Goodybag assumed existed is now proven at scale. More importantly, the consolidation wave that made independent survival untenable for Goodybag has since reversed: Waitr, which acquired Bite Squad (which acquired Goodybag), filed for bankruptcy in 2023. The enterprise catering segment is now underserved by the surviving national platforms, creating a genuine re-entry window.
+
+Three infrastructure changes make the rebuild materially cheaper and faster than the original:
+
+**LLM-based menu ingestion** is the most operationally significant. GPT-4 (March 2023) and Claude 3 (March 2024) can now parse restaurant menus from PDFs, websites, and images with high accuracy and minimal human review. In 2016, manual menu onboarding was a key cost driver for supply acquisition. That cost is now close to zero-marginal.
+
+**Stripe Connect**, now mature and widely adopted, makes marketplace payment splitting, automated restaurant payouts, and take-rate collection nearly zero-marginal-cost to implement. In 2016, this required significant custom engineering that consumed runway.
+
+**Modern B2B sales tooling** — HubSpot, Apollo.io, Outreach — has reduced enterprise customer acquisition costs dramatically. Goodybag's estimated $100,000 per-market launch cost could realistically be cut by 40–60% today (exact figure unknown, but directionally supported by the research).
+
+Finally, hybrid work has created a structurally new use case: companies now need to cater distributed team events, off-site meetings, and return-to-office incentive meals across multiple locations simultaneously. This multi-location catering workflow did not exist at scale in 2016 and remains underserved by current platforms.
+
+---
+
 ## Current Market Analysis
 
 **Market Size:** Goodybag cited a $30 billion U.S. corporate catering TAM in 2016. The current figure is not independently verified in available sources, but the category has expanded meaningfully — hybrid work has increased demand for catered off-sites, team events, and return-to-office programming. ezCater's $1B+ GMV by 2022 represents a single platform's slice; the broader market is substantially larger.

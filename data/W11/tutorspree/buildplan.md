@@ -10,6 +10,16 @@ Go-to-market targets high-income parents in suburban metros where school perform
 
 ## Why Now?
 
+The single most important change since Tutorspree's 2013 failure is the collapse of SEO as the default acquisition monoculture for service marketplaces. In 2013, a single Google Panda update destroyed ~80% of Tutorspree's traffic overnight because the entire business was architected around programmatic search pages. In 2026, a rebuilt Tutorspree can distribute acquisition across at least four structurally independent channels from day one: TikTok (1B+ monthly active users), Instagram Reels, YouTube Shorts, and Google — meaning no single algorithm change can replicate the 2013 collapse. Tutors demonstrating their teaching style in 60-second videos are already a native content format on these platforms, turning supply-side marketing into organic demand generation.
+
+The second structural unlock is the trust problem. Tutorspree's March 2012 agency pivot — injecting expensive human consultants to compensate for parents' unwillingness to book from text profiles — was the right diagnosis with the wrong cure. Video profile infrastructure (Mux, Cloudflare Stream) now costs a fraction of human consultant headcount. Wyzant and Preply have already validated that short-form video introductions meaningfully improve parent conversion; a rebuild can make video-first profiles the default, not an add-on.
+
+The disintermediation problem — Tutorspree's 50% rake gave tutors and students overwhelming financial incentive to transact offline — is now solvable via Stripe Connect, which bundles automatic escrow, instant tutor payouts, dispute resolution, and payment protection into a single API integration. Tutors have a genuine reason to stay on-platform when payment infrastructure, liability coverage, and reputation portability are bundled together.
+
+Finally, COVID-19 permanently normalized remote learning. Zoom, Google Meet, and purpose-built tools like Lessonspace eliminate the city-by-city geographic density constraint that forced Tutorspree to expand market-by-market. The U.S. private tutoring market grew from approximately $5B (2012) to over $10B (2023), according to IBISWorld — the demand Tutorspree was chasing has more than doubled.
+
+---
+
 ## Current Market Analysis
 
 **Market size:** The U.S. private tutoring market exceeded $10B in 2023 (IBISWorld), more than doubling from the ~$5B market Tutorspree operated in during 2011–2013. The COVID-19 pandemic accelerated this growth by normalizing remote academic support and creating documented learning loss that parents are actively spending to remediate. Specific 2025–2026 market size figures are not available in the research report.

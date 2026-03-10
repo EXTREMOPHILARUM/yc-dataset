@@ -114,6 +114,14 @@ Optilly operated as a SaaS platform. Marketers paid for access to the campaign m
 
 ## Traction
 
+InstallMonetizer achieved meaningful traction before its crisis. By January 2013, the network had more than 9,000 publishers, was profitable, and was growing installation volume at a rate that doubled every two to three months.<sup><a href="https://techcrunch.com/2013/01/14/y-combinator-backed-installmonetizer-is-a-selective-ad-network-for-desktop-software/">[12]</a></sup> The company had attracted $500,000 in seed funding from Andreessen Horowitz, SV Angel, Digital Garage, Fenox Venture Capital, and Transmedia Capital.<sup><a href="https://techcrunch.com/2013/01/14/y-combinator-backed-installmonetizer-is-a-selective-ad-network-for-desktop-software/">[5]</a></sup> The participation of a16z and SV Angel — two of the most selective seed investors in Silicon Valley — validated the business model at the time of investment.
+
+No revenue figures were ever disclosed. The "profitable" characterization is unquantified, and no breakdown of the 9,000 publishers by size or revenue contribution is available. Microsoft's use of the platform to distribute the Bing toolbar suggests at least one enterprise-level advertiser relationship, but the commercial terms of that arrangement were never disclosed.
+
+For Optilly, no traction data is publicly available. No customer counts, revenue figures, retention rates, or managed spend figures were ever published. The absence of any traction announcement — companies typically issue press releases when they reach meaningful milestones — suggests Optilly did not achieve the kind of growth that would have warranted public disclosure before going inactive.
+
+---
+
 ## Post-Mortem
 
 ### Primary Cause: A Reputational Crisis That Destroyed the Core Business Overnight

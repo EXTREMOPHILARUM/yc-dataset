@@ -10,6 +10,18 @@ The rebuild thesis is not that Cardinal failed — it didn't — but that its ac
 
 ## Why Now?
 
+The single most important change since Cardinal's acquisition is the collapse in cost and complexity of LLM-powered transcript analysis. In early 2023, extracting structured feature requests from unstructured Gong call recordings required expensive fine-tuned models, significant prompt engineering, and meaningful compute cost per call. By mid-2025, GPT-4o (May 2024) and Claude 3.5 Sonnet (June 2024) perform this task at near-zero marginal cost via API, with accuracy that would have required months of custom model training two years earlier. This directly eliminates the unit economics constraint that made Cardinal's standalone path difficult: the AI layer that was a costly moat in 2023 is now a cheap commodity input.
+
+The second critical change is the maturation of the product tool ecosystem into distinct, non-overlapping camps. Linear has become the default issue tracker for engineering-led product teams — the company has not disclosed ARR publicly, but its Series C at a $400M valuation (2022) and consistent category dominance in developer surveys signal a large, loyal installed base. Notion has captured document-centric product teams. Neither Linear nor Notion has shipped a revenue-quantified feature prioritization layer as of early 2026; both expose public APIs that make integration straightforward. This fragmentation creates a distribution wedge Cardinal never had: a rebuild can ride Linear's and Notion's installed bases rather than compete with them.
+
+Third, Miro Insights' existence as a live, production product — accessible at insights.miro.com and integrated with Gong's marketplace — is proof of enterprise willingness to pay for this workflow. Miro has validated the demand; it simply cannot serve teams outside its collaboration platform without asking them to adopt Miro as a primary tool, which most Linear and Jira-native teams will not do.
+
+The product management software market was estimated at approximately $3.5 billion in 2023 (Grand View Research; specific 2026 figure not available in public record). The AI-native product intelligence sub-segment is growing faster than the broader category, driven by enterprise adoption of AI-assisted roadmapping tools.
+
+Distribution channels available now that did not exist or were immature in 2023 include the Linear integration marketplace, Notion's integration gallery, and Gong's App Directory — all with established developer ecosystems and self-serve discovery.
+
+---
+
 ## Current Market Analysis
 
 **Market size:** The product management software market was approximately $3.5 billion in 2023 (Grand View Research). A 2026 figure is not available in the public record, but the category has grown consistently at double-digit rates. The more relevant sizing is the addressable segment: B2B software companies with active sales motions, a product team of 3+ PMs, and existing Gong or Chorus deployments. This is a narrower but higher-willingness-to-pay segment than the total PM tools market.
@@ -50,3 +62,11 @@ Deliver a weekly summary of the top revenue-weighted feature requests to a desig
 ---37:Taca,
 
 ## Go-to-Market Strategy
+
+**Target customer:** B2B SaaS companies with 10–200 employees, an active outbound or inbound sales motion using Gong or Chorus, and a product team of 2–5 PMs. Specifically: companies that have already paid for Gong (median ACV ~$20,000–$40,000 per year, per public Gong pricing signals) — this self-selects for companies that take sales intelligence seriously and have the budget for adjacent tooling. Secondary target: product leaders at these companies who have personally felt the pain of manually triaging Gong call notes before a quarterly planning meeting.
+
+**Primary distribution channel:** Gong's App Directory and the Gong partner ecosystem. Gong has a published integration marketplace with a self-serve discovery flow. A Cardinal rebuild listed in Gong's directory reaches the exact buyer — product leaders at Gong-paying companies — at the moment they are already thinking about call intelligence. Supplementary channels: Linear's integration page (for engineering-led teams) and direct outreach to YC-backed B2B SaaS companies through the YC alumni network, which Cardinal's founders demonstrated is a high-conversion early customer pool.
+
+**Pricing:** $299/month per team (up to 10 seats), billed annually at $2,988. This is justified by the following stress-test: the free alternative is a PM manually reviewing Gong call summaries in a spreadsheet, which takes 4–8 hours per week at a fully-loaded cost of $150–$300/week for a mid-level PM. At $299/month, the product pays for itself if it saves one hour per week. The price is also positioned below Productboard's team tier (approximately $449–$699/month per public pricing signals as of 2024) while offering a more focused, AI-native workflow. The risk is that Gong itself offers basic call-to-feature extraction as a free feature in its own roadmap — this is a real threat, and the defense is multi-recorder neutrality (Gong cannot serve Chorus or Fireflies users) and the revenue-weighted backlog output, which Gong has no incentive to build since it would require CRM integration depth that competes with Salesforce.
+
+**Differentiation vs. 2026 competitors:** Productboard is workflow-heavy and AI-bolted-on. Miro Insights requires Miro adoption. Jira Product Discovery lacks call intelligence depth. The rebuild's differentiation is narrow and specific: it is the only product that ingests from all three major call recorders, tags every feature request with live ARR from CRM, and pushes output into the PM's existing backlog tool without asking them to change their primary workflow. That specificity is both the pitch and the constraint — it must be executed with enough depth that the revenue signal is genuinely trusted by PMs, not just directionally interesting.

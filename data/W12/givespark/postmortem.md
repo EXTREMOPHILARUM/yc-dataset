@@ -100,6 +100,16 @@ None of these models were disclosed by Teplow or documented in press coverage. T
 
 ## Traction
 
+GiveSpark's only documented traction metric is the pre-Demo Day test campaign: $87,000 raised in two weeks for a bone marrow foundation through an unnamed celebrity's promotion.<sup><a href="https://techcrunch.com/2012/03/27/yc-demo-day-session-1/">[8]</a></sup> That figure was strong enough to anchor the Demo Day pitch and generate coverage from TechCrunch and VentureBeat — two of the most-read tech publications covering the YC cohort.
+
+No subsequent traction data is available. There are no documented campaigns after Demo Day, no user counts, no donor retention figures, no nonprofit partner announcements, and no revenue disclosures. The $87,000 figure remains the entirety of GiveSpark's public performance record.
+
+The YC seed investment — amount undisclosed — was the only confirmed funding round.<sup><a href="https://www.crunchbase.com/organization/givespark">[10]</a></sup> No Series A or follow-on seed round was announced, which is consistent with a company that failed to demonstrate repeatable traction after its initial proof-of-concept.
+
+The gap between the Demo Day result and the absence of any subsequent data is itself informative. Either GiveSpark ran additional campaigns that were not covered by press (possible but unlikely given the Demo Day attention), or the platform failed to run additional campaigns at all after March 2012. The latter interpretation is supported by the timeline: Teplow began co-founding Good Today in August 2013, less than 18 months after Demo Day, suggesting GiveSpark had effectively stalled well before its formal closure.
+
+---
+
 ## Post-Mortem
 
 GiveSpark left no public post-mortem. Teplow has not given interviews discussing the company's failure, and no investor statements or shutdown announcements exist in the public record. What follows is an analysis of structural failure modes derived from the available evidence.

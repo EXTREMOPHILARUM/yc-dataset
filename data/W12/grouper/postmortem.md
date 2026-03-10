@@ -102,6 +102,16 @@ Grouper charged $20 per person per outing, with the fee covering a complimentary
 
 ## Traction
 
+Grouper's geographic expansion was its most legible traction signal. The service launched in New York City in the summer of 2011 and remained NYC-only for more than a year. <sup><a href="https://en.wikipedia.org/wiki/Grouper_social_club">[29]</a></sup> By June 2012, it had added San Francisco and Washington D.C. By September 2012, it operated in 12 cities total. <sup><a href="https://en.wikipedia.org/wiki/Grouper_social_club">[12]</a></sup> By April 2013, it had 20 U.S. cities and 400 partner bars, with members having shared "hundreds of thousands of drinks"—a proxy metric that obscured actual user counts and revenue. <sup><a href="https://techcrunch.com/2013/04/30/now-in-20-cities-grouper-brings-on-demand-group-dates-to-the-iphone/">[27]</a></sup> By late 2013, the service operated in 25 U.S. cities plus Toronto and London. <sup><a href="https://en.wikipedia.org/wiki/Grouper_social_club">[14]</a></sup>
+
+Cultural validation was strong. Grouper was featured in The New York Times, listed by Time Inc. as a top NYC startup to watch for 2013, and parodied by the television show *It's Always Sunny in Philadelphia*—a form of cultural recognition that few startups achieve. <sup><a href="https://michaelwaxman.com/">[30]</a></sup> Peak headcount reached approximately 25–30 employees. <sup><a href="https://en.wikipedia.org/wiki/Grouper_social_club">[31]</a></sup>
+
+In a March 2016 Fox Business interview, Waxman claimed the company had grown five-times in the prior two years and had facilitated "hundreds of thousands of dates." <sup><a href="https://www.foxbusiness.com/features/dating-site-founder-hoping-threes-not-a-crowd">[1]</a></sup> This claim is difficult to evaluate: it was made after the June 2014 layoffs and international shutdown, and no supporting data was provided. No total registered user count, active member count, revenue figure, or cohort retention data was ever disclosed publicly. The "hundreds of thousands of drinks" and "hundreds of thousands of dates" figures are cumulative lifetime metrics that do not reveal whether the user base was growing, stable, or declining at any given point.
+
+<media-tweet url="https://twitter.com/wxmn/status/367689390463541248" author="@wxmn" date="2013-08-14" text="Thanks for the interview on @grouper @KateRogersNews! It was a lot of fun."></media-tweet>
+
+---
+
 ## Post-Mortem
 
 Grouper did not fail suddenly. It contracted sharply in June 2014, operated in a diminished form for over two more years, and quietly shut down in October 2016. No public post-mortem was ever issued by the founder or investors. <sup><a href="https://en.wikipedia.org/wiki/Grouper_social_club">[32]</a></sup> The failure was the product of several compounding structural problems, none of which the team was able to resolve before the runway ran out.

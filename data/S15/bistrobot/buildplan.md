@@ -10,6 +10,20 @@ Win condition: prove 95% uptime and $40+ daily revenue per unit at two pilot cam
 
 ## Why Now?
 
+The single most important change since Bistrobot's 2016 failure is the availability of off-the-shelf, food-grade robot arms with certified uptime SLAs — eliminating the need for a two-person team to design, manufacture, and field-service custom mechanical systems from scratch.
+
+In 2015, Bistrobot's founders had to engineer their own mechanical platform. When it broke — and it broke constantly, with the builder called in for repairs the "zillionth" time per a 2016 SF Chronicle report — there was no serviceable alternative. Today, Universal Robots' UR series and Fanuc collaborative arms offer 99.9%+ uptime SLAs and are available as off-the-shelf components with established integrator networks. A rebuild team does not need to be the hardware manufacturer; they need to be the system integrator and software layer on top of proven mechanical infrastructure.
+
+Paired with this, AWS IoT and Azure IoT Hub (both mature as of 2022–2023) enable remote diagnostics and predictive maintenance across a deployed fleet — directly solving the "called in for every repair" failure mode that grounded Bistrobot's single unit.
+
+The commercial channel has also materialized. Ghost kitchens and automated QSR stations — essentially nonexistent in 2015 — are now a proven operator category. Sweetgreen's Infinite Kitchen (launched 2023), Reef Technology, and Kitchen United have demonstrated that food-service operators will pay for automated stations. This is the B2B customer Bistrobot needed but could not find.
+
+On unit economics: consumer acceptance of $5–8 automated fresh food (demonstrated by Farmer's Fridge, which operates 1,000+ smart fridges across the U.S. as of 2024, per company disclosures, and Byte Foods before its acquisition) suggests a price point that can actually amortize hardware costs — something Bistrobot's $2 novelty sandwich could never do.
+
+Distribution channels now include the Aramark and Compass Group vendor programs, which actively source automated food station partners for corporate campuses and healthcare facilities. Specific market size data for the 2026 food robotics segment is not available in the research provided; see Section 2 for what is documented.
+
+---
+
 ## Current Market Analysis
 
 ## Market Size

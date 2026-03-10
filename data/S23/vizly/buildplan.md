@@ -2,6 +2,18 @@
 
 ## Overview
 
+The single most important change since Vizly's failure is the maturation of local LLM inference into a genuinely enterprise-grade capability. In September 2023, Vizly's on-premises stack ran on Llama 2 via llama.cpp — technically impressive but meaningfully weaker than GPT-4, creating a real quality tradeoff for privacy-conscious buyers. By 2026, Llama 3.1 70B (released July 2024) running via Ollama on commodity server hardware matches or exceeds GPT-3.5-class performance, and quantized variants run on a single A100 instance. The privacy pitch is no longer a compromise — it is a genuine capability match.
+
+This matters because the demand signal has hardened in parallel. Samsung's March 2023 incident — engineers accidentally uploading proprietary source code to ChatGPT — triggered enterprise-wide AI tool bans at dozens of regulated companies and made CISOs in financial services, healthcare, and government actively budget for on-premises AI analytics alternatives. That buyer urgency did not exist when Vizly was selling.
+
+The cost structure has also shifted decisively. GPT-4's 2023 pricing made per-query economics difficult at $19.99/month. Claude Haiku and GPT-4o-mini (both available by mid-2024) reduced frontier model API costs by approximately 10–20x, according to published OpenAI and Anthropic pricing pages — making cloud-fallback hybrid architectures economically viable even at prosumer price points.
+
+On distribution: the Google Workspace Marketplace now provides established billing infrastructure and a searchable install base. Coefficient's $18M raise (source: Crunchbase) and Rows.com's continued growth confirm that spreadsheet-native AI analytics has a demonstrated paying market. The Chrome Web Store's 3 billion+ Chrome users (Google, 2024) represent a distribution surface Vizly touched but never fully exploited.
+
+Critically, the "chat with your data" category has bifurcated. General-purpose tools (ChatGPT Advanced Data Analysis, Microsoft Copilot) have commoditized the horizontal use case. The remaining white space is vertical-specific, privacy-first deployment — exactly where Vizly's architecture was always strongest.
+
+---
+
 ## Why Now?
 
 ## Current Market Analysis

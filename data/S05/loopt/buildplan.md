@@ -10,6 +10,16 @@ Go-to-market targets one neighborhood per city with a referral-gated waitlist, s
 
 ## Why Now?
 
+The single most important change since Loopt's failure: passive, always-on location sharing is now a normalized consumer behavior, not a privacy battleground. Apple's Find My network has over 1 billion enrolled devices, and Google Maps location sharing has hundreds of millions of active users. The trust problem that Loopt's 2008 SMS spam incident catastrophically accelerated — and that Foursquare's check-in model tried to work around — has been solved by a decade of UX refinement, granular opt-in controls, and trusted platform context. A builder in 2026 inherits consumer acceptance rather than having to manufacture it.
+
+The infrastructure gaps that stranded Loopt are also gone. Background location APIs on iOS (introduced in iOS 4, 2010) and Android now allow genuinely passive location sharing without requiring the app to be open, eliminating the battery-drain and UX friction that plagued 2008-era hardware. The carrier distribution bottleneck that forced Loopt into years of business development negotiation — and eventually into the SMS spam shortcut — is irrelevant. A new app distributes through the Apple App Store (1.8 billion active iOS devices as of 2024, per Apple) and Google Play Store without a single carrier conversation.
+
+The commerce link that Sam Altman explicitly identified as Loopt's missing piece at acquisition is now fully buildable. Stripe, Square, and Apple Pay provide embeddable payment rails that can be triggered by location events without bank or carrier partnerships. The US location-based advertising market reached approximately $74 billion in 2022 (source: research report), compared to effectively zero in 2008 — programmatic geofencing and proximity targeting are now commoditized infrastructure, not experimental hypotheses.
+
+Finally, LLM-powered local intent inference — specifically GPT-4 (March 2023) and Claude 3 Opus (March 2024) — enables real-time conversion of location signals, movement patterns, and social context into personalized recommendations without requiring explicit check-ins. This directly solves the engagement problem that killed Loopt's passive model and eventually bloated Foursquare into irrelevance.
+
+---
+
 ## Current Market Analysis
 
 ## Market Size

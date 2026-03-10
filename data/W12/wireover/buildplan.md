@@ -2,6 +2,24 @@
 
 ## Overview
 
+The single most important change since WireOver's failure is that **WebRTC, now natively supported in all major browsers since approximately 2017 and fully standardized by the W3C in January 2021, eliminates the two-sided desktop installation requirement that was WireOver's primary adoption killer.** In 2014, both sender and recipient had to install a Python desktop client before a single byte could transfer. Today, a sender opens a browser tab and shares a link; the recipient clicks it and receives the file — no installation on either side. Products like Wormhole.app have already validated this browser-native P2P model commercially.
+
+This architectural shift unlocks everything else. The cold-start problem that made WireOver's network effect impossible to seed dissolves when the recipient experience requires zero friction.
+
+Additional structural tailwinds compound the opportunity:
+
+- **Enterprise encryption demand is now a procurement checkbox, not a niche concern.** HIPAA, GDPR, and SOC 2 Type II explicitly require encrypted data transfer. A 2023 IBM Cost of a Data Breach Report found the average breach cost $4.45M — giving enterprise buyers a concrete ROI frame for encrypted transfer tools that did not exist when WireOver was pitching its $10/month Pro tier to privacy enthusiasts.
+
+- **Remote work has permanently expanded the large-file transfer market.** Post-2020, video production teams, genomics researchers, and AI training data pipelines regularly move 100 GB–10 TB files outside corporate VPNs, a workflow WireOver identified but could not monetize.
+
+- **Infrastructure costs have collapsed.** Cloudflare R2 (launched 2022) charges zero egress fees, making relay-server fallback economically sustainable at free-tier scale. In 2012, WireOver's relay architecture had unpredictable server costs; today those costs are predictable and cheap.
+
+- **Cryptographic primitives are now commodities.** libsodium and the `age` encryption library (stable release 2021) are well-audited, trivially embeddable, and require no bespoke cryptographic engineering — eliminating the 18-month prototype cycle WireOver burned before launch.
+
+The Frame.io acquisition by Adobe for $1.275B in 2021 confirms that large-file transfer in media and entertainment is a real, premium-monetizable problem. The market has matured; the infrastructure has caught up.
+
+---
+
 ## Why Now?
 
 ## Current Market Analysis

@@ -10,6 +10,18 @@ The go-to-market angle is direct: sell to legal operations teams and compliance 
 
 ## Why Now?
 
+The single most important change since Plasticity's failure is the arrival of production-grade large language models as commodity infrastructure. GPT-4 (March 2023), Claude 3 (March 2024), and Llama 3 (April 2024) now perform named entity recognition, coreference resolution, open information extraction, and intent classification with near-human accuracy via API call — tasks that consumed the majority of Plasticity's engineering resources and required custom C++ implementations and TensorFlow pipelines to approximate in 2017. The custom deep learning infrastructure that made Plasticity expensive to build and maintain is no longer a prerequisite for entering this market.
+
+This changes the rebuild calculus entirely. In 2017, Plasticity spent its limited capital ($120,000 in disclosed VC funding) building the NLP primitives. In 2026, those primitives are available off the shelf. The engineering investment can go directly into the application layer — structured extraction pipelines, domain-specific fine-tuning, and enterprise integration — where differentiation and margin actually live.
+
+The market has also arrived. The global NLP market was valued at over $18 billion by 2023 (source: research report), compared to an immature commercial landscape in 2017–2018. Enterprise buyers are now deploying NLP in production at scale, not experimenting. The DoD AI budget grew from approximately $600M (2020) to over $1.8B (2023) (source: research report), meaning the government niche that kept Plasticity alive as a fallback is now a primary market worth targeting intentionally.
+
+Cloud infrastructure costs have dropped roughly 10x since 2017 per AWS and GCP pricing history (source: research report), making the unit economics of a commercial NLP API business viable at revenue thresholds a seed-stage company can actually reach.
+
+Distribution channels unavailable in 2017 now exist at scale: the Hugging Face Hub with 500,000+ public models, the AWS Marketplace with 300,000+ active customers, and the Azure AI Marketplace — all enabling developer discovery without a dedicated sales team.
+
+---
+
 ## Current Market Analysis
 
 **Market Size:** The global NLP market exceeded $18 billion in 2023 (source: research report). No comparable figure exists for 2017 in the research report, though the report characterizes the 2017 commercial market as immature and not yet ready for paid developer API adoption at scale. The directional shift is unambiguous; precise CAGR figures are not available in the source material.
@@ -30,6 +42,18 @@ The go-to-market angle is direct: sell to legal operations teams and compliance 
 ## Recommended MVP
 
 ## Core Features:
+
+**1. Structured Extraction API for Long-Form Documents:** An API that accepts unstructured documents — contracts, clinical notes, intelligence reports, regulatory filings — and returns structured JSON outputs: named entities, relationships, event timelines, and subject-verb-object triples. Unlike Plasticity's original Sapien engine, which required custom C++ infrastructure, this layer is built on top of GPT-4 (March 2023) and Llama 3 (April 2024) with prompt engineering and fine-tuning, dramatically reducing build time. Unlike generic LLM APIs, it enforces schema validation and provides confidence scores — requirements for production enterprise use. Success threshold: extraction accuracy ≥ 90% F1 on three target document types (contracts, clinical notes, incident reports) in internal benchmarks before launch.
+
+**2. Domain-Specific Fine-Tuning Interface:** A no-code interface allowing enterprise customers to upload labeled examples and fine-tune extraction schemas to their specific document vocabulary — without requiring ML expertise. This directly addresses the gap Plasticity could not close in 2017: the developers most interested in deep semantic extraction (legal, medical, intelligence) were also the hardest to onboard onto raw APIs. Success threshold: a customer with zero ML background can deploy a custom extraction model within 4 hours of onboarding.
+
+**3. On-Premise and Private Cloud Deployment Option:** A containerized deployment option (Docker/Kubernetes) for customers in regulated industries — federal agencies, healthcare systems, financial institutions — where data cannot leave the customer's environment. This is the feature that converts the DoD market from a fallback into a primary channel, and it is a structural weakness of every major cloud-native competitor. Success threshold: at least two signed enterprise pilots with on-premise deployment requirements within 6 months of launch.
+
+**What We Will NOT Build:** A general-purpose chatbot or dialogue management engine (Lingua equivalent). Competing with OpenAI, Anthropic, and Google on conversational AI is a capital-intensive race the rebuild cannot win. No consumer product. No academic research publications as a primary activity.
+
+**Overall Success Metrics:** $500K ARR within 12 months; ≥ 3 paying enterprise customers on annual contracts; API latency under 2 seconds for documents up to 10,000 words.
+
+---
 
 ## Go-to-Market Strategy
 

@@ -10,6 +10,20 @@ What has changed is the cost structure of the entire thesis: LLMs now synthesize
 
 ## Why Now?
 
+The single most important change since Natero's acquisition is that the three-year engineering problem that defined the company's entire trajectory has been eliminated. Natero spent roughly 2012–2015 building a production-grade ML pipeline capable of ingesting heterogeneous SaaS data without requiring customer IT involvement. That pipeline was the product's core differentiator and its primary cost center. In 2026, that problem does not exist in the same form.
+
+**The LLM layer collapses the build cycle.** GPT-4 (March 2023) and Claude 3 Opus (March 2024) can synthesize unstructured customer signals — support tickets, call transcripts, NPS verbatims, email threads — into structured churn risk assessments without custom model training. A rebuilt Natero can deliver the intelligence layer Natero took three years to build in weeks, using API calls rather than a dedicated ML engineering team.
+
+**The data infrastructure layer is now commodity.** Segment (founded 2011, now Twilio Segment with 25,000+ customers), Amplitude, and Mixpanel have made granular in-product usage telemetry a standard expectation at mid-market SaaS companies. A rebuilt Natero does not need to build data ingestion — it needs to build on top of data that already exists and is already structured.
+
+**The competitive landscape has a specific opening.** Gainsight was acquired by Vista Equity Partners in 2020 and has undergone restructuring; multiple public reports from 2023–2024 describe customer complaints about pricing increases and reduced support responsiveness following the PE acquisition (specific ARR figures are not publicly available, but G2 review sentiment shifted measurably in this period — exact data not confirmed). Freshsuccess's trajectory inside a post-IPO-challenged Freshworks is uncertain.
+
+**Distribution channels now exist that Natero lacked entirely.** The HubSpot App Marketplace (1,500+ integrations, serving 200,000+ customers as of 2024 per HubSpot's investor relations), Salesforce AppExchange, and Slack App Directory provide low-CAC inbound channels. Natero had none of these at the scale they exist today.
+
+**Team size economics have inverted.** Natero required approximately 11 employees to sustain operations. A 2026 rebuild using AI coding assistants (GitHub Copilot, Cursor), no-code integration platforms (Zapier, Make), and LLM APIs can plausibly reach $1–2M ARR with a 3–5 person team — a structural change that makes the capital efficiency problem Natero faced materially more solvable.
+
+---
+
 ## Current Market Analysis
 
 **Market size.** The customer success management software market was valued at approximately $1.7 billion in 2022 and is projected to reach $5.6 billion by 2030 at a CAGR of roughly 16% (Grand View Research, 2023 — treat this figure as directionally indicative; exact methodology not independently verified here). When Natero launched in 2015, the category was nascent enough that Gartner was still placing it in a "Hype Cycle" rather than a mature market guide. The category is now established, with defined buyer personas, standard procurement processes, and recognized ROI metrics.

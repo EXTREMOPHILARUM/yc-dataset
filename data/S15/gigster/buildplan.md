@@ -8,6 +8,18 @@ The market shift is simple: in 2015, scoping required expensive senior architect
 
 ## Why Now?
 
+The single most important change since Gigster's collapse is that **LLMs have automated the most expensive human-in-the-loop step in the original business model: project scoping and quoting.** Gigster's 10-minute AI quote was a genuine competitive moat in 2015, but it required a proprietary database of 1,000+ completed projects to function and still needed human review to achieve acceptable accuracy. GPT-4 (March 2023) and Claude 3.5 Sonnet (June 2024) can now generate structured technical specifications, architecture recommendations, and time/budget estimates from natural language descriptions in under 60 seconds—without requiring years of proprietary project data to bootstrap. A rebuilt Gigster could reach quoting accuracy that took the original company three years to achieve on day one.
+
+The second structural shift is in developer productivity tooling. GitHub's own published research (2023) found that GitHub Copilot (launched October 2021) increases developer task completion speed by 55%. Cursor, launched in 2023 and reaching significant adoption by 2025, compounds this further. A curated network of 1,000 elite freelancers today delivers the effective output of roughly 1,300–1,550 developers—directly improving the unit economics that compressed Gigster's margins in the original services model.
+
+The third shift is infrastructure composability. Vercel, Supabase, and AWS Amplify have matured into production-grade primitives that replace significant custom development. The "pre-made code blocks" concept Gigster pioneered in 2015 is now a standard ecosystem, not a proprietary advantage to build from scratch.
+
+On the demand side, Fortune 500 digital transformation spending reached **$2.3 trillion globally in 2023 (IDC)**. Post-COVID headcount reductions in internal engineering teams have structurally increased enterprise appetite for outsourced development—the demand signal Gigster was chasing in 2017 is now larger and more receptive.
+
+Distribution channels unavailable to the original Gigster now include the **AWS Marketplace** (with 300,000+ active customers), **Salesforce AppExchange** (150,000+ customers), and **Microsoft Azure Marketplace**—all viable enterprise procurement channels that bypass the cold outbound sales cycles that consumed Gigster's operational bandwidth.
+
+---
+
 ## Current Market Analysis
 
 **Market size:** The global IT services outsourcing market was valued at approximately **$617 billion in 2023 (Grand View Research)** and is projected to grow at roughly 8% CAGR through 2030. The specific segment of managed software development—Gigster's precise niche—is not separately reported in public data, but the broader "custom application development outsourcing" segment is estimated at $50–80 billion annually (exact figure unavailable from cited sources). Gigster operated in a market that was meaningfully smaller in 2015–2018; the post-COVID normalization of distributed work has expanded the addressable pool of enterprise buyers willing to trust external teams with material projects.

@@ -2,6 +2,20 @@
 
 ## Overview
 
+The single most important change since Allo's 2019 failure is the maturation of LLM-powered coordination infrastructure. GPT-4 function calling (March 2023) and Claude tool use (November 2023) now make it technically feasible for a two-person team to automate the friction-heavy matching layer that killed Allo's Karma system. In 2019, "I need a carpool Thursday at 3pm" required manual back-and-forth across multiple messages before a match resolved. In 2026, an LLM agent can parse natural-language requests, cross-reference neighbors' stated availability, and surface a confirmed match in under 60 seconds — eliminating the coordination tax that made reciprocal exchange feel like work rather than community.
+
+Three additional structural shifts compound this advantage:
+
+**Nextdoor is now a weakened incumbent.** Its stock declined approximately 80% from its 2021 IPO peak by 2023 (source: public market data), driven by monetization struggles and documented toxic content problems. The platform that represented Allo's highest switching-cost barrier is now actively alienating the trust-oriented parent demographic Allo was built for.
+
+**Adjacent products validated the demand.** Peanut (mom social network) raised $25M+ and built a meaningful user base. Winnie scaled childcare discovery nationally. These outcomes confirm that millennial and Gen Z parents will download dedicated parenting apps — a behavior that was genuinely unproven in 2019.
+
+**Gig economy costs have risen structurally.** California's Proposition 22 litigation and ongoing worker classification complexity have made TaskRabbit and Sittercity more expensive and legally uncertain, increasing the relative value of non-monetary reciprocal exchange. Exact current pricing data for these platforms is not independently verified here, but the directional trend is well-documented.
+
+WhatsApp Communities (launched 2022) has additionally normalized small-group favor coordination, reducing the behavior-change barrier Allo faced when introducing an entirely new coordination paradigm. The cultural infrastructure now exists. The technical infrastructure now exists. The incumbent is now vulnerable.
+
+---
+
 ## Why Now?
 
 ## Current Market Analysis

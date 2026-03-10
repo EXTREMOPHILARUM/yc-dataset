@@ -10,6 +10,16 @@ The go-to-market is direct: target college students and young professionals in l
 
 ## Why Now?
 
+The single most important change since Couple's failure is the normalization of subscription monetization for consumer mobile apps. In 2012–2013, asking couples to pay $5–10/month for a private messaging app would have been a near-impossible sell in a market where WhatsApp, iMessage, and Facebook Messenger were free. Today, that friction is gone. Calm crossed $150M ARR on a subscription model (data: Business of Apps, 2023). Duolingo reached $531M in revenue in 2023, predominantly from subscriptions. Consumers now routinely pay for focused, single-purpose apps that do one thing better than a general platform. This directly solves the business model gap that prevented Couple from raising a Series A and left it operating on a single $4.2M seed round for four years.
+
+The second structural shift is AI capability. GPT-4 (March 2023) and Claude 3 (March 2024) make it technically feasible to build relationship-specific AI features — shared memory summarization, anniversary gift suggestions, conflict de-escalation prompts — that were impossible in 2012 and that WhatsApp or iMessage cannot easily replicate without alienating their billion-user general audiences. These features create a genuine differentiation layer, not just a feature checklist.
+
+Distribution costs have also collapsed. React Native and Flutter enable two-person teams to ship cross-platform apps. Supabase provides a production-grade backend for under $100/month at early scale. Apple Search Ads and TikTok's creator ecosystem (1B+ MAU as of 2024, per TikTok internal data) offer targeted reach to the 18–34 relationship demographic at CPIs that were unavailable in 2012.
+
+Finally, Between — the Korean couples app that competed directly with Couple — was acquired by Kakao in 2014 and reportedly reached 10M+ users in Asia, proving the category achieves real scale in focused geographies. Specific current market size data for the global couples-app category in 2026 is not available in the research provided.
+
+---
+
 ## Current Market Analysis
 
 **Market size:** Specific TAM figures for the couples-app category in 2026 are not available in the research provided. The structural addressable market remains large: approximately 65 million couples in the United States alone, with hundreds of millions globally. The more relevant signal is category proof — Between's 10M+ users in Asia (pre-Kakao acquisition) and Couple's own 4 billion cumulative messages demonstrate that couples will adopt dedicated apps when the product is meaningfully differentiated.
@@ -46,3 +56,11 @@ A haptic intimacy signal — a tap on an Apple Watch or compatible smart ring �
 ---
 
 ## Go-to-Market Strategy
+
+**Target customer segment:** English-speaking couples aged 22–34 in long-distance relationships — specifically college students and young professionals separated by geography. This was Couple's original founding use case (the team itself, separated from Canadian partners while at YC), and it remains the highest-intent segment: long-distance couples have the strongest motivation to adopt a dedicated app because general messaging platforms feel insufficient for the emotional weight of the relationship. U.S. Census data indicates approximately 3.75 million long-distance couples in the United States (2018 figure; 2026 data not available in research).
+
+**Primary distribution channel:** TikTok creator partnerships targeting relationship and long-distance content niches, combined with Apple Search Ads for high-intent keyword capture ("couples app," "long distance relationship app"). TikTok's 1B+ MAU (2024) and its algorithm's ability to surface emotionally resonant short-form content make it the highest-leverage channel for a product whose core value proposition — intimacy across distance — is inherently demonstrable in a 30-second video. Seed the channel with authentic founder-led content showing the wearable haptic feature; this is visually compelling and press-friendly in the same way ThumbKiss was in 2012.
+
+**Pricing strategy:** Freemium with a hard paywall at the AI features tier. Free tier includes the timeline and calendar. "Couple Premium" at $7.99/month per couple (not per user) — a deliberate pricing choice that frames the cost as shared, reducing perceived individual price. Annual plan at $59.99 ($5/month). Justification: $7.99/couple/month is below the Calm individual subscription ($9.99/month) and positions the product as cheaper than one coffee date. The per-couple pricing model also reinforces the product's two-person identity.
+
+**Differentiation vs. 2026 competitors:** Between lacks Western distribution and AI integration. WhatsApp and iMessage cannot build intimacy-layer features without structural product conflicts. The wearable haptic feature is a genuine hardware-software integration that requires WatchOS/wearable platform investment no messaging incumbent has made. The AI memory layer creates compounding switching costs — the longer a couple uses the app, the richer their shared memory archive becomes, making migration increasingly costly.

@@ -12,6 +12,22 @@ The rebuild thesis rests on a specific biological unlock: CRISPR-based genome ed
 
 ## The single most important change: crustacean cell line stabilization is now an engineering problem, not a scientific mystery.
 
+When Shiok Meats was operating, the fundamental obstacle was that crustacean stem cells had no established scientific literature — no validated cell lines, no published differentiation protocols, no growth factor maps. The company was building the playbook from scratch using trial-and-error wet lab work. That is no longer the starting position in 2026.
+
+**AlphaFold3 (released May 2024)** can now predict the three-dimensional structure of crustacean proteins and model ligand-receptor interactions for growth factors and cytokines that drive cell proliferation. This directly addresses the media formulation problem that forced Shiok to use expensive pharmaceutical-grade serum-free media without knowing which specific factors were doing the work. A rebuilt company can computationally screen candidate growth factors before running a single cell culture experiment, collapsing years of trial-and-error into months of targeted validation.
+
+**CRISPR base editing and prime editing**, which reached reliable, low-cost accessibility for non-mammalian cell types roughly between 2022 and 2024, can be used to introduce targeted immortalization edits into crustacean stem cells — suppressing senescence pathways and stabilizing proliferation — without the genomic instability risks of earlier viral transduction methods. This was not practically available to Shiok at the cost and reliability levels needed during its operating years.
+
+**Single-cell RNA sequencing** now costs approximately $1,000 per run versus $10,000+ in 2018, enabling detailed mapping of crustacean stem cell differentiation states — the foundational knowledge Shiok lacked entirely.
+
+On the demand side, Early Mortality Syndrome and White Spot Disease have collectively destroyed an estimated $6–10 billion in annual shrimp aquaculture value globally (exact 2025 figures are not publicly consolidated, but FAO reports consistent multi-billion dollar annual losses). This disease pressure has intensified since 2018 and creates commercial urgency — from food manufacturers, not just consumers — that did not exist when Shiok was founded.
+
+Singapore's regulatory pathway is now defined: the Singapore Food Agency approved GOOD Meat's cultivated chicken in 2020 and has since published a structured novel food framework. A rebuild enters a known process with documented timelines, not a regulatory void.
+
+Finally, the cultivated meat funding collapse post-2021 has created a buyer's market for talent. Experienced bioprocess engineers and cell biologists from Upside Foods, Eat Just, and other wound-down programs are available at compensation levels that would have been impossible during the 2020–2021 peak — directly reducing the burn rate that made Shiok's 5–7 year pre-revenue horizon so capital-intensive.
+
+---
+
 ## Current Market Analysis
 
 **Market size:** The global shrimp market was valued at approximately $45–50 billion annually during Shiok Meats' peak operations and is estimated to have grown modestly since, though exact 2025–2026 figures are not publicly consolidated in sources available for this report. The cultivated seafood sub-market remains nascent; GFI reported cultivated seafood attracted approximately $170M in investment in 2022 before the broader sector contraction, but 2024–2025 figures are not confirmed here.

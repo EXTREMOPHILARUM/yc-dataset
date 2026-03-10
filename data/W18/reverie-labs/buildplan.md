@@ -10,6 +10,18 @@ This is a $50–150M TAM business, not a $5B pharma software play. It's built fo
 
 ## Why Now?
 
+The single most important change since Reverie's failure is structural, not technological: large pharmaceutical companies have built internal AI/ML organizations with real software procurement budgets. Pfizer, AstraZeneca, and Novartis each publicly committed more than $1 billion to AI R&D between 2022 and 2024. These commitments created dedicated teams — with headcount, infrastructure budgets, and vendor evaluation processes — that did not exist when Reverie was selling software in 2017–2018. Gupta's post-mortem identified the TAM as "double digit millions" because pharma didn't buy software; that calculation is now empirically out of date. The buyer has changed.
+
+The technological stack has also shifted in ways that make the underlying platform dramatically more capable. AlphaFold 2 (July 2021) and AlphaFold 3 (May 2024) made near-instantaneous protein structure prediction essentially free, eliminating months of target characterization work that previously preceded hit generation. Diffusion-based generative chemistry models — DiffSBDD, RFDiffusion (October 2022) — now produce synthetically accessible, property-optimized candidates at a scale that was computationally impossible during Reverie's active years. Together, these tools compress the pre-hit and lead generation phases from months to days.
+
+The data generation bottleneck — which forced Reverie to depend on customers' proprietary datasets, creating both a sales friction and a model quality ceiling — has a credible solution in 2026. DNA-encoded library (DEL) screening can now produce millions of binding affinity data points for under $500,000, according to published benchmarks. A new company can intentionally generate its own training corpus rather than waiting for pharma to share theirs.
+
+On the regulatory side, the FDA's 2023 FDORA legislation explicitly permits IND submissions supported by computational and organoid evidence without mandatory animal data, reducing the preclinical cost and timeline that made Reverie's drug-developer pivot so capital-intensive. This matters for the rebuild not because the new company will develop drugs, but because it lowers the cost of generating the clinical-stage validation data that makes the platform credible to pharma buyers.
+
+Automated chemistry platforms — Chemspeed, Emerald Cloud Lab — now allow hundreds of parallel synthesis-and-assay cycles per week at CRO cost structures, addressing the experimental feedback loop bottleneck that Reverie's no-lab model struggled to close. The synthesis-to-assay-to-model iteration cycle that took Reverie months can now run in days.
+
+---
+
 ## Current Market Analysis
 
 **Market size:** The pharma AI software market is difficult to size precisely with public data, and any figure here should be treated with appropriate skepticism. Estimates from analysts (Grand View Research, MarketsandMarkets) place the AI in drug discovery market at $1.5–4 billion in 2024, growing at 30–45% CAGR — but these figures conflate software tools, platform companies, and integrated drug developers in ways that obscure the addressable market for pure infrastructure software. The more relevant signal is behavioral: Pfizer's $1B+ AI commitment, AstraZeneca's partnership with Recursion (announced 2023, $1.2B deal), and Novartis's internal AI center of excellence each represent procurement events that did not exist in 2018. The enterprise software TAM for pharma AI infrastructure is larger than Reverie's original estimate, though by how much is genuinely unknown.

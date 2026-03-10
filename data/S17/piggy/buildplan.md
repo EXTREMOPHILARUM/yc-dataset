@@ -6,9 +6,21 @@ Piggy 2026 is a wealth intelligence platform, not a distribution intermediary. I
 
 The market shift is Account Aggregator + UPI AutoPay, live since 2021. This infrastructure didn't exist when Piggy first launched. Now you can build a trust layer on top of aggregated data—not compete on distribution. Competitors like Groww own acquisition but are weak on engagement and advisory; they're distribution-first, not intelligence-first.
 
-The go-to-market is subscription advisory: free net worth dashboard to acquire, then convert 15% to a ₹999/year SEBI RIA tier for personalized portfolio reviews and tax reports. You win by being the only platform that understands their full financial picture and acts as their annual financial operating system, not their fund store.33:T830,
+The go-to-market is subscription advisory: free net worth dashboard to acquire, then convert 15% to a ₹999/year SEBI RIA tier for personalized portfolio reviews and tax reports. You win by being the only platform that understands their full financial picture and acts as their annual financial operating system, not their fund store.34:T830,
 
 ## Why Now?
+
+The single most important change since Piggy's failure is the Account Aggregator (AA) framework, live in India since 2021, combined with UPI AutoPay. Together, these two infrastructure layers eliminate the two biggest structural costs Piggy faced: manual KYC onboarding friction and bespoke data integration for each financial institution. As of 2024, the AA network has 50M+ linked accounts, enabling a rebuilt Piggy to aggregate EPF, bank accounts, mutual funds, and equities across institutions without credential sharing — a capability Piggy had to build manually, integration by integration, with a 10-person team. UPI AutoPay replaces the cumbersome NACH bank mandate process for SIP setup, potentially reducing onboarding CAC by 60–70% versus 2017 workflows (per rebuild signal research).
+
+The second structural shift is LLM capability. GPT-4 (March 2023) and Claude 3 Opus (March 2024) can generate personalized, contextually accurate investment rationale and portfolio commentary at near-zero marginal cost. This makes the "Piggy PREMIER" advisory subscription — which failed because human advisor costs made ₹500–1,000/year price points economically unviable — now structurally sound. The unit economics of AI-generated advice at scale are categorically different from 2020.
+
+SEBI's 2021 RIA regulation amendments further legitimize this model, creating a cleaner two-tier fee structure (individual RIAs capped at ₹1.25L/year per client) that removes the regulatory ambiguity Piggy navigated.
+
+Market timing has also shifted favorably. India's SIP account base grew from ~17M accounts in 2017 to ~97M in 2024 (AMFI data). The basic investor education problem Piggy was solving is largely solved. The next unsolved layer — goal-based planning, tax-loss harvesting, cross-asset optimization — is where a rebuilt product competes.
+
+Distribution channel available now: Zerodha's Rainmatter ecosystem, CRED's partner API program (12M+ verified high-income users), and the Google Play Store India fintech category, which now surfaces UPI-integrated apps preferentially.
+
+---
 
 ## Current Market Analysis
 

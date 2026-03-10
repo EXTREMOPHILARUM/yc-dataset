@@ -116,6 +116,18 @@ Riley's fundraising rationale in April 2012 acknowledged the capital intensity o
 
 ## Traction
 
+Ark's early demand signals were among the strongest in its YC cohort. The company accumulated 234,000 signups in its first month of operation and had 15,000 active beta users by May 2012—before the product was fully open to the public.<sup><a href="https://techcrunch.com/2012/05/21/after-walking-away-from-acquisition-talks-with-facebook-ark-opens-its-people-search-engine/">[24]</a></sup> Total beta invite signups exceeded 250,000 by the time the $4.2M seed round closed in late April 2012.<sup><a href="https://allthingsd.com/20120425/people-search-engine-ark-raises-biggest-y-combinator-seed-round-in-memory/">[25]</a></sup>
+
+At Y Combinator's Demo Day, Ark received commitments for $2 million in funding in a single day—an unusually strong signal of investor conviction.<sup><a href="https://allthingsd.com/20120425/people-search-engine-ark-raises-biggest-y-combinator-seed-round-in-memory/">[26]</a></sup> The subsequent $4.2M seed round, described at the time as one of the largest publicly disclosed seed rounds in YC history, drew 14 institutional and strategic investors including Andreessen Horowitz, Greylock Partners, Charles River Ventures, Intel Capital, Salesforce, and Tencent.<sup><a href="https://allthingsd.com/20120425/people-search-engine-ark-raises-biggest-y-combinator-seed-round-in-memory/">[10]</a></sup>
+
+Ark was selected as one of six finalists in the TechCrunch Disrupt NYC 2012 Startup Battlefield—a competitive cohort that provided significant additional visibility.<sup><a href="https://techcrunch.com/2012/05/22/the-final-six-disrupt-nyc-startups-ark-babelverse-gtar-open-garden-sunglass-uberconference/">[12]</a></sup>
+
+<media-image src="https://techcrunch.com/wp-content/uploads/2012/05/ark-disrupt-nyc.jpg" alt="Patrick Riley presenting Ark at TechCrunch Disrupt NYC 2012 Battlefield" caption="Patrick Riley on stage at TechCrunch Disrupt NYC 2012, where Ark was one of the six Battlefield finalists. The company's 234,000 first-month signups validated genuine consumer demand for cross-network people search."></media-image>
+
+No data is available on post-beta user retention, engagement depth, search query volume, or any revenue metrics from either the consumer product or the post-pivot B2B API. The absence of a Series A after December 2012 is the most telling downstream signal: the investor syndicate that had backed the seed did not convert early traction into a growth-stage commitment.
+
+---
+
 ## Post-Mortem
 
 Ark's failure was not primarily a product failure or an execution failure. The team was exceptional, the early demand was real, and the investor syndicate was among the best in venture. The company was killed by a structural dependency it could not escape: its core product required data from a platform that had both the motive and the means to cut off access.

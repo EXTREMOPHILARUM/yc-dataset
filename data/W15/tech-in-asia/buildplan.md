@@ -12,6 +12,18 @@ The rebuild thesis is not to repeat the pivot treadmill. The original company pr
 
 ## The single most important change since the original failure is the collapse in the cost of structured data collection across Asian markets.
 
+Techlist's core problem was not product design — it was data economics. Asian founders refused to share company information openly, which meant every record in the database required expensive manual research. At $399/seat/month, the product needed to justify CB Insights-level data completeness it could not afford to build. That unit economics trap is now structurally different.
+
+LLM-powered extraction pipelines — built on models like GPT-4 (March 2023) and its successors — can reconstruct a comprehensive Southeast Asian startup database from public sources: LinkedIn company pages, MAS and OJK regulatory filings, Google Play and App Store rankings, job board postings, government grant databases (Enterprise Singapore, MDEC), and local-language news sources. What required a team of manual researchers in 2015 can now be approximated by a small engineering team running structured extraction at scale. The cold-start data problem that made Techlist's unit economics unworkable is no longer the same problem.
+
+The second critical change is payment infrastructure. Tech in Asia's 2014 subscription attempt failed explicitly because of "painful payment processes" in Southeast Asia. Stripe's full regional rollout — Singapore (2018), Malaysia, Thailand, and the Philippines (by 2022) — combined with the maturation of regional rails including GrabPay, GoPay, and PayNow, means a B2B subscription can be activated from day one without custom payment infrastructure.
+
+The third change is the maturation of the addressable market itself. When Techlist launched in 2015, Southeast Asia's institutional investor base was thin. Today, Grab, Sea Group, GoTo, and Bukalapak have all completed public listings, creating a documented class of institutional investors, sell-side analysts, and corporate strategists who need systematic regional intelligence. The Monetary Authority of Singapore reported that assets under management in Singapore reached S$5.4 trillion in 2022 (MAS Annual Report 2023) — a meaningful portion of which is allocated to or tracking Southeast Asian technology. The paying audience is now provably large in a way it was not in 2015. Exact data on the subset specifically seeking Southeast Asian tech intelligence is not available, but the directional signal is clear.
+
+Distribution channels available now that did not exist at scale in 2015 include LinkedIn Sales Navigator for direct outreach to fund analysts and corporate strategy teams, and Substack's network for building an initial free readership before converting to institutional tiers.
+
+---
+
 ## Current Market Analysis
 
 **Market size today vs. 2015:** The global B2B intelligence and market research market was valued at approximately $33 billion in 2023 (Grand View Research, 2024), growing at roughly 11% annually. The specific sub-segment — institutional-grade intelligence on Southeast Asian technology — has no clean market size estimate available. What is documentable: Singapore's AUM of S$5.4 trillion (MAS, 2023), a growing regional PE and VC base, and the post-IPO analyst coverage requirements for Grab, Sea Group, and GoTo all point to a materially larger institutional audience than existed when Techlist launched. The original Tech in Asia operated in a market where the institutional investor base for Southeast Asian tech was nascent; that base is now established.

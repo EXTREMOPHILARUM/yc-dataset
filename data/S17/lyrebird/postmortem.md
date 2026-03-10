@@ -109,6 +109,14 @@ There is no documented evidence that Lyrebird ever generated revenue. The API wa
 
 ## Traction
 
+Lyrebird's traction was concentrated entirely in the April 2017 launch period and was measured in attention rather than revenue. On launch day, the website received 100,000 visits and 1 million audio samples were played.<sup><a href="https://techcrunch.com/2017/04/25/lyrebird-is-a-voice-mimic-for-the-fake-news-era/">[25]</a></sup> De Brébisson noted at the time: "The launch was a success (100K visits in one day on the webpage, 1 million of samples have been listened in one day) and we have already been contacted by several famous investors."<sup><a href="https://techcrunch.com/2017/04/25/lyrebird-is-a-voice-mimic-for-the-fake-news-era/">[26]</a></sup>
+
+The September 2017 beta launch on Product Hunt generated 207 comments, indicating strong community interest among early adopters and developers.<sup><a href="https://www.producthunt.com/products/lyrebird">[27]</a></sup> The Hacker News launch post attracted substantive technical discussion.
+
+Beyond these launch metrics, there is no documented traction data. No paying customer counts, no API call volumes, no revenue figures, and no user retention data are publicly available for any point in Lyrebird's independent existence. The company had approximately 9 employees at the time of acquisition.<sup><a href="https://pitchbook.com/profiles/company/180241-48">[28]</a></sup> The gap between the viral launch metrics and the absence of any subsequent commercial data is itself a meaningful signal about the company's trajectory.
+
+---
+
 ## Post-Mortem
 
 ### Primary Cause: The API Never Shipped

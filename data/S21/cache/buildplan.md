@@ -10,6 +10,22 @@ The go-to-market is property manager partnerships, not consumer acquisition. Tar
 
 ## Why Now?
 
+The single most important change since Cache's failure is the commoditization of IoT-connected smart locker hardware. In 2021, Cache had to design and manufacture proprietary "Cache Units" from scratch — a capital-intensive, time-consuming process that consumed the majority of its $125,000 YC pre-seed before generating meaningful proof points. By 2026, Amazon Hub, Luxer One, and package locker networks have driven smart locker hardware into a commodity category. A Cache-style automated dispensing unit can now be assembled from proven, off-the-shelf components with established supply chains, slashing hardware development risk from an existential constraint to a procurement decision.
+
+This hardware shift directly addresses Cache's primary cause of failure: the structural mismatch between hardware capital requirements and pre-seed funding. A rebuilt Cache in 2026 can deploy its first units faster, cheaper, and with less engineering risk than the original team faced.
+
+Additional tailwinds compound this advantage:
+
+**Platform distribution is now de-risked.** DoorDash has since launched formal virtual convenience store partnership programs (including integrations with Wawa), and Uber Eats has integrated 7-Eleven at scale. Delivery platforms now actively promote convenience storefronts rather than treating unknown operators as second-class listings — a material change from the algorithmic disadvantage Cache faced competing against DashMart in 2021.
+
+**Demand for OTC delivery is validated.** Amazon Pharmacy and GoodRx's delivery expansion have demonstrated consumer willingness to pay for on-demand delivery of plan B, OTC medicine, and personal care items — Cache's highest-margin categories. This was an unproven demand signal in 2021.
+
+**GoPuff's collapse confirms the thesis.** GoPuff's mass layoffs in 2022–2023 and closure of hundreds of micro-fulfillment centers empirically validated Cache's original argument that urban dark store economics are structurally broken. The market opening Cache anticipated now has public proof.
+
+Specific market sizing for the suburban on-demand convenience segment is not available in public sources as of this writing.
+
+---
+
 ## Current Market Analysis
 
 ## Market Size
@@ -34,6 +50,12 @@ Amazon Hub locker adoption in suburban apartment complexes and grocery pickup lo
 ## Recommended MVP
 
 ## Core Features
+
+**1. Commodity-Hardware Cache Unit v2.** Deploy automated dispensing units built from Luxer One-style smart locker components rather than custom-manufactured hardware. Each unit holds 50–80 SKUs, connects via cellular IoT, and grants access to verified delivery drivers through a QR-code unlock system. This directly addresses the original Cache's primary failure mode — custom hardware on pre-seed capital — by substituting proven components. Unlike the original, units can be operational within days of site agreement rather than weeks of manufacturing.
+
+**2. Real-Time Inventory Telemetry Dashboard.** Each unit reports stock levels continuously via cellular connection, triggering restocking alerts when any SKU falls below a defined threshold. This solves the critical operational gap the original Cache never publicly addressed: how an unstaffed unit avoids stockouts. Restocking is handled by a contracted local courier on a scheduled route, not founders driving to Sausalito.
+
+**3. Multi-Platform Storefront Management Layer.** A single operator dashboard — built on Stripe's embedded commerce APIs — manages simultaneous listings on DoorDash, Uber Eats, and Instacart, with inventory counts synced in real time to prevent overselling. The original Cache managed platform storefronts manually; this layer automates it, freeing the two-person team for deployment and sales.
 
 ## What We Will NOT Build
 

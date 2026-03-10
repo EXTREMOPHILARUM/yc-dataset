@@ -12,6 +12,18 @@ The acquisition validated the vertical-specific invoice payments thesis so compl
 
 ## The single most important change: Elite's acquisition of Tranch has structurally orphaned the mid-market.
 
+Elite's software is priced and architected for Am Law 200 firms — organizations with $150M+ in annual revenue, dedicated IT departments, and multi-year software contracts. The acquisition of Tranch accelerates Elite's roadmap for that segment, but it does not solve the problem for the 2,000+ US law firms with $5M–$50M in revenue that run on Clio, MyCase, or PracticePanther. These firms have the same invoice payment friction — large client bills, check-dominated settlement, no embedded financing options — but no purpose-built solution now that Tranch is inside an enterprise platform they cannot access or afford.
+
+**Real-time payment infrastructure is now table-stakes, not a differentiator to build around.** FedNow launched in July 2023 and, combined with The Clearing House's RTP network, now covers the majority of US bank accounts. Tranch had to negotiate JP Morgan infrastructure partnerships to access these rails; a 2026 entrant can access FedNow-connected APIs through middleware providers like Moov, Unit, or Treasury Prime without a direct bank partnership. This reduces time-to-market for the Pay Now equivalent from 12+ months to weeks.
+
+**Open banking underwriting is now cheap and fast.** Plaid, MX, and Finicity cover 95%+ of US financial institutions with standardized APIs (Plaid's coverage figure, per their 2023 developer documentation). In 2021, assembling the open banking data layer Tranch used for creditworthiness assessment required custom integrations. In 2026, it is a commodity API call. This directly lowers the cost of replicating Tranch's differentiated underwriting model.
+
+**LLMs can now parse legal billing formats automatically.** GPT-4 (March 2023) and Claude 3 (March 2024) can extract structured data from LEDES-format invoices and PDF bills with high accuracy — a capability that did not exist at Tranch's founding. Tranch's AR automation required engineering effort to build; a 2026 rebuild can implement invoice ingestion in weeks using off-the-shelf model APIs, meaningfully reducing the headcount required to operate the product.
+
+**The mid-market legal software market has consolidated around Clio.** Clio reached a $900M+ valuation and serves 150,000+ legal professionals (per Clio's 2023 State of Legal Technology report). Its App Marketplace is the primary distribution channel for legal tech add-ons targeting mid-market firms — a direct analog to the Shopify App Store for legal software. This distribution channel did not exist at meaningful scale in 2021.
+
+---
+
 ## Current Market Analysis
 
 **Market size:** The Am Law 200 firms collectively generate over $150B in annual revenue, per the research report. The broader universe of US law firms with $5M–$50M in revenue is harder to size precisely — this data is not publicly available in aggregate — but the Am Law 201–600 segment alone generates tens of billions in annual billings. Even at a 1% blended take rate on payment volume processed, the addressable revenue in this segment is in the hundreds of millions annually. The B2B payments market broadly exceeds $25 trillion in annual US flows, with legal services representing a meaningful slice given average invoice sizes.

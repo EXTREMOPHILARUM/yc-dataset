@@ -10,6 +10,16 @@ Go-to-market is distribution, not sales. Launch a free dbt package that adds AI 
 
 ## Why Now?
 
+The single most important change since Mercator's failure: **the text-to-SQL product layer is now fully commoditized at the foundation model level, which paradoxically creates the opening**. In 2024, Mercator had to spend $273 and significant engineering time fine-tuning GPT-3.5 to beat benchmarks. By 2026, GPT-4o (May 2024), Claude 3.5 Sonnet (June 2024), and Gemini 1.5 Pro achieve >70% on BIRD-SQL zero-shot, with no fine-tuning required. The technical moat Mercator was trying to build has evaporated — but that means a rebuild team can skip the infrastructure layer entirely and compete on product and distribution instead.
+
+The cost economics have shifted dramatically in the rebuild's favor. GPT-4o mini (July 2024) runs at approximately $0.15 per million input tokens — a fraction of the GPT-4 Turbo inference costs Mercator documented at <$0.14 per query. A per-query SaaS model that was marginally viable in 2024 is now structurally profitable at scale.
+
+Critically, the market validation Mercator had to argue for now exists empirically. Vanna.ai, Defog, and DataGPT have collectively demonstrated that enterprise buyers will pay for schema-aware natural language SQL tooling. The sales education burden — "why would I trust AI to write my SQL?" — has been absorbed by the market. Specific market data on the AI-native BI segment size in 2026 is not available in the research report, though the broader BI software market exceeded $25 billion annually as of 2023–2024.
+
+The distribution channel that didn't exist for Mercator is now mature: **dbt Hub and the dbt Cloud integration marketplace**, serving a documented community of 40,000+ active dbt projects (dbt Labs, 2024). Data teams already living inside dbt represent a captive, high-intent audience that Mercator never had access to.
+
+---
+
 ## Current Market Analysis
 
 **Market Size:** The broader BI software market exceeded $25 billion annually as of 2023–2024 per the research report. The AI-native analytics sub-segment size in 2026 is not independently documented in the research materials, though venture investment in the category accelerated substantially through 2024–2025. The fleet telematics market was estimated at $20+ billion globally growing ~15% annually as of the original Mercator period; current 2026 figures are not available in the research report.

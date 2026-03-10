@@ -8,6 +8,16 @@ The market shift is structural: CMS price transparency rules (effective 2021–2
 
 ## Why Now?
 
+The single most important change since CareLedger's 2015 failure is the elimination of its core data acquisition problem through federal mandate. The Consolidated Appropriations Act of 2021 and CMS hospital price transparency rules (effective January 2021) now legally require hospitals and insurers to publish machine-readable price files covering negotiated rates, cash prices, and payer-specific allowed amounts. CareLedger spent its entire $120,000 trying to manually negotiate and estimate the pricing data that is now publicly available by law. That structural barrier is gone.
+
+Layered on top of this, API-first healthcare data companies have commoditized provider network intelligence. Turquoise Health and Ribbon Health now offer normalized, structured procedure pricing and quality data via API — meaning a rebuilt CareLedger can license in weeks what the original team would have spent months building from scratch, at a fraction of the cost.
+
+The employer market has also matured in CareLedger's favor. KFF's 2023 Employer Health Benefits Survey reports that 65% of covered US workers are now in self-insured plans, up from approximately 61% in 2015. More importantly, HR benefits buyers in 2026 are fluent in reference-based pricing, direct contracting, and shared-savings models — concepts that required significant education in 2015. Transcarent (raised $200M+) and Accolade (NASDAQ: ACCD) have spent hundreds of millions of dollars validating that self-insured employers will pay for exactly this value proposition.
+
+Finally, GPT-4 (March 2023) and its successors have made it possible to replace the implicit manual concierge layer in CareLedger's original model with an AI-powered benefits navigation assistant — dramatically reducing cost-per-case and making the unit economics viable at employer sizes of 50–200 employees that CareLedger could never have served profitably.
+
+---
+
 ## Current Market Analysis
 
 The US employer-sponsored healthcare market was approximately $700 billion annually in 2015; KFF estimates total employer and worker premium contributions exceeded $900 billion in 2023, with self-insured plan spending representing the majority of that figure. The specific segment CareLedger targeted — elective ambulatory procedures for self-insured employers — has grown proportionally, though a precise current TAM figure for this sub-segment is not publicly available. CareLedger's original $90B TAM claim methodology was never disclosed and should not be assumed accurate.

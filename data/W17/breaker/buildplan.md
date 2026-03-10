@@ -10,6 +10,16 @@ The difference: we're not fighting podcast listening habits. We're making the li
 
 ## Why Now?
 
+The single most important change since Breaker's failure is this: audio is now text. OpenAI's Whisper (released September 2022) transcribes podcast audio at under $0.01 per minute, and GPT-4 (March 2023) can extract timestamped chapter markers, summarize key claims, and generate quotable pull-quotes from those transcripts at near-zero marginal cost. This capability did not exist when Breaker operated. It changes everything about the social mechanics problem.
+
+Breaker's social layer failed because podcast audio is not inherently linkable, quotable, or discussable at the moment level. A "like" on a 90-minute episode is a weak social signal. A shareable quote card from minute 34:12, with transcript context and a deep-link back to that exact timestamp, is a strong one. The technical barrier to building this was prohibitive in 2017–2021. In 2026, it is a weekend project.
+
+The market context has also shifted materially. Spotify's 2023 rollout of in-app podcast comments—and its subsequent partial rollback—confirmed that the market leader with 600M+ users is still actively searching for the right social mechanic for audio. They have not solved it. Meanwhile, Discord servers built around specific podcasts (My Favorite Murder, 99% Invisible, Chapo Trap House) have emerged organically as the de facto social layer for podcast communities. These communities are proven, active, and entirely off-platform—fragmented across Discord servers that are undiscoverable to new listeners.
+
+The global podcast market was valued at approximately $23.56 billion in 2023 and is projected to reach $47.5 billion by 2030 (Grand View Research; note: exact 2017 baseline figure for direct comparison is unavailable from the research report). Distribution channels unavailable to Breaker now include Spotify's Podcast Partner Program, Apple Podcasts Connect's affiliate infrastructure, and direct integration with creator platforms like Substack (which has demonstrated that parasocially-invested listeners will engage socially around audio content from specific creators).
+
+---
+
 ## Current Market Analysis
 
 The podcast market has grown substantially since Breaker's 2017 launch, though precise market size figures for 2017 are not available in the research report for direct comparison. What is clear: Spotify's aggressive 2019–2021 acquisitions (Anchor, Gimlet, Parcast) and Apple's 2021 launch of Apple Podcasts Subscriptions have validated the market at institutional scale. The creator monetization layer—Breaker's "Upstream" thesis—is now proven by Supercast, Patreon's podcast tier, and Substack's audio product.

@@ -2,8 +2,6 @@
 
 ## Overview
 
-## Founding Story
-
 Ted Benson spent four years at MIT earning a PhD in Computer Science under advisor David Karger, one of the leading researchers in human-computer interaction and information systems at MIT CSAIL.<sup><a href="https://people.csail.mit.edu/karger/alumni.html">[1]</a></sup> The Cloudstitch concept did not emerge from a market gap analysis or a customer discovery sprint—it emerged from Benson's thesis research itself, making it one of the relatively rare YC companies with a direct academic lineage.<sup><a href="https://medium.com/rough-draft-ventures/cloudstitch-beautiful-apps-without-the-programming-hassle-9adc7ce01b8d">[2]</a></sup>
 
 The insight Benson developed during his PhD was precise: designers could create beautiful application mockups but typically knew only basic HTML and CSS, making it difficult to actually program the application they had designed. Meanwhile, small businesses without any programming knowledge faced a double cost—hiring both a designer and a programmer for initial builds, then paying again for even minor updates.<sup><a href="https://medium.com/rough-draft-ventures/cloudstitch-beautiful-apps-without-the-programming-hassle-9adc7ce01b8d">[3]</a></sup> The solution Benson proposed was to replace the server-side infrastructure—the databases, APIs, and backend logic—with tools these users already understood: spreadsheets.
@@ -19,6 +17,8 @@ Jake Lau's background, specific role within the company, and post-Cloudstitch tr
 The company applied to and was accepted into Y Combinator's Summer 2015 batch, roughly nine months after founding.<sup><a href="https://www.ycombinator.com/companies/cloudstitch">[9]</a></sup> YC provided both capital and the structured pressure of Demo Day, which would become Cloudstitch's most visible public moment.
 
 ---
+
+## Founding Story
 
 ## Timeline
 
@@ -118,9 +118,21 @@ No public information exists on Cloudstitch's pricing structure, revenue model, 
 
 This is consistent with the funding profile: a company that raised only $120,000–$145,000 total<sup><a href="https://tracxn.com/d/companies/cloudstitch/__HkjTTJt1Va5GOcxSZPiC87dc7mnZla1Asvq7o-_4G2g">[12]</a></sup> and operated for over three years either had extremely low burn (consistent with a 1–2 person team) or was not generating meaningful revenue to extend its runway. The YC company profile's description of Cloudstitch as serving "thousands of web developers"<sup><a href="https://www.ycombinator.com/companies/cloudstitch">[25]</a></sup> without any mention of revenue or customers suggests the company measured success in users rather than dollars—a common pattern in developer tools that prioritizes adoption over monetization, often fatally.
 
----2e:T8fd,
+---2f:T8fd,
 
 ## Traction
+
+At YC Demo Day in Summer 2015, Cloudstitch reported 18% weekly growth in new developers—a metric that placed it among the standout companies in the S15 batch.<sup><a href="https://www.ycombinator.com/companies/cloudstitch">[14]</a></sup> VentureBeat's Demo Day roundup named Cloudstitch one of "11 startups you should know," citing the growth figure specifically.
+
+By the time of the acquisition announcement in February 2018, Ted Benson reported that "tens of thousands of people use Cloudstitch to manage websites and mobile apps entirely from ordinary word docs, spreadsheets, and design files."<sup><a href="https://edwardbenson.com/2018/02/cloudstitch-acquired-by-instabase">[26]</a></sup> The YC company profile separately describes "thousands of web developers" using Cloudstitch in production.<sup><a href="https://www.ycombinator.com/companies/cloudstitch">[25]</a></sup> The gap between these two figures—"thousands" versus "tens of thousands"—is unresolved and may reflect different measurement definitions (active users versus registered accounts, or different points in time).
+
+The Amazon Dash Button hack in August 2015 generated the company's most significant earned media moment. Benson wired a $5 Dash Button to log baby data into a Google Sheet using Cloudstitch's Magic Forms product, and the story was picked up by TechCrunch, Engadget, and dozens of other outlets.<sup><a href="https://medium.com/rough-draft-ventures/cloudstitch-beautiful-apps-without-the-programming-hassle-9adc7ce01b8d">[11]</a></sup> The hack demonstrated the product's creative potential and drove meaningful awareness, but there is no data on whether it translated to sustained user acquisition.
+
+<media-image src="https://techcrunch.com/wp-content/uploads/2015/08/amazon-dash-button.jpg" alt="TechCrunch article header image for Amazon Dash Button hack story featuring Cloudstitch CEO Ted Benson" caption="TechCrunch coverage (Aug 2015): Ted Benson's viral Amazon Dash Button hack used Cloudstitch's Magic Forms product to log baby data to Google Sheets, earning the company its most significant press moment."></media-image>
+
+No revenue figures, churn data, or ARPU metrics are available in the public record. The traction story is one of user adoption without documented commercial conversion.
+
+---
 
 ## Post-Mortem
 

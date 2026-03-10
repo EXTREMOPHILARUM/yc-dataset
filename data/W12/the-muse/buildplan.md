@@ -10,6 +10,20 @@ The go-to-market is direct: land 50 mid-market employers at $500+/month by posit
 
 ## Why Now?
 
+The single most important change since The Muse's failure is the collapse of employer content production costs. In 2015, creating a rich, behind-the-scenes company profile required video crews, editorial staff, and production budgets that The Muse had to absorb or pass on to employers at price points that constrained scale. Today, GPT-4o (May 2024) and Claude 3.5 Sonnet (June 2024) can generate structured, personalized "day in the life" employer narratives from an intake form in seconds. ElevenLabs voice synthesis and Runway ML Gen-2 video generation (both commercially available as of 2024) can produce supplementary media assets at near-zero marginal cost. The content bottleneck that likely capped The Muse's employer-side growth is gone.
+
+Three additional structural shifts reinforce the timing:
+
+**Short-form video normalization.** TikTok's #WorkTok content category and Instagram Reels have made employee-generated workplace content a native consumer behavior. The "office culture video" The Muse paid to produce in 2015 is now created organically by employees and distributed voluntarily — a rebuilt platform can aggregate and surface this content rather than manufacture it.
+
+**Remote work permanently elevated the problem.** With hybrid and fully remote roles now comprising an estimated 28% of U.S. job postings (LinkedIn Workforce Report, 2024 — exact current figure not independently verified), candidates cannot visit offices. Digital employer transparency tools are structurally more valuable than they were pre-COVID.
+
+**LinkedIn recruiter saturation has created a real alternative-seeking audience.** The Muse's own data showed over one-third of its users did not use LinkedIn. LinkedIn's InMail spam problem has worsened materially since 2016; anecdotal evidence from communities like r/cscareerquestions (4.5M members) and Blind (4M+ verified professionals) suggests active avoidance of LinkedIn among mid-career technical workers — a defensible niche for a rebuilt product.
+
+**Distribution channels unavailable in 2016:** Slack App Directory (750K+ daily active workplaces), HubSpot App Marketplace (200K+ customers), and direct LinkedIn API integrations for ATS data now offer B2B distribution paths The Muse never had.
+
+---
+
 ## Current Market Analysis
 
 **Market size:** The global online recruitment market was valued at approximately $28 billion in 2022 (as cited in the research report). The employer branding software segment — the rebuilt Muse's direct competitive space — is not independently sized in available public data; this is a gap. However, LinkedIn Talent Solutions alone generated $3.8 billion in revenue in 2023, confirming that employers pay substantial recurring fees for talent attraction tools at scale.

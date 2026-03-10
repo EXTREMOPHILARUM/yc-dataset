@@ -95,6 +95,14 @@ The model was asset-light by design and elegant in theory. It aligned Dealupa's 
 
 ## Traction
 
+At YC W12 Demo Day on March 27, 2012, Dealupa reported more than 10,000 subscribers and 20% week-on-week growth since entering the Y Combinator program three months earlier. <sup><a href="https://techcrunch.com/2012/03/27/y-combinator-demo-day-session-3/">[10]</a></sup> These were the only traction metrics the company ever disclosed publicly.
+
+The 20% week-on-week growth figure, if sustained, would have implied extraordinary scale within months. A starting base of roughly 1,000 subscribers growing at 20% weekly would reach 10,000 in approximately 13 weeks — consistent with the three-month YC timeline. The metric is plausible but unverified, and the quality of the subscriber count is unclear: the figure is not broken down by active users, email subscribers, or registered accounts.
+
+The geographic expansion strategy — starting in Seattle and expanding nationwide before Demo Day — was methodical and suggested disciplined execution. <sup><a href="https://www.zillman.us/dealupa-single-place-for-all-the-daily-deals/">[8]</a></sup> The company had achieved national coverage within roughly three months of its initial Seattle launch.
+
+No revenue figures, post-Demo Day subscriber counts, conversion rates, or geographic expansion milestones were ever disclosed. The traction story ends abruptly at Demo Day. The absence of any subsequent data point — positive or negative — is itself informative: companies that are growing share numbers, and companies that go quiet typically are not.
+
 ## Post-Mortem
 
 Dealupa's failure is best understood as a category failure rather than a product failure. The company built a technically coherent product, demonstrated early growth, and presented a structurally sound business model. What it could not survive was the collapse of the market it had been built to serve.

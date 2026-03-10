@@ -2,6 +2,16 @@
 
 ## Overview
 
+The single most important change since Carsabi's failure is the emergence of licensed, commercial automotive data infrastructure that eliminates the scraping dependency that killed the original company overnight. In 2012, there was no clean path to Craigslist's private-party inventory without unauthorized crawling. In 2026, that constraint is gone.
+
+MarketCheck now offers real-time licensed feeds covering 6+ million active used car listings from dealers, auctions, and classifieds. Similar structured inventory APIs are available from Lotame and through OEM data partnerships. Facebook Marketplace—which has displaced Craigslist as the dominant private-party car listing platform in most U.S. markets—offers a Partner API accessible through approved integrations. OfferUp provides additional private-party inventory. A rebuilt Carsabi could negotiate data licensing agreements before writing a single line of product code, making data access a business development problem rather than a legal time bomb.
+
+The second structural shift is on the extraction side. GPT-4 (March 2023) and Claude 3 (March 2024) can parse unstructured dealer website listings, inconsistent classified formats, and PDF inventories with accuracy that would have required months of custom engineering in 2012. What took Berner and Crow three months to build for 20,000 listings per day can now be scaffolded in weeks and scaled to millions.
+
+The market has also validated Carsabi's core thesis. CarGurus built a $1B+ public company on its "Instant Market Value" and "Deal Rating" features—essentially the "sort by biggest savings" ranking Carsabi pioneered. CarGurus' 2023 annual revenue was approximately $869 million (CarGurus 10-K, 2023), confirming that consumers respond to relative value signals when buying used cars. The demand was always real. The data infrastructure to serve it reliably was not.
+
+---
+
 ## Why Now?
 
 ## Current Market Analysis
@@ -45,3 +55,13 @@ Allow buyers to query in plain English ("reliable SUV under $20k with low miles,
 ---
 
 ## Go-to-Market Strategy
+
+**Target customer:** Private buyers aged 28–45 actively searching for a used vehicle priced $10,000–$35,000, who have already decided on a make/model and need help identifying the best available deal across fragmented sources. This is the highest-intent, lowest-education-cost segment—they know what they want, they distrust dealers, and they will immediately understand the value of a cross-source Deal Score.
+
+**Primary distribution channel:** SEO via long-tail automotive search queries ("best deal on 2021 Honda CR-V in [city]"), supplemented by Reddit communities (r/whatcarshouldibuy, r/UsedCars, combined 800,000+ subscribers) where deal-hunting buyers are already active and receptive to tool recommendations. No paid acquisition in year one.
+
+**Secondary channel:** The Shopify App Store analogy does not apply here, but the CarGurus affiliate program and automotive finance blogs (e.g., NerdWallet's auto section) offer cost-effective referral traffic from high-intent audiences.
+
+**Pricing:** Free consumer search, monetized through dealer lead generation at $15–$40 per qualified lead (consistent with industry standard; CarGurus charges dealers in this range per connection). Avoid display advertising in MVP—it signals dealer capture to the exact buyers the product is trying to win.
+
+**Differentiation vs. 2026 competitors:** Every major incumbent is optimized for dealer revenue. The rebuild's positioning is explicitly buyer-side: licensed data, transparent Deal Scores, natural language search, and zero dealer-paid ranking manipulation. CarGurus' weakness—opacity and dealer-first incentives—is the rebuild's headline.

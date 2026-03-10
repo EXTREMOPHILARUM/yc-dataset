@@ -10,6 +10,16 @@ The rebuild thesis is not to fight Stripe again on horizontal ground — it is t
 
 ## Why Now?
 
+The single most important change since Paid's failure is that the "autopilot for AR" promise is now technically achievable at low marginal cost. In 2014, automating invoice follow-up, payment matching, and reconciliation required brittle rule-based logic and significant human oversight. In 2026, GPT-4o (May 2024) and its successors can parse unstructured payment confirmations from bank statements, draft contextually appropriate dunning emails that adapt tone based on relationship history, and extract billing terms directly from uploaded contracts — eliminating the manual setup that made horizontal AR tools high-churn in the first place.
+
+The second structural change is payment rail modernization. The RTP network launched in 2017 and FedNow launched in July 2023, together enabling instant B2B settlement for the first time in U.S. history. In 2014, ACH settlement took 1–3 business days, which meant AR automation tools were managing float and reconciliation lag as much as they were managing invoices. Today, a professional services firm on net-30 terms can receive payment the moment a client approves an invoice — and the AR automation layer can confirm and reconcile that payment in real time. This materially improves the value proposition.
+
+The third change is distribution infrastructure. Stripe Connect, now serving millions of platform businesses, allows a vertical AR tool to embed payment processing without becoming a payment processor — reducing infrastructure cost to near-zero compared to Paid's 2014 stack. The QuickBooks App Store lists over 750 integrated apps with access to millions of small business customers; the Xero App Store similarly reaches 3.7 million subscribers globally (Xero, FY2024 annual report). These are distribution channels that did not exist in a meaningful form for Paid.
+
+Market validation has also arrived: Modern Treasury raised a $185 million Series C in 2022 at a reported $2 billion valuation (TechCrunch, November 2022), proving that institutional capital will fund B2B payment operations infrastructure when the workflow focus is tight enough. Paid could not demonstrate that signal in 2014–2019. The category is now validated.
+
+---
+
 ## Current Market Analysis
 
 **Market size:** The global accounts receivable automation market was valued at approximately $3.0 billion in 2023 and is projected to reach $6.7 billion by 2030 at a CAGR of roughly 12% (Grand View Research, 2023). The professional services segment — agencies, consultancies, law firms, and accounting firms — represents a meaningful slice of this, though a precise sub-segment figure is not available in the public record. What is documented: U.S. professional services firms collectively manage an estimated $300+ billion in outstanding receivables at any given time (Federal Reserve Flow of Funds data), with average days sales outstanding (DSO) running 45–60 days against stated net-30 terms — a persistent, costly gap.
@@ -55,3 +65,13 @@ Payment acceptance via Stripe Connect, supporting ACH, card, and RTP — embedde
 ---37:T962,
 
 ## Go-to-Market Strategy
+
+**Target customer:** Independent professional services firms with 5–50 employees, billing $500K–$5M annually on net-30/60 terms — specifically digital agencies, management consultancies, and boutique law firms. This segment is large enough to support a scalable business, specific enough to build a focused product, and underserved enough that the pain is acute. They are not locked into Stripe Invoicing (most use it reluctantly) and are not large enough to justify a Bill.com enterprise contract.
+
+**Primary distribution channel:** Content-led SEO targeting "invoice automation for agencies," "AR automation for consultants," and "net-30 invoice follow-up software" — terms with meaningful search volume and low competition from enterprise vendors. Supplemented by direct outreach through agency communities: Indie Hackers, Bureau of Digital, and the Slack communities associated with tools like Notion, Linear, and Figma (where the target customer already congregates). A QuickBooks App Store listing provides passive inbound from firms already searching for AR add-ons.
+
+**Pricing:** $149/month flat for up to $500K in monthly invoice volume processed, scaling to $299/month for $500K–$2M. This is a subscription, not a transaction fee — deliberately avoiding the margin compression of the original Paid's likely transaction-fee model.
+
+Stress test against free alternatives: A firm currently using Stripe Invoicing (free up to a point, then 0.4% per invoice) plus manual email follow-up is paying in time, not money. The $149/month price is justified if the product recovers one invoice per month that would otherwise have gone 30+ days overdue — at average invoice sizes of $10,000+, that is a 60x+ ROI. The price is not justified for firms with simple, transactional billing; those firms are not the target. Group chats and spreadsheets are the real free alternative for this segment, and the contract-to-invoice extraction feature is the specific capability that makes switching worthwhile.
+
+**Differentiation vs. 2026 competitors:** Bill.com serves volume billing at scale; the rebuild serves relationship billing with complexity. Stripe Invoicing serves payment collection; the rebuild serves the full AR lifecycle including contract parsing and relationship-aware dunning. The positioning is "AR automation that understands your client relationships," not "invoicing software."

@@ -340,6 +340,9 @@ def _build_rsc_text_map(decoded_chunks: list[str]) -> dict[str, str]:
                 break
 
     # Pass 2: process T-header chunks and their following text
+    # When a T-header has inline content, the next bare chunk maps to key+1
+    # (the next sequential hex key). When it has no inline content, the next
+    # bare chunk maps to the same key.
     for chunk in decoded_chunks:
         m = re.match(r'^([0-9a-f]+):T([0-9a-f]+),(.*)', chunk, re.DOTALL)
         if m:
@@ -347,7 +350,9 @@ def _build_rsc_text_map(decoded_chunks: list[str]) -> dict[str, str]:
             inline_content = m.group(3)
             if inline_content.strip():
                 text_map[key] = inline_content
-                pending_key = None
+                # Next bare chunk maps to key+1
+                next_key = format(int(key, 16) + 1, 'x')
+                pending_key = next_key
             else:
                 pending_key = key
             continue

@@ -6,9 +6,19 @@ Brace 2026 is a deployment platform for AI-generated websites. You paste HTML/CS
 
 The market shift is real: AI coding tools have made static site generation frictionless, but deployment hasn't caught up. Vercel and Netlify assume Git fluency and React expertise. Brace assumes nothing except "I have working code and need it live." The insight is that AI-native workflows don't fit Git-first platforms—they need Git-optional platforms.
 
-Go-to-market is direct: target Cursor and Claude communities, position as "the deploy button AI forgot," and win through speed and simplicity. Free tier gets you to 500 deployed sites in 60 days. Paid tier ($20/mo) unlocks custom domains, form handling, and analytics. The unit economics work because infrastructure costs are now negligible and the TAM is massive.33:T79f,
+Go-to-market is direct: target Cursor and Claude communities, position as "the deploy button AI forgot," and win through speed and simplicity. Free tier gets you to 500 deployed sites in 60 days. Paid tier ($20/mo) unlocks custom domains, form handling, and analytics. The unit economics work because infrastructure costs are now negligible and the TAM is massive.34:T79f,
 
 ## Why Now?
+
+The single most important change since Brace's failure is the collapse of the infrastructure burden that made solo-founder hosting products unviable in 2013. Krumbholz had to build on raw AWS with custom deployment pipelines, billing systems, and auth layers — all while writing product code alone on $120K. In 2026, a founder can compose a production-grade hosting product from Vercel's deployment API, Stripe's billing infrastructure, Clerk's authentication, and Cloudflare's edge network in weeks, not months. The custom infrastructure work that consumed Brace's runway is now largely off-the-shelf.
+
+The second structural shift is the Jamstack market's maturation. The term didn't exist when Brace launched. Today, Netlify (raised $105M total), Vercel (valued at $2.5B), and Cloudflare Pages validate the exact demand Brace couldn't yet demonstrate to investors. The global Jamstack market is estimated at $2B+ — though precise 2026 figures are not available in the research report — compared to a fragmented, unnamed niche in 2013.
+
+The third change is the AI-assisted development explosion. GitHub Copilot (launched October 2021), Claude (March 2023), and Cursor (2023) have created a new population of "vibe-coders": non-traditional developers who generate functional HTML, CSS, and JavaScript with AI assistance but have zero DevOps knowledge. This segment barely existed in 2013. These users produce deployable static sites and single-page apps daily but cannot configure a Vercel project, manage DNS, or interpret a CI/CD error. They are the Backlift customer, finally at scale.
+
+Distribution channels unavailable to Brace now exist: the GitHub Marketplace with 100M+ registered developers, Cursor's extension ecosystem, and Claude's integrations directory all provide direct access to the AI-assisted developer segment. Brace's original Dropbox dependency — its fatal structural flaw — is architecturally unnecessary in 2026.
+
+---
 
 ## Current Market Analysis
 

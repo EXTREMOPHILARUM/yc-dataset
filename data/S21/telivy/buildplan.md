@@ -12,6 +12,20 @@ The rebuild thesis is this: compliance mandates that were aspirational in 2021 a
 
 ## The single most important change since Telivy's failure: compliance mandates have converted discretionary security spending into legally required, auditable, recurring expenditure.
 
+When Telivy launched in 2021, cyber risk assessments were a best practice that MSPs could recommend and SMB clients could decline. That dynamic has structurally reversed. Three specific regulatory changes now make continuous risk assessment non-optional for large swaths of the SMB market:
+
+- **CMMC 2.0** (Department of Defense, enforcement phased from 2024–2026) requires any company in the defense industrial base — estimated at 300,000+ contractors and subcontractors — to achieve and document specific cybersecurity maturity levels. Third-party assessments are mandatory for Level 2 and above. MSPs serving defense contractors must now deliver assessable, documented security posture, not just best-effort monitoring.
+- **FTC Safeguards Rule** (amended rule effective June 2023) requires non-bank financial institutions — auto dealers, mortgage brokers, tax preparers, accountants — to implement and document a formal information security program. The FTC has signaled active enforcement. This covers an estimated 200,000+ businesses that are disproportionately served by MSPs.
+- **SEC Cybersecurity Disclosure Rules** (effective December 2023) require public companies to disclose material cybersecurity incidents within four business days and describe their risk management processes annually. While this targets public companies directly, it creates downstream pressure on their vendors and supply chain partners — many of which are SMBs managed by MSPs.
+
+The global MSP market is projected to exceed $500B by 2028 (source: research report; independent verification of this specific figure is not available, but the directional growth is consistent with multiple analyst estimates). The compliance-driven security assessment segment within that market is the fastest-growing subsegment, because the demand is now pull-based rather than push-based.
+
+The second enabling change is technical. **GPT-4o (May 2024) and Claude 3.5 Sonnet (June 2024)** now make it feasible to classify unstructured data — email archives, shared drives, legacy databases — with accuracy rates that reduce false positives to a manageable threshold. Telivy's known product weakness was precisely this: its PII scanning generated enough false positives to erode MSP trust. That problem is now solvable with off-the-shelf LLM APIs at a cost that a seed-stage company can afford.
+
+Distribution has also changed materially. **NinjaRMM's app marketplace**, **ConnectWise's Invent partner program**, and **Datto's Marketplace** all now offer documented API integration paths and co-marketing support that did not exist in their current form when Telivy was navigating the ConnectWise PitchIT program in 2023. A new entrant can achieve native PSA/RMM integration in weeks, not quarters.
+
+---
+
 ## Current Market Analysis
 
 **Market size:** The global MSP market was approximately $239B in 2021 when Telivy launched; it is projected to exceed $500B by 2028 (research report; specific sourcing for the 2021 baseline figure is not independently verified here). The security-specific segment of MSP revenue is growing faster than the overall market, driven by the compliance mandates described above. The US cyber insurance market — relevant as a demand signal for risk assessment tooling — grew from approximately $4.8B in 2021 to an estimated $12B+ in 2024 (source: industry estimates; exact figures vary by source and should be independently verified before use in investor materials).

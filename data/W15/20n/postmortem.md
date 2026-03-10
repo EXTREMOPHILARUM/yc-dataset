@@ -118,9 +118,19 @@ DARPA contracts provided a parallel revenue stream: milestone-based government f
 
 The licensing model required customers to trust a small software startup's DNA designs enough to invest in CRO validation and, eventually, manufacturing retooling. Each sale required a long qualification process. There is no evidence that 20n pursued a subscription or platform-access model that would have generated recurring revenue independent of per-molecule licensing deals. The absence of a Series A suggests the licensing model did not produce the revenue trajectory needed to attract growth-stage capital.
 
----2e:T756,
+---2f:T756,
 
 ## Traction
+
+20n's early traction was exceptional for a two-person team. At YC W15 Demo Day in March 2015, the company reported over $1.7 million in contracts from DARPA and a large cosmetics company—making it one of the few YC companies at that stage with meaningful pre-Demo Day revenue.<sup><a href="https://techcrunch.com/2015/03/25/top-10-y-combinator/">[6]</a></sup> TechCrunch named 20n one of the Top 10 startups of the W15 batch, citing it as evidence of "YC's evolution from niche consumer products to huge hard science ideas."<sup><a href="https://techcrunch.com/2015/03/25/top-10-y-combinator/">[6]</a></sup>
+
+By September 2015, the company had secured backing from Khosla Ventures in addition to YC and DARPA, and Srivastava confirmed on Hacker News that 20n had "existing Fortune 500 customers and incoming revenue."<sup><a href="https://news.ycombinator.com/item?id=10154370">[8]</a></sup> The company was actively hiring across its full technical stack as late as March 2016, suggesting it had sufficient runway to continue building.
+
+Over its operational lifetime, 20n built 40+ next-generation organisms for DARPA and two Fortune 500 companies.<sup><a href="https://saurabh-srivastava.github.io/">[16]</a></sup> Patent filings in July 2017 covering acetaminophen, carnosine, beta-alanine, choline, and ethanolamine biosynthesis confirm the company was still generating IP at least two years after Demo Day.<sup><a href="https://saurabh-srivastava.github.io/">[9]</a></sup>
+
+The pattern that emerges is strong initial contract wins that did not compound into a self-sustaining revenue trajectory. The $1.7M in early contracts was real, the Fortune 500 relationships were real, and the technical deliverables were real—but no Series A was announced, no revenue growth figures were disclosed, and the company wound down quietly rather than raising additional capital.
+
+---
 
 ## Post-Mortem
 

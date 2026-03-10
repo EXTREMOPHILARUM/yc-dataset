@@ -104,6 +104,16 @@ This structure is common among COSS companies but carries an inherent tension: t
 
 ## Traction
 
+Lotus demonstrated meaningful developer community traction in its first year. The product won #1 on Product Hunt in the open-source pricing and billing category.<sup><a href="https://www.linkedin.com/posts/mikaelnida_excited-to-share-what-ill-be-doing-for-a-activity-6963183893348843521-3ItI">[25]</a></sup> Within months of launch, the GitHub repository attracted open-source contributors from India, Nigeria, China, Argentina, and Europe — a geographic distribution that signals genuine organic discovery rather than manufactured engagement.<sup><a href="https://www.linkedin.com/posts/mikaelnida_excited-to-share-what-ill-be-doing-for-a-activity-6963183893348843521-3ItI">[26]</a></sup>
+
+The two Hacker News Show HN posts — November 2022 and March 2023 — generated community discussion and served as the primary distribution channel for developer awareness. The Gigazine review in May 2023 confirmed the product was sufficiently mature for a third-party publication to conduct a detailed hands-on walkthrough.
+
+<media-hn url="https://news.ycombinator.com/item?id=35292087" title="Show HN: Lotus – open-source pricing engine" points="" comments=""></media-hn>
+
+However, no paying customer count, revenue figure, or cloud subscription number was ever publicly disclosed. The Wefunder crowdfunding attempt — targeting a minimum of $25,000 and a maximum of $124,000, with Nantuket Ventures as lead — is the most telling traction signal.<sup><a href="https://www.fundrate.io/company/lotusprivate">[27]</a></sup> A company with strong commercial traction would not need to raise $25,000 from retail investors. The Wefunder campaign suggests the team was unable to raise a conventional follow-on seed or Series A from institutional investors, and was exploring alternative capital sources to extend runway. Whether the campaign reached its minimum goal is unconfirmed.
+
+---
+
 ## Post-Mortem
 
 Lotus is listed as "Inactive" on Y Combinator's company directory.<sup><a href="https://www.ycombinator.com/companies/lotus">[28]</a></sup> Mikael Nida's public profile now describes him as working in "multimodal data research & engineering" and lists Lotus as a previous role.<sup><a href="https://x.com/mikaelnida">[29]</a></sup> No public shutdown announcement, post-mortem essay, or investor statement was ever published. The wind-down appears to have been quiet — consistent with a team that exhausted runway without a dramatic failure event to announce.

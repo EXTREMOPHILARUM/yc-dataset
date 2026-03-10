@@ -6,9 +6,21 @@ Gander was a New York-based YC F24 startup founded in 2024 by Arjan Guglani and 
 
 The rebuild thesis is this: the DOT's October 2024 automatic cash refund mandate has transformed airline reimbursement processing from a discretionary efficiency play into a legal compliance obligation, creating a procurement forcing function that did not exist when Gander launched — and targeting low-cost carriers (LCCs) and ultra-low-cost carriers (ULCCs) instead of legacy network carriers cuts the sales cycle from eighteen months to a window where a well-capitalized seed-stage company can survive. **Gander 2.0 is a compliance-first AI claims processing platform for LCCs, using mandatory DOT refund workflows as the wedge into broader disruption automation.**
 
----32:Ta4c,
+---31:Ta4c,
 
 ## Why Now?
+
+The single most important change since Gander's failure is regulatory: the U.S. Department of Transportation's final rule on Airline Refunds, effective October 28, 2024, now requires airlines to automatically issue cash refunds — without passengers requesting them — for cancelled flights and significant delays (defined as delays of three or more hours for domestic flights). This rule did not exist when Gander launched its YC post. It transforms reimbursement processing from a cost-reduction opportunity into a legal compliance requirement with enforcement teeth, including civil penalties. Airlines that fail to comply face DOT enforcement action. This is a categorically different procurement conversation: "would you like to save money on claims?" becomes "you are legally required to process these claims automatically or face fines."
+
+This regulatory shift directly validates Gander's original back-office automation thesis and creates a compliance-driven forcing function that compresses procurement timelines. Compliance software purchases move faster than efficiency software purchases in regulated industries — this is well-documented in healthcare (HIPAA) and finance (SOX) and is now replicating in aviation.
+
+On the technical side, the core barrier to Gander Voice — voice AI latency — has been resolved. OpenAI's Realtime API (launched October 2024) and ElevenLabs Conversational AI now deliver sub-500ms end-to-end voice latency, enabling natural-sounding outbound rebooking calls that would not have caused passenger rejection. LLM-native document parsing via GPT-4o and Claude 3.5 Sonnet (both available by mid-2024) can now extract structured routing data from Route Availability Documents and IATA fare rules with high accuracy, eliminating the expensive manual data integration work that would have consumed a pre-seed engineering team.
+
+The vertical AI agent category has also matured. Abridge (clinical documentation), Harvey (legal), and Tennr (healthcare intake) have demonstrated that domain-specific AI can close enterprise contracts in regulated verticals, reducing the buyer skepticism that would have been a significant headwind for Gander in 2024. Aviation buyers in 2026 are not being asked to be early adopters of a novel category — they are being asked to adopt a proven model in a new domain.
+
+Specific market data on LCC claims processing volume is not publicly available, but the DOT reported approximately 1.3 million flight cancellations and significant delays in the U.S. in 2023 (DOT Air Travel Consumer Report, 2024), each now triggering mandatory automatic refund workflows.
+
+---
 
 ## Current Market Analysis
 

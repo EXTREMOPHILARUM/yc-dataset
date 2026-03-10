@@ -2,6 +2,13 @@
 
 ## Overview
 
+for-lenders niche Level occupied.
+- YC has continued to back fintech lending startups in every batch since S21. The pipeline of early-stage lenders needing their first warehouse facility has not contracted; if anything, the SVB gap has made the need more acute.
+
+**What remains unknown:** Precise market sizing for the sub-$10M warehouse segment in 2026 is not publicly available. A founder should commission or conduct primary research with 20–30 early-stage fintech lenders before committing capital.
+
+---36:T5e5,
+
 ## Why Now?
 
 ## The single most important change since Level's failure is the collapse in the cost of underwriting infrastructure.

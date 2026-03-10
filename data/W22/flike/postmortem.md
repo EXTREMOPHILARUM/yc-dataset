@@ -2,8 +2,6 @@
 
 ## Overview
 
-## Founding Story
-
 Flike was founded in 2021 in San Francisco by three co-founders: Tobias Müller (CEO), Yannick Müller, and Henrik Laxhuber.<sup><a href="https://golden.com/wiki/Flike-6AX8YWA">[1]</a></sup> Tobias and Yannick Müller came from finance backgrounds and had experienced firsthand the dysfunction of collaborative spreadsheet work—the version chaos, the time lost gathering inputs from colleagues, and the errors that compounded across shared files.<sup><a href="https://www.linkedin.com/posts/y-combinator_flike-raises-16m-to-build-github-for-spreadsheets-activity-6912448529386938368-2Wd0">[2]</a></sup> That lived frustration became the founding thesis: build the infrastructure layer that spreadsheets had always lacked.
 
 The Müller brothers' finance backgrounds gave them authentic founder-market fit for the original product. They understood the workflows they were targeting not as outside observers but as former practitioners. Henrik Laxhuber's specific background and contributions to the founding remain largely undocumented in public sources.
@@ -21,6 +19,8 @@ The team went as far as embedding with customers on-site. "We believe that havin
 The irony embedded in this founding story is significant: a founder who articulated one of the more thoughtful PMF methodologies in the YC ecosystem still pivoted twice and ultimately could not scale independently.
 
 ---
+
+## Founding Story
 
 ## Timeline
 
@@ -102,9 +102,21 @@ Flike operated on a B2B SaaS subscription model, selling seats or licenses to sa
 
 No revenue figures, ARR, MRR, or pricing tiers were publicly disclosed at any stage of the company's life. The asset deal structure of the acquisition—rather than a full company purchase—suggests the company had not reached a revenue scale that would have supported a traditional acquisition multiple. Total funding of $2.1M across all rounds<sup><a href="https://www.cbinsights.com/company/flike">[22]</a></sup> implies the company operated on an extremely lean budget for a technical team in San Francisco over approximately three years, with no disclosed Series A or seed extension. The absence of follow-on capital is the clearest available proxy for the company's commercial trajectory.
 
----2e:T6a4,
+---2f:T6a4,
 
 ## Traction
+
+Flike's AI Sales Co-Pilot generated measurable, if modest, market validation before the acquisition.
+
+The Product Hunt launch on February 6, 2024 received 85 reviews and a 4.8 rating.<sup><a href="https://www.producthunt.com/products/flike">[13]</a></sup> Reviewers included sales professionals from recognizable companies who cited specific outcomes—sales professionals from Segment and Brex reported doubled open rates after using the product. The relevancy engine drew particular praise, with one reviewer describing it as "best in class by miles." Product Hunt ratings are a weak proxy for commercial traction—they reflect early adopter enthusiasm rather than retention or revenue—but the specificity of the feedback suggests genuine usage rather than coordinated review campaigns.
+
+Named customers at the time of acquisition—Brex and Brightspot—are credible enterprise logos that would have supported a sales narrative.<sup><a href="https://docs.firstquadrant.ai/press-releases/2024-06-14-firstquadrant-acquires-flike">[14]</a></sup> The YC network served as the primary distribution channel, with the company describing partnerships with "some of the largest YC companies."<sup><a href="https://www.ycombinator.com/companies/flike">[21]</a></sup>
+
+Flike's X (Twitter) account posted only 5 times in total—a reflection of a team focused on product and direct sales rather than content marketing or community building.
+
+No ARR, MRR, user count, or churn data was ever publicly disclosed. The gap between positive product reviews and the asset-deal exit suggests the company had real users but could not convert early enthusiasm into the growth curve required to raise a Series A.
+
+---
 
 ## Post-Mortem
 

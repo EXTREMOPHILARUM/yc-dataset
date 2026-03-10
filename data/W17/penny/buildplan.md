@@ -6,9 +6,21 @@ By 2026, Penny is a conversational AI financial coach for the post-Mint generati
 
 The market timing is now viable: Intuit killed Mint in January 2024, orphaning 3.6 million monthly active users with no conversational alternative. Credit Karma owns credit scores but ignores spending coaching. The gap is real and the audience is homeless.
 
-Go-to-market targets Mint refugees directly through Reddit, Twitter, and finance communities where they're actively asking "what's next?" The hook is simple: ask your money questions like you'd text a friend, not a spreadsheet. Launch with 10K MAU in 90 days, hit 25% day-30 retention, and scale through word-of-mouth in underserved communities that never had a financial app that actually talked to them.33:T7a9,
+Go-to-market targets Mint refugees directly through Reddit, Twitter, and finance communities where they're actively asking "what's next?" The hook is simple: ask your money questions like you'd text a friend, not a spreadsheet. Launch with 10K MAU in 90 days, hit 25% day-30 retention, and scale through word-of-mouth in underserved communities that never had a financial app that actually talked to them.34:T7a9,
 
 ## Why Now?
+
+The single most important change since Penny's failure is the January 2024 shutdown of Mint by Intuit. Mint had an estimated 3.6 million monthly active users at shutdown — the dominant free incumbent that VentureBeat literally headlined as Penny's primary competitor in 2017 is gone. Intuit redirected those users to Credit Karma, a product focused on credit monitoring and financial product upsell, not spending coaching. That redirection left a structurally unmet need: millions of users who wanted a free, approachable spending tracker now have no natural home.
+
+The second critical change is the availability of large language models capable of genuine free-form financial conversation. GPT-4 (March 2023) and Claude 3 (March 2024) can now parse open-ended, high-stakes financial queries — "why did I spend so much in March?" or "am I on track to pay off my car loan early?" — with accuracy that 2015-era NLP could not approach. This directly eliminates the core technical constraint that forced Penny to use pre-populated messages, which capped conversational depth and limited retention.
+
+On the monetization side, embedded finance APIs have matured. Products like Unit and Stripe Treasury (both production-ready by 2023) allow a personal finance app to offer a yield-bearing savings account and earn interchange revenue without proprietary bank partnerships — solving the circular dependency that left Penny entirely reliant on fundraising.
+
+Distribution infrastructure has also shifted. The CFPB's Section 1033 open banking rule, finalized in October 2024, mandates consumer-permissioned data portability from banks, reducing single-vendor dependency on Plaid and lowering the legal risk of bank connectivity. Plaid itself now covers investment, crypto, and BNPL accounts — data types unavailable in 2016.
+
+Copilot Money raised $13 million in 2023 partly on a conversational finance thesis, confirming institutional appetite remains real.
+
+---
 
 ## Current Market Analysis
 

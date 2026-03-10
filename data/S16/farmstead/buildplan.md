@@ -6,11 +6,23 @@ Farmstead was a San Francisco-based digital grocer that operated its own dark-st
 
 The rebuild thesis is not to relaunch a consumer grocery brand. It is to rebuild Farmstead's core operational intelligence — the demand forecasting, inventory sourcing, and dark-store operating stack — as a pure B2B SaaS platform (Grocery OS 2.0) sold to the 14,000+ Circle K and regional convenience-store locations that already exist as dark-store infrastructure in waiting. The quick-commerce shakeout has cleared the field, consumer e-grocery behavior has permanently shifted to a $95.8B market, and LLM-powered forecasting now makes the waste-reduction engine Farmstead's most defensible asset far cheaper to build and far harder to replicate than it was in 2020.
 
----33:T8cb,
+---34:T8cb,
 
 ## Why Now?
 
 ## The single most important change: the quick-commerce shakeout has eliminated Farmstead's best-capitalized competitors and left the dark-store operating layer unoccupied.
+
+Between 2022 and 2024, the companies that had replicated Farmstead's dark-store model at scale collapsed or consolidated. Gopuff laid off 10% of its workforce in March 2022 and another 1,500 employees in July 2022. Gorillas was acquired by Getir in late 2022. Jokr exited the U.S. market entirely. Getir itself retrenched from multiple U.S. cities by 2024. The capital that had been deployed to commoditize the dark-store model — over $3 billion in Gopuff's case alone — is gone. What remains is a proven consumer behavior (43% of U.S. households now buy groceries online at least monthly, per Brick Meets Click 2023, up from a fraction of that when Farmstead launched in 2016) and no well-capitalized operator serving the mid-market weekly shopper with a capital-efficient dark-store model.
+
+**Technology shift:** LLM-based demand forecasting tools available since GPT-4 (March 2023) and Claude 3 (March 2024) can now ingest unstructured signals — local event calendars, weather APIs, hyperlocal social media food trends — alongside structured order history to generate SKU-level demand predictions. Farmstead's 2017-era ML required weeks of order accumulation per market before it could optimize sourcing. A 2026 rebuild can compress that cold-start forecasting window significantly using pre-trained foundation models fine-tuned on grocery demand data.
+
+**Market size:** The U.S. online grocery market reached $95.8B in 2023 (source: research report), compared to approximately $26B in 2019 when Farmstead was still a single-market operation. The addressable market for a dark-store operating platform has grown roughly 3.7x in four years.
+
+**Distribution infrastructure:** DoorDash Drive, Instacart Platform, and Uber Direct now offer white-label grocery fulfillment APIs that a Grocery OS successor can integrate with on day one — eliminating the 18-month partnership development cycle the original Farmstead required to reach the April 2021 DoorDash deal.
+
+**Hardware costs:** Modular micro-fulfillment center configurations from AutoStore and Dematic now start under $1M, down from $5–10M in 2020, making the per-hub economics even more favorable than Farmstead's original $100K manual-hub model on a capability-adjusted basis.
+
+---
 
 ## Current Market Analysis
 

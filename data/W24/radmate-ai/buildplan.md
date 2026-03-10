@@ -10,6 +10,18 @@ The rebuild thesis is not to fight Rad AI for health system contracts — it is 
 
 ## Why Now?
 
+**The single most important change since RadMate AI's failure is the commoditization of the core technical stack.** In 2023–2024, building a voice-to-structured-report pipeline required assembling and fine-tuning multiple specialized components — a speech recognition model, an NLP structuring layer, a template engine, and a proofreading module — each requiring dedicated engineering time and infrastructure investment. In 2026, that entire pipeline is available as commodity API infrastructure: OpenAI's Whisper handles medical dictation transcription at near-zero marginal cost, and GPT-4o (released May 2024) or Anthropic's Claude 3.5 Sonnet (released June 2024) can structure, format, and proofread a radiology report from raw dictation in a single model call. A working prototype that would have taken RadMate AI's two-person team months to build can now be assembled in weeks. This is not a marginal improvement — it eliminates the primary capital sink that made RadMate AI's $500K pre-seed structurally insufficient for reaching a deployable product.
+
+**The market has been validated at scale.** Rad AI's $110M+ in cumulative funding and its penetration of 9 of the 10 largest U.S. radiology practices confirms that AI-generated radiology reports are not a speculative category — they are a proven, paying product. Rad AI's success is the rebuild's best market research.
+
+**Procurement cycles are shortening for smaller buyers.** The rise of ambient clinical documentation tools — Abridge (raised $150M+ as of 2025), Nabla, and Suki — has educated hospital IT and practice administrators on AI workflow tools, reducing the "education tax" that first-movers paid. Crucially, independent radiology practices and teleradiology groups operate outside hospital procurement bureaucracy entirely: the decision-maker is often the practice owner or a managing radiologist who can approve a SaaS subscription without a legal review committee.
+
+**Specific distribution channel now available:** Nuance PowerScribe (Microsoft) and Philips Intellispace are the dominant PACS-integrated dictation platforms, but neither offers a modern API marketplace. However, the FHIR-compliant EHR ecosystem — Epic's App Orchard (with 300+ integrated apps as of 2025) and athenahealth's Marketplace — now provides a documented integration pathway for smaller vendors that did not exist in a usable form in 2024. This is not a fast path, but it is a defined one.
+
+**Market size data:** The global radiology AI market was approximately $2 billion in 2023; specific sizing for the independent practice sub-segment is not available in public sources.
+
+---
+
 ## Current Market Analysis
 
 **Market size and segment:** The global radiology AI market was valued at approximately $2 billion in 2023 and is projected to grow significantly through 2030, driven by imaging volume growth and a documented radiologist workforce shortage (the American College of Radiology has flagged radiologist supply constraints as a structural issue, though specific 2026 figures are not available in the research corpus). The independent radiology practice and teleradiology sub-segment — the rebuild's target — is not separately sized in available public data, but the U.S. alone has approximately 3,000+ independent radiology groups, representing a meaningful addressable market that Rad AI's enterprise motion structurally underserves.
@@ -50,3 +62,11 @@ Before a report is finalized, the system flags potential clinical inconsistencie
 ---37:T9c3,
 
 ## Go-to-Market Strategy
+
+**Target customer segment:** Independent radiologists and small radiology practices (1–10 radiologists) in the U.S., with a specific focus on teleradiology groups — radiologists who read studies remotely and are already accustomed to software-first workflows, have no hospital IT department gatekeeping their tool choices, and make purchasing decisions individually or as a small partnership. This segment is narrow enough to reach through direct channels and large enough to build a real business: there are thousands of teleradiology physicians in the U.S., and this data point is not precisely quantified in available sources.
+
+**Primary distribution channel:** Direct-to-radiologist, community-led. The American College of Radiology's online communities, radiology-specific subreddits (r/Radiology has 100K+ members), and LinkedIn groups for teleradiologists are the primary acquisition channels. The tactic is a free trial with no credit card required — a radiologist uploads three dictations, gets three formatted reports, and experiences the value before any sales conversation. This is the opposite of RadMate AI's enterprise motion and is specifically designed to bypass the procurement cycle entirely.
+
+**Pricing strategy:** $199/month per radiologist seat, with a 14-day free trial. Stress-test: the free alternative is Dragon Medical One's transcription layer (which does not generate structured reports) and manual formatting (which is what radiologists currently do). The $199 price is not competing against a free product that does the same thing — it is competing against 20–40 minutes of a radiologist's time per day spent on documentation. At a radiologist's effective hourly rate (median U.S. radiologist compensation is approximately $400K/year, or roughly $200/hour), recovering even 15 minutes per day is worth $500+/month in time value. The $199 price is deliberately set below the psychological threshold where a radiologist needs to justify the expense to a practice administrator. A group discount tier ($149/seat for 3+ seats) creates an incentive for practice-level adoption without requiring a formal procurement process.
+
+**Differentiation vs. 2026 competitors:** Rad AI requires a procurement committee and a multi-month sales cycle. Nuance transcribes but does not structure. The rebuild's differentiation is self-serve deployment, usage-based trial, and a product experience built specifically for the independent radiologist — not the health system CIO.

@@ -2,6 +2,12 @@
 
 ## Overview
 
+Reble (later Reble.FM) was a peer-to-peer music streaming startup founded in 2006 by Nick Meyer, a former MIT student who had previously built viral consumer products at scale. The company joined Y Combinator's Summer 2007 batch as a two-person team based in San Francisco, and launched its public beta in February 2008. Its core product was a Windows-only desktop client that let users stream music directly from friends' local libraries in real time — not download it — using the Jabber open-source messaging protocol as its backbone.<sup><a href="https://www.ycombinator.com/companies/reble">[1]</a></sup>
+
+Reble failed because its value proposition required simultaneous adoption by both sides of a social connection, on a platform (Windows desktop) that was already losing ground to browser-based alternatives, in a market where web-first competitors were eliminating the friction Reble was asking users to accept. The cold-start problem was structural, not solvable by better execution alone.
+
+Approximately three years after founding — around 2009 — Reble.FM was acquired by Playlist.com, a web-based music service.<sup><a href="https://startmit-2018.mit.edu/meyer/">[2]</a></sup> No acquisition price or terms were disclosed. Meyer moved on quickly, co-founding MileWise in 2009, a travel metasearch engine that was acquired by Yahoo! in 2013 — a more successful second act that suggested the Reble experience sharpened rather than discouraged his entrepreneurial instincts.<sup><a href="https://www.startupgrind.com/events/details/startup-grind-boston-presents-nick-meyer-entrepreneur-in-residence-martin-trust-center-for-mit-entrepreneurship/">[3]</a></sup>
+
 ## Founding Story
 
 Nick Meyer came to Reble with an unusual credential for a first-time startup founder: he had already built a product used by hundreds of thousands of people. While still in high school, Meyer co-founded Kings of Chaos, a massively multiplayer online game that attracted hundreds of thousands of daily players at its peak.<sup><a href="https://www.startupgrind.com/events/details/startup-grind-boston-presents-nick-meyer-entrepreneur-in-residence-martin-trust-center-for-mit-entrepreneurship/">[4]</a></sup> That experience — building viral, socially networked consumer products before "social" was a product category — shaped the instincts he brought to Reble.

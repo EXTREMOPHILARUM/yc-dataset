@@ -10,6 +10,16 @@ The go-to-market is direct: land through Google Workspace procurement (lower fri
 
 ## Why Now?
 
+The single most important change since Neptyne's failure is that **Microsoft shipped Python in Excel in August 2023** — and rather than killing the market, it validated and expanded it. Enterprise users who had never considered Python in a spreadsheet context are now being trained to expect it. Microsoft's implementation, however, is constrained: it runs in a sandboxed Azure cloud environment via Anaconda, does not support arbitrary pip installs, has limited real-time interactivity, and critically, does not work inside Google Sheets — which holds an estimated 900 million users as of 2024 (source: Google, unverified by independent analyst). The gap Microsoft opened is now a distribution opportunity, not a competitive threat.
+
+The second structural change is LLM code generation quality. GPT-4 (March 2023) could write passable Python; Claude 3.5 Sonnet (June 2024) and GPT-4o (May 2024) write production-quality pandas, NumPy, and API-integration code reliably enough that a non-programmer can describe a task in plain English and receive runnable Python. This collapses Neptyne's original adoption barrier: users no longer need to know Python to benefit from Python-in-spreadsheets.
+
+Third, serverless Python execution infrastructure has matured dramatically. Modal Labs (launched 2022, production-ready by 2024) and Google Cloud Run now spin up isolated Python kernels in under 500ms at costs below $0.001 per invocation — making per-session compute economically viable at freemium scale in a way it was not in 2023.
+
+Distribution is also cleaner. The Google Workspace Marketplace now hosts 5,000+ add-ons with established enterprise IT procurement workflows, and the Microsoft AppSource marketplace provides parallel access to Excel's commercial user base. Both channels were less mature when Neptyne operated.
+
+---
+
 ## Current Market Analysis
 
 **Market Size:** The global spreadsheet software market was valued at approximately $1.85 billion in 2023 and is projected to reach $3.2 billion by 2030 (source: Grand View Research — treat as directional, not precise). The more relevant segment — analyst-facing data tools including BI, notebooks, and spreadsheet-adjacent SaaS — is larger: Hex, Observable, and Mode Analytics have collectively raised over $300 million, confirming VC-scale demand exists for the Python-analyst bridge. When Neptyne operated in 2023, this segment was earlier-stage; enterprise procurement for notebook tools is now normalized.
@@ -27,6 +37,20 @@ The go-to-market is direct: land through Google Workspace procurement (lower fri
 ---36:T7ec,
 
 ## Recommended MVP
+
+**Core Feature 1 — AI-to-Python Formula Engine:** A natural-language input bar inside Google Sheets that generates and executes Python functions in cells using plain English descriptions (e.g., "pull last 30 days of Stripe revenue and calculate 7-day rolling average"). Unlike Neptyne's original implementation, which required users to write Python themselves, this feature requires zero Python knowledge. It uses Claude 3.5 Sonnet or GPT-4o for code generation and Modal Labs for sandboxed execution. This directly addresses Neptyne's core adoption barrier.
+
+**Core Feature 2 — Persistent Python Kernel per Sheet:** Each Google Sheet gets a persistent, stateful Python environment (pandas, NumPy, requests, scikit-learn pre-installed) that survives between sessions and is shared across collaborators in real time. Unlike Microsoft's Python in Excel, arbitrary pip installs are supported. Unlike Neptyne's original product, this runs as a Workspace add-on — no tool switch required.
+
+**Core Feature 3 — Scheduled Python Runs with Alerting:** Users can schedule any Python function to run on a cron schedule (hourly, daily, on data change) and push results back to the sheet or trigger a Slack/email alert. This targets the "living dashboard" use case — the single highest-retention workflow identified in Neptyne's original power-user cohort (trading systems, trackers).
+
+**Core Feature 4 — One-Click Template Library:** Ten pre-built templates covering the highest-frequency analyst use cases: Stripe revenue pull, Google Analytics summary, stock price tracker, SQL query runner, OpenAI batch classifier. Reduces time-to-value from hours to minutes.
+
+**What We Will NOT Build:** A standalone spreadsheet application, a Jupyter notebook interface, an Excel add-on (Phase 2 only), or a visual drag-and-drop workflow builder.
+
+**Success Metrics:** 500 weekly active add-on installs within 90 days of launch; 8% free-to-paid conversion within 6 months; $10K MRR within 9 months; <2% weekly churn among paid users.
+
+---
 
 ## Go-to-Market Strategy
 

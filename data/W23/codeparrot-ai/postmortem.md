@@ -120,6 +120,16 @@ The $1,500 MRR ceiling—the only concrete revenue figure available—implies ei
 
 ## Traction
 
+CodeParrot's peak revenue was $1,500 MRR, reached after the Figma-to-code pivot. Agarwala stated directly: "Our $500k raised burned through, and when we hit $1,500 MRR with our final pivot (using LLMs to go from Figma to code), we couldn't break through." <sup><a href="https://startuptalky.com/why-codeparrot-shutdown/">[18]</a></sup>
+
+This figure represents the ceiling the team hit, not a growth trajectory that stalled. The implication is that revenue plateaued at $1,500 MRR rather than growing toward it and decelerating. At that level, the business was generating approximately $18,000 in annualized revenue against a $500K funding base—a ratio that made continued operation indefensible without a clear path to step-change growth.
+
+The website displayed logos from Udaan, Freshworks, Capgemini, Infosys, Mercedes-Benz, Accenture, and LinkedIn as social proof. <sup><a href="https://startuptalky.com/why-codeparrot-shutdown/">[16]</a></sup> These are marketing signals only. The total number of registered users, VS Code extension installs, paying customers, and churn rate were never disclosed. Community engagement included developer meetups in Bangalore, which generated awareness but did not translate into measurable revenue growth. <sup><a href="https://startuptalky.com/why-codeparrot-shutdown/">[19]</a></sup>
+
+The two high points Agarwala cited as motivating the team throughout the journey were YC acceptance and receiving their first Stripe payment—suggesting that early revenue validation was sparse and emotionally significant precisely because it was rare. <sup><a href="https://startuptalky.com/why-codeparrot-shutdown/">[29]</a></sup>
+
+---
+
 ## Post-Mortem
 
 CodeParrot's failure was not a single catastrophic event. It was a compounding sequence of structural disadvantages that the team could not overcome within the constraints of a $500K pre-seed budget. The following failure reasons are ordered by their impact on the outcome.

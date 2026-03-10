@@ -119,6 +119,16 @@ The structural challenge was margin. Because FloydHub ran jobs on AWS reserved i
 
 ## Traction
 
+FloydHub's user growth was the strongest signal in its story. Within one month of its February 2017 launch, the platform had 2,500 registered users and 6,000 people on a waiting list — numbers that VentureBeat reported at Demo Day in March 2017.<sup><a href="https://venturebeat.com/2017/03/22/floyd-deep-learning/">[31]</a></sup> Over its full five-year lifetime, the platform supported more than 100,000 users training AI models.<sup><a href="https://blog.floydhub.com/floydhub-has-shut-down/">[32]</a></sup>
+
+<media-hn url="https://news.ycombinator.com/item?id=15436037" title="FloydHub – Like Heroku for Deep Learning"></media-hn>
+
+These are meaningful numbers for a developer tool. Reaching 100,000 users without significant marketing spend — the company had four employees and seed-level funding — suggests the product delivered real value and spread through word-of-mouth within the data science community.
+
+The critical unknown is the conversion rate from free or low-usage accounts to meaningful paying customers. The founders' own statement — "we couldn't build a sustainable business" despite "enthusiastic usage" — confirms that user volume did not translate into sufficient revenue.<sup><a href="https://blog.floydhub.com/floydhub-has-shut-down/">[33]</a></sup> Whether the 100,000 user figure represents registered accounts, active users, or cumulative job-runners is not specified. No revenue figures, average revenue per user, churn rates, or free-to-paid conversion rates are available from primary sources. The gap between 100,000 users and an unsustainable business is the central unresolved data question of FloydHub's story.
+
+---
+
 ## Post-Mortem
 
 The founders' shutdown statement was brief and candid: "in spite of our efforts and enthusiastic usage by many of you, we couldn't build a sustainable business."<sup><a href="https://blog.floydhub.com/floydhub-has-shut-down/">[34]</a></sup> That sentence contains the entire failure in compressed form. The product worked. Users liked it. The business did not work. Understanding why requires separating the failure into its component causes.

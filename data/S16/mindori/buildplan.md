@@ -10,6 +10,16 @@ The play is pure Shopify App Store: freemium entry, usage-based scaling, and a 9
 
 ## Why Now?
 
+The single most important change since Mindori's failure is the collapse of the custom ASR moat. In 2016, building accurate voice recognition for a specific product catalog required original neural network research — the kind Lengerich and Hannun published at NeurIPS. That work was Mindori's core technical differentiator and also its most expensive bottleneck: every new customer required retraining models on their catalog data, creating a per-customer labor cost that a three-person team could not scale. OpenAI's Whisper (September 2022) eliminated this problem entirely. Whisper provides high-accuracy, domain-adaptable transcription at near-zero marginal cost as an open-source model. The hard part of Mindori's stack is now a commodity.
+
+What replaced the ASR moat is a genuinely new capability: conversational query understanding via large language models. GPT-4 (March 2023) and Claude 3 (March 2024) can interpret multi-turn voice queries — "Show me trail runners," then "What about in red, under $90?" — with contextual coherence that Mindori's RNN-based system could only approximate. Critically, this works against any product catalog without catalog-specific model training, because the LLM reasons over structured product data at inference time rather than encoding catalog knowledge into model weights.
+
+The distribution problem that killed Mindori has also structurally reversed. The Shopify App Store now serves 2M+ merchants (Shopify, 2024 annual report) and represents a self-serve acquisition channel that requires no enterprise sales motion. In 2016, reaching mid-market e-commerce companies meant cold outreach to engineering teams. In 2026, it means publishing an app that merchants install in three clicks.
+
+Voice commerce adoption is no longer a thesis — it is documented behavior. Global smart speaker installed base exceeded 500M units by 2023 (data source: Statista; specific 2025–2026 figures unavailable at time of writing). Consumer willingness to shop by voice, which Mindori had to assume, is now a validated premise.
+
+---
+
 ## Current Market Analysis
 
 ## Market Size
@@ -35,6 +45,14 @@ Shopify's own search app category shows consistent top-chart presence for produc
 ## Recommended MVP
 
 ## Core Features
+
+*Voice-to-conversational-search widget.* A lightweight JavaScript widget (plus Shopify App Block) that captures voice input via browser microphone, transcribes it using Whisper API, and passes the transcript to an LLM-powered search layer that queries the merchant's existing product catalog via Shopify's Storefront API. Unlike Mindori's catalog-specific model training, this requires zero onboarding customization — the merchant installs the app and the widget is live within minutes. This is the fundamental architectural difference from the original: inference-time reasoning over catalog data rather than catalog-encoded model weights.
+
+*Multi-turn query refinement.* The system maintains a session-scoped conversation context, allowing shoppers to say "Show me running shoes" and follow with "What about waterproof ones under $120?" without re-stating the full query. GPT-4o (May 2024) handles this reliably in under 500ms at current API pricing. The original Mindori product attempted this with RNN-based state management; the 2026 version achieves it with dramatically higher accuracy using off-the-shelf LLM context windows.
+
+*Multimodal product matching.* Using GPT-4V or Gemini 1.5 Pro (both available as of 2024), the system can match voice queries against product images and text descriptions simultaneously — enabling queries like "Find me something that looks like a Chelsea boot but in suede." This capability was technically impossible for Mindori in 2016 and represents a genuinely new product surface that no current mid-market Shopify search app offers.
+
+*Merchant analytics dashboard.* A simple interface showing top voice queries, zero-result queries, and conversion rates by query type. This is not a differentiator — it is table stakes for merchant retention and the primary mechanism for demonstrating ROI at renewal.
 
 ## What We Will NOT Build
 

@@ -2,8 +2,6 @@
 
 ## Overview
 
-## Founding Story
-
 Cole Krumbholz arrived at Y Combinator's Winter 2012 batch with a specific technical frustration and a track record of shipping consumer products. Before Backlift, he had founded Koduco Games, where he designed and built iOS games that accumulated over one million downloads. <sup><a href="https://clay.earth/profile/cole-k">[3]</a></sup> That experience gave him credibility as a builder but also exposed a recurring pain point: every new project required standing up server infrastructure before writing a single line of product code.
 
 Krumbholz was one of YC's rare solo founders — a structural choice that would define both the company's agility and its eventual ceiling. <sup><a href="https://techcrunch.com/2013/04/10/yc-backlift-launch/">[4]</a></sup> He entered the batch with a product called Backlift, which he later described simply: "In 2012 I launched something called Backlift, which was a platform for single-page apps using Backbone.js." <sup><a href="https://sacra.com/research/cole-krumbholz-formspree-jamstack/">[5]</a></sup>
@@ -17,6 +15,8 @@ After YC, Krumbholz also joined Heavybit, a San Francisco accelerator specifical
 The initial vision was expansive. By May 2013, Krumbholz was articulating an ambition for Backlift to become "something akin to WordPress, where developers could use the service as a canvas to create new apps and make them available through a built-in repository." <sup><a href="https://techcrunch.com/2013/05/28/backlift-the-yc-backed-back-end-service-for-front-end-developers-launches-ab-testing-service/">[8]</a></sup> That vision never materialized. By late 2013, the company had rebranded to Brace and narrowed its focus significantly — from a platform for developers to a hosting service for designers. Two rebrands in roughly two years signal a founder in active strategic search, not one executing a clear roadmap.
 
 ---
+
+## Founding Story
 
 ## Timeline
 

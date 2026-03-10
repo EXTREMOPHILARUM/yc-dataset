@@ -10,6 +10,22 @@ The go-to-market is browser extension distribution (the Honey playbook) seeded t
 
 ## Why Now?
 
+The single most important change since Zipio's failure is that the underlying supply-side risk — complete dependency on a fragile, affiliate-program-driven daily deals ecosystem — no longer exists. The rebuild does not need daily deal publishers to survive. It targets a structurally durable local commerce discovery market anchored by platforms with stable, documented APIs: Google Maps, Yelp, DoorDash, and Uber Eats. The category Zipio was building infrastructure for has been replaced by something larger and less fragile.
+
+Several specific technology shifts make the rebuild viable in ways it was not in 2012:
+
+**LLM-powered extraction** eliminates the brittle PhantomJS/Solr crawling stack Zipio had to maintain manually. GPT-4 (March 2023) and its successors can extract structured deal data — merchant name, discount, expiration, category, location — from unstructured web pages at near-zero marginal cost. What required a custom engineering team in 2012 is now an API call.
+
+**Affiliate infrastructure maturity** removes the revenue fragility that killed the original business model. Rakuten, Impact, and CJ Affiliate now offer standardized APIs, real-time commission tracking, and merchant networks covering millions of retailers — far beyond the handful of deal publishers Dealupa depended on in 2012. The 10–15% commission model is now implementable at scale with genuine redundancy.
+
+**Cold-start-free personalization** via pre-trained sentence transformer embedding models (available as of 2022–2023) means the recommendation layer no longer requires a large proprietary training dataset to produce useful results — a bottleneck that would have limited DealRank's quality at Dealupa's 10,000-user scale.
+
+**Validated demand signal**: Honey's $4B PayPal acquisition (2019) and Capital One Shopping's growth confirm that consumers will actively use browser-layer deal discovery tools. The demand Dealupa was betting on is now proven.
+
+Distribution channels unavailable in 2012 include the Chrome Web Store (3B+ Chrome users), the Shopify App Store (2M+ merchants), and iOS/Android app stores with mature search intent signals. Specific market size data for the 2026 local commerce discovery market is not available in the research report; this should be validated independently before fundraising.
+
+---
+
 ## Current Market Analysis
 
 ## Market Size

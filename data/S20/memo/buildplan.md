@@ -10,6 +10,20 @@ The rebuild thesis is not to try again against Slack — it is to stop competing
 
 ## Why Now?
 
+The single most important change since Memo's failure is the emergence of async-first companies as an identifiable, self-selecting, and reachable B2B customer segment — one that did not meaningfully exist in 2020.
+
+In 2020, remote work was a crisis response, not an organizational philosophy. Teams were scrambling onto Slack and Teams under IT mandate, not making deliberate communication choices. By 2026, that has stratified. GitLab's public handbook, Doist's published async manifesto, 37signals' *It Doesn't Have to Be Crazy at Work*, and the broader "calm company" movement have produced a documented cohort of companies that have explicitly written async communication into their operating principles. These companies are not locked into Slack by organizational inertia — many have actively migrated away from it. Twist (by Doist) reports that its user base grew substantially through 2022–2024 on the back of this segment, though exact figures are not publicly disclosed.
+
+The second critical change is LLM capability. GPT-4 (March 2023) and its successors made it technically feasible to automatically surface highlighted questions, summarize thread context, and extract action items from unstructured message text — features Memo offered as manual UX affordances that required users to change their behavior. The behavior change requirement was almost certainly a friction source that suppressed adoption. In 2026, the AI layer removes it: the structure emerges from the message, not from the user.
+
+Third, infrastructure costs have collapsed. Supabase Realtime (production-ready by 2022), Ably, and Pusher now provide managed real-time messaging backends that a two-person team can operate at scale. The 2020 version of Memo required building this infrastructure from scratch on $150,000; the 2026 version does not.
+
+On market signals: the global team collaboration software market was valued at approximately $17.6 billion in 2023 (Grand View Research) and is projected to grow through 2030, though the specific async-first sub-segment size is not independently documented. The Substack and newsletter economy — which crossed 35 million paid subscriptions in 2023 (Substack, per company disclosure) — has demonstrated that users will pay for slower, richer written communication, validating Memo's original attention-economy thesis with actual willingness-to-pay data.
+
+Distribution channels unavailable in 2020 now exist: the Notion template marketplace, the Linear integration ecosystem, and async-first community hubs like the Remote Work community on Reddit (2.8M members) and the Async Work Slack (yes, ironically) provide targeted reach to the exact segment this rebuild targets.
+
+---
+
 ## Current Market Analysis
 
 **Market size:** The broader business communication software market was valued at approximately $17.6 billion in 2023 (Grand View Research), up from an estimated $11–12 billion in 2020. The async-first sub-segment is not independently sized in any source reviewed for this report — that figure does not exist publicly, and inventing one would be misleading. What is documentable is the proxy signal: Twist has operated profitably in this niche since approximately 2017, and Basecamp (37signals) has publicly stated it generates tens of millions in annual revenue serving a similar philosophy-aligned customer. The segment is real and monetizable, even if its total size is unquantified.

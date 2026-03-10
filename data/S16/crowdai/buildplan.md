@@ -10,6 +10,20 @@ Go-to-market runs through CDAO's Tradewind Marketplace and existing OTA consorti
 
 ## Why Now?
 
+The single most important change since CrowdAI's acquisition is the arrival of Meta's Segment Anything Model (SAM, April 2023) and its successor SAM 2 (August 2024), which enable zero-shot image segmentation across arbitrary object categories without task-specific training data. This directly eliminates the structural cost that defined CrowdAI's original business: the human annotation workforce required to handle the ~30% of images the original algorithms couldn't auto-label. A rebuilt CrowdAI can achieve CrowdAI's headline 70% auto-annotation rate from day one — at near-zero marginal cost — and push that ceiling significantly higher using foundation model pre-labeling before any human touches an image.
+
+Three additional shifts compound this advantage:
+
+**Foundation model infrastructure is now commodity.** AWS Amazon Rekognition Custom Labels, Google Vertex AI Vision, and Azure Custom Vision (all mature by 2024) handle training infrastructure, meaning a rebuild can skip the MLOps plumbing CrowdAI spent years building and focus entirely on domain-specific model quality and workflow.
+
+**The government market CrowdAI pioneered is now 5–10x larger.** The DoD's FY2024 budget allocated $1.8 billion explicitly for AI — up from a fraction of that when CrowdAI signed its first JAIC contract in 2018. The JAIC's replacement, the Chief Digital and Artificial Intelligence Office (CDAO, established 2022), has a broader mandate and faster procurement pathways including Other Transaction Authority (OTA) vehicles.
+
+**Defense-adjacent AI is now a mainstream VC category.** Andreessen Horowitz's American Dynamism fund and Founders Fund explicitly target dual-use AI — the government-heavy customer mix that likely suppressed CrowdAI's Series A to $6.25M would today be positioned as a feature. Exact 2026 fund sizes are not publicly confirmed, but the category shift is well-documented.
+
+The geospatial data supply constraint that limited CrowdAI's early product has also resolved: Planet Labs now delivers daily global coverage at sub-3m resolution, and Maxar's WorldView Legion constellation (launched 2022–2023) provides sub-0.5m commercial imagery at scale.
+
+---
+
 ## Current Market Analysis
 
 ## Market Size

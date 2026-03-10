@@ -10,6 +10,18 @@ Go-to-market is direct sales to creative agencies and in-house video teams, star
 
 ## Why Now?
 
+The single most important change since Ozone's failure is the CapCut displacement event. In January 2025, the US government forced ByteDance to divest or face a TikTok/CapCut ban under the Protecting Americans from Foreign Adversary Controlled Applications Act. While enforcement has been inconsistent, the legislative threat created genuine anxiety among the estimated 200M+ US CapCut users and the agencies, brands, and social media teams that built workflows around it. This is a structural demand signal Ozone could not have anticipated — a large, trained user base actively looking for a credible alternative with no obvious destination.
+
+The second critical change is infrastructure commoditization. WebCodecs and WebGPU APIs, broadly supported in Chrome and Edge as of 2024–2025, now enable hardware-accelerated video decoding and processing natively in the browser. Ozone spent approximately three years and most of its $7.22M building proprietary compression algorithms to achieve browser-based 8K playback. A 2026 rebuild can replicate that core technical feat in months, not years, using platform-native APIs — dramatically compressing the development timeline and preserving runway for go-to-market execution.
+
+On the infrastructure side, Cloudflare Stream (pricing available at cloudflare.com/products/cloudflare-stream) now offers programmable video transcoding and delivery at commodity rates, replacing what would have been a significant cost center. OpenAI's Whisper (open-source, released September 2022) delivers near-human transcription accuracy at near-zero marginal cost via API, eliminating the expensive caption feature that Ozone gated behind its $29/month Pro plan.
+
+The video editing software market was valued at approximately $2.1B in 2023 (source: research report). Specific 2025–2026 market size data is not available to this author, but the CapCut displacement event represents a near-term demand spike that is time-sensitive and real.
+
+Distribution channels unavailable to Ozone now exist: the Shopify App Store (2M+ merchants producing product video), the Notion partner ecosystem, and Slack's App Directory all offer direct access to the B2B team workflows that are the correct target for a 2026 rebuild.
+
+---
+
 ## Current Market Analysis
 
 **Market size:** The global video editing software market was approximately $2.1B in 2023, growing at ~7% CAGR through 2030 (source: research report). Updated 2026 figures are not available to this author. The broader creator economy was estimated at over $100B in 2023, with the software layer representing a fraction of that. The more relevant market for a 2026 rebuild is the B2B video workflow segment — agencies, social media teams, and localization teams — where willingness to pay is higher and switching costs are structurally greater than in the solo creator segment.

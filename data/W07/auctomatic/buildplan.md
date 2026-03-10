@@ -10,6 +10,18 @@ The go-to-market angle targets the reseller who's already paying $20–30/month 
 
 ## Why Now?
 
+The single most important change since Auctomatic's 2008 exit is that the market it was betting on has been independently validated at scale. ChannelAdvisor — the incumbent Auctomatic would have competed against — was acquired by CommerceHub for $228 million in 2022. Linnworks has reached a reported valuation above $1 billion. These outcomes confirm that unified multi-channel seller management is a real, durable business category, not a feature waiting to be absorbed by eBay. Auctomatic's founders never got to test that thesis; the market has now tested it for them.
+
+The second structural change is AI capability. In 2007, automating listing creation required brittle rule-based systems and significant engineering investment. GPT-4 (March 2023) and Claude 3.5 Sonnet (June 2024) can generate SEO-optimized product titles, descriptions, category tags, and condition notes from a single photo or SKU in under two seconds, at a cost of fractions of a cent per listing. This collapses what was previously the highest-friction part of the power-seller workflow into a near-zero-marginal-cost feature. A two-person technical team in 2026 can ship listing automation that would have required a dedicated ML team in 2007.
+
+The third change is API maturity. eBay's Developer Program, Amazon's SP-API (launched in its current stable form in 2020), Shopify's Partner API, and TikTok Shop's API (US launch 2023) now offer standardized, contractually documented integration surfaces. The platform-dependency risk that made Auctomatic's position structurally precarious — building on APIs that could change without notice — is meaningfully reduced, though not eliminated.
+
+The fourth change is market scope. The global cross-border e-commerce market grew from approximately $780 billion in 2019 to over $1 trillion by 2022 (per industry estimates; precise 2026 figures are not available at time of writing). The number of platforms a seller must manage has expanded from three (eBay, Amazon, Overstock) to potentially a dozen: Etsy, Shopify, TikTok Shop, Poshmark, Mercari, StockX, GOAT, Facebook Marketplace, and Walmart Marketplace are all live distribution surfaces with active seller ecosystems. The coordination problem Auctomatic was solving in 2007 is now five times larger.
+
+Primary distribution channel: the Shopify App Store, which serves 2 million+ active merchants, offers a qualified, self-selected audience of multi-channel sellers with demonstrated willingness to pay for third-party tooling.
+
+---
+
 ## Current Market Analysis
 
 **Market size**: The multi-channel e-commerce management software market was valued at approximately $3.5 billion globally in 2023 (MarketsandMarkets estimate; 2026 figures not available at time of writing), compared to a market that was nascent and unquantified in 2007. The reseller sub-segment — individual and small-team sellers operating across secondhand and recommerce platforms — is not separately broken out in available data, but platform-level signals are strong: Poshmark reported 8 million active sellers at its 2021 IPO; Mercari reported 23 million annual users in the US in 2023.
@@ -51,3 +63,13 @@ Time-series analysis of sold comps on each platform, surfaced as a weekly "repri
 ---37:T970,
 
 ## Go-to-Market Strategy
+
+**Target customer**: Individual resellers and small teams (1–3 people) selling secondhand, vintage, or wholesale goods across 3+ platforms simultaneously, generating $2,000–$20,000/month in gross merchandise volume. Specifically: the active contributor base of r/Flipping, r/Poshmark, and r/Mercari — sellers who are already vocal about workflow pain, already using spreadsheets or manual cross-posting tools, and already paying for inferior alternatives like Vendoo or List Perfectly.
+
+**Primary distribution channel**: Content-led organic acquisition through the reseller subreddits and YouTube. The reseller community is unusually tutorial-hungry — "how I listed 100 items in 2 hours" content routinely reaches hundreds of thousands of views. A founder-led content strategy (demo videos, workflow teardowns, before/after listing quality comparisons) can drive qualified signups at near-zero CAC in the first 12 months. Secondary channel: Shopify App Store listing targeting merchants who already sell on Shopify and want to expand to eBay or Poshmark.
+
+**Pricing**: $49/month for up to 500 active listings across 5 platforms; $99/month for unlimited listings and dynamic pricing recommendations. No free tier — a 14-day free trial only.
+
+**Price stress-test**: The direct free alternatives are manual cross-posting (time cost: 10–20 minutes per item) and spreadsheet inventory tracking (no monetary cost, high cognitive load). Vendoo charges $29–$109/month for manual cross-posting without AI. The $49 price point is justified if the AI listing generator saves a seller 5+ hours per month — a threshold most active resellers will clear in their first week. The honest risk: sellers who list fewer than 20 items per month will not clear that threshold and should not be targeted. Pricing and messaging should be calibrated to sellers with active, ongoing inventory, not occasional sellers.
+
+**Differentiation vs. 2026 competitors**: Vendoo and List Perfectly are cross-posting tools; they move listings between platforms but do not generate, optimize, or price them. ChannelAdvisor and Linnworks serve a different customer at 10–20x the price. The rebuild's differentiation is AI-native listing creation — the feature that collapses the highest-friction workflow step — combined with a price point accessible to individual resellers. No current competitor in the reseller segment offers both.

@@ -113,6 +113,16 @@ The company raised three rounds totaling a confirmed $1.5 million, with two earl
 
 ## Traction
 
+Zillabyte's most concrete public validation came at the LAUNCH Festival in March 2013. The company won the "Best Enterprise 2.0" award<sup><a href="https://launch.co/blog/all-launch-festival-2013-winners-and-investment-prizes.html">[26]</a></sup> and achieved the highest crowd-favorite score of any startup at the event: 992,000 simulated crowdfunding points.<sup><a href="https://venturebeat.com/entrepreneur/and-the-winners-of-launch-are/">[27]</a></sup> A mid-festival VentureBeat report showed Zillabyte leading the leaderboard with 651,000 points before the final tally.
+
+<media-image src="https://img-cdn.tnwcdn.com/image/tnw-blurple?filter_last=1&fit=1280%2C640&url=https%3A%2F%2Fcdn0.tnwcdn.com%2Fwp-content%2Fblogs.dir%2F1%2Ffiles%2F2013%2F03%2Flaunchfestival.jpg&signature=dfbc5f5b81bce373a88e5cfbdd1e94de" alt="The Next Web: Launch Festival 2013 winners — Zillabyte takes Enterprise prize" caption="The Next Web's announcement of the 2013 Launch Festival winners, with Zillabyte taking the top Enterprise 2.0 prize alongside Boxbee and Jawfish Games."></media-image>
+
+Beyond festival performance, no customer counts, revenue figures, or usage metrics were ever disclosed for either product era. The $1.5M seed round closed in June 2013—three months after the LAUNCH Festival win—suggesting investors were encouraged by the public momentum. But the pivot announcement fourteen months later, in August 2014, implicitly confirmed that the sales-leads product had not achieved the commercial traction needed to justify continued investment in that direction.
+
+The company's GitHub organization remained active through late 2014, with repositories for the Motherbrain backend, example applications, and web crawling components—evidence of continued engineering output after the pivot, but not of commercial adoption.
+
+---
+
 ## Post-Mortem
 
 Zillabyte's failure was not a single catastrophic event. It was a sequential compression: each strategic move that seemed rational in isolation left the company in a worse competitive position than before. Two distinct failure modes operated in series.

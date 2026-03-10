@@ -10,6 +10,16 @@ The go-to-market is direct sales to mid-market self-insured employers in high-bu
 
 ## Why Now?
 
+The single most important change since Airo's 2016 failure is the emergence of a proven B2B distribution channel that did not meaningfully exist when the company operated: employer mental health benefits spending. US employers spent approximately $15.5 billion on mental health benefits in 2023, up from roughly $5 billion in 2016 (source: Tracxn/rebuild signals). This channel allows a rebuilt Airo to bypass the direct-to-consumer conversion problem that likely killed the original — selling to self-insured HR buyers rather than convincing individual consumers to purchase a $200 stress wearable.
+
+The hardware credibility gap that destroyed Airo's 2013 launch and constrained its 2016 product has also been eliminated. Apple Watch Series 4 (September 2018) demonstrated that wrist-based optical HRV sensing achieves clinically comparable accuracy to medical-grade devices at consumer scale. Whoop 4.0 (October 2021) built a $3.6 billion business — raising $200 million in 2021 — with HRV-based stress and recovery tracking as its explicit core value proposition. These are not adjacent validations; they are direct proof that the market Airo was targeting exists and is large.
+
+Two additional technology shifts make the rebuild meaningfully better than the original. First, on-device ML inference via Apple Neural Engine and Qualcomm AI chips (broadly available from 2020 onward) enables real-time HRV pattern classification and stress-rise alerts without cloud round-trips — the low-latency, low-battery feature Airo described in 2016 but could not have reliably delivered on 2016 hardware. Second, LLMs — specifically GPT-4 (March 2023) and Claude 3 (March 2024) — can generate personalized, context-aware stress intervention recommendations from HRV data streams in real time, replacing the static "built-in exercises" Airo described with dynamically adaptive coaching that would have required a large clinical content team to build eight years ago.
+
+Contract manufacturing platforms including Fictiv, PCBWay, and Jabil's startup program have reduced first-hardware-run costs by an estimated 60–80% versus the YC S16 era, making a small founding team's hardware ambitions structurally more achievable.
+
+---
+
 ## Current Market Analysis
 
 **Market Size:** The global mental health app market was estimated at approximately $587 million in 2018; it reached approximately $6.2 billion in 2023 and is projected to exceed $17 billion by 2030 (source: Grand View Research — note: exact figures should be independently verified at time of fundraising). The corporate wellness market, the more relevant distribution target for a rebuilt Airo, is estimated at $61 billion globally in 2023 (Global Wellness Institute — verify independently). US employer mental health benefits spending specifically reached $15.5 billion in 2023, up roughly 3x from 2016.

@@ -6,11 +6,23 @@ By 2026, Clever 2.0 is a district-first data integration and analytics platform 
 
 The rebuild wins on speed and insight, not just plumbing. Instead of positioning as "the SSO layer," it leads with a district-pays analytics dashboard that shows usage patterns, teacher adoption, and student engagement across the entire edtech stack. That visibility is what districts will pay for. SSO and AI-powered app recommendations are table stakes—the analytics layer is the revenue engine.
 
-Go-to-market targets IT directors at mid-market multi-academy trusts in the UK first, where fragmentation is acute and budget cycles are predictable. Free tier for adoption, premium tier for analytics depth. The original Clever owned the infrastructure but couldn't monetize it. This version owns the insight.34:Ta0d,
+Go-to-market targets IT directors at mid-market multi-academy trusts in the UK first, where fragmentation is acute and budget cycles are predictable. Free tier for adoption, premium tier for analytics depth. The original Clever owned the infrastructure but couldn't monetize it. This version owns the insight.33:Ta0d,
 
 ## Why Now?
 
 ## The single most important change: LLM-assisted SIS integration has collapsed the cost of Clever's core technical moat.
+
+Clever's defensibility was built on years of painstaking, hand-coded integrations with dozens of idiosyncratic SIS platforms — PowerSchool, Infinite Campus, Skyward, and others — each with different data schemas, export formats, and authentication mechanisms. That integration library took years and tens of millions of dollars to build and was genuinely difficult to replicate. As of 2024–2025, large language models including GPT-4 (March 2023) and Claude 3 (March 2024) can parse, map, and normalize heterogeneous data schemas with dramatically less manual engineering effort. A new entrant building SIS integrations today faces a fraction of the engineering cost that Clever faced in 2012–2016. This changes the competitive calculus for international markets where Clever never built its integration library.
+
+**The district budget relationship has structurally shifted.** COVID-era digital transformation (2020–2021) forced K-12 districts to formalize edtech procurement. US K-12 edtech investment reached $2.2B in 2020 alone, per HolonIQ — a figure that would have been unimaginable in 2012. Districts now carry dedicated edtech budget line items that did not exist when Clever made its free-to-districts decision. This makes a district-pays premium tier viable in a way it was not during Clever's formative years.
+
+**International markets are structurally unserved.** Wonde (UK) has built a partial equivalent in Britain but has not achieved Clever-scale penetration across the EU or Australia. Specific penetration figures for Wonde are not publicly disclosed, but the absence of a dominant infrastructure standard in these markets is confirmed by the fragmented competitive landscape visible in EdTech procurement databases. The UK alone has approximately 24,000 schools; the EU has roughly 200,000. No single API standard serves them.
+
+**The AI edtech wave is creating a new developer cohort that needs exactly what Clever provided in 2012.** The 2023–2025 explosion of AI-powered tutoring, adaptive learning, and assessment tools — from startups to well-funded players like Khan Academy's Khanmigo — has produced a new generation of edtech developers who need a single integration point to reach districts. The demand signal is structurally identical to 2012; the developer ecosystem is larger and better-funded.
+
+**Distribution channel available now:** The Instructure (Canvas) partner ecosystem and Microsoft Education partner network provide warm introduction paths to district IT administrators that did not exist at Clever's founding.
+
+---
 
 ## Current Market Analysis
 

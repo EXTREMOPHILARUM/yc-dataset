@@ -10,6 +10,18 @@ We win by going narrow first: launch in one high-tourism U.S. city targeting ope
 
 ## Why Now?
 
+The single most important change since BookSolid's failure is the commoditization of marketplace infrastructure. In 2012, a solo founder had to build payment splitting, operator dashboards, consumer search, and booking logic from scratch—consuming most of a $120K runway before acquiring a single customer. In 2026, Stripe Connect handles multi-party payouts, commission splits, and refund logic via API calls. This alone collapses what was once a 6–12 month engineering workload into weeks, fundamentally changing the capital math that killed BookSolid.
+
+The second structural shift is distribution. FareHarbor (acquired by Booking.com for a reported ~$250M in 2018) now serves an estimated 20,000+ tour operators as their primary booking software. This creates a known, concentrated supply base that BookSolid never had access to. Rather than cold-calling fragmented operators, a 2026 rebuild can target operators already digitized and already paying for SaaS tools—dramatically reducing supply-side acquisition costs.
+
+On the demand side, consumer behavior has completed the shift BookSolid was betting on prematurely. U.S. travel spending exceeded $1.1 trillion in 2023 (U.S. Travel Association), and Google's "Things to Do" API, launched in 2021, now surfaces activity listings directly in search results—meaning operators with structured inventory data receive organic discovery at no cost. Airbnb Experiences, launched in 2016, normalized the concept of booking local experiences online for a generation of travelers.
+
+Finally, GPT-4 (March 2023) and its successors enable near-zero-cost generation of SEO-optimized tour descriptions, multilingual listings, and structured metadata—eliminating the content operations burden that made scaling marketplace supply expensive for every competitor in this category, including GetYourGuide, which spent years and tens of millions solving this manually.
+
+The market BookSolid was too early and too undercapitalized to build is now ready to be rebuilt leaner, faster, and with a defensible distribution wedge.
+
+---
+
 ## Current Market Analysis
 
 The global tours, activities, and experiences market is estimated at approximately $254 billion in 2023, up from roughly $100 billion in the early 2010s when BookSolid operated (source: Allied Market Research; note that methodology varies across research firms and exact figures should be independently verified). Online penetration, historically the category's weakness, has accelerated significantly post-COVID, though precise current penetration rates are not available in public sources.

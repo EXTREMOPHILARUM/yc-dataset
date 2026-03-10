@@ -10,6 +10,14 @@ Go-to-market is land-and-expand through CRM integrations. Launch with a one-clic
 
 ## Why Now?
 
+The single most important change since VOIQ's failure is the commoditization of the entire conversational voice AI stack. In 2019–2021, VOIQ was attempting to assemble speech recognition, natural language understanding, and voice synthesis into a production system from scratch — with 21 people and $5M total. That engineering challenge broke the team. In 2026, every component is an API call.
+
+Specifically: Deepgram's Nova-2 speech-to-text model (released 2023) delivers sub-300ms transcription latency with industry-leading accuracy across accents and background noise. ElevenLabs' voice cloning API (commercially available 2023) replicates VOIQ's "Clone-Your-Voice" differentiator at approximately $0.30 per 1,000 characters — a feature VOIQ treated as a competitive moat now costs pennies. Twilio's Programmable Voice with Media Streams enables real-time audio piping to LLM backends. Most critically, GPT-4 (March 2023) and its successors — including GPT-4o (May 2024) with native audio processing — provide the open-ended natural language understanding that VOIQ's pre-transformer NLU stack could never reliably deliver. Platforms like Vapi, Bland.ai, and Retell AI (all launched 2023–2024) have already assembled these components into orchestration layers specifically for outbound AI calling agents, meaning a rebuilt VOIQ can build *on top of* infrastructure rather than building the infrastructure itself.
+
+The market has also been validated in ways it hadn't been by 2022. Gong reached a $7.25B valuation (per public reporting), and Outreach and Salesloft achieved unicorn status, confirming enterprise willingness to pay for AI-assisted sales workflows. The AI voice agent market specifically is projected to grow substantially through 2027, though precise figures for the outbound-only segment are not publicly available. Distribution is now cleaner too: the HubSpot App Marketplace serves 200,000+ businesses, and the Salesforce AppExchange hosts 7,000+ apps with direct access to enterprise procurement workflows — channels VOIQ listed as partners but could not fully leverage given immature API ecosystems in 2019.
+
+---
+
 ## Current Market Analysis
 
 The global conversational AI market was valued at approximately $17B in 2019 (the call center software segment VOIQ cited). By 2024, analyst estimates place the broader conversational AI market at $14–29B depending on scope definition — exact figures vary significantly by source and methodology, so treat these as directional rather than precise. The AI voice agent sub-segment is newer and not yet cleanly measured in public research.

@@ -2,6 +2,18 @@
 
 ## Overview
 
+In 2022, building a credible intent data product required either (a) purchasing expensive third-party behavioral data from networks like Bombora, or (b) accumulating years of proprietary first-party web traffic across thousands of customer deployments — the moat that 6sense and Demandbase spent a decade building. CustomerOS had neither. By 2026, GPT-4 (March 2023) and its successors can extract structured buying signals — urgency, fit, objection type, competitive consideration — from unstructured first-party inputs: email threads, support tickets, product event logs, and CRM notes. This collapses the signal curation cost from "requires a proprietary data network" to "requires access to your own data," which every company already has. The data-network moat that killed CustomerOS's final iteration is no longer the barrier to entry.
+
+**Privacy collapse has validated the demand side.** Google completed third-party cookie deprecation in 2024. Apple's ATT framework has measurably degraded mobile attribution. GDPR enforcement actions have increased in frequency and fine size. The result: B2B companies that relied on third-party intent data and outbound enrichment are experiencing pipeline visibility collapse in real time. This is not a thesis — it is a reported operational crisis for RevOps teams in 2025.
+
+**The open source CRM category has been validated.** Twenty (open source Salesforce alternative) raised $5M in 2024 and has accumulated meaningful GitHub traction. Huly has demonstrated that developer-led CRM adoption is a real GTM motion, not a theoretical one. CustomerOS abandoned this wedge in 2022 before the category had proof points; those proof points now exist.
+
+**Market data:** Clay reported a $200M ARR run rate in 2024 (source: public reporting). 6sense has raised $200M+. The GTM intelligence market — estimated at $3.1B in 2023 by MarketsandMarkets, though this figure should be treated with caution as analyst estimates in this category vary widely — is growing. Buyer willingness to pay is no longer a risk; execution and differentiation are.
+
+**Distribution infrastructure:** The Supabase Cloud marketplace, Vercel's integration ecosystem, and the GitHub Marketplace now provide direct access to the developer and technical RevOps audience that CustomerOS's open source wedge requires — channels that were less developed in 2022.
+
+---
+
 ## Why Now?
 
 ## The single most important change: LLMs have eliminated the manual signal curation cost that made intent data platforms structurally inaccessible to pre-seed companies.
@@ -61,3 +73,12 @@ A lightweight, opinionated UI (not a full CRM) that surfaces the top 10 accounts
 **Primary distribution channel:** GitHub + the PostHog and Supabase integration ecosystems. The open source repository is the top-of-funnel; integration listings in PostHog's app library and Supabase's marketplace provide direct access to the exact technical RevOps audience described above. Secondary channel: founder-led content on LinkedIn targeting RevOps practitioners, using the "pipeline blindness" framing that CustomerOS's final iteration articulated well but never had the distribution to amplify.36:T570,
 
 ## Pricing strategy:
+
+- Self-hosted: free, open source (MIT license)
+- Cloud managed (up to 3 users, 500 tracked accounts): $0/month — permanent free tier to drive adoption
+- Cloud managed (up to 10 users, 5,000 tracked accounts): $299/month
+- Cloud managed (unlimited, SSO, audit logs, dedicated support): $999/month
+
+**Stress test against free alternatives:** A RevOps lead can approximate ICP scoring today using HubSpot's free tier, a Google Sheet, and a Clay free trial. The honest answer is that this works — badly, manually, and without continuous updating — for companies under $2M ARR. The $299/month price is justified only if the product demonstrably saves 4+ hours per week of manual scoring work and improves pipeline conversion rate by a measurable amount. The MVP success metrics above (NRR > 110%) are the validation gate for this claim; the pricing should not be locked in until month 6 customer interviews confirm willingness to pay at this level.
+
+**Differentiation vs. 2026 competitors:** Clay wins on third-party enrichment breadth; this product wins on first-party signal depth and self-hosting. 6sense wins on enterprise data network scale; this product wins on price, data residency compliance, and time-to-value for mid-market buyers. Twenty wins on CRM data storage; this product wins on intelligence and action — it tells you what to do with the data, not just where to store it.

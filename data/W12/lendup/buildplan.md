@@ -8,6 +8,16 @@ The go-to-market is B2B2C through payroll platforms like ADP and Gusto, where th
 
 ## Why Now?
 
+The single most important change since LendUp's failure is the commoditization of compliance infrastructure. In 2012, LendUp had to build credit bureau reporting, adverse-action notice generation, and regulatory monitoring entirely in-house — and failed to do so reliably for two years. That two-year reporting gap was the original sin that triggered every subsequent enforcement action. In 2026, that same compliance stack is available as third-party APIs requiring weeks, not years, to integrate.
+
+Specifically: Alloy, Sardine, and Unit21 now offer automated adverse-action notice generation, Military Lending Act screening, and real-time regulatory monitoring as composable API services — directly addressing the three categories of violations documented in LendUp's 2016 and 2021 CFPB actions. Equifax, TransUnion, and Experian all publish developer-facing furnisher integration documentation, enabling automated real-time credit reporting at loan origination. The two-year gap that destroyed LendUp is now a two-week integration sprint.
+
+The second structural shift is open banking data. LendUp underwrote borrowers using social media signals — an approach that was both methodologically weak and regulatorily exposed. Plaid, MX, and Finicity (Mastercard) now provide real-time income verification and cash-flow analysis at underwriting, offering a richer, more defensible alternative credit signal with established regulatory acceptance.
+
+The market opportunity has also been empirically validated since 2012. The CFPB estimated 12 million Americans use payday loans annually, generating approximately $9 billion in fees. Chime reached a reported $25 billion valuation serving the adjacent underbanked deposit market. Mission Lane — built on LendUp's own market thesis — reportedly reached $100M+ ARR. The demand LendUp assumed is now proven. The compliance infrastructure to serve it honestly now exists. The gap between those two facts is the rebuild opportunity.
+
+---
+
 ## Current Market Analysis
 
 **Market Size:** The U.S. payday and small-dollar lending market generated approximately $9 billion in annual fees at the time of LendUp's founding, per CFPB estimates, against a broader alternative financial services market exceeding $100 billion annually. Current market size data for 2025–2026 is not available in the research report, but structural demand signals — Chime's $25B reported valuation, Mission Lane's continued operation, and the CFPB's 2024 distribution of $40M to 118,000 LendUp victims still actively seeking redress — confirm the market has not contracted.

@@ -14,6 +14,18 @@ By 2026, the capability gap has closed materially. GPT-4o and Claude 3.5 Sonnet 
 
 ## The single most important change: LLM-native text-to-SQL is now a shippable core feature, not a two-engineer research project.
 
+*Well-capitalized incumbents:*
+- **Looker (Google):** Dominant in enterprise, but the embedding experience is iFrame-based, requires LookML expertise, and minimum contract sizes effectively exclude mid-market SaaS teams. Weakness: too expensive and too complex for a 10–50 person SaaS company shipping its first analytics feature.
+- **Sigma Computing:** Strong for internal analytics; embedding story is secondary to its core spreadsheet-like interface. Weakness: not developer-first, pricing is enterprise-only.
+- **Metabase:** Excellent self-serve adoption (50,000+ organizations), but its embedding is iFrame-based and its white-labeling is limited on the free tier. Weakness: the open-source version requires self-hosting and lacks production RLS without significant configuration.
+
+*Direct embedded analytics competitors (Vizzly's former competitive set):*
+- **Explo:** Actively solicited Vizzly's customers post-acquisition, indicating real market presence. Weakness: no publicly documented LLM-native querying as of the research report; pricing starts at $995/month, which is a high floor for early-stage SaaS teams.
+- **Embeddable:** Published a dedicated Vizzly alternatives page, confirming competitive overlap. Weakness: developer-heavy setup; the semantic layer configuration requires significant upfront engineering investment.
+- **Cube:** Strong semantic layer, but it is infrastructure, not a complete embedded analytics product. Weakness: requires assembling a visualization layer separately; not a one-stop solution.
+
+**Demand signals from adjacent products:** The explosive growth of tools like Retool (internal tools), Hex (collaborative notebooks), and Observable (data apps) confirms that SaaS teams want to ship data experiences faster than they can build them. The specific gap — customer-facing, white-labeled, AI-queryable — remains underserved at the sub-$500/month price point.
+
 ## Specific market validation since Vizzly's operation:
 
 - Sigma Computing raised $200M at a $1.5B valuation in 2024 (source: Sigma press release), confirming enterprise willingness to pay at scale.
@@ -82,3 +94,11 @@ The host developer points the SDK at their Postgres connection string, and the p
 **Primary distribution channel:** The Supabase ecosystem. The rebuilt product is architected natively on Postgres RLS, which means Supabase users can integrate it with near-zero database configuration. A Supabase integration listing, a featured template in the Supabase template gallery, and active participation in the Supabase Discord (100,000+ members as of 2024, source: Supabase blog) provide a warm, developer-qualified top-of-funnel. Secondary channel: a public GitHub repository with a Next.js + Supabase starter template, optimized for organic search on queries like "embed analytics dashboard Next.js."37:T5b9,
 
 ## Pricing strategy:
+
+- **Free tier:** Up to 3 embedded dashboards, 1,000 end-user queries/month, full RLS, NL querying included. This is the critical difference from Vizzly's Lite plan — the free tier is production-deployable.
+- **Growth tier:** $199/month — unlimited dashboards, 25,000 queries/month, custom theming, priority support.
+- **Scale tier:** $599/month — unlimited queries, dedicated query cache, SLA, SSO.
+
+**Stress-test against free alternatives:** A SaaS team could use Metabase (self-hosted, free) or build a custom Chart.js implementation. Metabase self-hosted requires DevOps overhead, lacks NL querying, and has limited white-labeling. Chart.js requires 4–8 weeks of engineering. The $199/month price is justified if — and only if — the onboarding promise holds: a working, production-grade embedded analytics layer in under two hours. If that promise fails, the free alternatives win. The pricing is therefore contingent on the MVP's onboarding metric (2-hour time-to-dashboard) being achieved before charging begins.
+
+**Differentiation vs. 2026 competitors:** Against Explo ($995/month floor), the rebuild wins on price for early-stage teams. Against Metabase (self-hosted), it wins on NL querying and zero DevOps. Against Embeddable, it wins on onboarding speed via the auto-generated semantic layer. The rebuild does not claim to win on enterprise features, breadth of visualization types, or non-Postgres databases — those are explicitly deferred.

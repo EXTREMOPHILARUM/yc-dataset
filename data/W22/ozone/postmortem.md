@@ -108,6 +108,18 @@ No revenue figures were disclosed at any stage. The pricing structure was announ
 
 ## Traction
 
+Ozone's open beta launched simultaneously with its seed round announcement on November 8, 2023. <sup><a href="https://techcrunch.com/2023/11/08/ozone-raises-7-1m-to-scale-its-ai-powered-collaborative-video-editor/">[28]</a></sup> No user count, daily active user figure, or revenue metric was disclosed at any point in the company's public history.
+
+<media-tweet url="https://x.com/ycombinator/status/1722320582023541135" author="@ycombinator" date="2023-11-08" text="Congrats to the @ozonefuture team on their launch and $7.1 million seed! Ozone (YC W22) is building an AI-powered and collaborative video editing platform, designed to make video content creation 10x faster for content creators and their teams."></media-tweet>
+
+The seed round itself was won primarily on the strength of the technical demo rather than user metrics. NEA Partner Jonathan Golden confirmed this directly: "When we saw the initial product demo from Max, we realized it was a technical feat to be able to handle editing of rich video content seamlessly in a web app with multiple editors collaborating at once." <sup><a href="https://www.prnewswire.com/news-releases/ozone-secures-7-1-million-in-funding-to-transform-video-editing-workflows-301980871.html">[29]</a></sup>
+
+Proxy signals of activity suggest the company remained engaged through mid-2024. The Vercel partnership announcement in March 2024 indicated ongoing infrastructure investment. <sup><a href="https://x.com/ozonefuture?lang=en">[30]</a></sup> The Product Hunt launch in June 2024 generated community engagement. An invite-only "AI Day" event at Ozone's San Francisco headquarters in July 2024 was one of the last documented public activities. <sup><a href="https://www.linkedin.com/company/ozoneapp">[31]</a></sup> After July 2024, no further public activity has been documented.
+
+The absence of any user or revenue data across the company's entire public life—from YC in 2022 through the seed round in 2023 and the Product Hunt launch in 2024—is itself a signal. Companies with strong traction typically share it.
+
+---
+
 ## Post-Mortem
 
 Ozone made no public shutdown announcement. No founder post-mortem, no blog post, no tweet thread explaining what happened. The company's end is visible only through absence: a YC directory listing that reads "Inactive," a founder LinkedIn that lists Ozone in the past tense, and a product website that no longer functions. <sup><a href="https://www.ycombinator.com/companies/ozone/jobs">[32]</a></sup> <sup><a href="https://www.linkedin.com/in/maxvwolff/">[33]</a></sup> What follows is an analysis of the most likely failure causes, ordered by probable significance, based on available evidence.

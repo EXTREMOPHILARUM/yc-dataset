@@ -6,9 +6,23 @@ By 2026, Opkit is a self-serve API for outbound healthcare verification calls—
 
 The market shift is simple: voice AI is now reliable enough to work without a human fallback. The original Opkit needed humans to catch failures; the rebuilt version doesn't. That changes the unit economics entirely—verification calls that cost $3–5 with a human safety net now cost $0.45 fully automated. Virtual clinics with thin margins and high call volume win immediately.
 
-Distribution is direct: Canvas Medical's app directory and Hint Health's partner network give you 3,000+ target customers without a sales team. The go-to-market is self-serve onboarding, transparent pricing, and a 90-day target of 10 paying clinics. You win by being the only vendor that works out of the box for this segment—no IVR mapping, no compliance theater, just API calls that work.34:T9d3,
+Distribution is direct: Canvas Medical's app directory and Hint Health's partner network give you 3,000+ target customers without a sales team. The go-to-market is self-serve onboarding, transparent pricing, and a 90-day target of 10 paying clinics. You win by being the only vendor that works out of the box for this segment—no IVR mapping, no compliance theater, just API calls that work.33:T9d3,
 
 ## Why Now?
+
+The single most important change since Opkit's failure: production-grade voice AI is now reliable enough to eliminate the human-in-the-loop fallback as a structural cost center.
+
+When Opkit built its AI call center in 2024, the human escalation layer was not a product choice—it was an engineering necessity. Accent recognition failures, IVR navigation errors, and multi-turn dialogue breakdowns were frequent enough that a human fallback team was operationally required. That constraint directly compressed margins and made the path to venture-scale gross margins longer than available runway allowed.
+
+By 2026, that constraint is materially weaker. GPT-4o (May 2024) introduced real-time audio processing with sub-300ms latency. ElevenLabs' v3 voice synthesis (2025) produces speech indistinguishable from human agents in blind tests, per the company's published benchmarks. Deepgram's Nova-3 model (2025) achieves word error rates below 5% on medical terminology and diverse accents—the specific failure mode Callaway cited publicly. Combined, these three components now handle the majority of insurance carrier IVR trees and multi-turn verification calls without human intervention. The human fallback can be retained as a genuine edge-case safety net rather than a primary operational channel, restoring the unit economics of a software business.
+
+Additional structural tailwinds are now in place. HIPAA-compliant managed infrastructure—AWS HealthLake, Google Cloud Healthcare API, Azure Health Data Services—is available off the shelf, eliminating the compliance engineering burden that contributed to Opkit's 18-month gap between founding and public launch. The US telehealth market has normalized post-COVID into a stable cohort of virtual-first specialty clinics with multi-year operating histories and demonstrated willingness to pay for administrative automation. This is a more mature, more closeable buyer than existed in 2021.
+
+Market data on the RCM automation segment specifically is not publicly available at the sub-segment level; the broader RCM market is estimated at $240B+ annually (CAQH 2023 Index), with phone-based administrative transactions representing a disproportionate share of manual cost.
+
+Distribution channels unavailable to Opkit now exist: the athenahealth Marketplace, Hint Health's partner ecosystem (serving 3,000+ direct primary care practices), and the Canvas Medical app directory provide direct access to virtual-first clinic operators without cold outbound.
+
+---
 
 ## Current Market Analysis
 

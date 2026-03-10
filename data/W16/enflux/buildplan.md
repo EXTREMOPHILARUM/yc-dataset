@@ -10,6 +10,18 @@ The rebuild thesis is not to repeat the hardware bet. Camera-based AI pose estim
 
 ## Why Now?
 
+The single most important change since Enflux's failure is that full-body pose estimation is now a free API call, not a ten-sensor garment.
+
+Google's MediaPipe Pose (released in production form August 2020, updated to BlazePose GHUM in 2021) extracts 33 full-body landmarks at 30+ fps from a standard smartphone camera with no wearable hardware. Apple's Vision framework added full-body skeleton tracking in iOS 17 (September 2023). Meta's EgoBody research (2022–2023) demonstrated egocentric body tracking from a single camera. These systems do not match the angular precision of ten calibrated IMUs — that gap is real and should not be papered over — but for the clinical and coaching use cases Enflux was targeting, they are accurate enough to detect the asymmetrical knee valgus, forward trunk lean, and lumbar flexion patterns that precede injury. The manufacturing problem that consumed Enflux's runway and killed its unit economics simply does not exist for a software-first rebuild.
+
+The second structural change is reimbursement. CMS CPT codes 98975–98977, introduced in 2022, allow billing for remote therapeutic monitoring (RTM) of musculoskeletal conditions — specifically including device supply, initial setup, and monthly treatment management. A physical therapist can now bill approximately $115–$130/month per patient for a software tool that monitors movement between sessions. This reimbursement pathway did not exist when Enflux was operating. Hinge Health ($600M+ raised, per Crunchbase) and Kaia Health have validated employer and insurer willingness to pay for digital musculoskeletal programs; the RTM codes extend that willingness to pay into the fee-for-service Medicare and commercial insurance system.
+
+On the hardware side, if a wearable component is eventually warranted: IMU module costs have fallen from ~$5–10/unit in 2016 to under $1/unit at volume in 2024 (per component pricing data from Mouser and DigiKey for ICM-42688-P class sensors), and Bluetooth LE 5.0 (widely adopted by 2020) extends battery life from Enflux's 14-hour constraint to 40+ hours on comparable sensor arrays. LLM-based coaching (GPT-4o, available via API since May 2024) can generate personalized, contextual form feedback from structured pose data without the 500-trainer labeling effort Enflux undertook. The coaching intelligence layer that required significant human capital in 2016 can now be prototyped in weeks.
+
+Distribution channel available now that did not exist in 2016: WebPT's marketplace (35,000+ physical therapy clinics) and Clinicient/Raintree partner ecosystems provide direct access to the clinical buyer without building a sales force from scratch.
+
+---
+
 ## Current Market Analysis
 
 **Market size:** The U.S. physical therapy market was valued at approximately $46 billion in 2023 (Grand View Research), up from roughly $30 billion in 2016. The digital musculoskeletal (MSK) health market — the more specific segment — is harder to bound precisely; Hinge Health's $600M+ raise and $6B+ valuation at its 2024 IPO filing implies investors believe the addressable market is in the tens of billions. The RTM billing market specifically is nascent: the codes were introduced in 2022 and adoption is still accelerating, so precise market size data is not yet available from public sources.

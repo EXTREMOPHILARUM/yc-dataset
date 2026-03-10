@@ -2,6 +2,18 @@
 
 ## Overview
 
+The single most important change since Dialect's failure is the collapse of LLM inference costs combined with the expansion of context windows—two shifts that together eliminate the two hardest engineering problems Dialect faced in 2022–2023.
+
+When Dialect was building, GPT-3 offered roughly 4K token context windows, forcing a chunked retrieval-augmented generation (RAG) architecture that required significant ML expertise to make reliable. By contrast, Claude 3 (March 2024) offers 200K+ token context windows, meaning a rebuilt Dialect can ingest an entire company knowledge base—security policies, prior questionnaire responses, help center articles—in a single prompt. This is not a marginal improvement; it eliminates the primary engineering complexity that justified Dialect's 15-month pre-launch development period.
+
+Simultaneously, LLM inference costs have dropped approximately 100x between GPT-3 (2022) and commodity models available in 2025, per publicly reported OpenAI and Anthropic pricing changes. Auto-drafting a 300-question security questionnaire, which would have cost several dollars per run in 2022, now costs cents. This makes an aggressive free tier economically viable in a way it was not at Dialect's launch.
+
+The distribution landscape has also shifted materially. Vanta, Drata, and Secureframe have collectively raised $500M+ and built installed bases of thousands of compliance-conscious companies—companies that already have structured security content and already pay for compliance tooling. These platforms have validated enterprise willingness to pay for questionnaire automation but have not built best-of-breed response generation; their questionnaire features are secondary to their compliance monitoring core. The Vanta integration marketplace and Drata partner ecosystem represent distribution channels that did not exist in 2022.
+
+Market validation is further confirmed by Salesforce, HubSpot, and Microsoft Copilot all shipping native AI-assisted RFP features inside their CRM suites as of 2024, demonstrating enterprise buyer acceptance of AI-generated questionnaire responses as a workflow category.
+
+---
+
 ## Why Now?
 
 ## Current Market Analysis

@@ -10,6 +10,20 @@ The rebuild thesis is not to recreate Cardpool's spread-based inventory model �
 
 ## Why Now?
 
+The single most important change since Cardpool's failure is the maturation of real-time, API-accessible gift card balance verification combined with machine learning fraud detection infrastructure — two capabilities that were either unavailable or prohibitively expensive to build in-house during Cardpool's operating years, and whose absence was the direct cause of the fraud losses that CEO David Jones confirmed cost the company "millions of dollars."
+
+**Fraud detection infrastructure is now commoditized.** Stripe Radar (launched 2016, significantly expanded 2021–2024), Sardine (founded 2020), and Sift (founded 2011, now widely adopted) offer real-time ML-based fraud scoring on transaction velocity, device fingerprinting, behavioral biometrics, and card-funding source signals. These tools can flag stolen-credit-card-funded gift card purchases — Cardpool's primary fraud vector — at the point of transaction rather than after the loss is realized. In 2010, building equivalent infrastructure required a dedicated data science team and years of proprietary transaction data. In 2026, it is a monthly API subscription.
+
+**Balance verification APIs now exist.** Services including Yiftee and direct retailer API integrations allow real-time card balance checks at listing time, eliminating the information asymmetry that enabled sellers to submit partially drained cards. This was not technically feasible at scale during Cardpool's operation.
+
+**The market is proven and consolidated, not dead.** CardCash reportedly processes over $100 million in annual gift card volume as of the research report, demonstrating durable consumer demand. The U.S. gift card market has grown to approximately $160–$170 billion in annual purchases (source: research report), with the secondary market underpenetrated relative to that base.
+
+**Digital-native gift cards now dominate inventory.** Amazon, Apple, Google Play, and most major retailers issue digital codes natively. The physical card handling and kiosk infrastructure that drove Cardpool's $30M single-year revenue collapse in 2016 is simply no longer necessary for a large and growing share of inventory.
+
+**Distribution channels available in 2026 include:** the Shopify App Store (2M+ merchants), Apple Wallet and Google Wallet integrations for instant card delivery, and browser extension marketplaces (Chrome Web Store, 3B+ Chrome users) for point-of-purchase discount surfacing — none of which existed at meaningful scale during Cardpool's peak years.
+
+---
+
 ## Current Market Analysis
 
 **Market size:** The U.S. gift card market stands at approximately $160–$170 billion in annual purchases (research report). The secondary market size in 2026 is not precisely documented in available sources, but CardCash's reported $100M+ in annual volume and Raise's $100M+ in venture capital raised before its own difficulties suggest the addressable secondary market is in the hundreds of millions of dollars annually. The market is larger than when Cardpool operated at peak ($85M revenues in 2016) and is structurally more digital, reducing the operational costs that made the original model unviable.

@@ -10,6 +10,20 @@ The go-to-market is direct: land with one industrial use case—say, collaborati
 
 ## Why Now?
 
+The single most important change since Escher Reality's 2018 acquisition is the arrival of Neural Radiance Fields (NeRF) and 3D Gaussian Splatting as production-ready reconstruction techniques. In 2017, Escher Reality had to build expensive, custom computer vision pipelines — drawing directly on Finman's MIT Marine Robotics research — to solve the hardest problem in persistent AR: accurately mapping a physical environment and re-localizing a device within it across sessions. That pipeline was a significant engineering moat, but also a significant cost and complexity burden. By 2026, Gaussian Splatting (first published by Kerbl et al. in August 2023) enables photorealistic 3D scene reconstruction from standard smartphone camera footage at near-zero marginal cost, using commodity hardware. The core technical barrier that made Escher Reality acqui-hire-worthy in 2018 is now a solved problem accessible to a small engineering team.
+
+Three additional structural shifts compound this:
+
+**Hardware proliferation.** Apple Vision Pro launched in February 2024, Meta Quest 3 in October 2023, and enterprise headsets from Microsoft (HoloLens 2) and Magic Leap remain deployed in industrial settings. Escher Reality's original SDK was Unity-only and mobile-only. The addressable market for shared/persistent AR infrastructure now spans mobile, headset, and browser form factors simultaneously.
+
+**WebXR maturity.** The WebXR Device API reached W3C Candidate Recommendation status in 2023, enabling browser-based AR without app installation. This distribution surface did not exist in 2018 and removes the single largest friction point in developer adoption.
+
+**Market scale.** Unity reported 1.5 million monthly active creators in 2022 (Unity Technologies, 2022 Annual Report). The AR/VR developer tools market is projected to reach $4.7 billion by 2028 (source: MarketsandMarkets, 2023 — specific CAGR methodology not independently verified). Usage-based infrastructure pricing, Escher's original model, is now a proven category with public comparables: Agora (real-time video), Mapbox (spatial data), and Mux (video infrastructure) have all demonstrated that developer-facing, consumption-priced infrastructure can scale to hundreds of millions in ARR.
+
+Critically, Apple ARKit and Google ARCore still do not natively support robust cross-platform shared AR sessions as of early 2025. The gap Escher Reality identified in 2016 remains structurally open.
+
+---
+
 ## Current Market Analysis
 
 **Market size.** In 2017, the mobile AR developer tools market was effectively pre-revenue — ARKit had launched weeks before Escher's seed round closed, and the addressable market was theoretical. By 2026, the picture is materially different. The broader spatial computing developer tools market is estimated at approximately $1.2 billion today, growing toward $4.7 billion by 2028 (MarketsandMarkets, 2023; specific segmentation between mobile AR and headset AR tools is not publicly broken out with precision). Enterprise AR software alone — the vertical with the clearest willingness to pay — is estimated at $6.6 billion in 2024 (IDC, 2024; exact figure not independently verified and should be treated as directional).

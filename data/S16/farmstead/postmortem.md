@@ -2,6 +2,12 @@
 
 ## Overview
 
+Farmstead was a San Francisco-based digital grocer founded in 2016 by Pradeep Elankumaran and Kevin Li, both former Yahoo product managers. The company operated its own dark-store micro-warehouses — small fulfillment hubs stocked directly from local suppliers — and used proprietary machine learning software to predict customer purchasing habits, reduce food waste, and deliver groceries in under 60 minutes. It completed Y Combinator's Summer 2016 batch and officially launched in October 2017, eventually expanding to five cities before shutting down entirely in 2023.<sup><a href="https://techcrunch.com/2018/12/06/farmstead-is-an-ambitious-grocery-delivery-startup-with-plans-to-defeat-instacart/">[1]</a></sup>
+
+Farmstead built a genuinely differentiated, capital-efficient model with strong unit economics in its San Francisco home market. It ran out of runway during the 2022 post-pandemic e-grocery contraction before its newer markets — Charlotte, Raleigh-Durham, Miami, and Chicago — could mature to comparable profitability.
+
+In July 2022, Farmstead pulled out of four of its five markets and laid off 22% of staff, framing the retreat as a temporary "pause."<sup><a href="https://www.grocerydive.com/news/farmstead-stop-operations-4-markets/629073/">[2]</a></sup> The pause never ended. By 2023, the company's website had closed and its remaining San Mateo location was listed as permanently shut — a quiet wind-down with no formal announcement, no acquisition, and no public post-mortem from its founders or investors.
+
 ## Founding Story
 
 Pradeep Elankumaran came to Farmstead with an unusual combination of credentials: consumer product intuition, operational pattern recognition from a prior YC exit, and a personal frustration that turned into a market hypothesis.

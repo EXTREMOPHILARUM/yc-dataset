@@ -10,6 +10,16 @@ Go-to-market is founder-to-founder: direct outreach to B2B SaaS founders via Lin
 
 ## Why Now?
 
+The single most important change since Meldium's retirement is the collapse of the browser extension deployment barrier. In 2013–2014, enterprise IT departments routinely blocked or restricted third-party browser extensions, making Meldium's Chrome/Firefox-only architecture a hard ceiling on upmarket expansion. Today, Microsoft Intune and Jamf Pro—the two dominant MDM platforms covering an estimated 60%+ of managed enterprise endpoints (exact 2026 market share data unavailable)—allow administrators to silently push, configure, and enforce browser extensions across entire device fleets from a central policy console. The IT resistance that constrained Meldium's distribution is structurally gone.
+
+The second critical enabler is the maturation of zero-knowledge cryptographic tooling. Meldium's split-credential architecture—where employees could authenticate but not extract passwords—required significant custom engineering in 2013 and extensive customer education. Today, open-source libraries implementing zero-knowledge encryption (as standardized by 1Password's Secret Key model, released 2018, and Bitwarden's open-source implementation, available since 2016) reduce that engineering investment dramatically and give buyers a familiar vocabulary for evaluating the security model.
+
+Third, the SaaS management platform (SMP) category has been independently validated by capital markets. Torii raised $50M Series B (2022), Zluri raised $20M Series B (2022), and BetterCloud has raised over $185M cumulatively—collectively proving that IT and finance buyers will pay for centralized SaaS visibility and access governance. Meldium's original "open federation layer" thesis, which Founders' Co-op described in 2013 as the company's true ambition, is now a funded, named category with established buyer budgets.
+
+Distribution channels unavailable to Meldium now include the Okta Integration Network (7,000+ app listings with direct access to Okta's SMB and mid-market customer base) and the Microsoft Azure Marketplace, which surfaces identity-adjacent tools directly to IT administrators managing Entra ID tenants.
+
+---
+
 ## Current Market Analysis
 
 The identity and access management market has grown from an underdeveloped SMB niche in 2013 into a multi-billion-dollar category with validated enterprise buyer budgets. Okta's market capitalization has exceeded $10 billion, and 1Password for Business raised at a $6.8 billion valuation—both confirming that the demand Meldium identified in 2013 was real and large. The global IAM market was valued at approximately $16 billion in 2023 and is projected to exceed $34 billion by 2028 (MarketsandMarkets, 2023), though SMB-specific segment sizing within that figure is not publicly broken out.

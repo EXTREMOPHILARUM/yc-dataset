@@ -10,6 +10,18 @@ The rebuild thesis is not to bet on Alexa again — it is to bet on the underlyi
 
 ## Why Now?
 
+The single most important change since Storyline's failure is that the NLP/NLU quality ceiling — explicitly cited by the Invocable farewell post as a root cause of shutdown — has been structurally demolished. In 2018, Alexa's intent recognition degraded rapidly for anything beyond scripted, single-turn commands. Every Storyline-built skill was only as good as Alexa's ability to parse natural speech variation, and that ability was brittle. Users hit dead ends, abandoned skills, and never returned. No amount of better tooling could fix an underlying platform that couldn't understand open-ended human speech.
+
+GPT-4 (March 2023) and Claude 3 (March 2024) changed this at the infrastructure level. A conversational agent built on top of these models can handle ambiguous inputs, maintain context across multi-turn exchanges, recover gracefully from misunderstandings, and generate responses that feel genuinely intelligent — not because a developer hand-crafted every branch of a decision tree, but because the model handles the long tail of user intent automatically. The tree-based design model that analysts identified as Storyline's core product ceiling is no longer the only architecture available. A rebuilt tool can let creators describe their agent's purpose in plain English and generate the underlying dialogue logic automatically.
+
+The second structural change is platform diversification. Storyline's fatal dependency was single-platform: if Alexa failed, the business failed. In 2026, a rebuilt product can deploy the same conversational agent to Alexa+ (now powered by Claude, per Amazon's 2024 partnership announcement), Google Assistant with Gemini, WhatsApp Business API (2 billion monthly active users), SMS via Twilio, and website chat widgets — all from a single build. No single platform's consumer adoption curve determines the business's survival.
+
+On market size: the global conversational AI market was valued at approximately $10.7 billion in 2023 and is projected to reach $29.8 billion by 2028 (MarketsandMarkets, 2023 — exact figures should be independently verified before fundraising). The no-code AI builder segment specifically is harder to isolate, but Voiceflow's continued operation and reported growth into enterprise accounts confirms durable category demand. The small business segment — the specific target here — is large and underserved: the U.S. alone has approximately 33 million small businesses (SBA, 2023), the majority of which have no conversational AI presence of any kind.
+
+Distribution channels unavailable in 2018 now exist at scale: the Shopify App Store (2M+ merchants), the HubSpot App Marketplace (200,000+ customers), and the Zapier integration ecosystem (6,000+ connected apps) all provide direct access to the small business operators who are the target customer.
+
+---
+
 ## Current Market Analysis
 
 ## Market Size
@@ -39,6 +51,18 @@ This is the honest hard question. Amazon (Alexa+), Google (Gemini-powered Assist
 ## Recommended MVP
 
 ## Core Features
+
+*Natural Language Agent Builder*
+A creator describes their agent's purpose, personality, and knowledge base in plain English — "I run a yoga studio and want an agent that answers questions about class schedules, handles new student inquiries, and books intro sessions" — and the system generates a working conversational agent with appropriate dialogue logic, fallback handling, and knowledge retrieval. This directly addresses the root cause Storyline's post-mortem identified: the product thinking barrier was higher than the technical barrier. LLM-generated agent scaffolding lowers the product thinking barrier for the first time, not just the coding barrier. Unlike Storyline's tree-based editor, creators are not required to map every conversational branch manually.
+
+*Multi-Channel Deployment (Website Chat + WhatsApp, Voice Deferred)*
+The MVP deploys to two channels: an embeddable website chat widget and WhatsApp Business API. Voice (Alexa+, Google) is explicitly deferred to v2. This is the single most important constraint relative to the original Storyline. The 2018 failure was caused by single-platform dependency on a channel with unproven consumer engagement. Website chat and WhatsApp have proven, high-volume consumer engagement today. Voice is a real opportunity given Alexa+'s Claude integration, but it is not the beachhead — it is the expansion.
+
+*Business Knowledge Integration*
+Creators connect their agent to existing business data: a Google Calendar for availability, a Notion page for FAQs, a Shopify product catalog, or a simple document upload. The agent uses retrieval-augmented generation (RAG) to answer questions accurately from this knowledge base rather than hallucinating. This is the feature that separates the product from generic chatbot builders and creates stickiness: the agent becomes more valuable as the business's data grows.
+
+*Usage-Based Analytics and Billing*
+Session counts, conversation completion rates, handoff-to-human rates, and unanswered question logs — surfaced in a dashboard the creator can act on without a developer. Billing is usage-based (per 1,000 messages processed), not flat subscription, directly addressing the freemium conversion failure that killed Storyline's unit economics. Power users pay proportionally more; hobbyists are not forced to commit to $49–99/month upfront.
 
 ## What We Will NOT Build
 

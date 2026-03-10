@@ -113,6 +113,16 @@ Total venture funding reached $10.14 million across seed, angel, Series A, and S
 
 ## Traction
 
+Posterous's early growth metrics were genuinely strong. In 2009, the company grew 30% month-over-month with just four employees. <sup><a href="https://techcrunch.com/2010/03/05/redpoint-invests-4-4-million-in-fast-growing-posterous/">[11]</a></sup> By March 2010, when Redpoint led the Series A, the platform had 12 million unique monthly visitors and 25 million page views. <sup><a href="https://techcrunch.com/2010/03/05/redpoint-invests-4-4-million-in-fast-growing-posterous/">[11]</a></sup> By 2011, monthly unique visitors had grown to approximately 15 million, placing Posterous in the top 200 sites on Quantcast. <sup><a href="https://zurb.com/soapbox/sachin-agarwal-zurbsoapbox-posterous-from-blog-to-social-network">[17]</a></sup> <sup><a href="https://nextbn.ggvc.com/podcast/s2-ep-19-garry-tan-of-initialized-saying-no-to-peter-thiel-engineer-turned-investors/">[29]</a></sup>
+
+The platform attracted influential early adopters. Steve Rubel's public migration to Posterous generated press coverage and signaled credibility with the social media community. <sup><a href="https://en.wikipedia.org/wiki/Posterous">[28]</a></sup>
+
+The traffic trajectory then reversed sharply. Between 2011 and the March 2012 acquisition, monthly visitors fell from approximately 15 million to 1.33 million—an 91% decline. <sup><a href="https://venturebeat.com/social/one-year-after-being-acquired-by-twitter-posterous-shuts-it-all-down/">[30]</a></sup> No public data clarifies whether this decline was driven by failure to acquire new users, accelerated churn among existing users, or both. The Spaces relaunch in September 2011 coincides with the beginning of this period, suggesting the pivot may have confused or alienated the existing user base without successfully attracting a new one.
+
+At acquisition, Posterous had 21 employees. <sup><a href="https://money.cnn.com/2012/03/14/technology/posterous_twitter/index.htm">[32]</a></sup> The team remained small relative to the platform's peak reach, reflecting either disciplined capital efficiency or an inability to scale hiring—the public record does not clarify which.
+
+---
+
 ## Post-Mortem
 
 ### 1. Identity Erosion: The Product Stopped Knowing What It Was

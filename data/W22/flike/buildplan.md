@@ -6,9 +6,21 @@ Flike 2026 is a native Excel and Google Sheets plugin that solves the core probl
 
 The timing is different now. LLMs can generate and explain formulas reliably, and finance teams have grown desperate for auditability as spreadsheets drive larger decisions. The market has also matured: generic AI assistants like Copilot for Excel exist, but they create compliance nightmares for regulated finance work. There's a clear gap for purpose-built tooling.
 
-The go-to-market targets FP&A analysts and controllers at Series B–D tech companies—teams large enough to feel spreadsheet pain acutely but still lean enough to adopt new tools quickly. Distribution happens through direct sales to finance ops leaders, paired with product-led onboarding via the plugin itself. The win is simple: reduce audit friction, eliminate version conflicts, and make collaborative finance work traceable. No pivots. No crowded segments. Just the original insight, finally executable.33:T823,
+The go-to-market targets FP&A analysts and controllers at Series B–D tech companies—teams large enough to feel spreadsheet pain acutely but still lean enough to adopt new tools quickly. Distribution happens through direct sales to finance ops leaders, paired with product-led onboarding via the plugin itself. The win is simple: reduce audit friction, eliminate version conflicts, and make collaborative finance work traceable. No pivots. No crowded segments. Just the original insight, finally executable.34:T823,
 
 ## Why Now?
+
+The single most important change since Flike's failure: **LLM-powered formula generation and audit capabilities now exist natively**, directly eliminating the core technical barrier that made Flike's original "GitHub for spreadsheets" vision expensive to build. When the Müller brothers founded Flike in 2021, automating formula creation, error detection, and change explanation required custom ML infrastructure. Today, GPT-4o (May 2024) and Claude 3.5 Sonnet (June 2024) can generate, audit, and explain complex Excel and Google Sheets formulas with high accuracy out of the box — collapsing what would have been months of ML engineering into API calls.
+
+The market Flike originally targeted has since been validated by adjacent products. Notion has surpassed 100M users (per Notion's 2024 public statements), Coda raised at a $600M valuation, and Airtable reached $11.7B at peak — collectively proving that knowledge workers will pay for structured collaboration layered on document and data primitives. Flike's $20B addressable market framing (per Tobias Müller's 2022 writing) was not wrong; it was early.
+
+Critically, Microsoft Copilot for Excel and Google Duet AI for Sheets have now shipped — but both are generic productivity tools, not finance-workflow-specific. Neither provides FP&A-grade audit trails, formula change attribution, or model review workflows. This is the gap: a vertical AI collaboration layer purpose-built for financial modeling teams, not general spreadsheet users.
+
+Distribution infrastructure has also matured. The Microsoft 365 App Store and Google Workspace Marketplace now offer direct access to enterprise finance teams without requiring a direct sales motion to get to first users. Specific pricing data for these channels in 2026 is not available, but both marketplaces have expanded enterprise procurement integrations since 2023.
+
+LLM inference costs have fallen dramatically post-2024 price compression, making the unit economics of per-formula AI calls viable at seed-stage burn rates — a structural advantage Flike never had.
+
+---
 
 ## Current Market Analysis
 

@@ -2,6 +2,18 @@
 
 ## Overview
 
+The single most important change since Minefold's failure is the demographic shift in Minecraft's player base. In 2012, Minecraft skewed heavily toward teenagers and pre-teens culturally conditioned to expect free online services. By 2023, Minecraft surpassed 140 million monthly active users (Microsoft earnings disclosures), and a meaningful cohort of those players are now adults in their mid-20s to early 30s — people who were 12 when Minefold launched and are now paying for Spotify, AWS, and Netflix without friction. The willingness-to-pay problem was never about the product; it was about the audience. That audience has aged into paying customers.
+
+The second structural unlock is Minecraft Realms itself. Mojang's first-party hosting — the existential threat that ended Minefold — has inadvertently validated the paid managed-server market at scale while simultaneously defining its own ceiling. Realms is deliberately limited: no plugin support, no modpack compatibility, capped at 10 concurrent players, and priced at $7.99/month regardless of usage. It proved people pay; it left the entire modded Minecraft ecosystem unserved.
+
+That ecosystem is now enormous. CurseForge reports over 100,000 Minecraft mods and modpacks as of 2024 (CurseForge platform data), and Modrinth has grown to host millions of monthly active mod downloads. Modpack players — Feed The Beast, ATM9, Vault Hunters communities — are technically sophisticated adults who already pay for CurseForge Premium and Patreon tiers supporting modpack developers. This is precisely the segment Minefold was beginning to address with its February 2013 FTB expansion before shutting down.
+
+Cloud compute economics have also shifted materially. Hetzner's AX41 dedicated server runs approximately €39/month as of early 2025, delivering compute that would have cost multiples of that on AWS in 2012. Spot and preemptible instances on AWS and GCP have further compressed per-hour costs. The unit economics that made Minefold's $5/month price point structurally fragile are now workable at a competitive price.
+
+Distribution channels unavailable in 2012 now exist at scale: the CurseForge App has millions of active modpack launcher users, Modrinth's launcher is growing rapidly, and Discord servers for specific modpacks (e.g., All the Mods, Vault Hunters) aggregate exactly the high-intent communities a rebuilt Minefold needs to reach. These are not generic "app marketplaces" — they are pre-assembled audiences of paying modpack players.
+
+---
+
 ## Why Now?
 
 ## Current Market Analysis

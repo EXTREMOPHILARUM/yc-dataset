@@ -10,6 +10,20 @@ Go-to-market is direct sales to quant portfolio managers at regional systematic 
 
 ## Why Now?
 
+The single most important change since Pit.AI's failure is the collapse of the "build everything from scratch" problem in financial RL. In 2017, Pit.AI had to engineer its own reinforcement learning infrastructure, data pipelines, and backtesting environments simultaneously — a multi-year undertaking for a two-person team. Today, FinRL (open-sourced by Columbia University, 2021), Stable-Baselines3 (v1.0, 2020), and RLlib (production-stable, 2022) provide battle-tested, portfolio-optimization-ready RL frameworks. What took Pit.AI an estimated 2–3 years of foundational engineering now takes months. This directly removes the technical timeline mismatch that trapped the original company in permanent pre-launch.
+
+Three additional structural shifts compound this advantage:
+
+**Data costs have collapsed.** In 2017, institutional-grade tick data and alternative datasets cost hundreds of thousands of dollars annually. Polygon.io now offers full US equities tick history for under $200/month; Nasdaq Data Link (formerly Quandl) and Databento offer comparable coverage at 10–100x lower cost than 2017 pricing. The founder explicitly named data volume as a core technical constraint — that constraint is now largely a budget line, not a barrier.
+
+**LLMs enable hybrid signal generation.** GPT-4 (March 2023) and Claude 3.5 Sonnet (June 2024) can parse SEC filings, earnings transcripts, and Fed communications at scale to generate structured alpha signals. This directly augments the purely quantitative RL approach and improves the signal-to-noise ratio the founder identified as the limiting factor in his 2020 post-mortem.
+
+**Cloud training costs have dropped ~10x since 2017** per MLCommons benchmarks, making iterative RL training cycles economically feasible at seed-stage budgets.
+
+**Distribution now exists.** The Shopify-equivalent for financial software — platforms like Alpaca's broker API (500,000+ developer accounts as of 2023, per Alpaca's public disclosures) and Interactive Brokers' Client Portal API — provide direct execution infrastructure without prime broker negotiations.
+
+---
+
 ## Current Market Analysis
 
 **Market size:** The global hedge fund industry managed approximately $4.3 trillion in AUM as of 2024 (Preqin), up from $3.2 trillion in 2017. More relevant to a rebuild, the quantitative and systematic strategies segment has grown disproportionately — exact current share data is not publicly available, but Preqin reported quant strategies represented roughly 30% of new fund launches in 2023. The family office market, a more accessible LP segment, now manages an estimated $6 trillion globally (UBS Global Family Office Report 2024), with technology-forward offices actively allocating to algorithmic strategies.

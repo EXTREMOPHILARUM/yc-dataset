@@ -10,6 +10,18 @@ Go-to-market is direct and narrow. Land with AI API startups at $500K–$5M ARR 
 
 ## Why Now?
 
+The single most important change since Lotus's 2023 shutdown is the emergence of AI API companies as a concrete, high-urgency ICP that validates the exact problem Lotus was built to solve — and is willing to pay to solve it fast.
+
+In 2022, "AI companies" as a billing customer was largely theoretical. By 2026, OpenAI, Anthropic, Cohere, and hundreds of downstream AI infrastructure companies bill simultaneously on tokens, compute-seconds, model tiers, context window size, and fine-tuning jobs. This is precisely the multi-metric, usage-based pricing complexity Lotus's backtesting and plan comparison features were designed for. The ICP now has a name, a budget, and a documented pain point.
+
+The market has validated enterprise willingness to pay for a dedicated billing layer at scale. Orb raised a $19.1M Series A in 2023 and a $70M Series B in 2024 — entirely for usage-based billing infrastructure. That $89M in follow-on funding is the clearest possible signal that the market Lotus assumed existed in 2022 is now proven.
+
+Stripe's 2023 expansion of usage-based billing features simultaneously created and documented a displacement motion. Enterprise customers routinely hit Stripe Billing's ceiling on multi-metric scenarios and need a migration path. This gives a rebuilt Lotus a concrete "Stripe refugee" acquisition channel that did not exist in 2022.
+
+Infrastructure costs have dropped materially. ClickHouse Cloud and Tinybird now offer managed columnar storage purpose-built for high-volume event ingestion. Serverless compute on AWS Lambda and GCP Cloud Run eliminates the operational burden of running metering infrastructure reliably — a burden that was prohibitive for a two-person team in 2022.
+
+Distribution is clearer. The AWS Marketplace now hosts 15,000+ software listings with $1M+ enterprise committed spend flowing through it annually (AWS, 2024). A rebuilt Lotus listed there reaches procurement-approved buyers without a dedicated sales team.
+
 ## Current Market Analysis
 
 The billing and subscription management software market was estimated at approximately $7.8 billion in 2022. By 2025, independent analyst estimates place the market between $12–15 billion (exact 2026 figure unavailable), with usage-based billing as the fastest-growing segment. OpenView's 2023 SaaS Benchmarks report found that 61% of SaaS companies had adopted some form of usage-based pricing — a figure that has likely increased further as AI products normalized consumption billing for end users.

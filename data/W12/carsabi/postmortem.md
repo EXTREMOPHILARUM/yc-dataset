@@ -111,6 +111,16 @@ Neither model was publicly confirmed as the primary revenue strategy, and no rev
 
 ## Traction
 
+Carsabi launched in mid-February 2012 and reported 10% week-on-week growth at YC Demo Day on March 27, 2012—approximately six weeks of growth data.<sup><a href="https://techcrunch.com/2012/03/27/y-combinator-demo-day-session-3/">[8]</a></sup> No absolute user or traffic figures are available, which limits interpretation of this metric. Ten percent week-on-week growth compounding from a very small base produces a still-small number after six weeks.
+
+On the supply side, the product was indexing approximately 20,000 car listings daily as of January 2012,<sup><a href="https://carsabi.wordpress.com/">[5]</a></sup> before the official launch. This suggests the crawling infrastructure was functional and scaling ahead of the consumer-facing product.
+
+The strongest traction signal was editorial: TechCrunch named Carsabi one of the ten best companies from YC W12 Demo Day,<sup><a href="https://techcrunch.com/2012/03/27/best-of-y-combinator-demo-day/">[9]</a></sup> a judgment made by journalists who saw all 66 companies present. This is a meaningful signal of product clarity and pitch quality, though it does not translate directly to user adoption or revenue.
+
+The seed round from YC and DCVC closed on Demo Day.<sup><a href="https://tracxn.com/d/companies/carsabi/__3VILNexhHYyahlev1iSu65_JdiEv7e0vup270Hzc86E">[10]</a></sup> CB Insights records total funding of approximately $20,000,<sup><a href="https://www.cbinsights.com/company/carsabi">[19]</a></sup> consistent with YC's standard investment for the era. If DCVC participated beyond the YC check, the amount was not disclosed and did not appear to provide meaningful additional runway.
+
+---
+
 ## Post-Mortem
 
 <media-image src="https://techcrunch.com/wp-content/uploads/2012/10/carsabi-founders-join-facebook-23-pm-copy-2-done-copy.png" alt="TechCrunch article: Facebook Acqhires Founders of Carsabi — October 1, 2012" caption="TechCrunch's October 1, 2012 article covering the Facebook acqhire of Dwight Crow and Christopher Berner, and Carsabi's search for a buyer — the definitive post-mortem on the company."></media-image>

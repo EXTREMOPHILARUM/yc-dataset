@@ -126,6 +126,16 @@ The model also created a misaligned incentive during the growth phase. Because O
 
 ## Traction
 
+Post-soft-launch traction in summer 2020 produced headline numbers that appeared encouraging on the surface. Over 250 communities launched on Openland across educational programs, professional services, tech products, content creators, and nonprofits.<sup><a href="https://bestofshowhn.com/yc-w18/openland">[11]</a></sup> The largest single community reached 14,000+ members and 500,000+ messages.<sup><a href="https://bestofshowhn.com/yc-w18/openland">[18]</a></sup>
+
+These numbers, however, masked a deeper problem. Third-party analysis conducted in 2022 found that Openland's featured communities showed little to no activity, and the reviewer was unable to identify a single active community on the platform.<sup><a href="https://medium.com/bloated-mvp/openland-yc-w18-mvp-review-chasing-the-siren-song-of-product-and-engineering-craftsmanship-61ff9ed4c367">[14]</a></sup> This suggests the 500,000-message figure was concentrated in one or two outlier communities rather than distributed across the platform—a pattern consistent with severe engagement decay in the broader community base.
+
+The removal of the "Featured Communities" section from Openland's homepage in January 2021 is a notable signal. Showcasing active communities is a standard growth tactic for community platforms—it provides social proof and drives organic discovery. Removing this section suggests either that the featured communities were no longer active enough to showcase, or that the section was not driving meaningful conversion. Neither interpretation is favorable.
+
+No monthly active user counts, daily active user figures, total registered user numbers, or revenue figures were ever disclosed at any stage of the company's life. This absence is itself informative: companies with strong engagement metrics typically share them. The consistent silence on quantitative performance data suggests these numbers were not investor-presentable.
+
+---
+
 ## Post-Mortem
 
 Openland's failure was not a single event. It was the compounding result of four interconnected decisions, each of which narrowed the company's options until no viable path remained.

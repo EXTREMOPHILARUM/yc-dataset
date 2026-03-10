@@ -2,6 +2,12 @@
 
 ## Overview
 
+Debteye was a Y Combinator Summer 2011 company that set out to automate credit counseling for Americans struggling with debt. Founded in February 2011 by John Sun and Paul Zhang — both University of Illinois Urbana-Champaign graduates and certified credit counselors — the Chicago-based startup used bank data aggregation to analyze a user's financial situation and generate a personalized debt resolution plan in roughly seven minutes, compared to the multi-day process typical of professional counseling firms.<sup><a href="https://www.ycdb.co/company/debteye">[1]</a></sup><sup><a href="https://techcrunch.com/2011/07/26/yc-funded-debteye-wants-to-be-your-much-cheaper-credit-counselor/">[2]</a></sup>
+
+Debteye failed because its automation promise was structurally hollow. The product could analyze debt and generate paperwork, but it could not interface with creditors directly — leaving users to fax forms and read scripts themselves. That gap made Debteye a decision-support tool, not a true end-to-end automated counselor, and it could not sustain a subscription business against free competitors or earn the trust of financially distressed consumers.
+
+The company rebranded as SpringCoin in February 2012, pivoting toward financial education and goal-setting, but that product also failed to gain a foothold. By December 2012, founders Sun and Zhang had co-founded Avant alongside Al Goldstein — a direct consumer lender that eventually reached a $2 billion valuation — effectively bypassing the creditor-negotiation problem by becoming the creditor themselves.<sup><a href="https://startuptalky.com/avant-success-story/">[3]</a></sup>
+
 ## Founding Story
 
 John Sun and Paul Zhang met at the University of Illinois Urbana-Champaign, where Sun studied finance at the Gies College of Business and Zhang completed a degree in Computational Bioengineering.<sup><a href="https://www.cbinsights.com/company/springcoin-1">[4]</a></sup> Zhang went on to work as a Senior Software Engineer at Enova Financial, a Chicago-based subprime online lender — an experience that gave him direct exposure to the mechanics of consumer debt and the technology infrastructure (or lack thereof) connecting lenders and borrowers.<sup><a href="https://www.cbinsights.com/company/springcoin-1">[4]</a></sup>

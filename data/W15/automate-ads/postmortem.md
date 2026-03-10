@@ -2,8 +2,6 @@
 
 ## Overview
 
-## Founding Story
-
 Andrew Torba and Charles Szymanski were childhood best friends from Scranton, Pennsylvania. Torba had recently graduated from the University of Scranton; Szymanski was attending Drexel University when they co-founded the company in 2011.<sup><a href="https://technical.ly/startups/gab-andrew-torba-kuhcoon-startup/">[1]</a></sup> The two are also described as college roommates at the time of founding, though the exact living arrangement across two different universities is unclear.<sup><a href="https://en.wikipedia.org/wiki/Automate_Ads">[2]</a></sup>
 
 The founding insight was practical. Torba later told Wishpond in a February 2015 podcast interview that he started Kuhcoon after finding it nearly impossible to manage a client's Facebook ad campaigns on mobile — the existing tools were desktop-bound, manual, and time-consuming.<sup><a href="https://wishpond.com/blog/kuhcoon-ceo-andrew-torba-tells-us-how-he-grew-his/">[3]</a></sup> The solution he envisioned was not a better dashboard but a system that would make decisions on behalf of the advertiser: pause underperforming ads, rotate creative variants, and allocate budget — all without human intervention.
@@ -15,6 +13,8 @@ That framing — Silicon Valley as destiny — would prove bitterly ironic. With
 At YC, the team was described by Washington Post sources as "mild-mannered and largely unremarkable" — not top of the batch, but respected for their work ethic.<sup><a href="https://www.mercurynews.com/2018/11/01/from-silicon-valley-elite-to-social-media-hate-the-radicalization-that-led-to-gab/amp/">[7]</a></sup> Torba served as CEO and the public face of the company; Szymanski served as CTO and handled the technical architecture.<sup><a href="https://techcrunch.com/2015/02/19/yc-backed-kuhcoon-promises-to-automate-facebook-ad-campaigns-for-small-businesses/">[8]</a></sup> The two-person founding team structure — with no other executives on record — would later prove to be a critical single point of failure.
 
 ---
+
+## Founding Story
 
 ## Timeline
 
@@ -94,9 +94,19 @@ The Wefunder crowdfunding campaign described the company as a "Fully Automated, 
 
 The business model had an inherent tension: the company's value proposition was saving advertisers money (claiming 40% ad spend savings and 31% cheaper conversions on average),<sup><a href="https://media-index.kochava.com/ad_partners/kuhcoon">[17]</a></sup> but if the platform charged a percentage of managed spend, reducing spend would reduce revenue. Whether the company resolved this tension through flat-rate subscription pricing or a hybrid model is unknown. No revenue figures were ever publicly disclosed.
 
----2e:T72c,
+---2f:T72c,
 
 ## Traction
+
+At the time of YC Demo Day in February 2015, Automate Ads claimed 6,000 advertisers across more than 90 countries.<sup><a href="https://en.wikipedia.org/wiki/Automate_Ads">[2]</a></sup> This figure has not been independently verified, and no revenue or MRR data was disclosed alongside it.
+
+The company's self-reported performance metrics were aggressive. Kuhcoon claimed it saved advertisers 40% of their spending and more than 20 hours per week on average.<sup><a href="https://techcrunch.com/2015/02/19/yc-backed-kuhcoon-promises-to-automate-facebook-ad-campaigns-for-small-businesses/">[10]</a></sup> The Wefunder campaign cited 145% ROI versus manually managed campaigns and 46% week-over-week customer growth, with 1,800 customers since launch and $50,000 in ads managed per week.<sup><a href="https://wefunder.com/automateads">[12]</a></sup> A separate source cited 31% cheaper conversions than human-managed campaigns on average.<sup><a href="https://media-index.kochava.com/ad_partners/kuhcoon">[17]</a></sup>
+
+The discrepancy between the 6,000 advertiser figure cited in February 2015 and the 1,800 customers since launch figure on the Wefunder page (timing unclear) is notable and unresolved. It is possible the 6,000 figure included free or trial users while 1,800 represented paying customers, or the figures reflect different time periods.
+
+Washington Post sources described the team as not in the top of the YC W15 batch but respected for hard work — suggesting the company was performing adequately but not breaking out within the cohort.<sup><a href="https://www.mercurynews.com/2018/11/01/from-silicon-valley-elite-to-social-media-hate-the-radicalization-that-led-to-gab/amp/">[7]</a></sup> No follow-on growth metrics, retention data, or revenue figures were ever published after the February 2015 press cycle.
+
+---
 
 ## Post-Mortem
 

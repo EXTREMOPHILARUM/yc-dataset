@@ -6,9 +6,21 @@ By 2026, Allure rebuilds as a Shopify-native app for mid-market apparel brands (
 
 The viability shift is simple: generative models are now commodity infrastructure. What was proprietary in 2021 is API-accessible in 2025. The real moat is workflow—embedding generation into the merchant's existing Shopify pipeline so it becomes as frictionless as uploading a SKU. Competitors building standalone tools or enterprise platforms will always require sales cycles and custom integration. Allure wins by being already there.
 
-Go-to-market is the Shopify App Store. Four million merchants, zero outbound sales cost, and a pricing model ($49–$399/month, consumption-based) that aligns with merchant growth. The measurable win condition: 10% conversion rate lift, visible in Shopify analytics within 60 days of activation. That's not a feature claim—it's a retention engine.33:T7f7,
+Go-to-market is the Shopify App Store. Four million merchants, zero outbound sales cost, and a pricing model ($49–$399/month, consumption-based) that aligns with merchant growth. The measurable win condition: 10% conversion rate lift, visible in Shopify analytics within 60 days of activation. That's not a feature claim—it's a retention engine.34:T7f7,
 
 ## Why Now?
+
+The single most important change since Allure Systems' 2021 acquisition is the commoditization of the underlying generative pipeline. Allure's core technical moat — a proprietary CNN/GAN stack requiring specialized hardware — has been replaced by diffusion-based models (Stable Diffusion XL, released July 2023; DALL-E 3, October 2023) that produce photorealistic on-figure fashion imagery without custom hardware. A new entrant can replicate Allure's output quality at a fraction of the original R&D cost and with zero hardware dependency.
+
+This infrastructure shift has compressed the per-image compute cost dramatically. Cloud GPU pricing on RunPod and Lambda Labs has dropped approximately 10x since 2019, making sub-$0.10 per-image generation economics achievable at scale — a threshold that makes SMB pricing viable for the first time. Allure's original product was almost certainly priced for enterprise-only due to infrastructure costs that no longer apply.
+
+Distribution has also fundamentally changed. In 2019, Allure Systems had no scalable channel beyond direct enterprise sales. Today, the Shopify App Store reaches 4.6 million merchants (Shopify, 2024), with native AI app integration support launched in 2023. A fashion imagery tool built as a Shopify app can reach thousands of mid-market apparel brands without a single enterprise sales hire.
+
+Demand validation is no longer a sales education problem. Shopify's own 2023 data shows AR and 3D product visualization increases conversion by up to 94%. The 14% lift Allure had to prove at YC Demo Day in 2019 is now table-stakes knowledge among eCommerce buyers. Virtual try-on APIs from Google (launched 2023) and Fashn.ai (2024) have further normalized the category.
+
+Finally, Farfetch's collapse and acquisition by Coupang in January 2024 likely disrupted or abandoned Allure's technology within the platform, potentially leaving the luxury and mid-market fashion imagery market underserved again — a direct re-entry opportunity with a validated customer base.
+
+---
 
 ## Current Market Analysis
 

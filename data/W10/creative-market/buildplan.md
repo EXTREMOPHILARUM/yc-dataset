@@ -10,6 +10,18 @@ The go-to-market targets 3–20 person design teams at Series A–C companies wh
 
 ## Why Now?
 
+The single most important change since Creative Market's 2012 launch is the emergence of Figma as the dominant professional design tool, combined with its robust plugin ecosystem — a distribution channel that simply did not exist when Creative Market built its Photoshop extension in April 2014.
+
+Figma's plugin store, launched in 2019, now hosts thousands of integrations used by professional designers daily. Figma reported 4 million monthly active users as of 2022 (the last publicly disclosed figure before the blocked Adobe acquisition); independent estimates place the number significantly higher in 2026, though exact current figures are not available. Critically, Figma plugins operate at the moment of creative intent — the same insight that motivated Creative Market's 2014 Photoshop extension — but with a far larger, more active, and more team-oriented user base. A Figma-native asset marketplace reaches designers where they already work, without requiring a context switch to a browser.
+
+The second structural shift is the AI provenance problem. Midjourney (launched July 2022), Stable Diffusion (August 2022), and Adobe Firefly (March 2023) have flooded the market with generated imagery, creating acute legal uncertainty for commercial buyers. Enterprise legal and procurement teams are increasingly requiring clear licensing provenance for design assets used in commercial work. A marketplace that verifies human authorship and provides clean, auditable commercial licenses has a defensible value proposition that AI generation tools cannot match — and that Creative Market, with its legacy catalog of 10M+ assets of mixed provenance, is structurally slow to address.
+
+Third, the subscription model is now the default expectation for professional software buyers. Creative Market launched as a transactional marketplace in 2012 and added subscriptions in February 2018 — six years later. A subscription-first architecture from day one enables higher LTV, predictable revenue, and team-seat pricing that maps to how enterprise procurement actually works in 2026.
+
+The global creator supply base has also deepened materially. High-speed internet penetration and design tool access in India, Southeast Asia, Latin America, and Eastern Europe have expanded the pool of professional-quality creators available to seed a new marketplace — a supply-side advantage that did not exist at Creative Market's founding.
+
+---
+
 ## Current Market Analysis
 
 **Market size:** The global stock media market was valued at approximately $4.7 billion in 2023 (Grand View Research), with digital design assets representing a meaningful but not separately broken-out segment. The broader creator economy — the relevant context for supply-side dynamics — was estimated at $250 billion in 2023 by Goldman Sachs. Specific market sizing for the "professional design asset subscription" segment does not appear to be publicly available; this is an honest gap in the analysis.
