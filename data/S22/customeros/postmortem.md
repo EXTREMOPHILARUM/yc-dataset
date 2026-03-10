@@ -157,8 +157,4 @@ Vasilica Coscotin's LinkedIn profile listing her current role as "Stealth Startu
 10. [Vasilica Coscotin — LinkedIn Post (technical stack)](https://www.linkedin.com/posts/vasilica-coscotin-2755b153_awell-health-ui-designer-activity-6894163989514063872-gOxk)
 11. [CustomerOS — LinkedIn Company Page](https://uk.linkedin.com/company/customer-os)
 12. [Matt Brown — LinkedIn Post (VC feedback)](https://www.linkedin.com/posts/mateocafe_angelinvestor-activity-6863510264457912320-hiMy)
-13. [CustomerOS — Scalelist](https://scalelist.com/ceo/jonty-knox-email-phone-number/)32:T4e4,CustomerOS was a London-based YC S22 startup founded in early 2022 by three Voxbone alumni who raised $2.1–2.6M to solve B2B customer data fragmentation; after at least three major pivots — from conversational data platform, to open source CRM framework, to customer success SaaS, to AI-agent GTM intelligence — the company failed to find a durable wedge, exhausted its runway without a follow-on, and appears to have quietly wound down by 2025.
-
-The rebuild thesis is this: the original team was right about the problem but wrong about the timing and the wedge. In 2026, LLM-native signal extraction, a validated open source CRM category (Twenty, Huly), and a privacy-collapsed outbound landscape have converged to make a first-party intent layer — built open source, monetized as a managed cloud product — both technically buildable on a lean budget and commercially defensible in a way it simply was not in 2022. The new CustomerOS is an open source, self-hostable customer intelligence layer that turns a B2B company's own first-party signals (product usage, email threads, web behavior) into a continuously updated ICP score and pipeline priority queue — with no third-party data dependency and no data-network cold-start problem.
-
----33:T953,
+13. [CustomerOS — Scalelist](https://scalelist.com/ceo/jonty-knox-email-phone-number/)

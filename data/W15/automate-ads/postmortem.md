@@ -94,7 +94,7 @@ The Wefunder crowdfunding campaign described the company as a "Fully Automated, 
 
 The business model had an inherent tension: the company's value proposition was saving advertisers money (claiming 40% ad spend savings and 31% cheaper conversions on average),<sup><a href="https://media-index.kochava.com/ad_partners/kuhcoon">[17]</a></sup> but if the platform charged a percentage of managed spend, reducing spend would reduce revenue. Whether the company resolved this tension through flat-rate subscription pricing or a hybrid model is unknown. No revenue figures were ever publicly disclosed.
 
----2f:T72c,
+---
 
 ## Traction
 

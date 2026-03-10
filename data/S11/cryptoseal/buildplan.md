@@ -6,7 +6,7 @@ CryptoSeal was a San Francisco-based YC S11 company that built a consumer privac
 
 The rebuild thesis is not to re-enter the consumer VPN market — that ship has sailed to NordVPN — but to finally commercialize CryptoSeal's original, deeper vision: a developer-facing secrets management and confidential computing platform where cryptographic architecture makes compelled disclosure structurally impossible, not merely legally promised. What has changed is everything the original team needed but didn't have: commodity confidential computing hardware, a mature secrets management market that IBM paid $6.4B to own, and a zero-knowledge design playbook that makes privacy and enterprise compliance genuinely non-contradictory. The rebuild is HashiCorp Vault meets AWS Nitro Enclaves, built for the developer who needs to prove to their enterprise customer that even they can't read the secrets.
 
----34:T90a,
+---
 
 ## Why Now?
 

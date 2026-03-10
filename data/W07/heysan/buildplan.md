@@ -2,6 +2,14 @@
 
 ## Overview
 
+Heysan 2026 is a regulated-first messaging platform for EU knowledge workers drowning in fragmented conversations. It unifies WhatsApp, Telegram, Signal, and iMessage into a single inbox with AI-powered contact routing—so your phone knows which app to use for each person without you thinking about it. The business layer lets SMBs manage customer conversations across all four platforms from one API.
+
+The DMA changed everything. When the EU mandated interoperability in March 2024, it killed the old moat problem that sank the original Heysan—now the big platforms have to open their networks by law. That's not a technical hack; it's infrastructure. We're building on top of it.
+
+The wedge is simple: launch in the EU first where DMA compliance is mandatory and regulatory tailwinds are real. Acquire power users who already juggle multiple apps, then monetize through a B2B API for SMBs managing customer support and sales across channels. By 2026, we're the operating system layer that sits between fragmented messaging and actual productivity.
+
+## Why Now?
+
 The single most important change since Heysan's failure is regulatory: the EU's Digital Markets Act, which came into force in March 2024, legally requires "gatekeepers" — including Meta (WhatsApp, Messenger) and Apple (iMessage) — to open their messaging infrastructure to interoperability requests from third-party providers. This is the structural reversal of the condition that killed Heysan. In 2007–2009, Heysan's access to MSN, AIM, and Yahoo was permissive and revocable; each network had commercial incentives to shut it out, and eventually did so by building competing mobile clients. Under the DMA, that access is a legal entitlement, not a business negotiation. Meta began publishing its interoperability API documentation in 2024 in direct response to DMA enforcement pressure. The UK's Communications Act review and proposed updates to the Online Safety Act signal a similar trajectory outside the EU, though the precise timeline and scope of UK interoperability mandates are not yet confirmed.
 
 Three additional technology shifts compound the regulatory opening. First, the Matrix protocol (matrix.org), production-ready since 2019, provides an open, federated messaging backbone that Heysan would have had to engineer entirely from scratch in 2007 — dramatically reducing infrastructure cost and eliminating the need to maintain proprietary bridges to each network. Second, LLMs — specifically GPT-4 (March 2023) and Claude 3 (March 2024) — now make it feasible to build contact-intelligence routing: a system that infers which platform a given recipient prefers and routes outbound messages accordingly, without the user manually selecting a protocol. Third, monetization models that did not exist in 2009 are now proven: WhatsApp Business API pricing runs $0.005–$0.09 per conversation (Meta's published rate card, 2024), Telegram Premium launched in 2022, and WeChat Pay processed $1.67 trillion in 2021. A rebuild does not need 10 million users before generating revenue.
@@ -10,9 +18,7 @@ The global business messaging market was valued at approximately $62 billion in 
 
 ---
 
-## Why Now?
-
-### Current Market Analysis
+## Current Market Analysis
 
 **Market size today:** The global business messaging market was valued at approximately $62 billion in 2023 (Grand View Research, 2024), growing at a reported CAGR of roughly 12%. The consumer cross-platform messaging segment does not have a clean standalone valuation in available sources, but the scale of the underlying platforms is instructive: WhatsApp has 2 billion+ monthly active users (Meta, 2024), Telegram has 900 million (Telegram, 2024), Signal has approximately 40 million (Signal Foundation, 2023 estimate — exact figures not publicly disclosed), and iMessage is active on roughly 1.3 billion Apple devices (Apple, 2023). The re-fragmentation of messaging across these platforms has recreated the exact interoperability problem Heysan tried to solve in 2007, at a scale orders of magnitude larger.
 

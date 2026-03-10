@@ -167,8 +167,4 @@ Good Technology acquired Heysan on May 1, 2009, for undisclosed terms. <sup><a h
 11. [Gustaf Alstromer — Scaling Growth Panel, YC Blog](https://blog.ycombinator.com/scaling-growth-panel/)
 12. [Heysan — Mobile Industry Review, November 2008](https://www.mobileindustryreview.com/2008/11/heysan_-_mjelly_mobile_20_service_of_the_week.html)
 13. [Gustaf Alstromer — NoCap Blog](https://nocap.blog/founder/gustaf-alstromer/)
-14. [TechCrunch — YC Tries a New Experiment: Temporary Partners](https://techcrunch.com/2016/11/17/yc-tries-a-new-experiment-temporary-partners/)33:T41d,Heysan 2026 is a regulated-first messaging platform for EU knowledge workers drowning in fragmented conversations. It unifies WhatsApp, Telegram, Signal, and iMessage into a single inbox with AI-powered contact routing—so your phone knows which app to use for each person without you thinking about it. The business layer lets SMBs manage customer conversations across all four platforms from one API.
-
-The DMA changed everything. When the EU mandated interoperability in March 2024, it killed the old moat problem that sank the original Heysan—now the big platforms have to open their networks by law. That's not a technical hack; it's infrastructure. We're building on top of it.
-
-The wedge is simple: launch in the EU first where DMA compliance is mandatory and regulatory tailwinds are real. Acquire power users who already juggle multiple apps, then monetize through a B2B API for SMBs managing customer support and sales across channels. By 2026, we're the operating system layer that sits between fragmented messaging and actual productivity.34:T8f9,
+14. [TechCrunch — YC Tries a New Experiment: Temporary Partners](https://techcrunch.com/2016/11/17/yc-tries-a-new-experiment-temporary-partners/)

@@ -6,7 +6,7 @@ Farmstead was a San Francisco-based digital grocer that operated its own dark-st
 
 The rebuild thesis is not to relaunch a consumer grocery brand. It is to rebuild Farmstead's core operational intelligence — the demand forecasting, inventory sourcing, and dark-store operating stack — as a pure B2B SaaS platform (Grocery OS 2.0) sold to the 14,000+ Circle K and regional convenience-store locations that already exist as dark-store infrastructure in waiting. The quick-commerce shakeout has cleared the field, consumer e-grocery behavior has permanently shifted to a $95.8B market, and LLM-powered forecasting now makes the waste-reduction engine Farmstead's most defensible asset far cheaper to build and far harder to replicate than it was in 2020.
 
----34:T8cb,
+---
 
 ## Why Now?
 

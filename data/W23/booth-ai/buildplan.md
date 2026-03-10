@@ -6,7 +6,7 @@ Booth AI (founded August 2022, YC W23) built a generative AI platform that conve
 
 The rebuild is viable now because the two structural killers — GPU-intensive per-product fine-tuning and the absence of a low-friction distribution channel — have both been resolved: ControlNet/IP-Adapter techniques eliminate the fine-tuning pipeline entirely, inference costs have dropped roughly 10x, and Shopify's App Store provides a direct channel to 2M+ active merchants. The new version is a usage-based, Shopify-native AI product photography engine that turns a single product image into a full library of brand-accurate lifestyle scenes in under 60 seconds, priced per image and billed in arrears.
 
----34:T8e7,
+---
 
 ## Why Now?
 
@@ -38,11 +38,7 @@ Current direct competitors include:
 - **Adobe Firefly (Generative Fill)**: Excellent quality but requires Creative Cloud subscription, lives inside Photoshop, and demands design literacy. Not accessible to the median Shopify merchant.
 - **Shopify Magic (native)**: Convenient but limited to simple background replacement, not full lifestyle scene generation. Validates demand without satisfying it.
 
-The gap: no current competitor combines Shopify-native distribution, natural-language scene control, batch processing across an entire product catalog, and usage-based pricing with no upfront commitment.36:T497,$0.15 per downloaded image, billed monthly in arrears, with the first 20 images free. A merchant generating 100 images per month pays $15. A merchant running a full catalog refresh of 500 images pays $75 that month and nothing the next month if usage drops.
-
-Stress test against free alternatives: Shopify Magic (background removal only, not lifestyle scenes), Canva's AI tools (requires design work, not batch catalog processing), and Stable Diffusion (requires technical setup, no Shopify integration, no product identity preservation). None of these alternatives deliver what a merchant actually needs — a full lifestyle scene library for their catalog, generated in bulk, with their product looking exactly right. The $0.15/image price is justified because the alternative is a $500–$2,000 freelance photography session for the same output. The question is not "why pay vs. free" but "why pay $0.15 vs. $500" — and that answer is obvious to any merchant who has booked a photographer.
-
-For merchants who prefer predictability, offer an optional $49/month plan for 400 images (~$0.12/image) — a modest discount that converts high-volume users to recurring revenue.37:T8a4,
+The gap: no current competitor combines Shopify-native distribution, natural-language scene control, batch processing across an entire product catalog, and usage-based pricing with no upfront commitment.
 
 ## Defensibility Against Platform Incumbents
 
@@ -99,39 +95,11 @@ Shopify App Store, with three supporting tactics: (1) optimize the App Store lis
 
 ## Pricing Strategy
 
-# Scenik
+$0.15 per downloaded image, billed monthly in arrears, with the first 20 images free. A merchant generating 100 images per month pays $15. A merchant running a full catalog refresh of 500 images pays $75 that month and nothing the next month if usage drops.
 
-## 1. Overview
+Stress test against free alternatives: Shopify Magic (background removal only, not lifestyle scenes), Canva's AI tools (requires design work, not batch catalog processing), and Stable Diffusion (requires technical setup, no Shopify integration, no product identity preservation). None of these alternatives deliver what a merchant actually needs — a full lifestyle scene library for their catalog, generated in bulk, with their product looking exactly right. The $0.15/image price is justified because the alternative is a $500–$2,000 freelance photography session for the same output. The question is not "why pay vs. free" but "why pay $0.15 vs. $500" — and that answer is obvious to any merchant who has booked a photographer.
 
-Scenik is a Shopify-native AI product photography platform that transforms a single product image into a full library of brand-accurate lifestyle scenes in under 60 seconds — a modern revival of Booth AI's original vision, rebuilt with 2026-era inference techniques that eliminate the per-product fine-tuning bottleneck that made the original economically unviable. E-commerce merchants on Shopify connect their store once, describe a scene in plain English, and receive 8–12 photorealistic lifestyle images per SKU with exact product identity preserved via IP-Adapter conditioning. Billing is usage-based at $0.15/image charged in arrears, with the first 20 images free — inverting the upfront-payment friction that drove Booth AI's only recorded user reviews to be uniformly negative.
-
----
-
-## 2. Core Features
-
-**Shopify Integration**
-- OAuth 2.0 Shopify app installation flow; merchant authenticates once
-- Full product catalog sync: imports all products and variant images organized by SKU
-- Webhook listeners for `products/create`, `products/update`, `products/delete` to keep catalog in sync
-- Display sync status per product (synced, pending, error)
-
-**Scene Generation**
-- Natural-language scene prompt input ("white oak kitchen counter, morning light, coffee and herbs nearby")
-- IP-Adapter + ControlNet inference pipeline preserves exact product color, texture, label text, and shape
-- Generates 8 images per job at 1024×1024 (upscaled to 2048×2048 on download)
-- Job completes in under 60 seconds; real-time progress via SSE stream
-- Per-job generation history with thumbnails and prompt stored
-
-**Brand Scene Templates**
-- Save any successful generation as a named template ("Kitchen Morning", "Studio White")
-- Apply a saved template to any single product or entire catalog in one batch job
-- Templates store: prompt text, negative prompt, IP-Adapter strength, seed range, style preset
-- Template library page with preview thumbnails and usage count
-
-**Batch Processing**
-- Select multiple SKUs from catalog and apply a template to all in one operation
-- Batch job queue with per-SKU progress tracking
-- Batch results page: per-SKU image grid, bulk download as ZIP
+For merchants who prefer predictability, offer an optional $49/month plan for 400 images (~$0.12/image) — a modest discount that converts high-volume users to recurring revenue.
 
 ## Differentiation vs. 2026 Competitors
 

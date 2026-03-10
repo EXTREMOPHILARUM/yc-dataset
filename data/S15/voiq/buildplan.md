@@ -6,7 +6,7 @@ By 2026, VOIQ is a lightweight CRM-native voicebot that lives inside HubSpot and
 
 The viability shift is simple: the AI voice stack is now commoditized. GPT-4, real-time speech APIs, and production-grade voice synthesis are available as APIs. VOIQ doesn't need to build the AI—it needs to build the workflow layer that makes it useful inside the tools sales teams already live in. That's a 6-month engineering problem, not a 3-year frontier research problem.
 
-Go-to-market is land-and-expand through CRM integrations. Launch with a one-click workflow trigger that initiates calls without leaving the contact record, auto-logs outcomes, and transfers hot prospects to humans with full context. Sell directly to VP Sales at companies already paying for HubSpot. The product sells itself because it removes friction, not because it's magic.34:T866,
+Go-to-market is land-and-expand through CRM integrations. Launch with a one-click workflow trigger that initiates calls without leaving the contact record, auto-logs outcomes, and transfers hot prospects to humans with full context. Sell directly to VP Sales at companies already paying for HubSpot. The product sells itself because it removes friction, not because it's magic.
 
 ## Why Now?
 

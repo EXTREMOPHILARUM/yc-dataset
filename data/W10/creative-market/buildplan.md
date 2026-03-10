@@ -6,7 +6,7 @@ Creative Market 2026 is a Figma-native asset marketplace built for in-house desi
 
 The shift that makes this work now: Figma's dominance as the professional design standard means there's a single, defensible distribution channel that didn't exist in 2012. Every asset purchase happens inside the tool where designers already spend 6+ hours daily. This solves the core friction that kept marketplace adoption flat—discovery and checkout friction.
 
-The go-to-market targets 3–20 person design teams at Series A–C companies who need faster asset sourcing and want to support independent creators without legal risk. Seat-based pricing ($15–25/user/month) aligns incentives: teams grow, revenue grows. Creators get real-time earnings transparency and no exclusivity requirements. It's a direct attack on the incumbent's weakness: Creative Market's browser-first experience feels dated when Figma is where the work actually happens.34:T988,
+The go-to-market targets 3–20 person design teams at Series A–C companies who need faster asset sourcing and want to support independent creators without legal risk. Seat-based pricing ($15–25/user/month) aligns incentives: teams grow, revenue grows. Creators get real-time earnings transparency and no exclusivity requirements. It's a direct attack on the incumbent's weakness: Creative Market's browser-first experience feels dated when Figma is where the work actually happens.
 
 ## Why Now?
 

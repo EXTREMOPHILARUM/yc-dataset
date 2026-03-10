@@ -88,15 +88,19 @@ BookSolid's business model is not documented in any available source, but the Op
 
 The fundamental economics of this model require scale to generate meaningful revenue. A solo founder with $120,000 in funding would need to onboard a critical mass of operators in at least one geographic market, drive sufficient consumer traffic to generate bookings, and collect enough commission revenue to sustain operations—all before the capital ran out. The standard YC $120K investment of that era provided approximately 6–12 months of runway for a lean operation, which is a short window for a two-sided marketplace to reach self-sustaining transaction volume.<sup><a href="https://www.crunchbase.com/organization/booksolid/company_financials">[6]</a></sup>
 
----2e:T545,The most significant traction signal in the available record is indirect and unconfirmed. A August 2016 Emerging Prairie article describes Kiefer as having "immersed himself in the Silicon Valley startup scene, creating a software platform and making low millions in revenue" before a 2014 acquisition.<sup><a href="https://www.emergingprairie.com/south-dakota-startup-helping-elderly-population-live-ease/">[1]</a></sup> The article does not name the company, and it is possible the reference is to a venture Kiefer started after BookSolid rather than BookSolid itself.
+---
+
+## Traction
+
+The most significant traction signal in the available record is indirect and unconfirmed. A August 2016 Emerging Prairie article describes Kiefer as having "immersed himself in the Silicon Valley startup scene, creating a software platform and making low millions in revenue" before a 2014 acquisition.<sup><a href="https://www.emergingprairie.com/south-dakota-startup-helping-elderly-population-live-ease/">[1]</a></sup> The article does not name the company, and it is possible the reference is to a venture Kiefer started after BookSolid rather than BookSolid itself.
 
 If the reference is to BookSolid, "low millions in revenue" would represent meaningful traction for a YC-stage company operating in a niche vertical with $120,000 in funding. It would suggest the platform achieved real transaction volume—enough to generate commission or fee revenue in the millions—before being acquired. This would reframe BookSolid's outcome from a failure to a modest exit.
 
 No other traction metrics are available. The number of operators onboarded, bookings processed, geographic markets served, and consumer user base are all unknown. BookSolid's YC directory listing shows zero employees, consistent with either a shutdown or a full acquisition of the team and assets.<sup><a href="https://www.ycombinator.com/companies/booksolid">[5]</a></sup>
 
----2f:T1c0c,
+---
 
-## Traction
+## Post-Mortem
 
 BookSolid's failure—or ambiguous exit—reflects several compounding structural challenges. The available record is thin, and no direct founder commentary on BookSolid's specific difficulties exists. What follows is an analysis grounded in documented facts and the structural realities of the market BookSolid entered.
 
@@ -142,9 +146,7 @@ Kiefer's subsequent commentary, while not specifically about BookSolid, reflects
 
 ---
 
-## Post-Mortem
-
-### Key Lessons
+## Key Lessons
 
 - **Capital requirements must match the business model from day one.** Two-sided marketplaces require simultaneous investment in supply acquisition, demand generation, and product development—three expensive, parallel workstreams. BookSolid's $120,000 in funding was structurally insufficient for this model in a market where direct competitors were raising millions. Founders pursuing marketplace models should either secure sufficient capital before launch or constrain the initial market to a geography or niche small enough to reach liquidity with available resources.
 

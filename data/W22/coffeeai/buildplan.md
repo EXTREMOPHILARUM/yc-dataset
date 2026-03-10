@@ -4,7 +4,7 @@
 
 CoffeeAI 2026 is a signal-triggered personalization engine for SDR teams at mid-market B2B SaaS companies. It monitors prospect lists for real-time signals—job changes, funding rounds, LinkedIn activity—and surfaces them at the exact moment a rep drafts an outreach message. The system assembles full context (profile, recent posts, company news, mutual connections) into GPT-4o for hyper-relevant copy that actually converts. It's built for frontline sales reps, not RevOps engineers.
 
-The market shift that makes this work now: real-time signal infrastructure (Proxycurl, Trigify) has matured enough to be reliable and affordable. Competitors like Clay dominate by selling to technical teams; we win by selling to sales managers who care about reply rates, not data pipelines. The go-to-market is direct—target SDR managers at 10–100 person SaaS companies with a free signal layer, then charge per team seat once they see 15%+ reply rates (double industry benchmark). Shared Blueprint templates with performance feedback create network effects within teams.33:T8bd,
+The market shift that makes this work now: real-time signal infrastructure (Proxycurl, Trigify) has matured enough to be reliable and affordable. Competitors like Clay dominate by selling to technical teams; we win by selling to sales managers who care about reply rates, not data pipelines. The go-to-market is direct—target SDR managers at 10–100 person SaaS companies with a free signal layer, then charge per team seat once they see 15%+ reply rates (double industry benchmark). Shared Blueprint templates with performance feedback create network effects within teams.
 
 ## Why Now?
 
@@ -35,7 +35,7 @@ The 269 surviving Chrome Web Store reviews (4.1/5) represent a free voice-of-cus
 
 **Demand Signals:** Clay's growth validates appetite for signal-enriched outreach. The rise of "GTM engineering" as a job title (appearing in LinkedIn job postings at a rate that has roughly tripled since 2023, per informal observation — precise data unavailable) signals that sales teams are actively seeking tools that combine data signals with AI generation. This is exactly the gap CoffeeAI's Blueprints feature gestured toward but could not execute.
 
----35:T8b6,
+---
 
 ## Recommended MVP
 

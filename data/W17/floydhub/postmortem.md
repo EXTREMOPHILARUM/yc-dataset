@@ -115,7 +115,7 @@ FloydHub operated on a usage-based subscription model, charging users for GPU an
 
 The structural challenge was margin. Because FloydHub ran jobs on AWS reserved instances under the hood,<sup><a href="https://medium.com/@prakhar.mishra/heroku-for-deep-learning-floydhub-6bbc0fb6a77e">[28]</a></sup> its gross margin was constrained by the spread between what it paid AWS and what it charged users. As AWS, Google, and Azure began offering equivalent managed ML services — often at lower prices, given their ability to amortize infrastructure costs across massive scale — FloydHub's pricing power eroded. The company also offered an on-premises enterprise tier,<sup><a href="https://venturebeat.com/2017/03/22/floyd-deep-learning/">[29]</a></sup> which would have carried higher margins if sold successfully, but no revenue data from this tier is available. The confirmed funding of $120,000 from YC<sup><a href="https://tracxn.com/d/companies/floydhub/__J-bsNmaxpqGUMH0t5v1GOIyduWPfyBba1PEw9FieaxY">[30]</a></sup> suggests the company never raised the capital needed to invest in a dedicated enterprise sales motion.
 
----2f:T67e,
+---
 
 ## Traction
 

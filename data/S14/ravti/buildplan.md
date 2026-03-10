@@ -6,7 +6,7 @@ Ravti (2012–2020) built a platform to digitize, manage, and procure HVAC syste
 
 What has changed is structural: open APIs from incumbent platforms now allow integration rather than competition, computer vision eliminates the labor-intensive onboarding that killed unit economics, IoT sensor costs have dropped 80–90%, and SEC climate disclosure rules have converted HVAC data from a nice-to-have into a compliance requirement for publicly traded REITs. The rebuild is a compliance-first HVAC intelligence layer that plugs into Yardi and MRI as a native module — capturing the value Ravti created without fighting the distribution war that destroyed it.
 
----35:Tbac,
+---
 
 ## Why Now?
 
@@ -39,9 +39,7 @@ The current competitive landscape has four meaningful players, each with a speci
 - **JLL's Building Engines (Prism HVAC module):** The direct heir to Ravti's technology. Its weakness is captivity — it is only accessible to Building Engines customers, and JLL's enterprise sales motion means it is effectively unavailable to mid-market property managers managing portfolios under 5 million square feet. It also carries JLL's conflict of interest: JLL sells facilities management services, creating buyer skepticism about whether the software is optimizing for the owner or for JLL's service revenue.
 - **Yardi Energy:** Covers utility and energy management broadly but lacks equipment-level HVAC inventory and vendor procurement functionality. Strong on reporting; weak on operational workflow.
 - **ServiceChannel / Corrigo (JLL subsidiary):** Facilities management and work order platforms with HVAC work order capability but no equipment inventory intelligence, no ASHRAE-based CapEx scoring, and no tenant compliance tracking.
-- **UpKeep / Limble CMMS:** Computerized maintenance management systems with HVAC asset tracking, but built for in-house maintenance teams rather than third-party property managers, and lacking procurement marketplace and compliance reporting features.37:T4cb,Maintain Ravti's per-square-foot SaaS model, priced at $0.03–0.06 per square foot annually (specific pricing requires market validation; this range is illustrative based on comparable proptech SaaS benchmarks). For a 5M square foot portfolio, this implies $150,000–$300,000 ARR per customer — consistent with enterprise SaaS expectations.
-
-Stress-testing against free alternatives: the primary free alternative is a property manager's existing Yardi or MRI work order module, which tracks HVAC work orders but does not provide equipment inventory intelligence, ASHRAE scoring, or SEC-formatted emissions reporting. The compliance reporting feature is the critical differentiator here — a REIT facing SEC disclosure requirements cannot accomplish that with a work order log. Group chats and spreadsheets are the real free alternative for smaller operators, but the target segment (institutional REITs) has already moved past spreadsheet tolerance for compliance workflows. The IRA tax credit optimizer provides a calculable ROI: for a portfolio replacing 50 units annually at $8,000 average cost, a 25% tax credit represents $100,000 in savings — exceeding the annual software cost at the low end of the pricing range.38:Ta6c,
+- **UpKeep / Limble CMMS:** Computerized maintenance management systems with HVAC asset tracking, but built for in-house maintenance teams rather than third-party property managers, and lacking procurement marketplace and compliance reporting features.
 
 ## Demand Signals from Adjacent Products
 
@@ -104,43 +102,9 @@ The Yardi and MRI partner marketplaces are the primary distribution channel. Bot
 
 ## Pricing Strategy
 
-# Ducter
+Maintain Ravti's per-square-foot SaaS model, priced at $0.03–0.06 per square foot annually (specific pricing requires market validation; this range is illustrative based on comparable proptech SaaS benchmarks). For a 5M square foot portfolio, this implies $150,000–$300,000 ARR per customer — consistent with enterprise SaaS expectations.
 
-## 1. Overview
-
-Ducter is a compliance-first HVAC intelligence platform for commercial property managers — a modern revival of Ravti — that digitizes equipment inventory via computer vision, generates SEC/ESG-ready emissions reports, and calculates IRA tax credit savings for equipment replacement decisions. It serves institutional property managers and publicly traded REITs who face mandatory climate disclosure requirements and need equipment-level HVAC data to satisfy SEC Scope 1/2 reporting, GRESB submissions, and ENERGY STAR benchmarking. Unlike standalone point solutions, Ducter integrates natively with Yardi Voyager and MRI Property Management so property managers never leave their existing system of record.
-
----
-
-## 2. Core Features
-
-**Equipment Inventory**
-- Photo-based onboarding: upload smartphone photo of any HVAC unit → computer vision auto-populates make, model, estimated age, refrigerant type, tonnage, and condition flag
-- Manual entry fallback with structured form (make/model lookup from curated equipment database)
-- Barcode/QR code generation and printing per unit for future field scans
-- Bulk CSV import for existing inventory records
-- Equipment detail page: full history log (service events, photos, notes), ASHRAE life expectancy score, replacement priority flag
-- Portfolio-level equipment map view (building → floor → unit hierarchy)
-
-**Properties & Portfolio Management**
-- Create and manage properties with address, square footage, property type (retail, industrial, office), and ownership structure (fee simple, triple-net)
-- Assign buildings to portfolios; support multi-portfolio organizations
-- Tenant assignment per unit for triple-net lease tracking
-- Role-based access: Organization Admin, Portfolio Manager, Property Manager, Field Technician
-
-**Compliance Reporting**
-- One-click GRESB-ready HVAC emissions report (Scope 1 refrigerant leakage, Scope 2 energy consumption per unit)
-- SEC climate disclosure export (CSV + PDF) aligned with final 2024 SEC climate rules
-- ENERGY STAR Portfolio Manager data export format
-- Scheduled auto-generation: monthly, quarterly, annual
-- Report history with download archive
-
-**IRA Tax Credit Optimizer (CapEx Planning)**
-- ASHRAE Standard 180-based equipment scoring: remaining useful life estimate per unit
-- Replacement priority queue: units ranked by age, condition score, and energy inefficiency
-- IRA Section 179D eligibility calculator: net cost after 30% tax credit per qualifying replacement
-- Portfolio-level CapEx projection: 1-year, 3-year, 5-year replacement cost with and without tax credits
-- Export CapEx plan as PDF for board/investor reporting
+Stress-testing against free alternatives: the primary free alternative is a property manager's existing Yardi or MRI work order module, which tracks HVAC work orders but does not provide equipment inventory intelligence, ASHRAE scoring, or SEC-formatted emissions reporting. The compliance reporting feature is the critical differentiator here — a REIT facing SEC disclosure requirements cannot accomplish that with a work order log. Group chats and spreadsheets are the real free alternative for smaller operators, but the target segment (institutional REITs) has already moved past spreadsheet tolerance for compliance workflows. The IRA tax credit optimizer provides a calculable ROI: for a portfolio replacing 50 units annually at $8,000 average cost, a 25% tax credit represents $100,000 in savings — exceeding the annual software cost at the low end of the pricing range.
 
 ## Differentiation vs. 2026 Competitors
 

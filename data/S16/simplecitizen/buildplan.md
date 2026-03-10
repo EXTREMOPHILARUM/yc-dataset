@@ -6,7 +6,7 @@ By 2026, SimpleCitizen is an AI-powered case management API for immigration law 
 
 The go-to-market is embedded: native integrations with Rippling and Greenhouse put visa sponsorship workflows directly inside the HR tools where hiring decisions happen. Cases route to the law firm's SimpleCitizen portal automatically. Firms see immediate ROI through attorney time savings and higher throughput per headcount. Distribution is direct sales to firms already using legacy case management (Tracker Corp, INSZoom, spreadsheets) who are desperate for a modern alternative.
 
-This is the B2B version of the original insight—the paperwork is solvable—aimed at the customer who actually has budget and decision-making power.34:Ta4a,
+This is the B2B version of the original insight—the paperwork is solvable—aimed at the customer who actually has budget and decision-making power.
 
 ## Why Now?
 

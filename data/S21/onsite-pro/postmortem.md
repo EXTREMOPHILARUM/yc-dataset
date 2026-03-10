@@ -101,7 +101,7 @@ The most concrete traction data available is from the hiring marketplace phase (
 
 The White House recognition (representing the US at the Infrastructure Talent Pipeline Challenge celebration) and the Allume Energy partnership were meaningful credibility signals for the hiring marketplace phase, but neither translated into disclosed revenue or user growth.<sup><a href="https://www.linkedin.com/posts/sam-steyer_greenwork-connecting-workforce-training-activity-6801150285063491584-sK9G">[37]</a></sup><sup><a href="https://www.linkedin.com/company/greenworkco">[38]</a></sup>
 
-No traction data — customer counts, ARR, distributor partnerships, or contractor users — was ever disclosed for the Onsite Pro HVAC phase. The absence of any public metric from the final product is consistent with a company that did not achieve the scale needed to make those numbers a marketing asset.30:T1fdb,
+No traction data — customer counts, ARR, distributor partnerships, or contractor users — was ever disclosed for the Onsite Pro HVAC phase. The absence of any public metric from the final product is consistent with a company that did not achieve the scale needed to make those numbers a marketing asset.
 
 ## Post-Mortem
 

@@ -104,7 +104,7 @@ Hipmob charged on a hybrid per-seat plus per-volume basis. <sup><a href="https:/
 
 The pricing structure was reasonable for SMB customers but created a ceiling problem. At $25 per seat, a five-agent support team represented $125 per month—$1,500 annually. Even at 100 such customers, annual recurring revenue would be $150,000, barely enough to sustain a team of two in the Bay Area. Scaling to enterprise contracts required a sales motion the team was not resourced to execute. The "reach" component (chats per month) added a usage-based dimension that could theoretically scale with customer growth, but no public data exists on whether any customers reached volumes that generated meaningful revenue uplift.
 
----2f:T57b,
+---
 
 ## Traction
 

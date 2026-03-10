@@ -6,7 +6,7 @@ Reble was a Windows-only desktop application launched in public beta in February
 
 The rebuild thesis is that every technical and legal barrier that killed Reble has since been resolved by others: WebRTC enables browser-native P2P audio, Spotify's API exposes friends' listening data without requiring local libraries, and blanket licensing has made the legal gray zone Reble occupied irrelevant. The new version is a licensed, browser-based social listening layer — a "listen together" product built on top of Spotify's catalog and social graph — that delivers Reble's original emotional promise (hearing exactly what your friend is hearing, right now) without asking anyone to install software, stream from their hard drive, or trust an untested legal theory.
 
----32:T94a,
+---
 
 ## Why Now?
 
@@ -57,7 +57,7 @@ A read-only view of what friends have been listening to recently — their top t
 
 **Cold-start:** The product delivers value with two users. Session initiation requires only one authenticated Spotify user; the second participant needs only a browser and a Spotify account to join. There is no minimum network density threshold — this is the structural fix the rebuild makes over Reble's original architecture.
 
----35:T9bb,
+---
 
 ## Go-to-Market Strategy
 

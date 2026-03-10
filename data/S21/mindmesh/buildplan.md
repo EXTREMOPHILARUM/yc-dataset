@@ -6,7 +6,7 @@ Mindmesh 2026 is a lightweight AI agent layer that sits on top of the tools prod
 
 The viability shift is standardized AI tool-use APIs. Model Context Protocol and OpenAI's function calling mean we can now reliably connect to external tools without building custom integrations for each one. The original Mindmesh tried to be a destination; this version is invisible infrastructure.
 
-We go after Series A–C product and engineering teams (50–500 people) who live in Slack and Jira. The pitch is simple: stop context-switching. We charge per seat, land with the daily briefing, expand into meeting automation and cross-tool search. Competitors like Notion AI are locked in their own gardens. We win by being tool-agnostic and living where the work actually happens.34:T88c,
+We go after Series A–C product and engineering teams (50–500 people) who live in Slack and Jira. The pitch is simple: stop context-switching. We charge per seat, land with the daily briefing, expand into meeting automation and cross-tool search. Competitors like Notion AI are locked in their own gardens. We win by being tool-agnostic and living where the work actually happens.
 
 ## Why Now?
 

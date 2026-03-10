@@ -111,7 +111,7 @@ The company targeted larger channels (100K+ subscribers) for custom onboarding o
 
 The Chrome Extension served as a distribution mechanism rather than a direct revenue driver, embedding CreatorML's value into the YouTube interface to generate awareness and conversion. Revenue would have flowed from paid subscriptions to the core prediction and analytics platform. No information is available on pricing, average contract value, or the ratio of free to paid users.
 
----2f:T6fc,
+---
 
 ## Traction
 

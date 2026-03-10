@@ -6,7 +6,7 @@ By 2026, FloydHub is the command-line interface for fine-tuning open-source foun
 
 The market shift is real: fine-tuning has become a discrete, repeatable workflow. Unlike 2021, when the entire deep learning stack was fragmented and hyperscalers were already moving upmarket, today's bottleneck is operational—practitioners have the models and datasets, but lack a frictionless way to iterate. SageMaker dominates enterprise but is notoriously cumbersome; there's a gap for something fast and opinionated.
 
-The go-to-market is direct: land with free tier usage (spot GPU jobs), convert on reliability and speed (automatic checkpointing, cost transparency), and expand into teams running multiple fine-tuning experiments per week. Win by being 10x faster to first job than SageMaker and 10x more reliable than DIY orchestration.34:T8b2,
+The go-to-market is direct: land with free tier usage (spot GPU jobs), convert on reliability and speed (automatic checkpointing, cost transparency), and expand into teams running multiple fine-tuning experiments per week. Win by being 10x faster to first job than SageMaker and 10x more reliable than DIY orchestration.
 
 ## Why Now?
 

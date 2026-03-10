@@ -167,8 +167,4 @@ Enterprise sales organizations require hands-on onboarding, ongoing support, and
 8. [Tracxn – Fabius Funding and Investors](https://tracxn.com/d/companies/fabius/__9SqVGM5ZuyIcC2E375vW_UmtnjzoIPvxyLuCJP-JnJM/funding-and-investors)
 9. [YC Companies Directory – Fabius](https://www.ycombinatorcompanies.com/company/fabius)
 10. [GitHub – Andy Day (@adayNU)](https://github.com/adayNU)
-11. [X / Twitter – @FabiusTech](https://x.com/FabiusTech)31:T44f,Fabius 2026 is a lightweight methodology enforcement layer for mid-market sales teams priced out of Gong. It lives in HubSpot, ingests call transcripts from any source (Gong, Chorus, Zoom), and automatically scores every deal against a sales leader's actual framework — MEDDPICC, SPICED, or custom — then surfaces qualification gaps and auto-populates CRM fields. No native recording, no real-time coaching, no complexity.
-
-The market shift is LLM inference cost collapse. In 2022, extracting structured qualification data from calls was prohibitively expensive. Now GPT-4o makes it viable at $499/month for teams of 10–50 reps. Gong's $1,200+ per seat pricing leaves this segment completely underserved, and they're actively moving upmarket.
-
-Go-to-market is HubSpot App Marketplace as the primary channel, with founder outreach into RevOps communities (RevGenius, Pavilion) where sales ops leaders congregate. Win on three axes: SMB pricing, company-specific rubric customization that Gong can't match, and zero implementation friction. Target: 10 paying customers at $500+/month within 90 days.32:T757,
+11. [X / Twitter – @FabiusTech](https://x.com/FabiusTech)

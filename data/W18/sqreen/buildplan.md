@@ -6,7 +6,7 @@ Sqreen was a Paris-founded application security platform (2015–2021) that embe
 
 The rebuild thesis is not to fight that convergence — it is to exploit the gap it created. Datadog's acquisition validated the CNAPP category and set enterprise pricing that leaves the mid-market underserved; eBPF-based instrumentation now eliminates the per-language SDK burden that constrained Sqreen's original addressable market; and new regulatory mandates (SEC cybersecurity disclosure rules, EU AI Act) have converted "security nice-to-have" into "compliance necessity" for exactly the engineering-led companies Sqreen served best. The new version is a zero-agent-install, eBPF-native application security platform built for platform engineering teams, distributed through the Internal Developer Platform layer rather than competing head-on with Datadog for agent real estate.
 
----34:T971,
+---
 
 ## Why Now?
 

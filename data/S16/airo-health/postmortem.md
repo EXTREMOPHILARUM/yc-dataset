@@ -121,7 +121,7 @@ In 2016, the YC-era device was priced at $200. <sup><a href="https://techcrunch.
 
 Hardware-first business models carry high capital requirements: tooling, manufacturing, supply chain, quality assurance, and returns all require cash before a single unit generates revenue. For a two-person team with $125,000 in total lifetime funding, <sup><a href="https://tracxn.com/d/companies/airo-health/__IM-uxFnRnJ0JH5A54X9DwDHjs2rijBGjQJIUxSPqxkc">[19]</a></sup> the unit economics of hardware production were almost certainly unworkable without a significant post-YC raise. No such raise is documented.
 
----2f:T1cda,
+---
 
 ## Post-Mortem
 

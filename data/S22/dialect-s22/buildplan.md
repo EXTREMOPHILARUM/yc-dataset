@@ -2,6 +2,14 @@
 
 ## Overview
 
+The 2026 Dialect targets mid-market B2B SaaS companies (50–500 employees) that are already paying for compliance platforms like Vanta or Drata. Instead of a generic questionnaire copilot, it's a purpose-built compliance answering engine that syncs directly with those platforms' APIs, pulling structured security and audit data to generate accurate, audit-ready responses in seconds. The product lives as a lightweight browser extension and Slack bot—not a new platform to learn.
+
+The market shift is simple: LLM inference costs have collapsed and context windows have expanded dramatically since 2023. That means Dialect can now afford to maintain real-time syncs with compliance platforms and process entire company knowledge bases in a single request. Incumbents like Responsive built around legacy content library workflows; they're slow to integrate and expensive to customize.
+
+The go-to-market is direct: land through compliance platform communities and partner channels, target security and sales ops teams already frustrated with manual questionnaire work, and charge per-seat or per-response. Expand upmarket only after proving unit economics with the mid-market segment. The insight is that compliance data is now the moat—not generic AI—and the companies already managing it digitally are ready to buy.
+
+## Why Now?
+
 The single most important change since Dialect's failure is the collapse of LLM inference costs combined with the expansion of context windows—two shifts that together eliminate the two hardest engineering problems Dialect faced in 2022–2023.
 
 When Dialect was building, GPT-3 offered roughly 4K token context windows, forcing a chunked retrieval-augmented generation (RAG) architecture that required significant ML expertise to make reliable. By contrast, Claude 3 (March 2024) offers 200K+ token context windows, meaning a rebuilt Dialect can ingest an entire company knowledge base—security policies, prior questionnaire responses, help center articles—in a single prompt. This is not a marginal improvement; it eliminates the primary engineering complexity that justified Dialect's 15-month pre-launch development period.
@@ -14,9 +22,7 @@ Market validation is further confirmed by Salesforce, HubSpot, and Microsoft Cop
 
 ---
 
-## Why Now?
-
-### Current Market Analysis
+## Current Market Analysis
 
 **Market Size:** The RFP and proposal automation software market was valued at approximately $1.5B in 2022 (source: Grand View Research; exact 2026 figure not available in research materials). The adjacent compliance automation market—where Vanta, Drata, and Secureframe compete—has attracted $500M+ in venture funding alone, suggesting the combined security questionnaire and RFP workflow market is meaningfully larger than the standalone RFP category implies.
 

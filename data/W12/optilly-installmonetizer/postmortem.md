@@ -110,7 +110,7 @@ InstallMonetizer operated as a two-sided marketplace. Publishers integrated the 
 
 Optilly operated as a SaaS platform. Marketers paid for access to the campaign management, multivariate testing, and automated bidding tools. The company likely charged either a percentage of managed ad spend (the standard model for Facebook Marketing Partners) or a flat monthly fee, though specific pricing was never publicly disclosed. The shift from a marketplace model to a SaaS model changed the revenue structure entirely — from transaction-based to subscription-based — and required building a sales and account management function to serve marketer clients.
 
----2f:T64d,
+---
 
 ## Traction
 

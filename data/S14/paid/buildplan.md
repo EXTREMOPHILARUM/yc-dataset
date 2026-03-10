@@ -6,7 +6,7 @@ Paid (later Paid Labs) was a Y Combinator S14 company that built a developer-fir
 
 The rebuild thesis is not to fight Stripe again on horizontal ground — it is to go vertical and go deeper. Three structural changes make this viable in 2026: LLMs can now deliver on the "autopilot" promise that was technically impossible in 2014, FedNow and RTP have eliminated the settlement lag that made net-terms invoicing painful, and Stripe Connect has commoditized payment rails to the point where a vertical AR layer built on top of it is defensible rather than redundant. The new Paid is an AI-native AR automation platform for professional services firms — agencies, consultancies, and law firms — billing on complex net-30/60 terms, where Stripe Invoicing is genuinely inadequate and the pain is acute enough to pay for a solution.
 
----34:T89a,
+---
 
 ## Why Now?
 
@@ -62,7 +62,7 @@ Payment acceptance via Stripe Connect, supporting ACH, card, and RTP — embedde
 
 **Cold-start note:** This product does not depend on network effects or local density. Each customer derives full value from day one of their own integration. No minimum user threshold is required before the core feature delivers value.
 
----37:T962,
+---
 
 ## Go-to-Market Strategy
 

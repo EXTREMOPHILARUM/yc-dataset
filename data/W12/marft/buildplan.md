@@ -6,7 +6,7 @@ Marft 2026 targets full-stack developers and small engineering teams building B2
 
 The market shift is simple: in 2012, ML was exotic. By 2026, every developer knows what a model is, cloud infrastructure is commodity, and the pain point has crystallized. SageMaker dominates enterprise but requires DevOps expertise to configure. There's no fast path for a solo engineer or small team. Marft fills that gap by removing all the infrastructure decisions—just data in, model out, your control.
 
-Go-to-market is organic and native to where developers already live: GitHub, Hacker News, Vercel marketplace. Free tier removes activation friction. Win on portability (models run in your stack, not locked to our platform) and simplicity (no architecture design, no tuning knobs, no DevOps overhead). Charge when teams scale to multiple models and production monitoring.30:T7af,
+Go-to-market is organic and native to where developers already live: GitHub, Hacker News, Vercel marketplace. Free tier removes activation friction. Win on portability (models run in your stack, not locked to our platform) and simplicity (no architecture design, no tuning knobs, no DevOps overhead). Charge when teams scale to multiple models and production monitoring.
 
 ## Why Now?
 

@@ -98,7 +98,7 @@ Grouper's competitive landscape was unusual because the company occupied a posit
 
 Grouper charged $20 per person per outing, with the fee covering a complimentary first round of drinks including tax and tip at a reserved table in a partner bar. <sup><a href="https://mixergy.com/interviews/michael-waxman-grouper-interview/">[28]</a></sup> The revenue model was transactional rather than subscription-based, meaning the company earned money only when outings occurred. With six participants per Grouper, each successful outing generated $120 in gross revenue before the cost of the first round of drinks, the human matching labor, the real-time CRM operation, and the partner bar coordination. <sup><a href="https://en.wikipedia.org/wiki/Grouper_social_club">[22]</a></sup> The complimentary drink was a meaningful customer acquisition and retention tool—it made the $20 fee feel like a bargain—but it also compressed margins on every transaction. The business model required high volume and high repeat usage to generate meaningful revenue. No unit economics data was ever disclosed publicly, making it impossible to confirm whether individual outings were profitable after fully-loaded costs. The model was structurally dependent on the human curation layer remaining affordable as volume scaled, which it likely did not.
 
----2f:T923,
+---
 
 ## Traction
 

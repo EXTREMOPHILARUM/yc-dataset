@@ -169,4 +169,4 @@ The decision to pursue SOC2 compliance—a resource-intensive process that typic
 9. [Abbot — Release Notes (March 2023)](https://ab.bot/release-notes/)
 10. [Phil Haack — "Failure" (November 2023)](https://haacked.com/archive/2023/11/13/failure/)
 11. [Abbot — Home page (post-pivot product features)](https://ab.bot/home/)
-12. [Phil Haack — Blog (SOC2 compliance)](https://haacked.com/)32:T8aa,
+12. [Phil Haack — Blog (SOC2 compliance)](https://haacked.com/)

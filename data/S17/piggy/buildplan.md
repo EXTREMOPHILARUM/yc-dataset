@@ -6,7 +6,7 @@ Piggy 2026 is a wealth intelligence platform, not a distribution intermediary. I
 
 The market shift is Account Aggregator + UPI AutoPay, live since 2021. This infrastructure didn't exist when Piggy first launched. Now you can build a trust layer on top of aggregated data—not compete on distribution. Competitors like Groww own acquisition but are weak on engagement and advisory; they're distribution-first, not intelligence-first.
 
-The go-to-market is subscription advisory: free net worth dashboard to acquire, then convert 15% to a ₹999/year SEBI RIA tier for personalized portfolio reviews and tax reports. You win by being the only platform that understands their full financial picture and acts as their annual financial operating system, not their fund store.34:T830,
+The go-to-market is subscription advisory: free net worth dashboard to acquire, then convert 15% to a ₹999/year SEBI RIA tier for personalized portfolio reviews and tax reports. You win by being the only platform that understands their full financial picture and acts as their annual financial operating system, not their fund store.
 
 ## Why Now?
 

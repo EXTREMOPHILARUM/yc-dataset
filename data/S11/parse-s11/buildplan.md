@@ -6,7 +6,7 @@ Parse was a San Francisco-based mobile Backend-as-a-Service company founded in 2
 
 What has changed is that the open-source community Parse accidentally created at shutdown has now matured into a proven go-to-market motion, edge computing has solved the unit economics problem that made Parse's pricing "notoriously cheap," and usage-based billing infrastructure has made the freemium-to-revenue conversion tractable in ways it simply wasn't in 2013. The rebuild is a developer-owned, edge-native BaaS platform that wins on trust, portability, and pricing transparency — the three things Firebase, AWS Amplify, and Supabase each fail at in measurable ways.
 
----34:T8d9,
+---
 
 ## Why Now?
 

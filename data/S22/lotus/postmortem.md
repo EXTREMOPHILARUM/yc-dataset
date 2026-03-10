@@ -100,7 +100,7 @@ Lotus operated a standard open-core monetization structure with three tiers.<sup
 
 This structure is common among COSS companies but carries an inherent tension: the more capable the free tier, the less incentive customers have to upgrade. The MIT license — the most permissive available — maximized developer adoption but minimized conversion pressure. Companies with engineering resources to self-host had little reason to pay for the cloud version. Companies without those resources were often not the developer-led organizations that discovered Lotus organically. The enterprise support tier required an outbound sales motion that a two-person team could not sustain simultaneously with product development and community management.
 
----2e:T759,
+---
 
 ## Traction
 

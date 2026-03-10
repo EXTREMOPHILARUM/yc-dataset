@@ -89,7 +89,7 @@ The "home care company" framing Lee used publicly complicates this. If Sage Care
 
 No pricing data, revenue figures, or business model documentation is publicly available. The $125,000 in total funding is consistent with a company that had not yet validated a repeatable revenue model before running out of capital. <sup><a href="https://tracxn.com/d/companies/sage-care/__ymCNNNnyQbrinVuaV4q7PBXBtom9OGdmUwgc1NaA3qc">[2]</a></sup>
 
----2f:T1a85,
+---
 
 ## Post-Mortem
 

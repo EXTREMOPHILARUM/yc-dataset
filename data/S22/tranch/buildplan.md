@@ -6,7 +6,7 @@ Tranch was a B2B invoice payments platform founded in 2021 by Philip Kelvin and 
 
 The acquisition validated the vertical-specific invoice payments thesis so completely that it created a new gap: Elite's enterprise focus on Am Law 200 firms almost certainly leaves mid-market law firms ($5M–$50M revenue, roughly Am Law 201–600 and regional firms) without a purpose-built payments solution. The rebuild is not a copy of Tranch — it is the version of Tranch that Elite cannot afford to build, priced and distributed for the firms too small for Elite's sales motion but too large for generic payment processors to serve well. Think Tranch for the long tail of law: a modern invoice-to-payment platform with embedded BNPL, real-time rails, and LLM-powered AR automation, sold directly into the Clio and MyCase ecosystems where mid-market firms already live.
 
----34:T9e2,
+---
 
 ## Why Now?
 

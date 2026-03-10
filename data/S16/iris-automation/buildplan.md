@@ -6,7 +6,7 @@ Iris Automation was a drone safety software company founded in 2015 that built C
 
 The rebuild thesis is this: the FAA's 2023 BVLOS NPRM has transformed the regulatory environment from an indefinitely closed door into an actively opening one, modern edge AI chips deliver 10–100x more inference performance per watt than 2019 hardware, and foundation vision models slash the training data burden that cost Iris Automation 7,000+ test flights — meaning a new entrant can build a software-defined, subscription-priced DAA compliance layer that reaches profitability before the next capital contraction, not after it.
 
----34:T9e6,
+---
 
 ## Why Now?
 

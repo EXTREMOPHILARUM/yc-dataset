@@ -100,7 +100,7 @@ For the HIPAA compliance product (CloudClear): a developer API or SDK with usage
 
 The company received YC standard funding and angel investment, but no Series A or subsequent funding rounds appear in any public database, suggesting the company did not achieve the revenue or growth metrics needed to raise institutional follow-on capital.<sup><a href="https://theorg.com/org/directshifts/org-chart/sai-kumar-thumuluru-ph-d">[7]</a></sup>
 
----2f:T1825,
+---
 
 ## Post-Mortem
 

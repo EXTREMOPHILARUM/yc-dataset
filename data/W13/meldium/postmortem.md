@@ -98,7 +98,7 @@ Meldium operated a freemium SaaS model with a tiered subscription structure. The
 
 The model was designed for self-serve adoption. There is no evidence of a direct sales motion or enterprise contracts. Revenue came from recurring monthly subscriptions, with natural expansion potential as customer headcount grew through the pricing tiers. The $199/month ceiling for 250 users implied an annual contract value of approximately $2,400 for the largest SMB customers—a figure that would require a large number of accounts to generate meaningful revenue. LogMeIn's explicit statement that Meldium's revenue would not materially impact its financials at acquisition confirmed that the company had not yet scaled its monetization, even if its growth trajectory was positive.<sup><a href="https://www.securityweek.com/logmein-acquires-meldium-15-million-cash/">[22]</a></sup>
 
----2f:T86f,
+---
 
 ## Traction
 

@@ -6,7 +6,7 @@ By 2026, Airo is a B2B mental health platform—not a consumer wearable. The pro
 
 The market shift is simple: in 2016, there was no proven B2B distribution channel for wearable health data. Now there is. Employers have normalized health benefits platforms (Ro, Headspace for Work, Calm Business), and they're actively buying into workplace mental health. Meanwhile, WHOOP's $3.6B valuation proved the underlying science—HRV stress tracking works—but left the enterprise market completely unserved.
 
-The go-to-market is direct sales to mid-market self-insured employers in high-burnout verticals (tech, finance, healthcare). Airo wins by being the only vendor combining validated hardware, real-time coaching, and HR-grade analytics in a single platform. The pitch: measurable ROI on absenteeism and retention within 90 days.33:T8b3,
+The go-to-market is direct sales to mid-market self-insured employers in high-burnout verticals (tech, finance, healthcare). Airo wins by being the only vendor combining validated hardware, real-time coaching, and HR-grade analytics in a single platform. The pitch: measurable ROI on absenteeism and retention within 90 days.
 
 ## Why Now?
 

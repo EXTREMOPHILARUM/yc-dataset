@@ -4,7 +4,7 @@
 
 By 2026, CareLedger is a B2B SaaS platform for mid-market self-insured employers (75–300 employees) that makes elective procedure costs transparent and shoppable in real time. Employees get an AI-powered chat interface to compare prices across local providers; employers get a dashboard showing actual savings against baseline spend. The platform works because price transparency data is now federally mandated and machine-readable—the data acquisition problem that killed the original company no longer exists.
 
-The market shift is structural: CMS price transparency rules (effective 2021–2024) have flooded the market with standardized pricing data. Employers are desperate to control procedure costs without restricting choice. CareLedger wins by being the first to combine that public data with a frictionless employee experience and a flexible revenue model—either flat PEPM ($3–$8/employee/month) or shared savings (25–30% of verified reductions). No long sales cycles, no custom integrations, no network effects dependency. Just plug into Turquoise Health's API, launch the navigator, and measure savings month one.34:T772,
+The market shift is structural: CMS price transparency rules (effective 2021–2024) have flooded the market with standardized pricing data. Employers are desperate to control procedure costs without restricting choice. CareLedger wins by being the first to combine that public data with a frictionless employee experience and a flexible revenue model—either flat PEPM ($3–$8/employee/month) or shared savings (25–30% of verified reductions). No long sales cycles, no custom integrations, no network effects dependency. Just plug into Turquoise Health's API, launch the navigator, and measure savings month one.
 
 ## Why Now?
 

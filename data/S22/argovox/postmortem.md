@@ -99,7 +99,7 @@ The company's stated value proposition — recovering up to 20% of lost profit m
 
 Revenue figures from third-party databases suggest the company reached somewhere between $750K and $1.1M in annual revenue before contracting. <sup><a href="https://getlatka.com/companies/argovox.com">[9]</a></sup> <sup><a href="https://leadiq.com/c/argovox-yc-s22/644ff0dcbe10691471893f1a">[12]</a></sup> No information on pricing, contract sizes, customer count, or gross margins was publicly available.
 
----2f:T5b5,
+---
 
 ## Traction
 
@@ -173,6 +173,4 @@ This pattern — no shutdown announcement, no acquisition, no post-mortem — is
 10. [ContactOut — Luis R. Pellerano](https://contactout.com/luis-r-pellerano-91624)
 11. [CloudHire.ai — From Debt to Collaboration](https://www.cloudhire.ai/from-debt-to-collaboration/)
 12. [LeadIQ — Argovox YC S22](https://leadiq.com/c/argovox-yc-s22/644ff0dcbe10691471893f1a)
-13. [CBInsights — Argovox](https://www.cbinsights.com/company/argovox)33:T45e,By 2026, Argovox rebuilds as a lightweight voice automation layer for mid-market physician practices—not a full billing platform, but a plug-and-play agent that sits on top of existing EHR systems (Athenahealth, Kareo) and handles outbound patient collections calls at a fraction of traditional agency costs. The insight is simple: voice infrastructure commoditized between 2022 and 2025. Vapi and Retell AI now handle reliability; GPT-4o handles reasoning. What's missing is healthcare-specific orchestration—the compliance guardrails, EHR connectors, and outcome tracking that turn a generic voice API into a revenue recovery tool practices actually deploy.
-
-The go-to-market targets independent and small group practices ($2M–$20M annual billing) drowning in bad debt but too small to justify in-house collections teams or agency fees. Argovox wins by being 60% cheaper than agencies, HIPAA-native from day one, and deployed in weeks rather than months. Distribution runs through Athenahealth's marketplace and direct outreach to practice managers—the same buyers who already trust the EHR vendor ecosystem.34:T996,
+13. [CBInsights — Argovox](https://www.cbinsights.com/company/argovox)

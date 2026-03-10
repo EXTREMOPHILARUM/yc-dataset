@@ -120,7 +120,7 @@ The company's revenue model almost certainly involved a per-seat or usage-based 
 
 Will Haringa's self-reported $30K ARR figure, reached within three months of launch, implies a subscription price point in the range of $20–$50 per user per month with a small number of paying customers—consistent with an early-stage product still finding its pricing and packaging.<sup><a href="https://theorg.com/org/segna/org-chart/will-haringa">[18]</a></sup> No information is available on conversion rates from free to paid, churn, or customer acquisition cost.
 
----2e:T8c6,
+---
 
 ## Traction
 

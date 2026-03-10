@@ -106,7 +106,7 @@ The only publicly documented traction metric for Brevy is the #1 trending positi
 
 No customer counts, MRR figures, churn rates, or engagement metrics have been disclosed for any of Brevy's product iterations. The YC jobs page lists no open roles, and the company's LinkedIn page shows no employee growth data beyond the approximate peak of 8 employees. <sup><a href="https://www.ycombinator.com/companies/brevy/jobs">[19]</a></sup> <sup><a href="https://www.ycombinatorcompanies.com/company/brevy">[13]</a></sup>
 
-The absence of any traction data across four years — in an environment where YC companies routinely publicize growth metrics to attract talent and follow-on investment — is the most informative data point available.30:T1bd2,
+The absence of any traction data across four years — in an environment where YC companies routinely publicize growth metrics to attract talent and follow-on investment — is the most informative data point available.
 
 ## Post-Mortem
 

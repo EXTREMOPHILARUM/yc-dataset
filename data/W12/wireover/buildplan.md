@@ -2,6 +2,14 @@
 
 ## Overview
 
+By 2026, WireOver is a browser-native file transfer platform for regulated industries—healthcare, legal, and biotech teams that need to move large files securely without installing software or managing infrastructure. The product lives in the browser, works instantly via a shareable link, and encrypts everything client-side before it leaves your machine. For compliance teams, every transfer generates an audit log; for end users, it's frictionless—no accounts, no apps, just send and receive.
+
+The shift that makes this work now is WebRTC. In 2014, peer-to-peer transfer in the browser was a fantasy. Today it's native across Chrome, Firefox, Safari, and Edge. That means you can build a zero-install, zero-trust file transfer that actually competes with Aspera and enterprise MFT platforms—but without the $50K implementation cost or the IT overhead. The compliance layer (audit logs, SSO, BAA) is what enterprise buyers actually want; the P2P speed is what makes it possible.
+
+Go-to-market is bottom-up through the recipient viral loop—every file transfer creates a new user who can immediately send—paired with direct outbound to IT and compliance buyers in healthcare and legal. You win by being the only product that's simultaneously frictionless for end users and auditable for regulators. Pricing starts free (5 GB transfers, no logs
+
+## Why Now?
+
 The single most important change since WireOver's failure is that **WebRTC, now natively supported in all major browsers since approximately 2017 and fully standardized by the W3C in January 2021, eliminates the two-sided desktop installation requirement that was WireOver's primary adoption killer.** In 2014, both sender and recipient had to install a Python desktop client before a single byte could transfer. Today, a sender opens a browser tab and shares a link; the recipient clicks it and receives the file — no installation on either side. Products like Wormhole.app have already validated this browser-native P2P model commercially.
 
 This architectural shift unlocks everything else. The cold-start problem that made WireOver's network effect impossible to seed dissolves when the recipient experience requires zero friction.
@@ -20,9 +28,7 @@ The Frame.io acquisition by Adobe for $1.275B in 2021 confirms that large-file t
 
 ---
 
-## Why Now?
-
-### Current Market Analysis
+## Current Market Analysis
 
 **Market size:** The global managed file transfer (MFT) market was valued at approximately $2.4B in 2023 and is projected to reach $4.1B by 2028 (MarketsandMarkets, 2023). The adjacent large-file transfer segment — spanning media production, genomics, AI/ML data pipelines, and legal/healthcare document exchange — is not cleanly separated in public data, but Frame.io's $1.275B acquisition price and Aspera's continued growth under IBM suggest the media vertical alone supports nine-figure revenue at scale. When WireOver operated (2012–2015), the MFT market was estimated at under $1B globally; the problem has grown substantially.
 

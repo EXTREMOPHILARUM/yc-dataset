@@ -6,7 +6,7 @@ By 2026, Niles is a Slack-native AI assistant that answers employee questions in
 
 The viability shift is LLMs. GPT-4 and Claude 3 now deliver the semantic search accuracy that didn't exist in 2017–2020. Questions get answered correctly on the first try, not buried in false positives. Combined with Slack's mature Block Kit API, the product can now verify knowledge freshness with one-click buttons, turning passive indexing into an active knowledge maintenance system.
 
-The go-to-market angle is surgical: land with ops and enablement teams who already own knowledge workflows, solve their immediate pain (answering repetitive questions), then expand to the broader org. Price as a per-seat SaaS product, not enterprise search. Win by being 10x faster to deploy and 100x cheaper than Glean, with zero implementation overhead.34:T796,
+The go-to-market angle is surgical: land with ops and enablement teams who already own knowledge workflows, solve their immediate pain (answering repetitive questions), then expand to the broader org. Price as a per-seat SaaS product, not enterprise search. Win by being 10x faster to deploy and 100x cheaper than Glean, with zero implementation overhead.
 
 ## Why Now?
 
@@ -34,7 +34,7 @@ The enterprise knowledge management market has grown substantially since Niles o
 
 **The gap**: No current competitor delivers a Slack-native, conversational knowledge layer that automatically captures answers from existing chat history without requiring manual content creation — at a price point accessible to teams of 20–500 people. That is the exact wedge Niles identified, now technically executable.
 
----36:T7d9,
+---
 
 ## Recommended MVP
 

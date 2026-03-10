@@ -6,7 +6,7 @@ By 2026, Aisle50 is a B2B SaaS platform that lets mid-market CPG brands run clos
 
 The viability shift is structural: retailer mobile apps now own the consumer relationship that loyalty cards once did, and those apps expose API access to promotional feeds. Aisle50 becomes the operating system that lets CPG brands load manufacturer-funded offers into those feeds at scale, with closed-loop redemption data flowing back automatically. This solves what Ibotta doesn't — Ibotta owns the receipt layer, but brands need pre-purchase influence and multi-retailer coordination.
 
-The wedge is simple: approach a single national retailer with an API integration already built, then use that proof point to land the next two. Once three major chains are connected, mid-market CPG brands have no reason to manage offers manually or rely on fragmented regional deals. The unit economics work because brands already spend on promotions — you're just making that spend measurable and efficient.34:T797,
+The wedge is simple: approach a single national retailer with an API integration already built, then use that proof point to land the next two. Once three major chains are connected, mid-market CPG brands have no reason to manage offers manually or rely on fragmented regional deals. The unit economics work because brands already spend on promotions — you're just making that spend measurable and efficient.
 
 ## Why Now?
 

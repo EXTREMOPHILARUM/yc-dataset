@@ -6,7 +6,7 @@ By 2026, Lotus is a cloud-native billing engine purpose-built for AI API compani
 
 The market shift is concrete: AI infrastructure companies are hitting the wall with generic billing tools. Token-based pricing, tiered compute costs, and dynamic rate limits require metering infrastructure that Stripe wasn't designed for. These companies need to iterate on pricing weekly, not quarterly. That urgency didn't exist in 2022.
 
-Go-to-market is direct and narrow. Land with AI API startups at $500K–$5M ARR through technical communities (Hugging Face, Together AI, Replicate forums) and founder networks. Win by being 10x faster to deploy than building custom billing logic. Monetize with usage-based pricing on Lotus itself—charge per million events ingested—so early-stage customers pay nothing until they scale. This aligns incentives and removes the enterprise sales friction that killed the first version.33:T7ba,
+Go-to-market is direct and narrow. Land with AI API startups at $500K–$5M ARR through technical communities (Hugging Face, Together AI, Replicate forums) and founder networks. Win by being 10x faster to deploy than building custom billing logic. Monetize with usage-based pricing on Lotus itself—charge per million events ingested—so early-stage customers pay nothing until they scale. This aligns incentives and removes the enterprise sales friction that killed the first version.
 
 ## Why Now?
 

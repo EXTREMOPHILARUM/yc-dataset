@@ -96,7 +96,7 @@ GiveSpark was structured as a for-profit company despite its charitable focus �
 
 None of these models were disclosed by Teplow or documented in press coverage. The for-profit designation on Crunchbase suggests Teplow intended to generate returns for investors, but the mechanism for doing so while routing money to nonprofits — and without alienating donors who might object to a commercial intermediary taking a cut of charitable donations — was never articulated publicly. This ambiguity was itself a structural problem: without a clear revenue model, GiveSpark could not make a credible case to investors for follow-on funding after the YC seed round.
 
----2f:T636,
+---
 
 ## Traction
 

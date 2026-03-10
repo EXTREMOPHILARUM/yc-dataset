@@ -91,7 +91,11 @@ This model had a fundamental cash flow problem for a pre-AUM startup. Management
 
 No evidence suggests Pit.AI ever raised a subsequent funding round or secured LP commitments. The company remained at two employees throughout its operating life, <sup><a href="https://www.ycombinator.com/companies/pit-ai">[18]</a></sup> suggesting it never reached the operational scale required to run a compliant fund management operation.
 
----2f:T538,At YC W17 Demo Day in March 2017, Pit.AI's models were running on paper—without real money—and the founder projected live trading within one year. <sup><a href="https://techcrunch.com/2017/03/21/aihedgefund/">[9]</a></sup> That projection was apparently never met. No evidence of a live fund launch, LP capital raise, or AUM figure appears anywhere in the public record.
+---
+
+## Traction
+
+At YC W17 Demo Day in March 2017, Pit.AI's models were running on paper—without real money—and the founder projected live trading within one year. <sup><a href="https://techcrunch.com/2017/03/21/aihedgefund/">[9]</a></sup> That projection was apparently never met. No evidence of a live fund launch, LP capital raise, or AUM figure appears anywhere in the public record.
 
 The company raised a single seed round of $120,000 from Y Combinator and Zillionize in March 2017. <sup><a href="https://pitchbook.com/profiles/company/178851-88">[8]</a></sup> No subsequent funding rounds were recorded on Crunchbase, PitchBook, or CB Insights. <sup><a href="https://www.cbinsights.com/company/pitai/financials">[19]</a></sup>
 
@@ -99,9 +103,9 @@ The team remained at two employees for the entirety of its known operating life.
 
 The Research Paper Series launched in July 2018 was the company's most substantive public output. No published academic papers, institutional partnerships, or commercial outcomes linked to the series have been identified.
 
----30:T1986,
+---
 
-## Traction
+## Post-Mortem
 
 Pit.AI closed quietly in early 2021, approximately four years after its YC Demo Day, with no public shutdown announcement, no post-mortem, and no investor statement. <sup><a href="https://www.crunchbase.com/organization/pit-ai-technologies">[12]</a></sup> The founder moved on to found KXY Technologies and later joined Google as a Senior Staff Machine Learning Engineer. <sup><a href="https://www.zoominfo.com/p/Yves-laurent-Samo/-1035690918">[11]</a></sup> The absence of any public explanation makes definitive causal analysis impossible, but the evidence points to several compounding failures.
 
@@ -135,9 +139,7 @@ The $120,000 seed round was the binding constraint. At San Francisco salary leve
 
 ---
 
-## Post-Mortem
-
-### Key Lessons
+## Key Lessons
 
 - **Operating as a regulated financial product requires a different capital structure than a software startup.** Pit.AI raised $120,000 to build a hedge fund—a product category that requires audited track records, compliance infrastructure, prime broker relationships, and LP relations before generating a dollar of revenue. <sup><a href="https://pitchbook.com/profiles/company/178851-88">[8]</a></sup> Startups entering regulated financial services need to either raise enough capital to clear the compliance threshold or find a go-to-market path (licensing, white-labeling, B2B SaaS) that generates revenue before the regulatory burden is fully loaded.
 

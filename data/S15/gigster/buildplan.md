@@ -4,7 +4,7 @@
 
 Gigster 2.0 is a managed marketplace for enterprise software projects—but this time, LLMs handle the expensive scoping and quality gates that killed the original business. Clients submit a brief, AI generates a fixed-price quote and technical spec in minutes, and a curated network of vetted engineers executes against composable infrastructure (Vercel, Supabase, AWS). The platform guarantees on-budget delivery with real-time LLM-powered monitoring of commits, PRs, and milestones. Target: mid-market enterprises ($500M–$5B revenue) in financial services and healthcare who need custom software faster than hiring but cheaper than traditional consulting.
 
-The market shift is simple: in 2015, scoping required expensive senior architects. Now Claude and GPT-4o do it. That removes the margin compression that plagued the original company. Distribution goes through AWS and Azure Marketplaces—enterprises already have cloud budgets and procurement workflows there. Win condition: 25% quote-to-contract conversion, 90% on-budget delivery by month six, and $150K–$500K average deal size. This is the same insight (elite freelancers + managed delivery) with the operational moat that was always missing.34:T917,
+The market shift is simple: in 2015, scoping required expensive senior architects. Now Claude and GPT-4o do it. That removes the margin compression that plagued the original company. Distribution goes through AWS and Azure Marketplaces—enterprises already have cloud budgets and procurement workflows there. Win condition: 25% quote-to-contract conversion, 90% on-budget delivery by month six, and $150K–$500K average deal size. This is the same insight (elite freelancers + managed delivery) with the operational moat that was always missing.
 
 ## Why Now?
 

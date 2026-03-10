@@ -6,7 +6,7 @@ By 2026, Opkit is a self-serve API for outbound healthcare verification calls—
 
 The market shift is simple: voice AI is now reliable enough to work without a human fallback. The original Opkit needed humans to catch failures; the rebuilt version doesn't. That changes the unit economics entirely—verification calls that cost $3–5 with a human safety net now cost $0.45 fully automated. Virtual clinics with thin margins and high call volume win immediately.
 
-Distribution is direct: Canvas Medical's app directory and Hint Health's partner network give you 3,000+ target customers without a sales team. The go-to-market is self-serve onboarding, transparent pricing, and a 90-day target of 10 paying clinics. You win by being the only vendor that works out of the box for this segment—no IVR mapping, no compliance theater, just API calls that work.34:T9d3,
+Distribution is direct: Canvas Medical's app directory and Hint Health's partner network give you 3,000+ target customers without a sales team. The go-to-market is self-serve onboarding, transparent pricing, and a 90-day target of 10 paying clinics. You win by being the only vendor that works out of the box for this segment—no IVR mapping, no compliance theater, just API calls that work.
 
 ## Why Now?
 

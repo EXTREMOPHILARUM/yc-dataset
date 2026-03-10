@@ -6,7 +6,7 @@ By 2026, CrowdAI re-emerges as a geospatial AI annotation and fine-tuning platfo
 
 The viability shift is SAM 2 itself. When CrowdAI exited, foundation models couldn't reliably pre-label geospatial data; annotation still required human labor at scale. Now a single model can handle 85%+ of labeling work across imagery types, collapsing the unit economics of the old crowdsourcing model and making a lean, software-first rebuild possible.
 
-Go-to-market runs through CDAO's Tradewind Marketplace and existing OTA consortiums (NSTXL, AFWERX)—channels the original team already knew. Pricing is tiered SaaS for commercial users, plus government contract vehicles. The win is speed and compliance: faster annotation than Scale AI's human workforce, t34:T88a,
+Go-to-market runs through CDAO's Tradewind Marketplace and existing OTA consortiums (NSTXL, AFWERX)—channels the original team already knew. Pricing is tiered SaaS for commercial users, plus government contract vehicles. The win is speed and compliance: faster annotation than Scale AI's human workforce, t
 
 ## Why Now?
 
@@ -37,7 +37,7 @@ The AI training data and annotation market was estimated at approximately $1.2 b
 - **Palantir / Primer AI**: Serve the defense intelligence community but focus on data fusion and NLP, not computer vision model training workflows for operational imagery.
 - **Maxar Intelligence / BlackSky**: Vertically integrated geospatial players that own the imagery but don't offer customer-facing model training platforms.
 
-**The gap**: No current competitor combines (1) foundation-model-accelerated annotation, (2) a no-code training and deployment workflow, and (3) a cleared, defense-ready security posture — in a single product. That intersection is where a rebuilt CrowdAI lives.36:T8cb,
+**The gap**: No current competitor combines (1) foundation-model-accelerated annotation, (2) a no-code training and deployment workflow, and (3) a cleared, defense-ready security posture — in a single product. That intersection is where a rebuilt CrowdAI lives.
 
 ## Demand Signals from Adjacent Products
 

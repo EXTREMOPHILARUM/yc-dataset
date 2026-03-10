@@ -6,7 +6,7 @@ Zipio 2026 is a Chrome extension that surfaces high-quality local deals—restau
 
 The market shift is supply-side stability. Unlike 2012, when deal publishers were collapsing, today's deal inventory is native to platforms users already trust: Google Maps, Yelp, DoorDash, Uber Eats, plus mature affiliate networks like Rakuten. There's nothing to build—just aggregate, rank, and personalize at the point of decision.
 
-The go-to-market is browser extension distribution (the Honey playbook) seeded through Reddit communities like r/frugal. Monetization is pure affiliate commission—10–15% per transaction—with zero friction between discovery and checkout. The differentiation is simple: Honey owns e-commerce coupons; Zipio owns local commerce discovery. Honey has no algorithm. Zipio does.34:T91a,
+The go-to-market is browser extension distribution (the Honey playbook) seeded through Reddit communities like r/frugal. Monetization is pure affiliate commission—10–15% per transaction—with zero friction between discovery and checkout. The differentiation is simple: Honey owns e-commerce coupons; Zipio owns local commerce discovery. Honey has no algorithm. Zipio does.
 
 ## Why Now?
 
@@ -42,7 +42,7 @@ The current competitive landscape has meaningful gaps:
 - **Yelp**: Has a deals and cashback product but it is secondary to reviews. Inventory is thin and geographically uneven. No algorithmic ranking of deal quality.
 - **DoorDash / Uber Eats**: Strong in restaurant delivery promotions but siloed within their own ecosystems. No cross-platform discovery.
 
-The gap none of these players fills: a ranked, personalized, cross-platform local commerce discovery layer that aggregates offers from Google Maps, Yelp, DoorDash, Uber Eats, and affiliate networks into a single quality-scored feed. This is precisely what Dealupa attempted to build — but the supply side now exists and is stable.36:T97a,
+The gap none of these players fills: a ranked, personalized, cross-platform local commerce discovery layer that aggregates offers from Google Maps, Yelp, DoorDash, Uber Eats, and affiliate networks into a single quality-scored feed. This is precisely what Dealupa attempted to build — but the supply side now exists and is stable.
 
 ## Demand Signals from Adjacent Products
 

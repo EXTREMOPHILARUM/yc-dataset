@@ -105,7 +105,7 @@ The model was conceptually sound for a B2B infrastructure business. Usage-based 
 
 There is no documented evidence that Lyrebird ever generated revenue. The API was still unreleased as of April 2018, more than a year after the viral launch.<sup><a href="https://tracxn.com/d/companies/lyrebird/__ES5LYpHUoBobAxEBo1ta2jcXed-kpCamR207JkQzDBg">[24]</a></sup> The company appears to have operated entirely on its seed capital from YC until the acquisition.
 
----2f:T5d8,
+---
 
 ## Traction
 

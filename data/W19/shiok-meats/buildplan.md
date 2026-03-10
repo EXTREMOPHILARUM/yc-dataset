@@ -6,7 +6,7 @@ Shiok Meats was a Singapore-based cellular agriculture startup founded in August
 
 The rebuild thesis rests on a specific biological unlock: CRISPR-based genome editing and AlphaFold3-guided growth factor identification, neither of which was practically accessible at Shiok's operating costs during 2018–2023, now make crustacean cell line stabilization a tractable engineering problem rather than an open scientific question. Pair that with worsening shrimp disease crises creating genuine commercial pull, a defined Singapore regulatory pathway, and a buyer's market for cultivated meat talent, and the new version looks like this: a biotech-first crustacean cell line company that licenses stabilized, immortalized shrimp cell lines and proprietary serum-free media to food manufacturers — selling the picks and shovels rather than betting everything on being the miner.
 
----34:Taf5,
+---
 
 ## Why Now?
 

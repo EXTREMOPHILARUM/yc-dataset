@@ -6,7 +6,7 @@ Sage Care 2026 is a conversational AI layer for family-managed elder care—not 
 
 The viability shift is LLMs. In 2016, Sage Care needed to hire operations staff to parse phone calls and coordinate visits. Now, conversational AI handles that layer at near-zero marginal cost. That changes the unit economics entirely—you can serve customers profitably before you need to raise Series A.
 
-The go-to-market angle sidesteps Sage Care's original trap: don't recruit caregivers from scratch. Integrate with Clipboard Health's API for on-demand supply, or partner with existing agencies for their overflow. You're not competing on supply; you're competing on the family experience. Win one metro market, prove retention and NPS, then expand to the next.32:T8cc,
+The go-to-market angle sidesteps Sage Care's original trap: don't recruit caregivers from scratch. Integrate with Clipboard Health's API for on-demand supply, or partner with existing agencies for their overflow. You're not competing on supply; you're competing on the family experience. Win one metro market, prove retention and NPS, then expand to the next.
 
 ## Why Now?
 

@@ -6,7 +6,7 @@ The 2026 Goodybag targets mid-market ops teams (100–500 employees) who are exh
 
 The market shift is simple: ezCater proved the category works at scale, but proved equally that customers hate paying 25–35% markups on top of restaurant prices. There's now a clear opening for a modern, transparent alternative that undercuts on cost while overdelivering on speed and UX. AI handles the operational complexity that killed the original Goodybag — automatic menu parsing, dietary filtering, logistics coordination — so the unit economics work without needing massive sales teams.
 
-Go-to-market is bottoms-up: land ops managers at 50–100 tech and professional services companies in major metros, build word-of-mouth through Slack communities and LinkedIn, then expand to finance and healthcare verticals once the playbook is proven. Win on speed, transparency, and the fact that you're not a legacy enterprise vendor.34:T7d4,
+Go-to-market is bottoms-up: land ops managers at 50–100 tech and professional services companies in major metros, build word-of-mouth through Slack communities and LinkedIn, then expand to finance and healthcare verticals once the playbook is proven. Win on speed, transparency, and the fact that you're not a legacy enterprise vendor.
 
 ## Why Now?
 

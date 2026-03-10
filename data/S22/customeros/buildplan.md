@@ -2,6 +2,16 @@
 
 ## Overview
 
+CustomerOS was a London-based YC S22 startup founded in early 2022 by three Voxbone alumni who raised $2.1–2.6M to solve B2B customer data fragmentation; after at least three major pivots — from conversational data platform, to open source CRM framework, to customer success SaaS, to AI-agent GTM intelligence — the company failed to find a durable wedge, exhausted its runway without a follow-on, and appears to have quietly wound down by 2025.
+
+The rebuild thesis is this: the original team was right about the problem but wrong about the timing and the wedge. In 2026, LLM-native signal extraction, a validated open source CRM category (Twenty, Huly), and a privacy-collapsed outbound landscape have converged to make a first-party intent layer — built open source, monetized as a managed cloud product — both technically buildable on a lean budget and commercially defensible in a way it simply was not in 2022. The new CustomerOS is an open source, self-hostable customer intelligence layer that turns a B2B company's own first-party signals (product usage, email threads, web behavior) into a continuously updated ICP score and pipeline priority queue — with no third-party data dependency and no data-network cold-start problem.
+
+---
+
+## Why Now?
+
+### The single most important change: LLMs have eliminated the manual signal curation cost that made intent data platforms structurally inaccessible to pre-seed companies.
+
 In 2022, building a credible intent data product required either (a) purchasing expensive third-party behavioral data from networks like Bombora, or (b) accumulating years of proprietary first-party web traffic across thousands of customer deployments — the moat that 6sense and Demandbase spent a decade building. CustomerOS had neither. By 2026, GPT-4 (March 2023) and its successors can extract structured buying signals — urgency, fit, objection type, competitive consideration — from unstructured first-party inputs: email threads, support tickets, product event logs, and CRM notes. This collapses the signal curation cost from "requires a proprietary data network" to "requires access to your own data," which every company already has. The data-network moat that killed CustomerOS's final iteration is no longer the barrier to entry.
 
 **Privacy collapse has validated the demand side.** Google completed third-party cookie deprecation in 2024. Apple's ATT framework has measurably degraded mobile attribution. GDPR enforcement actions have increased in frequency and fine size. The result: B2B companies that relied on third-party intent data and outbound enrichment are experiencing pipeline visibility collapse in real time. This is not a thesis — it is a reported operational crisis for RevOps teams in 2025.
@@ -14,11 +24,7 @@ In 2022, building a credible intent data product required either (a) purchasing 
 
 ---
 
-## Why Now?
-
-## The single most important change: LLMs have eliminated the manual signal curation cost that made intent data platforms structurally inaccessible to pre-seed companies.
-
-### Current Market Analysis
+## Current Market Analysis
 
 **Market size:** The CRM software market was valued at approximately $63.9B globally in 2022 (Grand View Research) and is projected to exceed $130B by 2030. The narrower GTM intelligence and intent data segment — the more relevant competitive frame for this rebuild — is harder to size precisely; analyst estimates range from $3B to $6B in 2024, and this report treats those figures as directional rather than precise. What is clear from Clay's $200M ARR and 6sense's $200M+ in funding is that buyer willingness to pay at scale is established.
 
@@ -70,7 +76,7 @@ A lightweight, opinionated UI (not a full CRM) that surfaces the top 10 accounts
 
 **Target customer segment:** Technical RevOps leads and founding AEs at B2B SaaS companies with 50–500 employees, $1M–$20M ARR, an existing product analytics stack (PostHog, Segment, or Mixpanel), and a stated concern about pipeline quality degradation from privacy changes. This segment is narrow enough to reach through focused channels and large enough to generate meaningful early revenue. It explicitly excludes enterprise (too slow, requires SOC 2 before conversation) and SMB below $1M ARR (too price-sensitive and too unlikely to have a structured RevOps function).
 
-**Primary distribution channel:** GitHub + the PostHog and Supabase integration ecosystems. The open source repository is the top-of-funnel; integration listings in PostHog's app library and Supabase's marketplace provide direct access to the exact technical RevOps audience described above. Secondary channel: founder-led content on LinkedIn targeting RevOps practitioners, using the "pipeline blindness" framing that CustomerOS's final iteration articulated well but never had the distribution to amplify.36:T570,
+**Primary distribution channel:** GitHub + the PostHog and Supabase integration ecosystems. The open source repository is the top-of-funnel; integration listings in PostHog's app library and Supabase's marketplace provide direct access to the exact technical RevOps audience described above. Secondary channel: founder-led content on LinkedIn targeting RevOps practitioners, using the "pipeline blindness" framing that CustomerOS's final iteration articulated well but never had the distribution to amplify.
 
 ## Pricing strategy:
 

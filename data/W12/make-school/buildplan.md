@@ -6,7 +6,7 @@ By 2026, Make School is a fully remote, two-year applied CS program for working 
 
 The regulatory environment has shifted decisively. The CFPB's 2021 ISA classification and subsequent bootcamp settlements have created a playbook for compliant income-based financing—one that actually works better than the original model because transparency and caps build trust instead of inviting litigation. Meanwhile, AI tutoring has matured enough to deliver personalized instruction at scale, eliminating the unit economics problem that plagued the first version.
 
-The rebuild launches under an existing regional accreditor's partnership (not chasing independent accreditation), with transparent employer placement data audited quarterly and published publicly. This isn't positioning against four-year degrees—it's positioning alongside them, for people who can't afford to pause their careers. The ISA only triggers after employment, capped at 2.5x funded cost, with employer co-pay options that align incentives without predatory terms.34:T96d,
+The rebuild launches under an existing regional accreditor's partnership (not chasing independent accreditation), with transparent employer placement data audited quarterly and published publicly. This isn't positioning against four-year degrees—it's positioning alongside them, for people who can't afford to pause their careers. The ISA only triggers after employment, capped at 2.5x funded cost, with employer co-pay options that align incentives without predatory terms.
 
 ## Why Now?
 

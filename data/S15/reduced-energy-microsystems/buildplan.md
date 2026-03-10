@@ -6,7 +6,7 @@ Reduced Energy Microsystems (REM) was a San Francisco-based fabless semiconducto
 
 The rebuild thesis is not to retry REM's original approach with more money. It is to do something REM pivoted toward only in its final months but never had the runway to execute: license a production-ready asynchronous RISC-V processor IP core into a RISC-V ecosystem that has since grown to 4,000+ member organizations and billions of shipped devices annually. The new REM is an IP licensing company first, a chiplet vendor second, and a full-chip company never — a low-power asynchronous RISC-V core business built for the infrastructure moment the original company was too early and too underfunded to reach.
 
----32:T985,
+---
 
 ## Why Now?
 

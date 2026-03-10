@@ -6,7 +6,7 @@ By 2026, Tutorspree is a video-first tutor marketplace serving affluent parents 
 
 The market shift is simple: AI diagnostics and video verification are now cheap infrastructure, not expensive R&D. Wyzant still operates like a 2010 classifieds board. Parents still can't tell if a tutor actually teaches well before booking. That gap is the wedge.
 
-Go-to-market targets high-income parents in suburban metros where school performance anxiety is highest—starting with direct response ads to parents searching for "tutor near me" and "my kid is struggling in math," but this time with a product so frictionless that word-of-mouth and school counselor referrals become the real growth engine by month six.34:T879,
+Go-to-market targets high-income parents in suburban metros where school performance anxiety is highest—starting with direct response ads to parents searching for "tutor near me" and "my kid is struggling in math," but this time with a product so frictionless that word-of-mouth and school counselor referrals become the real growth engine by month six.
 
 ## Why Now?
 

@@ -6,7 +6,7 @@ By 2026, Cache is a B2B convenience locker network embedded in suburban apartmen
 
 The market shift is hardware commoditization. Smart locker components (Luxer One, Snaffle) that cost $50K+ to engineer in 2021 now cost $15–20K off-the-shelf. That changes the unit economics entirely: a Cache unit can now break even at 15 orders per week instead of 40, making suburban density viable for the first time.
 
-The go-to-market is property manager partnerships, not consumer acquisition. Target mid-size apartment complexes (150–500 units) in suburban markets where GoPuff has retracted. Install one unit per property, stock it with high-margin essentials, and let DoorDash and Uber Eats handle discovery and fulfillment. No delivery fleet. No proprietary tech. Just better unit economics in a market segment that's been structurally abandoned.32:T88e,
+The go-to-market is property manager partnerships, not consumer acquisition. Target mid-size apartment complexes (150–500 units) in suburban markets where GoPuff has retracted. Install one unit per property, stock it with high-margin essentials, and let DoorDash and Uber Eats handle discovery and fulfillment. No delivery fleet. No proprietary tech. Just better unit economics in a market segment that's been structurally abandoned.
 
 ## Why Now?
 
@@ -39,7 +39,7 @@ The U.S. convenience store industry generates approximately $860 billion in annu
 - **7-Eleven / Wawa via Uber Eats**: Traditional convenience chains using delivery as a channel. Weakness: fixed store locations determined by decades-old real estate decisions, not delivery demand signals; no ability to deploy into underserved suburban pockets.
 - **Amazon Pharmacy / GoodRx**: Validated OTC delivery demand but operate on 1–2 day fulfillment windows, not sub-60-minute convenience delivery.
 
-**The gap**: No current competitor offers unstaffed, sub-60-minute convenience delivery specifically engineered for suburban markets with low order density. The original Cache thesis remains unoccupied.34:T56e,
+**The gap**: No current competitor offers unstaffed, sub-60-minute convenience delivery specifically engineered for suburban markets with low order density. The original Cache thesis remains unoccupied.
 
 ## Demand Signals from Adjacent Products
 

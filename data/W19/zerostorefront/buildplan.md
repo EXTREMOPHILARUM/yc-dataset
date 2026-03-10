@@ -6,7 +6,7 @@ ZeroStorefront (Eatgeek Inc.) was a restaurant data and marketing automation pla
 
 Three structural shifts have converged to make this viable in 2026: delivery platforms have opened APIs under regulatory pressure, AI-powered data orchestration has eliminated the per-integration engineering bottleneck that kept the original team perpetually understaffed, and the restaurant CDP market has been validated at scale by Olo's public listing and Punchh's acquisition — proving that the demand Thanx's CEO called "not currently heavily in demand" in 2022 has since materialized. The rebuild is a vertical AI CDP for multi-location restaurant operators and ghost kitchen operators, delivering automated cross-channel attribution, LLM-generated personalized campaigns, and first-party customer ownership — without requiring a seven-person engineering team to maintain each integration.
 
----33:Tb1b,
+---
 
 ## Why Now?
 

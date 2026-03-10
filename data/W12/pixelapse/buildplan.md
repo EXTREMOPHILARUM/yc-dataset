@@ -2,6 +2,14 @@
 
 ## Overview
 
+By 2026, Pixelapse returns as a Figma-native version intelligence layer for design teams at B2B SaaS companies. It automatically indexes every design change across Figma workspaces, generates AI-powered semantic diffs that explain *what* changed and *why*, and creates shareable review links that let stakeholders and engineers see exactly which pixels moved. The product lives in the Figma plugin ecosystem—no desktop client, no friction, no learning curve.
+
+The viability shift is Figma's public API maturity. In 2013, designers had no standardized file format; today, Figma's REST API and image export capabilities make it possible to build semantic version intelligence as a thin, cloud-native layer. Figma's own changelog feature has 4.2-star ratings with thousands of requests for automatic version naming and structured change summaries—demand Figma itself won't solve.
+
+Distribution is the Figma Plugin Marketplace (10M+ users). The go-to-market is a free plugin that generates one AI summary per week, converting free users to paid teams ($49/month) once they need unlimited diffs and cross-tool Adobe CC integration. Win by being the tool Figma teams install first when they realize their native version history doesn't tell them *why* a design changed.
+
+## Why Now?
+
 The single most important change since Pixelapse's 2015 acquisition is the emergence of Figma's public REST API (launched 2021, expanded 2023), which exposes structured version data, component trees, and file history programmatically — eliminating the core technical barrier that consumed most of Pixelapse's engineering capacity. In 2013, Shravan Reddy described syncing large binary design files as "a tremendous problem." That problem is now largely solved by the platforms themselves.
 
 This architectural shift changes the entire build calculus. Where Pixelapse spent years reverse-engineering proprietary .psd and .ai binary formats to support 50 file types, a 2026 rebuild can query Figma's API for structured node data, version snapshots, and change events on day one. Adobe's Creative Cloud SDK and file format APIs — which did not exist in 2013 — similarly expose .psd and .ai metadata without requiring binary parsing. The multi-year engineering effort becomes a multi-week integration.
@@ -13,8 +21,6 @@ Market validation is no longer speculative. Figma reached a reported $10 billion
 Distribution channels unavailable in 2013 now exist at scale: the Figma Community with 10 million+ users, the Figma Plugin Marketplace, and the Adobe Exchange marketplace provide direct access to the exact professional designer audience Pixelapse struggled to reach organically.
 
 ---
-
-## Why Now?
 
 ## Current Market Analysis
 
@@ -28,7 +34,7 @@ The global design software market was valued at approximately $15.1 billion in 2
 - **Abstract** (pivoted 2022): Originally Git-backed version control for Sketch files. Pivoted away from version control toward design system management. Weakness: effectively abandoned the version control use case; Sketch's market share has declined sharply since Figma's rise.
 - **Zeplin** (acquired by InVision, which filed for bankruptcy in 2023): Focused on design-to-development handoff, not version history. Weakness: parent company instability; no active version control development.
 - **Loom / Notion integrations**: Used informally for design review but offer no structured version tracking or diff capability.
-- **GitHub + LFS**: Used by technically sophisticated design teams for binary file storage. Weakness: no visual rendering, no semantic diff, requires command-line proficiency — the same gap Pixelapse identified in 2013 remains unaddressed here.36:T8e5,
+- **GitHub + LFS**: Used by technically sophisticated design teams for binary file storage. Weakness: no visual rendering, no semantic diff, requires command-line proficiency — the same gap Pixelapse identified in 2013 remains unaddressed here.
 
 ## Demand Signals from Adjacent Products
 

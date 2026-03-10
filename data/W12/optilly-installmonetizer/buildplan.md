@@ -6,7 +6,7 @@ The 2026 version is a creative intelligence platform for mobile app marketers wh
 
 The market shift is SKAdNetwork maturity. Apple's privacy framework forced attribution to aggregate level, which broke the feedback loop that made creative optimization possible. Simultaneously, Meta's Advantage+ became so opaque that marketers lost visibility into what actually drives installs. There's now a 18-month gap between creative test and actionable insight — and no tool bridges it.
 
-We win by making creative the variable that moves the needle again. LLM-powered variant generation produces hundreds of ad combinations from a single brief. SKAdNetwork-native dashboards translate privacy signals into creative insights. Cross-platform incrementality testing proves which creatives actually drive incremental lift, not just last-click attribution. The result: marketers regain control of their highest-leverage lever when platforms have made it invisible.34:T822,
+We win by making creative the variable that moves the needle again. LLM-powered variant generation produces hundreds of ad combinations from a single brief. SKAdNetwork-native dashboards translate privacy signals into creative insights. Cross-platform incrementality testing proves which creatives actually drive incremental lift, not just last-click attribution. The result: marketers regain control of their highest-leverage lever when platforms have made it invisible.
 
 ## Why Now?
 

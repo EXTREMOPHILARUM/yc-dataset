@@ -6,7 +6,7 @@ The 2026 version is a fully async, AI-powered referral activation platform for S
 
 The shift that makes this work now: LLMs can draft contextual outreach at scale, and APIs from Clay and Apollo have made network enrichment cheap and instant. The human bottleneck that killed StrongIntro is gone. You're competing against Gem's recruiter-centric model and Teamable's passive matching—both miss the insight that employees are your best sourcers if you remove friction from their workflow.
 
-Distribution is built-in: Greenhouse and Ashby's integration marketplaces reach your exact customer. You're not selling recruiting; you're selling a referral multiplier that plugs into tools they already use. The unit economics work because you only pay when someone gets hired.33:T87e,
+Distribution is built-in: Greenhouse and Ashby's integration marketplaces reach your exact customer. You're not selling recruiting; you're selling a referral multiplier that plugs into tools they already use. The unit economics work because you only pay when someone gets hired.
 
 ## Why Now?
 
@@ -42,7 +42,7 @@ The 2026 competitive map has four meaningful clusters, each with exploitable wea
 
 - **Teamable** (StrongIntro's original direct competitor per Tracxn): Raised venture funding and survived, validating the market. However, Teamable's product remains largely a passive matching tool without AI-generated outreach or async facilitation. Weakness: pre-LLM architecture, no agentic workflow layer.
 
-- **LinkedIn Recruiter**: Expensive ($10,000+/year per seat), requires recruiter expertise to operate, and surfaces cold candidates rather than warm second-degree connections. Weakness: high cost, no employee network activation.35:T986,
+- **LinkedIn Recruiter**: Expensive ($10,000+/year per seat), requires recruiter expertise to operate, and surfaces cold candidates rather than warm second-degree connections. Weakness: high cost, no employee network activation.
 
 ## Demand Signals
 

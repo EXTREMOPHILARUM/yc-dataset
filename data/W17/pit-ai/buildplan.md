@@ -6,7 +6,7 @@ Pit.AI 2026 is a B2B SaaS platform for quantitative hedge funds and systematic t
 
 The timing works now because the foundational ML stack is open-source and cheap (FinRL, RLlib, Claude API), eliminating the five-year research tax that killed the original. Financial data APIs are commoditized. And the market has bifurcated: mega-funds have internal AI teams; everyone else is underserved and willing to pay for outsourced strategy discovery.
 
-Go-to-market is direct sales to quant portfolio managers at regional systematic funds—people who remember the original Pit.AI thesis and understand the problem. Land with a free backtesting audit, prove edge detection works on their historical data, then move to SaaS pricing ($5K–$15K MRR per customer). The win is speed to alpha: what took a human quant six months now takes the engine34:T840,
+Go-to-market is direct sales to quant portfolio managers at regional systematic funds—people who remember the original Pit.AI thesis and understand the problem. Land with a free backtesting audit, prove edge detection works on their historical data, then move to SaaS pricing ($5K–$15K MRR per customer). The win is speed to alpha: what took a human quant six months now takes the engine
 
 ## Why Now?
 

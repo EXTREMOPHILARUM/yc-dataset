@@ -94,7 +94,7 @@ At the time of the pre-seed announcement in May 2021, Atomized had 60 beta custo
 
 The figure is modest but real — 60 teams had connected their GitHub repositories and AWS accounts and were actively using the product. However, the announcement did not specify how many of these were paying customers versus free-tier users, what the conversion rate from beta signup to active deployment was, or what retention looked like. For a PaaS product, the critical metric is not signups but active deployments and monthly active infrastructure — neither of which was disclosed.
 
-The gap between the May 2021 launch and the January 2022 shutdown — eight months — with no further traction announcements suggests the 60 beta customers did not compound into a growth story that could support a seed round. Companies that are growing in this space typically announce milestones publicly; Atomized's silence after the pre-seed announcement is consistent with stagnation, though it cannot be confirmed from public data alone.30:T176f,
+The gap between the May 2021 launch and the January 2022 shutdown — eight months — with no further traction announcements suggests the 60 beta customers did not compound into a growth story that could support a seed round. Companies that are growing in this space typically announce milestones publicly; Atomized's silence after the pre-seed announcement is consistent with stagnation, though it cannot be confirmed from public data alone.
 
 ## Post-Mortem
 
@@ -156,8 +156,4 @@ One low-confidence data point deserves mention without overstatement. Profession
 8. [YC Twitter: Congratulations to Atomized on launch (April 13, 2021)](https://x.com/ycombinator/status/1382037003894669312)
 9. [RocketReach: Eddie Herbert profile](https://rocketreach.co/eddie-herbert-email_104454844)
 10. [Silicon Florist: Hello Portland — Nik Kotov (November 9, 2023)](https://siliconflorist.com/2023/11/09/hello-portland-startup-community-im-nik-kotov/)
-11. [Medium: Nik Kotov author page](https://medium.com/@nkotov)33:T41e,Atomized was a PaaS startup that operated from 2019 to January 2022, built to let developers deploy application infrastructure on AWS without cloud expertise — it shut down after accumulating seven million lines of custom code on a $500K pre-seed budget, a textbook case of over-engineering consuming runway before the product could find its market.
-
-The rebuild thesis is simple: everything Atomized tried to build from scratch now exists as composable primitives. AWS CDK, Pulumi, and OpenTofu have matured into reliable infrastructure abstraction layers; LLMs can translate natural language app descriptions into production-ready deployment configurations; and the "bring your own cloud account" architecture Atomized pioneered has become a recognized enterprise requirement rather than a niche differentiator. The new Atomized is a thin, LLM-powered orchestration layer on top of existing IaC tooling — a product that ships in weeks, not years, and targets the compliance-sensitive mid-market segment that AWS's own tools still serve poorly.
-
----34:Ta60,
+11. [Medium: Nik Kotov author page](https://medium.com/@nkotov)

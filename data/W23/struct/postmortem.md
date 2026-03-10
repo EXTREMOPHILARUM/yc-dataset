@@ -32,7 +32,7 @@ No major pivot is documented in the public record. The company appears to have p
 - **April 5, 2023** — YC publicly announces the W23 batch of 282 companies; Struct included. <sup>[[11]](https://www.ycombinator.com/blog/meet-the-yc-winter-2023-batch)</sup>
 - **April 2023** — Struct's product documentation published at docs.struct.app, describing open beta status, sub-600ms latency, and the multi-lingual voice agent platform. <sup>[[10]](https://docs.struct.app/start-here/introduction/)</sup>
 - **2023** — Struct claims agents are "live doing tens of thousands of calls daily across the globe and in multiple languages." <sup>[[6]](https://www.ycombinator.com/companies/struct)</sup>
-- **2024** — Struct listed as "Inactive" on YC's company directory. No public shutdown announcement made. <sup>[[1]](https://www.ycombinator.com/companies/struct)</sup>2c:Td3f,
+- **2024** — Struct listed as "Inactive" on YC's company directory. No public shutdown announcement made. <sup>[[1]](https://www.ycombinator.com/companies/struct)</sup>
 
 ## What They Built
 

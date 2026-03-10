@@ -4,7 +4,7 @@
 
 By 2026, LendUp is a compliance-native small-dollar lender serving employed subprime borrowers through payroll platforms—not a consumer app. The core insight is that compliance infrastructure is now a commodity. In 2012, building credit-bureau reporting and rate-reduction engines required custom engineering; today, furnisher APIs and open banking are plug-and-play. This means a rebuilt LendUp can make its original promise stick: automatic bureau reporting on day one, algorithmic rate cuts tied to actual repayment behavior, and embedded financial education with tamper-proof completion tracking. No more gap between marketing and reality.
 
-The go-to-market is B2B2C through payroll platforms like ADP and Gusto, where the product sits next to earned-wage access and benefits. Employers want financial wellness tools; employees get a credit-building loan that actually builds credit. Competitors like OppFi own the bank-partnership channel but lack meaningful rate-reduction mechanics. LendUp's differentiation is radical transparency: every promise is automated and auditable, not aspirational.35:T7c2,
+The go-to-market is B2B2C through payroll platforms like ADP and Gusto, where the product sits next to earned-wage access and benefits. Employers want financial wellness tools; employees get a credit-building loan that actually builds credit. Competitors like OppFi own the bank-partnership channel but lack meaningful rate-reduction mechanics. LendUp's differentiation is radical transparency: every promise is automated and auditable, not aspirational.
 
 ## Why Now?
 
@@ -32,7 +32,7 @@ The market opportunity has also been empirically validated since 2012. The CFPB 
 
 **Gap:** No current competitor offers a short-term lending product with a *verifiably automated*, auditable rate-reduction pathway backed by real-time bureau reporting at origination. That specific gap — LendUp's original promise, never delivered — remains unoccupied.
 
----37:T9d2,
+---
 
 ## Recommended MVP
 

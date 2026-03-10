@@ -6,7 +6,7 @@ By 2026, The Muse is a culture-matching engine for mid-market tech and professio
 
 The unlock is cost. AI now generates rich employer profiles in 20 minutes instead of weeks of content production. Employee signal verification (monthly pulse surveys from current staff) replaces the guesswork that killed trust in the original platform. Together, these make culture-first matching economically viable for employers at scale.
 
-The go-to-market is direct: land 50 mid-market employers at $500+/month by positioning The Muse as the antidote to high-volume, low-fit hiring pipelines. Prove that culture-aligned candidates have higher conversion and retention. Win through measurable ROI, not audience scale.34:T8d0,
+The go-to-market is direct: land 50 mid-market employers at $500+/month by positioning The Muse as the antidote to high-volume, low-fit hiring pipelines. Prove that culture-aligned candidates have higher conversion and retention. Win through measurable ROI, not audience scale.
 
 ## Why Now?
 

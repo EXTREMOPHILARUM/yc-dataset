@@ -6,7 +6,7 @@ Honeydue (WalletIQ, Inc.) operated from 2016 to 2021 as a couples-focused financ
 
 The rebuild thesis is this: the three structural barriers that killed Honeydue — unreliable bank data, no viable revenue model, and no path to a financial product — have all been resolved by 2026, and the millennial couples Honeydue targeted in 2017 are now in their mid-thirties to mid-forties with real incomes and real willingness to pay. The new version is a joint banking and budgeting platform for couples that earns interchange revenue from day one, charges a subscription for AI-powered financial coaching, and is built on open banking APIs that actually work.
 
----34:Ta8e,
+---
 
 ## Why Now?
 

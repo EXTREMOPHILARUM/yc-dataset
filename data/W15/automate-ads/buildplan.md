@@ -6,7 +6,7 @@ The 2026 Automate Ads is a cross-platform campaign orchestration engine for DTC 
 
 The market has fundamentally shifted. In 2015, full automation was contrarian. Today it's table stakes—every major platform has built native optimization, and brands expect it. What's missing is the cross-channel orchestration layer. Brands are fragmented across Meta, Google, and TikTok with no unified decision engine. That gap is the opening.
 
-Go-to-market is Shopify-native: embed directly into the Shopify admin as a performance app, target brands already using Shopify's native ad tools, and win through frictionless onboarding—a conversational setup that asks for goals and budget, then configures campaigns automatically. The unit economics work: $500–$2K MRR per customer, 40%+ gross margins, and a distribution channel that reaches 2M+ active merchants.34:T80d,
+Go-to-market is Shopify-native: embed directly into the Shopify admin as a performance app, target brands already using Shopify's native ad tools, and win through frictionless onboarding—a conversational setup that asks for goals and budget, then configures campaigns automatically. The unit economics work: $500–$2K MRR per customer, 40%+ gross margins, and a distribution channel that reaches 2M+ active merchants.
 
 ## Why Now?
 

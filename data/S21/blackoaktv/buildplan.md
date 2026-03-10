@@ -6,7 +6,7 @@ BlackOakTV 2026 is a FAST channel—not a paid subscription service. It's a free
 
 The shift that makes this work now: FAST infrastructure has matured to the point where you don't need $1.65M in content spend to compete. Roku and Amazon handle distribution, ad tech, and monetization. You're building discovery and community, not a studio. The original BlackOakTV failed trying to buy subscriber attention; this version earns it by becoming the infrastructure layer creators actually want—a place where they keep 70% of ad revenue and get algorithmic discovery that scales their audience.
 
-Go-to-market is direct: recruit 50+ creators with existing followings in the first six months, launch their content simultaneously across both platforms, and use a weekly newsletter to funnel viewers back to the channel. You win because you're not competing on content budget—you're competing on creator economics and the only recommendation engine built for Black independent voices.34:T84a,
+Go-to-market is direct: recruit 50+ creators with existing followings in the first six months, launch their content simultaneously across both platforms, and use a weekly newsletter to funnel viewers back to the channel. You win because you're not competing on content budget—you're competing on creator economics and the only recommendation engine built for Black independent voices.
 
 ## Why Now?
 

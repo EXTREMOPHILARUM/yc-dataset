@@ -6,7 +6,7 @@ By 2026, Raven Tech 2.0 is a WeChat Mini Program that turns conversational reque
 
 The viability shift is LLMs. In 2014, the orchestration layer didn't exist; today, Claude and GPT-4 can reliably chain multi-step tasks with transparent logging and rollback. Combined with open-source Mandarin speech recognition and Model Context Protocol connectors, the core vision becomes technically sound and capital-efficient.
 
-The go-to-market wins on distribution and trust. Launch inside WeChat (zero friction, 1B+ users) rather than as a standalone app. Charge RMB 68/month for unlimited tasks after a free tier. Differentiate against Rabbit R1 through native API integrations (not screen-scraping), Mandarin-first design, and software-only accessibility—no hardware requirement. The moat is ecosystem integration and user trust, not proprietary models.34:T9eb,
+The go-to-market wins on distribution and trust. Launch inside WeChat (zero friction, 1B+ users) rather than as a standalone app. Charge RMB 68/month for unlimited tasks after a free tier. Differentiate against Rabbit R1 through native API integrations (not screen-scraping), Mandarin-first design, and software-only accessibility—no hardware requirement. The moat is ecosystem integration and user trust, not proprietary models.
 
 ## Why Now?
 

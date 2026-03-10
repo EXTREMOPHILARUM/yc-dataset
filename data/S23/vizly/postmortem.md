@@ -107,7 +107,7 @@ Vizly operated on a freemium SaaS subscription model with three tiers. <sup><a h
 
 This pricing structure was designed for individual users and small teams, not enterprise procurement. Enterprise BI software typically sells on annual contracts with per-seat pricing, volume discounts, and dedicated customer success resources — none of which were evident in Vizly's public-facing model. The gap between the product's enterprise-grade architecture (on-premises deployment, Snowflake and Redshift connectors) and its consumer-grade pricing ($29.99/month maximum) suggests the team had not yet resolved which customer segment to commit to, or was using the consumer tier as a top-of-funnel while pursuing enterprise deals through direct outreach. No revenue figures were disclosed publicly.
 
----2f:T1966,
+---
 
 ## Post-Mortem
 
@@ -176,8 +176,4 @@ The manner of Vizly's closure is itself informative. No shutdown announcement wa
 11. [Vizly.ai (now Aggregate Intelligence)](https://vizly.ai/about-us)
 12. [Crunchbase: Vizly](https://www.crunchbase.com/organization/vizly)
 13. [X/Twitter: @VizlyHQ](https://x.com/VizlyHQ)
-14. [X/Twitter: @Ali_Shobeiri](https://twitter.com/Ali_Shobeiri)32:T4d8,By 2026, Vizly returns as a compliance-first natural language query tool for regulated industries—healthcare clinics, financial services, and legal firms—where data never leaves the building. The product is a lightweight on-premises agent that connects to a single data source (PostgreSQL, Google Sheets) and translates plain English questions into SQL, with every query logged for audit. It ships as a Google Workspace add-on, so adoption is frictionless for teams already in Sheets.
-
-The market shift is local LLM inference maturity. In 2023, running reliable inference on-premises was a liability; by 2026, it's table stakes for any enterprise handling sensitive data. HIPAA, SOC 2, and data residency requirements are no longer edge cases—they're deal-breakers. Incumbents like Microsoft and Google own the horizontal BI market, but they can't promise data stays local. Vizly owns that wedge.
-
-Go-to-market targets IT managers at mid-market healthcare and financial services firms. The pitch: eliminate analyst bottlenecks without compliance risk. Distribution through Google Workspace Marketplace means no sales engineering required at launch. Land in one vertical, prove audit-log rigor, expand to adjacent regulated industries.33:T883,
+14. [X/Twitter: @Ali_Shobeiri](https://twitter.com/Ali_Shobeiri)

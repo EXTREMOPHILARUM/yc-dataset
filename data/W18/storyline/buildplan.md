@@ -6,7 +6,7 @@ Storyline (YC W18) built a drag-and-drop, no-code editor for Amazon Alexa skills
 
 The rebuild thesis is not to bet on Alexa again — it is to bet on the underlying insight that was always correct: non-technical creators cannot build good conversational AI experiences without help. What has changed is that LLMs have collapsed the hardest part of that problem. The new version is a no-code conversational AI builder for small businesses and content creators that generates production-ready, multi-turn AI agents from natural language descriptions — deployable across voice, chat, and messaging channels simultaneously, with usage-based pricing that monetizes proportionally to value delivered rather than demanding a flat subscription from hobbyists.
 
----34:Tb1d,
+---
 
 ## Why Now?
 
@@ -46,7 +46,7 @@ The strongest demand signal is Voiceflow's own survival and upmarket pivot: a co
 
 This is the honest hard question. Amazon (Alexa+), Google (Gemini-powered Assistant), and Meta (WhatsApp Business) all have adjacent products and could theoretically build no-code agent creation tools. The structural argument for defensibility is threefold: (1) these platforms are incentivized to grow their own ecosystems, not to build neutral multi-channel tools that deploy to competitors; (2) the SMB segment requires integrations with third-party business tools (CRMs, booking systems, e-commerce platforms) that platform incumbents have no incentive to prioritize; and (3) the original Storyline failure was platform dependency, not platform competition — Amazon never built a no-code skill builder that killed Storyline; the platform's consumer adoption failed. The rebuild's multi-channel architecture is the primary structural defense. If the product is genuinely platform-agnostic, no single platform's strategic decision can replicate the 2019 failure mode. This defense is real but not airtight: if OpenAI, Google, or Amazon builds a sufficiently good no-code agent builder and bundles it with their existing SMB products, the competitive position weakens. This risk should be disclosed to investors.
 
----37:T934,
+---
 
 ## Recommended MVP
 
@@ -95,7 +95,7 @@ The Shopify App Store (2M+ merchants) and the HubSpot App Marketplace (200,000+ 
 
 Free tier: up to 500 messages/month, one active agent, website chat only. This is not a hobbyist tier — it is a trial tier designed to let a small business validate that the agent works before committing to payment. Paid tiers: $29/month (5,000 messages, two channels), $79/month (25,000 messages, three channels, business data integrations), usage overage at $0.01/message above tier limits.
 
-Stress test against free alternatives: A small business owner can handle inbound inquiries via WhatsApp manually (free), set up a Manychat flow (free tier available), or use a basic Tidio chatbot (free tier available). The rebuild's price is justified if and only if the LLM-powered agent demonstrably handles a wider range of questions without manual intervention — reducing the owner's time cost, not just adding a feature. The $29/month entry price is below the threshold where a solo operator will scrutinize ROI carefully; the $79/month tier requires a clear demonstration that the agent is handling inquiries that would otherwise require a part-time hire or result in lost business. Pricing should be tested against this framing explicitly in early sales conversations.39:T8e9,
+Stress test against free alternatives: A small business owner can handle inbound inquiries via WhatsApp manually (free), set up a Manychat flow (free tier available), or use a basic Tidio chatbot (free tier available). The rebuild's price is justified if and only if the LLM-powered agent demonstrably handles a wider range of questions without manual intervention — reducing the owner's time cost, not just adding a feature. The $29/month entry price is below the threshold where a solo operator will scrutinize ROI carefully; the $79/month tier requires a clear demonstration that the agent is handling inquiries that would otherwise require a part-time hire or result in lost business. Pricing should be tested against this framing explicitly in early sales conversations.
 
 ## Differentiation vs. 2026 Competitors
 

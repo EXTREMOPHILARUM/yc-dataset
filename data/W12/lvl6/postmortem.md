@@ -89,7 +89,7 @@ LVL6 operated on the standard free-to-play mobile game model. Both Mercenary Inc
 
 The company received seed funding from Y Combinator and Great Oaks Venture Capital, with no disclosed follow-on rounds. <sup><a href="https://www.crunchbase.com/organization/lvl6">[1]</a></sup> This means LVL6 was either sustaining operations on game revenue after the seed round or running on a very lean burn rate for five years. No revenue figures were ever disclosed publicly. The eventual sale of the company's titles to R2 Games suggests the IP had residual commercial value, but the terms of that transaction — price, structure, timing — are not publicly known. <sup><a href="https://medium.com/@cripco/nft-project-research-valhalla-a1d13fc930fb">[2]</a></sup>
 
----2e:T621,
+---
 
 ## Traction
 

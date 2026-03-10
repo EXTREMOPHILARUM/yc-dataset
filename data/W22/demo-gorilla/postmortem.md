@@ -118,7 +118,7 @@ The target customer segments — companies onboarding new AEs, founders handing 
 
 Whether Demo Gorilla pursued a product-led growth motion (free trial, self-serve conversion) or a sales-led motion (outbound, demo-to-close) is unknown. The browser extension delivery model was compatible with a PLG approach — low installation friction, immediate value demonstration — but the enterprise-oriented feature set (CRM integration, persona customization, team-level content management) suggested a sales-assisted motion was likely necessary for meaningful ACV.
 
----2e:T2134,
+---
 
 ## Post-Mortem
 
@@ -198,8 +198,4 @@ Zope's move to an individual contributor software engineering role at Found — 
 10. [Demo Gorilla — Product Documentation: "Your First Demo"](https://demogorilla.com/docs/first-demo)
 11. [Navattic — "Top Tips from Sales Engineering Experts" (featuring David Hayes)](https://www.navattic.com/blog/sales-engineering-tips)
 12. [Demo Gorilla — LinkedIn Company Page](https://www.linkedin.com/company/demogorilla)
-13. [Wayback Machine — demogorilla.com Archive History](https://web.archive.org/web/20221001000000*/demogorilla.com)31:T496,By 2026, Demo Gorilla is a lightweight browser extension that sits inside live SaaS demos and whispers real-time, deal-specific talking points to sales engineers. It pulls context from Salesforce or HubSpot at call start, surfaces persona-customized value props as the rep navigates the product, and surfaces pre-approved objection responses when needed. It's built for mid-market B2B SaaS companies (100–1,000 employees) with dedicated sales engineering teams who close deals in the browser.
-
-The timing works now because LLMs are finally reliable enough to generate contextually accurate, non-hallucinating talking points in real time—and because conversation intelligence platforms like Gong have proven the market will pay for sales intelligence, but they own post-call analysis, not in-the-moment guidance. That gap is the wedge.
-
-The go-to-market is direct sales to VP Sales Engineering at companies with 3–10 person SE teams. Land at $500–800/month per seat, expand as reps adopt it, and own the "live demo copilot" category before larger platforms bolt it on as a feature. Win by being fast, focused, and indispensable during the 30 minutes that matter most.32:T8e3,
+13. [Wayback Machine — demogorilla.com Archive History](https://web.archive.org/web/20221001000000*/demogorilla.com)

@@ -101,15 +101,19 @@ Mindmesh's business model was never publicly detailed, but available signals poi
 
 The Customer Insights pivot implied a shift toward a higher-ACV, lower-volume sales model — delivering reports to customer support and product teams rather than acquiring individual users. No pricing, revenue figures, or customer counts were ever disclosed publicly for either product iteration.
 
----2f:T558,The clearest traction signal in Mindmesh's public record is its Product Hunt launch on April 19, 2022. The product earned #1 Product of the Day, 501 upvotes, 145 comments, and a 4.89/5 star rating from nine reviews. It was hunted by Michael Seibel, YC's managing director — a credibility signal that drove significant launch-day attention within the startup community. <sup><a href="https://www.producthunt.com/products/mindmesh">[12]</a></sup>
+---
+
+## Traction
+
+The clearest traction signal in Mindmesh's public record is its Product Hunt launch on April 19, 2022. The product earned #1 Product of the Day, 501 upvotes, 145 comments, and a 4.89/5 star rating from nine reviews. It was hunted by Michael Seibel, YC's managing director — a credibility signal that drove significant launch-day attention within the startup community. <sup><a href="https://www.producthunt.com/products/mindmesh">[12]</a></sup>
 
 <media-tweet url="https://x.com/raf_col/status/1516601508434952196" author="@raf_col" date="2022-04-19" text="600 votes and #1 today! So exciting!!! Mindmesh: The virtual desk that gives you control over your day https://producthunt.com/posts/mindmesh by @raf_col h/t @mwseibel for hunting!"></media-tweet>
 
 Beyond the launch day, no public metrics exist. No user counts, daily active user figures, retention rates, revenue numbers, or customer testimonials were published. No TechCrunch coverage, Hacker News product discussions, or Reddit community threads surfaced in the public record — a meaningful absence for a product targeting technically sophisticated knowledge workers who are active on those platforms. The gap between the April 2022 launch and the eventual pivot is undated, making it impossible to determine how long the team persisted with the original product before concluding it was not working.
 
----30:T1b59,
+---
 
-## Traction
+## Post-Mortem
 
 Mindmesh left no public post-mortem. Neither founder published a reflection on what went wrong, no investor commentary surfaced, and no shutdown announcement was made. What follows is an analysis built from the available evidence — the product record, the pivot sequence, the competitive landscape, and the founder's own words.
 
@@ -149,9 +153,7 @@ The absence of any follow-on press coverage, Hacker News discussion, or communit
 
 ---
 
-## Post-Mortem
-
-### Key Lessons
+## Key Lessons
 
 - **Research validates problems, not solutions.** Mindmesh conducted 700+ pre-launch interviews — an unusually rigorous effort — and confirmed that context-switching was a real pain for knowledge workers. But the interviews validated the problem category, not the specific solution. A product that addresses a broad, diffuse pain without a specific, demonstrable "aha moment" will struggle to drive the behavior change required for adoption and retention. The lesson is not to do less research, but to use research to identify the most acute, specific version of a problem — the one where users say "I need this fixed today," not "yes, that's annoying."
 

@@ -6,7 +6,7 @@ Preflight was a Chicago-area no-code web testing startup (2018–2023) that let 
 
 The rebuild thesis is simple: the two things that killed Preflight — brittle DOM-selector-based recordings and the absence of a defensible distribution channel — are both solvable in 2026. LLMs can now generate and self-heal tests from plain-English descriptions, eliminating the recorder's fragility, while the no-code app development ecosystem (Bubble, Webflow, Framer) has matured into a large, structurally underserved market that enterprise testing incumbents will never prioritize. The new Preflight is the dedicated QA layer for no-code builders: an AI-native testing platform that ships inside the tools they already use, not alongside them.
 
----33:T803,
+---
 
 ## Why Now?
 

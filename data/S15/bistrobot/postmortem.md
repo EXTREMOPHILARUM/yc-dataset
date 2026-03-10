@@ -90,7 +90,7 @@ Bistrobot's business model was not publicly documented in detail, but the deploy
 
 At $2 per sandwich and a theoretical throughput of 300 sandwiches per hour, the machine's maximum gross revenue was $600 per hour of operation. In practice, a corner store would not sustain that demand rate. A more realistic estimate — assuming 20–30 sandwiches per day at a neighborhood grocery — would generate $40–$60 in daily gross revenue per machine. After ingredient costs, any revenue share with the host location, and maintenance expenses, the unit economics were thin.
 
-The company's longer-term model likely depended on selling or leasing machines to operators at a price that reflected the labor savings, then capturing ongoing revenue through consumables or service contracts. That model requires scale — many machines deployed — to generate meaningful revenue. Bistrobot never reached that scale.2f:T8c0,
+The company's longer-term model likely depended on selling or leasing machines to operators at a price that reflected the labor savings, then capturing ongoing revenue through consumables or service contracts. That model requires scale — many machines deployed — to generate meaningful revenue. Bistrobot never reached that scale.
 
 ## Traction
 

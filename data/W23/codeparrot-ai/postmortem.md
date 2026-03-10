@@ -116,7 +116,7 @@ CodeParrot's business model details were never publicly disclosed in full. The p
 
 The $1,500 MRR ceiling—the only concrete revenue figure available—implies either a very small number of paying customers at a meaningful price point, or a larger number of customers at a very low price point. Neither scenario is consistent with a viable SaaS business. Specific pricing tiers, average contract values, and churn rates were never disclosed publicly. The gap between the enterprise brand logos displayed on the website and the actual MRR figure suggests that many of those named companies' employees were using the product on a free or trial basis rather than under organizational contracts. <sup><a href="https://www.entrepreneur.com/en-in/news-and-trends/yc-combinator-backed-codeparrot-shuts-down-after-struggles/494835">[17]</a></sup>
 
----2f:T682,
+---
 
 ## Traction
 

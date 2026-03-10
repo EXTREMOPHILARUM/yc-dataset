@@ -2,6 +2,12 @@
 
 ## Overview
 
+By 2026, Argovox rebuilds as a lightweight voice automation layer for mid-market physician practices—not a full billing platform, but a plug-and-play agent that sits on top of existing EHR systems (Athenahealth, Kareo) and handles outbound patient collections calls at a fraction of traditional agency costs. The insight is simple: voice infrastructure commoditized between 2022 and 2025. Vapi and Retell AI now handle reliability; GPT-4o handles reasoning. What's missing is healthcare-specific orchestration—the compliance guardrails, EHR connectors, and outcome tracking that turn a generic voice API into a revenue recovery tool practices actually deploy.
+
+The go-to-market targets independent and small group practices ($2M–$20M annual billing) drowning in bad debt but too small to justify in-house collections teams or agency fees. Argovox wins by being 60% cheaper than agencies, HIPAA-native from day one, and deployed in weeks rather than months. Distribution runs through Athenahealth's marketplace and direct outreach to practice managers—the same buyers who already trust the EHR vendor ecosystem.
+
+## Why Now?
+
 The single most important change since Argovox's failure is the commoditization of conversational voice infrastructure. In 2022, building a reliable multi-turn voice AI agent required significant proprietary engineering — speech-to-text, natural language understanding, dialogue management, and text-to-speech had to be assembled and tuned by a small team with limited capital. In 2026, platforms like Bland AI, Vapi, and Retell AI offer sub-200ms latency conversational voice APIs at commodity pricing, with pre-built telephony integrations. What consumed the majority of Argovox's engineering capacity is now a vendor call.
 
 Layered on top of that infrastructure, GPT-4o (May 2024) and Claude 3.5 Sonnet (June 2024) can handle genuinely nuanced multi-turn billing conversations — negotiating payment plans, processing hardship exceptions, responding to balance disputes — with reliability that rule-based systems and early LLMs in 2022 could not approach. The core product Argovox was attempting to build is now achievable by a two-person technical team in weeks, not months.
@@ -16,9 +22,7 @@ Distribution channels unavailable in 2022 now exist: the Epic App Orchard market
 
 ---
 
-## Why Now?
-
-### Current Market Analysis
+## Current Market Analysis
 
 The US healthcare revenue cycle management market was valued at approximately $47B in 2022 and is projected to exceed $240B by 2030 (source: research report rebuild signals — original source not independently verified). Even applying significant discount to that projection, the directional growth is unambiguous: rising patient-pay balances, staffing shortages in billing departments, and increasing regulatory complexity are all structural tailwinds.
 

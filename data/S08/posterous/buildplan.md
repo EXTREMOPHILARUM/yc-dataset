@@ -6,7 +6,7 @@ Posterous 2026 is a private publishing inbox for adults who want to share life u
 
 The market shift is simple: email infrastructure is now cheap and reliable, and creators have learned they don't want to build audiences—they want to build relationships. Substack proved newsletter monetization works, but left a massive gap for private, group-first sharing. There's no friction competitor in that space.
 
-We win by being the fastest way to capture and share: one email address, no login required, mobile-first. Launch with the core loop—email inbox, spaces with audience controls, email digests—and let word-of-mouth drive adoption among tight-knit communities. Target 1,000 paying users in 90 days by focusing on the 30–55 demographic that values simplicity over features.34:T8b0,
+We win by being the fastest way to capture and share: one email address, no login required, mobile-first. Launch with the core loop—email inbox, spaces with audience controls, email digests—and let word-of-mouth drive adoption among tight-knit communities. Target 1,000 paying users in 90 days by focusing on the 30–55 demographic that values simplicity over features.
 
 ## Why Now?
 
@@ -36,7 +36,7 @@ Finally, Posthaven — Garry Tan's direct response to Posterous's failure, launc
 
 **Demand signals.** The explosive growth of group chats (iMessage, WhatsApp, Telegram) for family and friend updates signals unmet demand for something richer than a chat thread but lighter than a blog. "Digital gardens" and personal knowledge management tools (Obsidian, Roam) have attracted passionate niche communities, confirming appetite for owned, private content archives.
 
----36:T9e1,
+---
 
 ## Recommended MVP
 

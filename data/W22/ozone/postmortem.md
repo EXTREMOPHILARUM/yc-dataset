@@ -104,7 +104,7 @@ The credit-based system for AI features was a standard mechanism for managing co
 
 No revenue figures were disclosed at any stage. The pricing structure was announced as "planned" in November 2023, and it is unclear whether these prices were implemented as described, adjusted, or whether the company achieved meaningful paid conversion before shutting down.
 
----2e:T819,
+---
 
 ## Traction
 

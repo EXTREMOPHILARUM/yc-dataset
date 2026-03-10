@@ -6,7 +6,7 @@ The 2026 rebuild targets frontend teams at Series A–C SaaS companies who own b
 
 The enabling shift is Model Context Protocol (MCP). By exposing the target repository's component library and import graph to the LLM at inference time, the tool understands what components already exist and generates code that fits seamlessly into the codebase. Figma's Dev Mode API provides structured design metadata instead of screenshots. Together, these remove the guesswork.
 
-Go-to-market is direct: $49/month per developer seat, no free tier, sold through the Figma Plugin Marketplace. The moat is specificity—it's the only tool that combines structured Figma input, live codebase context, and per-conversion quality scoring. Pricing and positioning assume paying customers from day one, not free-to-paid conversion.34:T8c9,
+Go-to-market is direct: $49/month per developer seat, no free tier, sold through the Figma Plugin Marketplace. The moat is specificity—it's the only tool that combines structured Figma input, live codebase context, and per-conversion quality scoring. Pricing and positioning assume paying customers from day one, not free-to-paid conversion.
 
 ## Why Now?
 

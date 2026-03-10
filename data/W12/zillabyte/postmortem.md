@@ -109,7 +109,7 @@ The post-pivot infrastructure platform would logically have followed a consumpti
 
 The company raised three rounds totaling a confirmed $1.5 million, with two earlier rounds of undisclosed size.<sup><a href="https://www.crunchbase.com/organization/zillabyte/company_overview/overview_timeline">[13]</a></sup> Investors included boldstart ventures, Mesa Ventures, Menlo Ventures, DFJ, and KEC Ventures, among others.<sup><a href="https://golden.com/wiki/Zillabyte-99B6K9G">[25]</a></sup> The absence of any Series A suggests the company either did not attempt to raise one or was unable to demonstrate the traction required to do so.
 
----2f:T72c,
+---
 
 ## Traction
 

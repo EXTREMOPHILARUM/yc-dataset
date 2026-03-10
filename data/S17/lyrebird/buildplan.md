@@ -6,7 +6,7 @@ Lyrebird 2026 is a consent-first voice narration platform for independent author
 
 The market shift is real: audiobook production has exploded post-pandemic, narrator scarcity is acute, and willingness to pay for voice cloning inside a publishing workflow is now empirically proven by ElevenLabs' creator adoption. But ElevenLabs remains horizontal—no audiobook-specific UX, no manuscript workflow, no quality gates. Lyrebird wins by going vertical: a purpose-built tool that handles the entire production pipeline, from consent enrollment through final export, with features (chapter segmentation, confidence scoring, multi-voice project management) that only make sense for long-form audio.
 
-Launch into communities where the pain is sharpest: indie author networks, audiobook production Discord servers, and publishing platforms like Draft2Digital. Offer free tier for single-title pilots; convert at $29–$99/month for studios managing multiple projects.34:T91b,
+Launch into communities where the pain is sharpest: indie author networks, audiobook production Discord servers, and publishing platforms like Draft2Digital. Offer free tier for single-title pilots; convert at $29–$99/month for studios managing multiple projects.
 
 ## Why Now?
 

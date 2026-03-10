@@ -102,7 +102,7 @@ The phrase "several fast-growing companies" is consistent with early design-part
 
 The October 2023 public launch—more than a year after the company's founding and YC batch—suggests the team spent the intervening period in product development and early customer discovery rather than scaling. A company that launched publicly in October 2023 and was classified as inactive by April 2025 had a commercial window of roughly 12–18 months. No public data on user growth, revenue, or churn during that period has been identified.
 
----2e:T1daa,
+---
 
 ## Post-Mortem
 
@@ -179,8 +179,4 @@ The team's response to competitive pressure appears to have been to continue bui
 9. [Stanford Bio-X – Tony Ginart Faculty Page](https://biox.stanford.edu/people/tony-ginart)
 10. [YC LinkedIn Post – Dialect Launch, October 27, 2023](https://www.linkedin.com/posts/y-combinator_launch-yc-dialect-copilot-for-vendor-questionnaires-activity-7123748040913428480--PvI)
 11. [RocketReach – Tejas Sundaresan Profile](https://rocketreach.co/tejas-s-email_1200722)
-12. [Hacker News – Launch HN: Dialect (YC S22)](https://news.ycombinator.com/item?id=37999366)31:T52a,The 2026 Dialect targets mid-market B2B SaaS companies (50–500 employees) that are already paying for compliance platforms like Vanta or Drata. Instead of a generic questionnaire copilot, it's a purpose-built compliance answering engine that syncs directly with those platforms' APIs, pulling structured security and audit data to generate accurate, audit-ready responses in seconds. The product lives as a lightweight browser extension and Slack bot—not a new platform to learn.
-
-The market shift is simple: LLM inference costs have collapsed and context windows have expanded dramatically since 2023. That means Dialect can now afford to maintain real-time syncs with compliance platforms and process entire company knowledge bases in a single request. Incumbents like Responsive built around legacy content library workflows; they're slow to integrate and expensive to customize.
-
-The go-to-market is direct: land through compliance platform communities and partner channels, target security and sales ops teams already frustrated with manual questionnaire work, and charge per-seat or per-response. Expand upmarket only after proving unit economics with the mid-market segment. The insight is that compliance data is now the moat—not generic AI—and the companies already managing it digitally are ready to buy.32:T86e,
+12. [Hacker News – Launch HN: Dialect (YC S22)](https://news.ycombinator.com/item?id=37999366)

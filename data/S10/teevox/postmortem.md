@@ -102,7 +102,7 @@ Teevox had no documented revenue model at any stage of its existence. The origin
 
 The $20,000 YC seed round was the only external capital the company raised. <sup><a href="https://www.cbinsights.com/company/teevox">[7]</a></sup> No Series A or follow-on angel round is documented. For a product serving 700,000 monthly users with real bandwidth costs and no revenue, the financial math was unsustainable from the start. The company appears to have operated on founder savings or minimal personal income for the duration of its life.
 
----2e:T7a1,
+---
 
 ## Traction
 

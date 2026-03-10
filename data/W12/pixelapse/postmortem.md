@@ -224,8 +224,4 @@ LayerVault, Pixelapse's most direct competitor, shut down as a standalone produc
 5. [Pixelapse Blog — Pixelapse + Dropbox Announcement (January 26, 2015)](https://blog.pixelapse.com/post/109225261685/pixelapse-dropbox)
 6. [Pear VC — Shravan Reddy Team Page](https://pear.vc/team/shravan-reddy/)
 7. [Pixelapse Blog — Shutdown / Migration Page](https://blog.pixelapse.com/#_=_)
-8. [Hacker News — Pixelapse (YC W12): GitHub-Style Sharing and Version Control For Design Projects](https://news.ycombinator.com/item?id=5215600)33:T4f3,By 2026, Pixelapse returns as a Figma-native version intelligence layer for design teams at B2B SaaS companies. It automatically indexes every design change across Figma workspaces, generates AI-powered semantic diffs that explain *what* changed and *why*, and creates shareable review links that let stakeholders and engineers see exactly which pixels moved. The product lives in the Figma plugin ecosystem—no desktop client, no friction, no learning curve.
-
-The viability shift is Figma's public API maturity. In 2013, designers had no standardized file format; today, Figma's REST API and image export capabilities make it possible to build semantic version intelligence as a thin, cloud-native layer. Figma's own changelog feature has 4.2-star ratings with thousands of requests for automatic version naming and structured change summaries—demand Figma itself won't solve.
-
-Distribution is the Figma Plugin Marketplace (10M+ users). The go-to-market is a free plugin that generates one AI summary per week, converting free users to paid teams ($49/month) once they need unlimited diffs and cross-tool Adobe CC integration. Win by being the tool Figma teams install first when they realize their native version history doesn't tell them *why* a design changed.34:Ta37,
+8. [Hacker News — Pixelapse (YC W12): GitHub-Style Sharing and Version Control For Design Projects](https://news.ycombinator.com/item?id=5215600)

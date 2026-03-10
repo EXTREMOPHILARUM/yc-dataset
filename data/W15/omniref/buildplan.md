@@ -6,7 +6,7 @@ The 2026 Omniref targets engineering teams of 10–75 developers shipping softwa
 
 The viability shift is LLMs. In 2017, cold-starting a code annotation network required either massive manual effort or a critical mass of user-generated content. Now GPT-4o and Claude can generate accurate, contextual package documentation instantly. That solves the chicken-and-egg problem that killed the original product.
 
-Go-to-market is freemium through the VS Code Marketplace (30M+ active users). Individual developers get AI annotations free. Teams pay $15/seat/month for persistent collaborative notes and version-aware anchoring. The wedge is dependency comprehension — a problem every growing engineering org has but no one has solved well. Sourcegraph owns monorepo search; Copilot owns code generation. This owns the knowledge layer between your code and the packages it depends on.34:T8bc,
+Go-to-market is freemium through the VS Code Marketplace (30M+ active users). Individual developers get AI annotations free. Teams pay $15/seat/month for persistent collaborative notes and version-aware anchoring. The wedge is dependency comprehension — a problem every growing engineering org has but no one has solved well. Sourcegraph owns monorepo search; Copilot owns code generation. This owns the knowledge layer between your code and the packages it depends on.
 
 ## Why Now?
 

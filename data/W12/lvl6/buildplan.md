@@ -6,7 +6,7 @@ By 2026, LVL6 is a competitive match-3 PvP platform targeting lapsed casual game
 
 The viability shift is generative AI collapsing content production costs. In 2015, shipping 50 unique characters required a full art team; now Midjourney + Stable Diffusion handles seasonal drops with one designer managing direction. That removes the structural ceiling that killed the original company—you can now sustain live-service economics on a lean team.
 
-The go-to-market is precision targeting of Royal Match and Candy Crush defectors through TikTok and YouTube Shorts, emphasizing competitive ranking and seasonal cosmetics. The differentiation is simple: match-3 with PvP teeth and transparent progression, not infinite grinding. Launch soft in Southeast Asia with AppsFlyer dashboards tracking LTV from day one, then scale to Western markets once unit economics prove.33:T6e8,
+The go-to-market is precision targeting of Royal Match and Candy Crush defectors through TikTok and YouTube Shorts, emphasizing competitive ranking and seasonal cosmetics. The differentiation is simple: match-3 with PvP teeth and transparent progression, not infinite grinding. Launch soft in Southeast Asia with AppsFlyer dashboards tracking LTV from day one, then scale to Western markets once unit economics prove.
 
 ## Why Now?
 

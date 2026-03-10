@@ -102,7 +102,7 @@ The Demo Day pitch described the model slightly differently, framing the 2% as a
 
 At $19,800 per store per year, Selfycart needed approximately 100 merchant locations to reach $2M in annual recurring revenue from subscriptions alone — a scale that required a sales and integration team far larger than two people could support.
 
----2f:T66a,
+---
 
 ## Traction
 

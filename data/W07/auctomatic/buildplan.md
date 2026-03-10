@@ -6,7 +6,7 @@ The 2026 version is a lightweight, AI-powered listing and inventory hub for the 
 
 The market shift is simple: multi-channel selling has become the default, not the exception. Platforms have opened their APIs, resale has gone mainstream (Poshmark, Mercari, Vinted are now household names), and AI can now generate platform-optimized listings in seconds. What was niche in 2008 is now table stakes.
 
-The go-to-market angle targets the reseller who's already paying $20–30/month across three different tools and losing sales to pricing delays and inventory mismatches. We win by consolidating that stack into one clean interface, automating the mechanical work, and letting them focus on sourcing and customer service. Launch on Reddit communities and TikTok reseller groups where these sellers already congregate.34:T9d2,
+The go-to-market angle targets the reseller who's already paying $20–30/month across three different tools and losing sales to pricing delays and inventory mismatches. We win by consolidating that stack into one clean interface, automating the mechanical work, and letting them focus on sourcing and customer service. Launch on Reddit communities and TikTok reseller groups where these sellers already congregate.
 
 ## Why Now?
 
@@ -60,7 +60,7 @@ Time-series analysis of sold comps on each platform, surfaced as a weekly "repri
 
 **Cold-start problem**: This product delivers value to a single user on day one — the AI listing generator works without any network effects. There is no density requirement. The cross-platform dashboard requires only that the individual seller has accounts on multiple platforms, which is the definition of the target customer.
 
----37:T970,
+---
 
 ## Go-to-Market Strategy
 

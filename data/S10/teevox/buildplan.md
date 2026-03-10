@@ -6,7 +6,7 @@ By 2026, Teevox is a native multi-stream viewer built for competitive eSports—
 
 The market timing is inverted from 2012. eSports viewership has grown from 15 million to over 200 million monthly viewers, and Twitch's follow-graph API now makes it trivial to auto-load all live channels a user cares about. The insight: competitive viewers *want* multi-stream experiences but have no good tool for it. MultiTwitch exists but is visually dated, has no accounts, and no monetization path.
 
-The go-to-market is direct: launch on Reddit's eSports communities and Discord servers where these viewers already congregate, offer the MVP free, and convert 5–10% to a $4.99/month premium tier for custom layouts and ad-free viewing. First target is League Worlds 2026 viewership surge.33:T8ce,
+The go-to-market is direct: launch on Reddit's eSports communities and Discord servers where these viewers already congregate, offer the MVP free, and convert 5–10% to a $4.99/month premium tier for custom layouts and ad-free viewing. First target is League Worlds 2026 viewership surge.
 
 ## Why Now?
 

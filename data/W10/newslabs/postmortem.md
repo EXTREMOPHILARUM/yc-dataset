@@ -97,7 +97,7 @@ The journalist cohort included credentialed contributors: a Pulitzer Prize winne
 
 No reader-side traffic metrics were ever disclosed publicly. The absence of any traffic figures in Biggar's detailed post-mortem — a document that was otherwise unusually candid about specific failures — suggests reader numbers were too low to be worth citing. Biggar confirmed that "we never had a large number of readers" as one of the explicit reasons for shutdown.<sup><a href="https://blog.paulbiggar.com/why-we-shut-newstilt-down/">[39]</a></sup>
 
-The platform was live for approximately 74 days. No total article count was disclosed.30:T1ee8,
+The platform was live for approximately 74 days. No total article count was disclosed.
 
 ## Post-Mortem
 

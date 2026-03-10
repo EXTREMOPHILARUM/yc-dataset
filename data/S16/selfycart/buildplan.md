@@ -6,7 +6,7 @@ By 2026, Selfycart is a mobile scan-and-go platform purpose-built for independen
 
 The viability shift: POS integration is no longer a bottleneck. Standard AI and Grabango have commoditized loss prevention APIs, eliminating the need to build proprietary computer vision. Meanwhile, Walmart and Sam's Club proved scan-and-go behavior at scale—but locked it behind their own ecosystems. Independents are desperate for the same experience without the hardware cost or vendor lock-in.
 
-Go-to-market is direct: target independent grocers through the National Grocers Association and regional trade shows. Charge $799/month per location (no consumer fees), undercut hardware-based competitors like Caper Cart, and win on speed of deployment and unit economics. The insight is simple—independents have the same checkout pain as big-box retailers, but none of the capital to solve it. Selfycart solves it with software.34:T7f1,
+Go-to-market is direct: target independent grocers through the National Grocers Association and regional trade shows. Charge $799/month per location (no consumer fees), undercut hardware-based competitors like Caper Cart, and win on speed of deployment and unit economics. The insight is simple—independents have the same checkout pain as big-box retailers, but none of the capital to solve it. Selfycart solves it with software.
 
 ## Why Now?
 
@@ -40,7 +40,7 @@ The market timing that Dalton Caldwell called "inevitable" in 2016 has arrived.
 
 **Demand Signals:** Ibotta's 2024 IPO at a $2.7B valuation and Fetch Rewards' growth validate that loyalty and cashback models funded by retailer data monetization are proven and investor-legible — directly validating Selfycart's analytics value proposition as a primary revenue driver rather than a feature.
 
----36:T87e,
+---
 
 ## Recommended MVP
 

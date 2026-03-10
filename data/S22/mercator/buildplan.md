@@ -6,7 +6,7 @@ The 2026 Mercator is a dbt-native AI query assistant for mid-market analytics te
 
 The market shift is simple: foundation models have made text-to-SQL a commodity feature, not a defensible product. What's scarce now is *context*—understanding a specific team's data semantics, governance rules, and metric definitions. By anchoring to dbt (the industry standard for analytics engineering), we own the semantic layer that every other AI analytics tool ignores or bolts on poorly.
 
-Go-to-market is distribution, not sales. Launch a free dbt package that adds AI query generation to the dbt Hub, build in the dbt Slack community, and convert power users to a paid team tier ($399/month) for warehouse connection management and audit logs. We win the segment between open-source flexibility and enterprise bloat—the dbt-native mid-market that Vanna and DataGPT both miss.33:T719,
+Go-to-market is distribution, not sales. Launch a free dbt package that adds AI query generation to the dbt Hub, build in the dbt Slack community, and convert power users to a paid team tier ($399/month) for warehouse connection management and audit logs. We win the segment between open-source flexibility and enterprise bloat—the dbt-native mid-market that Vanna and DataGPT both miss.
 
 ## Why Now?
 

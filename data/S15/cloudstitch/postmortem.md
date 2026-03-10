@@ -118,7 +118,7 @@ No public information exists on Cloudstitch's pricing structure, revenue model, 
 
 This is consistent with the funding profile: a company that raised only $120,000–$145,000 total<sup><a href="https://tracxn.com/d/companies/cloudstitch/__HkjTTJt1Va5GOcxSZPiC87dc7mnZla1Asvq7o-_4G2g">[12]</a></sup> and operated for over three years either had extremely low burn (consistent with a 1–2 person team) or was not generating meaningful revenue to extend its runway. The YC company profile's description of Cloudstitch as serving "thousands of web developers"<sup><a href="https://www.ycombinator.com/companies/cloudstitch">[25]</a></sup> without any mention of revenue or customers suggests the company measured success in users rather than dollars—a common pattern in developer tools that prioritizes adoption over monetization, often fatally.
 
----2f:T8fd,
+---
 
 ## Traction
 

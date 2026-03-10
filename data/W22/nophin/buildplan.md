@@ -2,6 +2,14 @@
 
 ## Overview
 
+Nophin was a New York-based YC W22 startup that launched in 2021 as a rental income advance platform for residential landlords, pivoted mid-batch to an AI deal screening tool called Cresa for multifamily CRE acquisition teams, raised approximately $1.88M total, and quietly wound down by late 2023 after its founders departed — a casualty of a mid-seed pivot executed on thin capital, before the LLM infrastructure its core product required actually existed.
+
+The rebuild thesis is simple: the two things that killed Cresa — brittle pre-GPT-4 document parsing and insufficient runway to survive until the technology matured — are no longer problems. GPT-4o and Claude 3.5 Sonnet can extract structured data from rent rolls, T-12s, and offering memoranda accurately and at near-zero marginal cost today; the post-2022 CRE dislocation has created acute demand for faster deal screening with leaner analyst teams; and the capital required to reach MVP is now weeks of engineering time, not months of ML infrastructure build. **The rebuild is a focused, LLM-native CRE deal screening copilot targeting multifamily acquisition analysts at mid-market private equity firms and syndicators — built lean, priced as a per-seat SaaS tool, and distributed through the broker and GP networks that already control deal flow.**
+
+---
+
+## Why Now?
+
 The single most important change since Nophin's failure is the arrival of reliable, cheap long-document parsing via large language models — specifically GPT-4 (March 2023) and Claude 3.5 Sonnet (June 2024). This is not a general "AI got better" observation. It is a precise infrastructure unlock for the exact technical bottleneck that killed Cresa.
 
 In 2022, parsing a 60-page offering memorandum or a broker-formatted rent roll required either fine-tuned NLP models trained on domain-specific CRE documents — expensive to build, brittle when document formats varied across brokers — or rule-based extraction logic that broke on any deviation from expected structure. Nophin hired a specialized ML engineer formerly at Kensho/S&P Global just to attempt this. The product was still unreliable. Today, GPT-4o with a structured output prompt and a PDF-to-text pipeline extracts cap rates, NOI, price per unit, occupancy, and debt service coverage from an OM in seconds, with accuracy sufficient for screening-level decisions. The marginal cost per document is fractions of a cent. The engineering time to build this pipeline is days, not months.
@@ -13,8 +21,6 @@ Third, the tooling ecosystem has matured. LangChain, LlamaIndex, and the OpenAI 
 Distribution channels that did not exist or were immature in 2022 now include the NMHC (National Multifamily Housing Council) digital community, LinkedIn Sales Navigator targeting CRE acquisition titles, and the GP/syndicator networks on platforms like Juniper Square and Covercy, which have established software-buying behavior among exactly the target customer.
 
 ---
-
-## Why Now?
 
 ## Current Market Analysis
 
@@ -93,7 +99,7 @@ Direct outbound via LinkedIn Sales Navigator targeting "Acquisition Analyst," "D
 
 $299 per seat per month, with a minimum of 2 seats per firm ($598/month floor). Annual commitment at $249/seat/month.
 
-Stress test against free alternatives: acquisition analysts currently accomplish deal screening using a combination of manual Excel work, email, and their own judgment — not a paid software tool. The free alternative is 2 hours of analyst time per deal. At a fully-loaded analyst cost of $100K–$150K/year ($50–$75/hour), screening 30 deals per month costs $3,000–$4,500 in analyst time. A $299/month tool that reduces screening time by 50% pays for itself on the first deal of the month. The price is not competing against a free software alternative; it is competing against analyst labor cost, which makes the ROI case straightforward and the price defensible. The risk is not price sensitivity — it is trust: will analysts trust AI-extracted numbers on high-stakes investment decisions? The Excel sync feature (which lets analysts verify every extracted figure in their own model) is the trust mechanism, not a convenience feature.35:T7eb,
+Stress test against free alternatives: acquisition analysts currently accomplish deal screening using a combination of manual Excel work, email, and their own judgment — not a paid software tool. The free alternative is 2 hours of analyst time per deal. At a fully-loaded analyst cost of $100K–$150K/year ($50–$75/hour), screening 30 deals per month costs $3,000–$4,500 in analyst time. A $299/month tool that reduces screening time by 50% pays for itself on the first deal of the month. The price is not competing against a free software alternative; it is competing against analyst labor cost, which makes the ROI case straightforward and the price defensible. The risk is not price sensitivity — it is trust: will analysts trust AI-extracted numbers on high-stakes investment decisions? The Excel sync feature (which lets analysts verify every extracted figure in their own model) is the trust mechanism, not a convenience feature.
 
 ## Differentiation vs. 2026 Competitors
 

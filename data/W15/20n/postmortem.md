@@ -118,7 +118,7 @@ DARPA contracts provided a parallel revenue stream: milestone-based government f
 
 The licensing model required customers to trust a small software startup's DNA designs enough to invest in CRO validation and, eventually, manufacturing retooling. Each sale required a long qualification process. There is no evidence that 20n pursued a subscription or platform-access model that would have generated recurring revenue independent of per-molecule licensing deals. The absence of a Series A suggests the licensing model did not produce the revenue trajectory needed to attract growth-stage capital.
 
----2e:T756,
+---
 
 ## Traction
 

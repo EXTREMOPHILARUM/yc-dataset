@@ -6,7 +6,7 @@ CarWoo 2026 is a real-time competitive offer engine for new car buyers, embedded
 
 The market shift is dealer consolidation. When CarWoo failed, fragmented independent dealers made national density impossible. Today, three dealer management systems (CDK, Reynolds & Reynolds, Dominion) control 80%+ of U.S. franchises. One API integration reaches thousands of dealers instantly. Simultaneously, credit unions are desperate for member engagement tools beyond lending—this solves that problem while generating a new revenue stream.
 
-The play: buyers submit preferences through conversational AI, dealers get 48 hours to submit binding offers on anonymized briefs, and the buyer sees ranked, real-time pricing. No spam, no haggling theater, no contact harvesting. Dealers win because they compete on price efficiency rather than sales pressure. Credit unions win because members get tangible value and stay engaged. We win by charging per-activated-member fees—predictable, scalable, and aligned with partner success.33:T84f,
+The play: buyers submit preferences through conversational AI, dealers get 48 hours to submit binding offers on anonymized briefs, and the buyer sees ranked, real-time pricing. No spam, no haggling theater, no contact harvesting. Dealers win because they compete on price efficiency rather than sales pressure. Credit unions win because members get tangible value and stay engaged. We win by charging per-activated-member fees—predictable, scalable, and aligned with partner success.
 
 ## Why Now?
 

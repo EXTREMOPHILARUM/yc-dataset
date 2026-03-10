@@ -6,7 +6,7 @@ By 2026, Neptyne returns as a focused AI-powered formula layer for Google Sheets
 
 The timing window is real: Microsoft shipped Python in Excel last year, proving the market exists and validating the core thesis. But their implementation is sandboxed, Azure-locked, and requires manual code writing. Neptyne's insight is simpler—use LLMs to bridge the gap. A natural-language formula bar that converts "calculate cohort retention" or "flag anomalies in this column" directly into executable Python functions, cached and reusable, solves the actual friction point: analysts spend 40% of their time on repetitive transformations that live nowhere between spreadsheet formulas and full Python scripts.
 
-The go-to-market is direct: land through Google Workspace procurement (lower friction than Excel enterprise sales), charge per-sheet or per-user, and let the product's speed advantage—turning a 20-minute Python script into a one-sentence formula—drive expansion into finance and ops teams that already have budget for tools.34:T729,
+The go-to-market is direct: land through Google Workspace procurement (lower friction than Excel enterprise sales), charge per-sheet or per-user, and let the product's speed advantage—turning a 20-minute Python script into a one-sentence formula—drive expansion into finance and ops teams that already have budget for tools.
 
 ## Why Now?
 
@@ -34,7 +34,7 @@ Distribution is also cleaner. The Google Workspace Marketplace now hosts 5,000+ 
 
 **Demand Signals:** Retool's 2024 State of Internal Tools report (source: Retool, unverified independently) noted spreadsheets remain the #1 internal tool at companies under 500 employees. The persistence of spreadsheet-first workflows despite better alternatives signals that switching cost, not awareness, is the barrier — which an add-on model directly addresses.
 
----36:T7ec,
+---
 
 ## Recommended MVP
 

@@ -94,7 +94,7 @@ The logic was standard for the era: acquire users with a free product, then upse
 
 The last documented funding type was an angel round.<sup><a href="https://www.crunchbase.com/organization/answerly">[10]</a></sup> No Series A is on record. Given the company closed in June 2013—approximately fourteen months after its largest distribution milestone—the most likely sequence is that the angel round funded operations through mid-2013, the premium monetization layer never generated sufficient revenue to justify a Series A, and the company wound down when the runway ran out.
 
----2e:T777,
+---
 
 ## Traction
 

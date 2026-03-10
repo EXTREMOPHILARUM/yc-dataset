@@ -6,7 +6,7 @@ Meldium 2026 targets IT-aware founders and ops leads at B2B SaaS companies (15�
 
 The market shift is technical, not behavioral: browser extensions are now enterprise-deployable through Intune and Jamf, eliminating the 2013 barrier that made this category hard to distribute. Combined with the explosion of SaaS tools (average company now uses 100+ apps vs. 20 in 2014), the offboarding problem has become acute. One employee departure shouldn't require IT to manually revoke 50+ logins.
 
-Go-to-market is founder-to-founder: direct outreach to B2B SaaS founders via LinkedIn and Slack communities, emphasizing speed of deployment (extension installs via MDM in hours, not weeks) and the visceral win of one-click offboarding. Land at $150–200/month per team, expand to larger cohorts as the34:T85b,
+Go-to-market is founder-to-founder: direct outreach to B2B SaaS founders via LinkedIn and Slack communities, emphasizing speed of deployment (extension installs via MDM in hours, not weeks) and the visceral win of one-click offboarding. Land at $150–200/month per team, expand to larger cohorts as the
 
 ## Why Now?
 

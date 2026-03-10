@@ -6,7 +6,7 @@ The 2026 NeoWize is a semantic personalization engine for mid-market Shopify mer
 
 The shift that makes this work now: LLMs can generate rich semantic embeddings from product catalogs instantly, eliminating the cold-start problem that plagued the original company. Merchants now expect to own their data and integrate tools via APIs, not hand everything to a SaaS vendor. And Shopify's Hydrogen and Statsig's experimentation APIs didn't exist in 2019—they're table stakes now.
 
-We win by being the only player focused on merchants who already use Segment or Klaviyo, charging per-transaction lift rather than flat fees. Enterprise competitors like Dynamic Yield start at $100K/year and require implementation teams. We start free, prove ROI in 30 days, and scale with the merchant's revenue.34:T914,
+We win by being the only player focused on merchants who already use Segment or Klaviyo, charging per-transaction lift rather than flat fees. Enterprise competitors like Dynamic Yield start at $100K/year and require implementation teams. We start free, prove ROI in 30 days, and scale with the merchant's revenue.
 
 ## Why Now?
 
@@ -33,7 +33,7 @@ The global e-commerce personalization market was valued at approximately $1.1 bi
 - **Bloomreach**: Strong on search and content; personalization layer is secondary and requires significant implementation. Weakness: 3–6 month onboarding cycles, priced for enterprise ($2,000+/month).
 - **LimeSpot / Rebuy**: Shopify-native, SMB-focused, priced $50–$300/month. Weakness: no semantic understanding of products; purely behavioral, meaning cold-start performance is poor and catalog-level intelligence is absent.
 
-**Demand signals from adjacent products:** Klaviyo's $6.9B IPO (2023) validated that mid-market e-commerce merchants will pay meaningfully for data-driven personalization in adjacent channels (email, SMS). Merchants already paying $500–$2,000/month for Klaviyo are a pre-qualified audience for on-site personalization at similar price points.36:Ta1e,
+**Demand signals from adjacent products:** Klaviyo's $6.9B IPO (2023) validated that mid-market e-commerce merchants will pay meaningfully for data-driven personalization in adjacent channels (email, SMS). Merchants already paying $500–$2,000/month for Klaviyo are a pre-qualified audience for on-site personalization at similar price points.
 
 ## Recommended MVP
 

@@ -27,7 +27,7 @@ Allo was flagged by Crunchbase as both Women Founded and Women Led — a demogra
 - **March 22, 2019:** Allo presents at YC W19 Demo Day; TechCrunch describes it as "a marketplace where parents can exchange babysitting and errand-running"<sup>[[14]](https://techcrunch.com/2019/03/22/top-yc-startups/)</sup>
 - **2019 (exact date unknown):** Allo winds down; no follow-on funding raised, no acquisition recorded; Catherine Hrdy's LinkedIn shows Allo tenure ending in 2019<sup>[[15]](https://www.linkedin.com/in/catherinehrdy/)</sup>
 
----2b:Te04,
+---
 
 ## What They Built
 
@@ -81,7 +81,7 @@ Allo's business model at the time of shutdown was not publicly documented. The p
 
 The most plausible monetization paths for a product like Allo — subscription fees for premium features, sponsored placements for family-oriented businesses, or a freemium model with enhanced discovery tools — were never publicly articulated. At the time of Demo Day in March 2019, the company was almost certainly pre-revenue, focused on user growth rather than monetization.<sup><a href="https://techcrunch.com/2019/03/22/top-yc-startups/">[14]</a></sup> The absence of a clear revenue model, combined with the non-transactional nature of the core product, would have made the path to sustainable unit economics difficult to articulate to investors evaluating the company post-Demo Day.
 
----2e:T5ab,
+---
 
 ## Traction
 
@@ -150,8 +150,4 @@ The Microsoft Store presence is a minor but telling detail. Building and maintai
 9. [TechCrunch – Top YC Startups, March 22 2019](https://techcrunch.com/2019/03/22/top-yc-startups/)
 10. [CB Insights – Allo Financials](https://www.cbinsights.com/company/allo/financials)
 11. [PitchBook – Allo Company Profile](https://pitchbook.com/profiles/company/265245-13)
-12. [LinkedIn – Catherine Hrdy](https://www.linkedin.com/in/catherinehrdy/)32:T500,By 2026, Allo is a school-network-native coordination tool for elementary parents—not a broad neighborhood app, but a tight, verified community within a single school's parent base. The product solves one problem obsessively: matching parents who need practical help (carpool coverage, last-minute pickup, meal swaps) with parents who can provide it, all within a trust boundary that actually works.
-
-The viability shift is AI-powered request matching. In 2019, Allo required manual browsing and messaging—friction that killed adoption in sparse networks. Now, parents post requests in natural language ("need pickup Tuesday 3pm, can babysit Friday evening"), and GPT-4o instantly surfaces compatible matches with transparent reciprocity tracking. The cold-start problem dissolves when matching is frictionless enough to work even with 50 active parents, not 5,000.
-
-The go-to-market is PTO partnerships at target schools—10 to 15 schools per metro, starting in Austin. Schools provide the trust gate (verified parent directory) and distribution (PTO email). Parents get a free, ad-free, family-only tool that actually reduces their logistics burden. Allo wins by being boring, practical, and genuinely useful within a bounded community—the opposite of social-feed sprawl.33:T881,
+12. [LinkedIn – Catherine Hrdy](https://www.linkedin.com/in/catherinehrdy/)

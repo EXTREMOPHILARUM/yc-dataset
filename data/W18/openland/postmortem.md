@@ -122,7 +122,7 @@ This model had a critical two-step dependency problem. Before Openland could ear
 
 The model also created a misaligned incentive during the growth phase. Because Openland earned nothing from free communities, the company had no direct revenue signal to guide product prioritization. All investment went into building features that might eventually attract monetizable communities—a long-horizon bet that required solving the cold-start problem first. No revenue figures were ever disclosed, suggesting the monetization step was never meaningfully reached.
 
----2f:T78c,
+---
 
 ## Traction
 

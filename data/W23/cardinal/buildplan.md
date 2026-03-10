@@ -6,7 +6,7 @@ Cardinal was an AI-powered product backlog platform that aggregated customer fee
 
 The rebuild thesis is not that Cardinal failed — it didn't — but that its acquisition created a structural gap: Miro Insights serves Miro's installed base, leaving every product team running on Linear, Figma, or Jira-native workflows without a standalone AI product intelligence layer. Foundation models available in 2025–2026 have collapsed the unit economics that made this category expensive to build, and the validated workflow Miro Insights now runs in production — sales call → AI extraction → PRD matching → revenue signal — can be rebuilt as a platform-agnostic product targeting the teams Miro cannot reach without asking them to switch collaboration tools.
 
----34:T9a1,
+---
 
 ## Why Now?
 
@@ -59,7 +59,7 @@ Deliver a weekly summary of the top revenue-weighted feature requests to a desig
 
 **Cold-start problem:** This product does not depend on network effects or local density. Value is delivered to a single team from day one, as long as that team has at least one connected call recorder with 30+ calls in the last 90 days. The minimum viable data threshold is low, and the onboarding flow should surface this threshold explicitly during signup to prevent teams from connecting an empty account and churning before seeing value.
 
----37:Taca,
+---
 
 ## Go-to-Market Strategy
 

@@ -106,7 +106,7 @@ Penny had no active monetization model at the time of its $1.2 million seed roun
 
 The most logical monetization path for Penny, given its user base and data access, would have been financial product referrals: recommending credit cards, personal loans, savings accounts, or insurance products to users based on their spending patterns, and earning a commission on conversions. This is precisely the model that made Credit Karma a multi-billion-dollar business. Penny's conversational interface was arguably better suited to this model than a dashboard — a chat message saying "based on your spending, you might qualify for a better rewards card" is more actionable than a static banner ad. But Penny never built this model before the acquisition. Whether the team had a concrete monetization roadmap, or was still exploring options, is not documented in available sources.
 
----2f:T8ce,
+---
 
 ## Traction
 

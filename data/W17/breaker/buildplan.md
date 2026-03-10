@@ -6,7 +6,7 @@ Breaker 2026 is a transcript-first social layer for podcast listening, built on 
 
 We're targeting the 50K–500K listener sweet spot: interview and narrative nonfiction shows (true crime, politics, tech, culture) where audiences are already engaged enough to discuss. The go-to-market is direct—we launch with 20–30 hand-selected shows, seed their communities with engaged listeners, and let moment-level sharing create the network density that killed the original Breaker. Creators get native community rooms; listeners get discovery through what people actually found worth discussing, not just what they followed.
 
-The difference: we're not fighting podcast listening habits. We're making the listening itself the social object.34:T81d,
+The difference: we're not fighting podcast listening habits. We're making the listening itself the social object.
 
 ## Why Now?
 

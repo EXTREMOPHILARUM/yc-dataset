@@ -2,6 +2,14 @@
 
 ## Overview
 
+Deepsilicon was a San Francisco-based YC S24 company that built software and hardware for ternary-quantized transformer inference — compressing model weights from 16 bits to 2 bits to dramatically reduce memory usage and increase throughput — before going inactive in late 2024 or early 2025, having raised only $500K against a strategy that required custom silicon tape-outs, enterprise hardware sales cycles, and a software product competitive with free open-source tools simultaneously.
+
+The rebuild thesis is simple: the core technical bet has been validated by Microsoft and the open-source community, the robotics market now has named, funded buyers with explicit edge-inference budgets, and open-source silicon tooling has lowered tape-out costs enough to make hardware a credible 18-month roadmap item rather than a fantasy. The new version is a software-first ternary inference runtime purpose-built for humanoid and mobile robotics OEMs — a $3M seed company that earns enterprise contracts before it ever tapes out a chip.
+
+---
+
+## Why Now?
+
 The single most important change since Deepsilicon's failure is that ternary quantization has graduated from a startup's unvalidated claim into a first-class, peer-reviewed training paradigm — which means a rebuild no longer needs to spend runway proving the core thesis.
 
 When Deepsilicon launched its HN post in September 2024, the Microsoft BitNet b1.58 paper had been public for only a few months, and community skepticism about ternary accuracy tradeoffs was live in the comments. By 2026, that skepticism has been largely resolved: follow-on work from Microsoft Research, together with open implementations in the Hugging Face ecosystem, has demonstrated that 1.58-bit ternary models can match FP16 baselines on a range of reasoning and instruction-following benchmarks. A rebuild inherits this credibility for free.
@@ -14,9 +22,7 @@ Finally, open-source silicon tooling (OpenROAD, Google's open PDK, RISC-V chiple
 
 ---
 
-## Why Now?
-
-### Current Market Analysis
+## Current Market Analysis
 
 **Market size.** The global edge AI chip market was estimated at approximately $3.5B in 2023 and is projected to exceed $15B by 2030, per MarketsandMarkets (2023 report). The narrower robotics inference subsegment does not have a clean public estimate; this is a gap in the available data. What is documentable: the humanoid robotics market alone attracted over $1B in disclosed venture investment in 2023–2024 (Crunchbase aggregates), and each deployed unit represents a recurring inference compute cost that OEMs are actively trying to reduce.
 

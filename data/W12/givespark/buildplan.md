@@ -6,7 +6,7 @@ By 2026, GiveSpark is a creator-to-nonprofit fundraising infrastructure layer th
 
 The market shift is structural: creator management is now professionalized. Talent agencies, management platforms, and creator networks have standardized APIs and established workflows. Rather than cold-pitching celebrities, the rebuilt GiveSpark integrates directly into existing talent infrastructure—making celebrity acquisition a distribution problem, not a relationship problem. Simultaneously, nonprofit fundraising has professionalized too; they now expect real-time analytics and donor attribution, not just wire transfers.
 
-The go-to-market angle: land through talent management platforms and creator networks as a white-label feature, then expand to nonprofits as paying customers who see measurable donor acquisition and retention metrics. Revenue comes from transaction fees on donations plus premium analytics tiers for nonprofits—a model that scales with campaign volume, not celebrity scarcity.34:T7e4,
+The go-to-market angle: land through talent management platforms and creator networks as a white-label feature, then expand to nonprofits as paying customers who see measurable donor acquisition and retention metrics. Revenue comes from transaction fees on donations plus premium analytics tiers for nonprofits—a model that scales with campaign volume, not celebrity scarcity.
 
 ## Why Now?
 

@@ -149,4 +149,4 @@ The shutdown timing can be bracketed with reasonable confidence: the last known 
 11. [Product Hunt – Fable](https://www.producthunt.com/products/fable-5)
 12. [LinkedIn – Aravindh Dorai](https://www.linkedin.com/in/aravindhdorai/)
 13. [tryfable.com (defunct)](https://tryfable.com/)
-14. [Hacker News – "Fable is winding down" (different company, fable.app)](https://news.ycombinator.com/item?id=41850573)32:T8dc,
+14. [Hacker News – "Fable is winding down" (different company, fable.app)](https://news.ycombinator.com/item?id=41850573)

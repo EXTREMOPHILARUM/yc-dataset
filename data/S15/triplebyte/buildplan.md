@@ -6,7 +6,7 @@ By 2026, Triplebyte is a two-sided marketplace for senior engineers and early-st
 
 The market shift is real: AI can now conduct adaptive coding interviews at scale without losing signal. The original Triplebyte thesis — that demonstrated skill beats credentials — was always right. What failed was the execution model, not the insight. By returning to outcome-aligned economics (25% placement fee, 90-day guarantee) and building a genuine two-sided network, the rebuild captures both sides of the value: engineers get fair assessment and visibility; companies get conversion rates that beat the industry standard by 75%.
 
-Go-to-market is structural advantage reborn. The YC alumni network — 4,000+ active founders — is the distribution channel. Early placements into YC companies create proof points that compound. The differentiation is simple: everyone else is either a B2B vendor (Karat) or a job board (Wellfound). This is a marketplace where both sides have skin in the game.34:Ta78,
+Go-to-market is structural advantage reborn. The YC alumni network — 4,000+ active founders — is the distribution channel. Early placements into YC companies create proof points that compound. The differentiation is simple: everyone else is either a B2B vendor (Karat) or a job board (Wellfound). This is a marketplace where both sides have skin in the game.
 
 ## Why Now?
 

@@ -64,7 +64,7 @@ The first 500 members are invited exclusively from three sources: NeurIPS/ICML 2
 
 **Cold-start threshold:** The product delivers value to a member when they have received at least 5 structured recommendations. The founding cohort strategy targets 500 members before public launch specifically to ensure that every new member can reach this threshold quickly through existing network density.
 
----34:T95e,
+---
 
 ## Go-to-Market Strategy
 

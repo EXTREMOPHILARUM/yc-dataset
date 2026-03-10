@@ -6,7 +6,7 @@ By 2026, Mindori is a lightweight voice-search widget for Shopify merchants—no
 
 The market shift is simple: ASR is now a commodity. Google's speech-to-text API is accurate enough for e-commerce, and LLMs handle conversational refinement. In 2016, building voice search meant building ASR from scratch—impossible for a three-person team competing against Amazon. Today, the moat is gone. What matters is distribution and UX. Shopify merchants are actively searching for search tools (Searchie, Boost Commerce rank top-10 in the App Store). Voice is still rare enough to be a differentiator, but common enough that users expect it.
 
-The play is pure Shopify App Store: freemium entry, usage-based scaling, and a 90-day target of 100 active merchants. Win on simplicity and price against Shopify's native search (which has no voice) and enterprise tools like Algolia (which cost 10x more and require engineering). Conversion lift32:T813,
+The play is pure Shopify App Store: freemium entry, usage-based scaling, and a 90-day target of 100 active merchants. Win on simplicity and price against Shopify's native search (which has no voice) and enterprise tools like Algolia (which cost 10x more and require engineering). Conversion lift
 
 ## Why Now?
 
@@ -34,7 +34,7 @@ The current competitive landscape has three distinct tiers, each with exploitabl
 
 *Enterprise AI search* (Coveo, Algolia NeuralSearch, Constructor.io): These are sophisticated products targeting enterprise retailers with six-figure annual contracts and multi-month implementation timelines. Coveo's entry price is publicly estimated above $30,000/year; Algolia's AI search tier is similarly positioned. Their weakness is inaccessibility to the 100,000+ mid-market Shopify merchants who need better search but cannot justify enterprise procurement cycles.
 
-*General-purpose voice assistants* (Siri, Google Assistant, Alexa): Still present, still powerful, still not embeddable in a merchant's branded app with catalog-specific context. The structural limitation Mindori identified in 2016 — that platform voice lives inside the platform's ecosystem, not inside a retailer's branded experience — remains true in 2026.34:T738,
+*General-purpose voice assistants* (Siri, Google Assistant, Alexa): Still present, still powerful, still not embeddable in a merchant's branded app with catalog-specific context. The structural limitation Mindori identified in 2016 — that platform voice lives inside the platform's ecosystem, not inside a retailer's branded experience — remains true in 2026.
 
 ## Demand Signals
 

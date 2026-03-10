@@ -2,6 +2,14 @@
 
 ## Overview
 
+By 2026, Minefold is a modpack-native server hosting platform for adult Minecraft players who want friction-free multiplayer without paying for unused capacity. The target is the 22–35 demographic playing modded Minecraft with friend groups—a segment with disposable income, technical literacy, and genuine willingness to pay for convenience.
+
+The market shift is demographic, not technical. Minecraft's player base has aged up dramatically since 2012. Today's core multiplayer audience has money and expects seamless infrastructure; they're the same cohort that pays for Discord Nitro and game passes. Modded Minecraft—which requires server-side coordination—has become the dominant way adults play together, creating a natural willingness to outsource hosting complexity.
+
+The go-to-market angle is radical simplicity: pick a modpack, spin up a server in 30 seconds, pay only for active player-months. No plan tiers, no upsell friction, no competitor's "unlimited" nonsense. Win by being the obvious choice for friend groups who just want to play, not manage infrastructure. Distribution runs through modding communities on Discord and Reddit where these players already congregate.
+
+## Why Now?
+
 The single most important change since Minefold's failure is the demographic shift in Minecraft's player base. In 2012, Minecraft skewed heavily toward teenagers and pre-teens culturally conditioned to expect free online services. By 2023, Minecraft surpassed 140 million monthly active users (Microsoft earnings disclosures), and a meaningful cohort of those players are now adults in their mid-20s to early 30s — people who were 12 when Minefold launched and are now paying for Spotify, AWS, and Netflix without friction. The willingness-to-pay problem was never about the product; it was about the audience. That audience has aged into paying customers.
 
 The second structural unlock is Minecraft Realms itself. Mojang's first-party hosting — the existential threat that ended Minefold — has inadvertently validated the paid managed-server market at scale while simultaneously defining its own ceiling. Realms is deliberately limited: no plugin support, no modpack compatibility, capped at 10 concurrent players, and priced at $7.99/month regardless of usage. It proved people pay; it left the entire modded Minecraft ecosystem unserved.
@@ -14,9 +22,7 @@ Distribution channels unavailable in 2012 now exist at scale: the CurseForge App
 
 ---
 
-## Why Now?
-
-### Current Market Analysis
+## Current Market Analysis
 
 **Market size:** The managed Minecraft server hosting market did not exist as a tracked category in 2012. Today, Apex Hosting, Nodecraft, and BisectHosting collectively serve hundreds of thousands of paying subscribers (exact figures are not publicly disclosed by any of these private companies). The broader game server hosting market was valued at approximately $1.7 billion in 2023 and is projected to grow at roughly 8% CAGR through 2030 (Grand View Research, 2023 — treat this figure as directional, not precise). Minecraft's 140 million MAU base represents a large addressable pool, with the modded segment conservatively estimated in the low millions of active players.
 

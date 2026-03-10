@@ -101,7 +101,7 @@ Three monetization paths were under consideration at launch: affiliate commissio
 
 None of these models were tested before the acquisition. The company had no revenue at exit. With under $100,000 in total capital and no path to near-term monetization, the runway was measured in months, not years. The absence of a business model was not a secondary concern—it was the binding constraint that forced the acqui-hire.
 
----2f:T91c,
+---
 
 ## Traction
 

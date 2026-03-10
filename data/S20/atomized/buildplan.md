@@ -2,6 +2,14 @@
 
 ## Overview
 
+Atomized was a PaaS startup that operated from 2019 to January 2022, built to let developers deploy application infrastructure on AWS without cloud expertise — it shut down after accumulating seven million lines of custom code on a $500K pre-seed budget, a textbook case of over-engineering consuming runway before the product could find its market.
+
+The rebuild thesis is simple: everything Atomized tried to build from scratch now exists as composable primitives. AWS CDK, Pulumi, and OpenTofu have matured into reliable infrastructure abstraction layers; LLMs can translate natural language app descriptions into production-ready deployment configurations; and the "bring your own cloud account" architecture Atomized pioneered has become a recognized enterprise requirement rather than a niche differentiator. The new Atomized is a thin, LLM-powered orchestration layer on top of existing IaC tooling — a product that ships in weeks, not years, and targets the compliance-sensitive mid-market segment that AWS's own tools still serve poorly.
+
+---
+
+## Why Now?
+
 The single most important change since Atomized's failure is that the custom engineering work that killed the company no longer needs to be built. In 2021, Atomized had to construct its own infrastructure provisioning modules from near-scratch, resulting in seven million lines of code. In 2026, that same provisioning logic can be assembled from AWS CDK (GA 2019, substantially matured by 2022), Pulumi (v3.0, April 2021), and OpenTofu (forked from Terraform, January 2024) — battle-tested, community-maintained IaC frameworks that handle the hard parts. A new Atomized becomes a configuration and orchestration layer on top of these primitives, not a replacement for them. The codebase shrinks from millions of lines to tens of thousands.
 
 The second structural shift is LLM-powered infrastructure generation. GPT-4 (March 2023) and Claude 3 Opus (March 2024) demonstrated the ability to generate syntactically correct, contextually appropriate Terraform and CDK configurations from natural language descriptions. By 2026, this capability is sufficiently reliable that a developer describing "a containerized FastAPI backend with a Postgres database and an S3 bucket for file uploads" can receive a deployable CDK stack without writing a line of IaC. This directly replaces the custom module-building that consumed Atomized's engineering capacity.
@@ -14,9 +22,7 @@ Distribution channels unavailable to Atomized in 2021 now exist at scale: the AW
 
 ---
 
-## Why Now?
-
-### Current Market Analysis
+## Current Market Analysis
 
 **Market size.** The global DevOps tools market was estimated at approximately $7 billion in 2021 and is projected to exceed $25 billion by 2028, growing at roughly 19% CAGR (MarketsandMarkets, 2023 — note: third-party market size projections carry inherent uncertainty and should be treated as directional). The specific segment relevant to a rebuilt Atomized — deployment automation for teams without dedicated cloud engineers — is not broken out separately in public research, but the sustained growth of Render, Railway, and Fly.io suggests the addressable base is large enough to support multiple well-capitalized players.
 

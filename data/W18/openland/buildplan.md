@@ -6,7 +6,7 @@ By 2026, Openland is a community platform purpose-built for newsletter creators�
 
 The shift that makes this work now: AI agents can instantly warm new members through personalized intake conversations, eliminating the engagement cliff that plagued horizontal platforms. Combined with one-click newsletter imports and native paid memberships, creators have a distribution bridge and revenue model from day one—no network effects required.
 
-The go-to-market is surgical. Target newsletter operators with 1,000–20,000 subscribers actively seeking community monetization. Beehiiv and Substack integrations become the distribution channel itself. Win by being 10x simpler and cheaper than Circle, with AI doing the work that manual community management requires. Vertical focus, solved cold-start, clear unit economics.34:T7f4,
+The go-to-market is surgical. Target newsletter operators with 1,000–20,000 subscribers actively seeking community monetization. Beehiiv and Substack integrations become the distribution channel itself. Win by being 10x simpler and cheaper than Circle, with AI doing the work that manual community management requires. Vertical focus, solved cold-start, clear unit economics.
 
 ## Why Now?
 
@@ -36,7 +36,7 @@ The online community platform market has grown substantially since Openland oper
 
 **Demand signals from adjacent products:** Beehiw's 100,000+ newsletter operators, Substack's 35M+ active subscriptions (Substack, 2024), and the collapse of Superdao (shut down 2023) all point to the same gap: community organizers with existing audiences need structured, AI-assisted engagement infrastructure that sits between email and Discord.
 
----36:T855,
+---
 
 ## Recommended MVP
 

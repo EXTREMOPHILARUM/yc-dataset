@@ -6,7 +6,7 @@ Struct was a Y Combinator-backed (W23) startup that built a multilingual, real-t
 
 The rebuild thesis is not to retry the horizontal platform play that killed the original — it is to take Struct's only genuine differentiator, multilingual voice, and drive it into a single underserved vertical where incumbents are weakest and switching costs are highest: AI-powered outbound and inbound call automation for Latin American fintech companies serving Spanish- and Portuguese-speaking customers. The new Struct is a vertical SaaS product, not infrastructure; it ships with compliance posture, pre-built call flows, and CRM integrations baked in from day one. In one line: **Struct 2.0 is the AI voice agent platform built specifically for LATAM fintech — the only one that speaks the language, knows the regulation, and closes the loop on collections, onboarding, and support without a human on the line.**
 
----33:Ta26,
+---
 
 ## Why Now?
 
@@ -34,9 +34,7 @@ The current competitive landscape has three tiers:
 
 *Contact center incumbents (Twilio, Genesys, Five9, NICE):* These platforms have LATAM enterprise relationships but are slow to ship AI-native features and price at enterprise tiers that exclude the mid-market LATAM fintech companies (50–500 employees) that represent the highest-growth segment. Twilio's AI layer (launched 2024) is English-dominant and requires significant custom development to localize.
 
-*LATAM-specific BPO operators:* Companies like Atento and Teleperformance operate large Spanish/Portuguese call center operations in the region but are human-labor businesses with structural cost disadvantages versus AI automation. They are potential partners or acquirers, not direct competitors.35:T4f9,Usage-based pricing anchored to call volume: $0.08–$0.12 per minute of AI-handled call, with a platform fee of $500–$1,000/month for compliance features, CRM integrations, and support. A company running 10,000 collections calls/month at an average of 3 minutes per call generates $2,400–$3,600/month in usage revenue plus the platform fee — a $3,000–$4,600/month contract. This competes directly against a human collections agent at LATAM BPO rates ($8–12/hour fully loaded), where 10,000 calls at 3 minutes each requires approximately 500 agent-hours, costing $4,000–$6,000/month. The AI solution is cheaper, faster, and available 24/7.
-
-The stress test against free alternatives: WhatsApp Business API (Meta) handles text-based collections outreach for near-zero marginal cost and has dominant penetration in LATAM. The rebuild must be honest that WhatsApp is a real competitive pressure for low-complexity collections nudges. The defensible position is that voice outperforms text for high-stakes collections conversations — payment arrangements, dispute resolution, and hardship negotiations — where tone, negotiation, and real-time response matter. This claim should be validated with A/B data from design partners before it becomes a sales argument.36:T864,
+*LATAM-specific BPO operators:* Companies like Atento and Teleperformance operate large Spanish/Portuguese call center operations in the region but are human-labor businesses with structural cost disadvantages versus AI automation. They are potential partners or acquirers, not direct competitors.
 
 ## Demand Signals from Adjacent Products
 
@@ -93,35 +91,9 @@ Direct outbound sales through warm introductions via LATAM fintech investor netw
 
 ## Pricing Strategy
 
-# Velo
+Usage-based pricing anchored to call volume: $0.08–$0.12 per minute of AI-handled call, with a platform fee of $500–$1,000/month for compliance features, CRM integrations, and support. A company running 10,000 collections calls/month at an average of 3 minutes per call generates $2,400–$3,600/month in usage revenue plus the platform fee — a $3,000–$4,600/month contract. This competes directly against a human collections agent at LATAM BPO rates ($8–12/hour fully loaded), where 10,000 calls at 3 minutes each requires approximately 500 agent-hours, costing $4,000–$6,000/month. The AI solution is cheaper, faster, and available 24/7.
 
-## 1. Overview
-
-Velo is a vertical SaaS platform for AI-powered outbound and inbound call automation built specifically for Latin American fintech companies — a modern revival of Struct's multilingual voice agent vision, rebuilt with vertical depth instead of horizontal breadth. Operations and collections managers at LATAM lending companies (50–500 employees) deploy pre-built, compliance-ready Spanish and Portuguese call flows against their loan portfolios without writing a line of code. Velo connects to Salesforce Financial Services Cloud and HubSpot, writes call outcomes back automatically, and replaces $4,000–$6,000/month BPO contracts with AI agents that run 24/7 at a fraction of the cost.
-
----
-
-## 2. Core Features
-
-**Call Flow Management**
-- Library of pre-built LATAM collections call flows in Mexican Spanish, Brazilian Portuguese, Colombian Spanish, and Argentine Spanish
-- Visual call flow builder: drag-and-drop nodes for greeting, debt identification, negotiation, payment arrangement, objection handling, and compliant disclosure
-- Flow versioning with rollback; A/B test two flows against the same contact list
-- Configurable escalation rules: hand off to human agent via warm transfer when sentiment score drops below threshold
-- Compliance mode per country: BACEN (Brazil), CONDUSEF (Mexico), SFC (Colombia), BCRA (Argentina) — injects required disclosures automatically
-
-**Voice Agent Configuration**
-- Voice persona library: 8 pre-tuned regional voices (2 per market: male/female) built on ElevenLabs Turbo v2.5
-- Custom voice cloning: upload 30-second sample, generate brand voice in 24 hours
-- Adjustable speech rate, pause duration, and retry cadence per flow
-- Real-time sentiment analysis displayed in live call monitor dashboard
-
-**Campaign Management**
-- Upload contact lists via CSV or pull directly from CRM integration
-- Schedule campaigns: one-time, recurring (daily/weekly), or trigger-based (loan X days past due)
-- Concurrency controls: max simultaneous calls per campaign (1–500)
-- DNC (Do Not Call) list management with automatic suppression
-- Time-zone-aware dialing windows per country
+The stress test against free alternatives: WhatsApp Business API (Meta) handles text-based collections outreach for near-zero marginal cost and has dominant penetration in LATAM. The rebuild must be honest that WhatsApp is a real competitive pressure for low-complexity collections nudges. The defensible position is that voice outperforms text for high-stakes collections conversations — payment arrangements, dispute resolution, and hardship negotiations — where tone, negotiation, and real-time response matter. This claim should be validated with A/B data from design partners before it becomes a sales argument.
 
 ## Differentiation vs. 2026 Competitors
 

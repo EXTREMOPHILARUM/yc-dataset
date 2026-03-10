@@ -6,7 +6,7 @@ Anchor Health 2026 targets independent home health agencies (50–200 Medicare p
 
 The product is a cellular-connected vitals hub (BP cuff, pulse ox, scale) paired with AI-generated clinical documentation and automated RPM claims submission. Agencies get a new $2,500–7,500 monthly revenue stream per 50 RPM patients with minimal operational lift. We're not selling a cost center; we're selling profit.
 
-Go-to-market is direct outbound to agency administrators in high-reimbursement states (Texas, Florida, Ohio) plus referral partnerships with home health billing consultants. At $299/month base plus $49 per RPM patient, we hit unit economics that work for both sides immediately. The win: agencies see revenue impact in 90 days, not years.32:T8b9,
+Go-to-market is direct outbound to agency administrators in high-reimbursement states (Texas, Florida, Ohio) plus referral partnerships with home health billing consultants. At $299/month base plus $49 per RPM patient, we hit unit economics that work for both sides immediately. The win: agencies see revenue impact in 90 days, not years.
 
 ## Why Now?
 
@@ -39,7 +39,7 @@ The current competitive landscape is dominated by legacy vertical SaaS players:
 - **AlayaCare**: Modern cloud architecture with mobile-first design, stronger in Canada than the U.S., limited CMS billing depth for American Medicare/Medicaid rules.
 - **Axxess**: Targets smaller agencies with lower price points but offers minimal automation and no connected hardware integration.
 
-**The Gap**: No current competitor combines RPM-enabled connected hardware, LLM-powered clinical documentation, and Medicare RPM billing automation in a single platform designed for independent agencies (10–200 patients). The incumbents were built before RPM reimbursement existed at scale and have not natively integrated it.34:T894,
+**The Gap**: No current competitor combines RPM-enabled connected hardware, LLM-powered clinical documentation, and Medicare RPM billing automation in a single platform designed for independent agencies (10–200 patients). The incumbents were built before RPM reimbursement existed at scale and have not natively integrated it.
 
 ## Demand Signals
 

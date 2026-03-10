@@ -6,7 +6,7 @@ Telivy was a San Francisco-based cybersecurity startup founded in 2021 that atte
 
 The rebuild thesis is this: compliance mandates that were aspirational in 2021 are now legally non-negotiable, LLM-based classification (GPT-4o, Claude 3.5 Sonnet) can eliminate the false-positive problem that eroded MSP trust, and PSA/RMM platform API marketplaces now offer the distribution channel Telivy had to beg for. The new version is a compliance-mapped security assessment layer that lives natively inside the MSP tools MSPs already use, sells itself through regulatory urgency, and builds a proprietary risk dataset that platform incumbents cannot easily replicate.
 
----34:Tade,
+---
 
 ## Why Now?
 

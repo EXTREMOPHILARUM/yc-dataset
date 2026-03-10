@@ -74,7 +74,7 @@ Anchor Health's business model is not documented in any available source. Based 
 
 This type of model — sometimes called "full-stack" or "tech-enabled services" — can generate strong unit economics at scale but requires significant upfront investment in customer acquisition and onboarding. For a two-person team selling into a market with long sales cycles and risk-averse buyers, the capital efficiency of this model would have been poor. A single enterprise customer in home health care might take six to twelve months to close and require substantial hands-on implementation support, making it difficult to build revenue quickly enough to justify follow-on investment.
 
-No revenue figures, pricing information, or customer counts are available from any source reviewed.2f:T1b0e,
+No revenue figures, pricing information, or customer counts are available from any source reviewed.
 
 ## Post-Mortem
 

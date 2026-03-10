@@ -6,7 +6,7 @@ By 2026, Bicycle AI is a plug-and-play AI support agent for mid-market e-commerc
 
 The fundamental shift: LLMs are now reliable enough to handle this. In 2017, NLP couldn't do it. Today's models can. The market validated the thesis—AI support is a $5B+ category—but existing players either lock you into their ecosystem (Intercom Fin) or require expensive custom implementation. Bicycle AI wins by being platform-agnostic and instantly deployable.
 
-The go-to-market is direct sales to support leaders drowning in repetitive tickets. Land at $2–5K/month, expand as resolution rates prove ROI. The unit economics work now because the AI does the heavy lifting; humans only handle exceptions. This is the company that should have existed in 2020.34:T723,
+The go-to-market is direct sales to support leaders drowning in repetitive tickets. Land at $2–5K/month, expand as resolution rates prove ROI. The unit economics work now because the AI does the heavy lifting; humans only handle exceptions. This is the company that should have existed in 2020.
 
 ## Why Now?
 
@@ -33,7 +33,7 @@ The gap that maps directly onto Bicycle AI's original positioning: **no current 
 
 Demand signals from adjacent products: Zapier's AI integrations and Make.com's automation workflows show strong SMB appetite for "set it and forget it" AI tooling.
 
----36:T761,
+---
 
 ## Recommended MVP
 

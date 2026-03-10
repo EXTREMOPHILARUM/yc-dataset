@@ -42,7 +42,7 @@ The current competitive landscape has four clusters, each with a meaningful gap:
 
 - **Shopify Collabs**: Excellent for connecting creators to Shopify merchants but not a storefront management tool for creators who sell across multiple platforms. It does not aggregate TikTok Shop or Instagram Shopping data.
 
-- **Stan / Beehiiv / Linktree commerce add-ons**: Link-in-bio tools adding commerce features, but these are lightweight product-grid embeds, not full storefront management systems with inventory sync, analytics, or AI copy generation.35:T912,
+- **Stan / Beehiiv / Linktree commerce add-ons**: Link-in-bio tools adding commerce features, but these are lightweight product-grid embeds, not full storefront management systems with inventory sync, analytics, or AI copy generation.
 
 ## Demand Signals
 

@@ -109,7 +109,7 @@ The company did generate some revenue. An early deal with Coca-Cola for a brande
 
 Total venture funding reached $10.14 million across seed, angel, Series A, and Series B rounds. <sup><a href="https://techcrunch.com/2011/09/16/back-to-our-regularly-scheduled-program-posterous-raises-5-million/">[19]</a></sup> With 21 employees at the time of acquisition and no disclosed revenue figures, the company appears to have been operating on investor capital without a clear path to profitability. The acqui-hire outcome—rather than a strategic acquisition at a premium—suggests investors and founders alike concluded that an independent monetization path was not achievable.
 
----2f:T84d,
+---
 
 ## Traction
 

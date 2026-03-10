@@ -6,7 +6,7 @@ The 2026 SolidStage is a natural-language infrastructure agent for early-stage s
 
 What's changed: LLM agents can now read cloud documentation, generate correct Terraform, debug deployment failures, and iterate in real time. In 2012, this was science fiction. Today it's a $50/month SaaS layer on top of AWS that saves a developer 10+ hours weekly.
 
-The wedge is Heroku's collapse. Heroku stagnated after 2017, killed its free tier, and never modernized. Teams that loved its simplicity have nowhere to go except back to raw AWS or Kubernetes. SolidStage wins by being Heroku's spiritual successor—same ease of use, but powered by AI and priced for startups that actually have budget constraints.32:T825,
+The wedge is Heroku's collapse. Heroku stagnated after 2017, killed its free tier, and never modernized. Teams that loved its simplicity have nowhere to go except back to raw AWS or Kubernetes. SolidStage wins by being Heroku's spiritual successor—same ease of use, but powered by AI and priced for startups that actually have budget constraints.
 
 ## Why Now?
 

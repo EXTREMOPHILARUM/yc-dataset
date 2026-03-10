@@ -6,7 +6,7 @@ Cardpool was a San Francisco-based gift card exchange marketplace that operated 
 
 The rebuild thesis is not to recreate Cardpool's spread-based inventory model — that model was structurally broken. Instead, the opportunity is to build a fee-based, fully digital gift card exchange powered by real-time balance verification APIs, ML-driven fraud detection, and AI-optimized dynamic pricing: a marketplace where the platform never holds card inventory, fraud losses are structurally minimized rather than operationally managed, and the entire cost structure of physical kiosks and two-way shipping is eliminated. In one line: **a zero-inventory, fraud-resistant gift card exchange that makes the secondary market economics work for the first time.**
 
----34:T9dd,
+---
 
 ## Why Now?
 

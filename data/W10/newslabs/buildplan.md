@@ -6,7 +6,7 @@ NewsLabs (YC W2010) built NewsTilt, a curated network where credentialed journal
 
 The rebuild thesis is simple: every infrastructure problem that killed NewsTilt in 2010 is now a commodity. Custom domain provisioning takes hours, not months. Stripe Connect automates revenue splits. AI handles the SEO and distribution work that required a manual team. And Substack has already proven — at scale — that journalists will pay for tools that help them own their audience. The new version is a white-label publishing infrastructure layer for mid-career journalists leaving institutional media, built on subscriptions from day one, with personal domains and brand ownership as table stakes rather than aspirational features.
 
----34:T987,
+---
 
 ## Why Now?
 
@@ -63,7 +63,7 @@ Accepted journalists can opt into a weekly cross-recommendation digest — each 
 
 **What we will NOT build:** A reader-facing destination site or homepage. NewsTilt's fatal confusion was positioning itself as a destination competing with news organizations. This rebuild is infrastructure, not media. No editorial vetting beyond basic quality standards. No advertising sales. No proprietary CMS built from scratch.
 
-**Cold-start problem:** This product does not require local density or network scale to deliver core value. A single journalist with zero platform peers still benefits from personal domain ownership, subscription infrastructure, and AI-assisted SEO. The cross-promotion network adds value incrementally as the journalist cohort grows — it is an enhancement, not a prerequisite. Target 50 active publishing journalists within 90 days of launch as the threshold at which cross-promotion becomes meaningfully valuable.37:T9a5,
+**Cold-start problem:** This product does not require local density or network scale to deliver core value. A single journalist with zero platform peers still benefits from personal domain ownership, subscription infrastructure, and AI-assisted SEO. The cross-promotion network adds value incrementally as the journalist cohort grows — it is an enhancement, not a prerequisite. Target 50 active publishing journalists within 90 days of launch as the threshold at which cross-promotion becomes meaningfully valuable.
 
 ## Success metrics:
 

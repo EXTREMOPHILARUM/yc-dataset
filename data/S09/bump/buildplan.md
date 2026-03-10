@@ -6,7 +6,7 @@ Bump 2026 is a proximity-based professional networking platform built for mid-si
 
 The viability shift is hardware: Ultra-Wideband is now standard on flagship phones and cheap enough to embed everywhere. What required expensive server-side sensor fusion in 2009 is now a $2 hardware problem. Combined with the digital business card market growing 100% by 2030, there's a real wedge between AirDrop (peer-to-peer, no context) and LinkedIn (asynchronous, no serendipity).
 
-The go-to-market is event organizers, not consumers. A 500-person tech conference pays $15–25K for better attendee engagement and post-event ROI metrics. You win by making networking frictionless for attendees while giving organizers the data they've always wanted—who connected with whom, when, and where. It's B2B2C with a clear unit economics path.34:T9ff,
+The go-to-market is event organizers, not consumers. A 500-person tech conference pays $15–25K for better attendee engagement and post-event ROI metrics. You win by making networking frictionless for attendees while giving organizers the data they've always wanted—who connected with whom, when, and where. It's B2B2C with a clear unit economics path.
 
 ## Why Now?
 
@@ -58,7 +58,7 @@ Event organizers get an aggregate view of networking activity — total exchange
 
 **Success metrics:** 40%+ of attendees at a deployed event complete at least one exchange; 25%+ of users open the post-event summary within 48 hours; organizer NPS ≥ 50 after first event; 3-month organizer retention ≥ 70%.
 
----37:Ta3e,
+---
 
 ## Go-to-Market Strategy
 

@@ -112,7 +112,7 @@ The September 2013 pivot introduced the first clearly articulated revenue model:
 
 Riley's fundraising rationale in April 2012 acknowledged the capital intensity of the business: "It's a really big space, our competition is pretty well funded, and we have larger ambitions. To market something like this you need substantial funds."<sup><a href="https://techcrunch.com/2012/04/25/ark-seed-round/">[23]</a></sup> This suggests the team understood they were in a capital-intensive race, though the absence of a Series A after December 2012 indicates the runway from the $5.32M total raise was finite and not replenished.
 
----2e:T98a,
+---
 
 ## Traction
 

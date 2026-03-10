@@ -6,7 +6,7 @@ RadMate AI was a San Francisco-based YC W24 startup that built an AI copilot for
 
 The rebuild thesis is not to fight Rad AI for health system contracts — it is to go underneath them. Rad AI's enterprise sales motion leaves an enormous, underserved long tail: the roughly 3,000+ independent radiology practices and teleradiology groups in the U.S. that lack the IT infrastructure, procurement bandwidth, or contract size to attract a vendor selling $110M+ worth of enterprise software. The new RadMate wins by selling a self-serve, API-native reporting copilot directly to individual radiologists and small practice owners — no procurement committee required.
 
----34:Ta59,
+---
 
 ## Why Now?
 
@@ -59,7 +59,7 @@ Before a report is finalized, the system flags potential clinical inconsistencie
 
 **Cold-start problem:** This product does not depend on network effects or local density. A single radiologist gets full value from day one — the core loop is individual (dictate → structured report), not social. There is no cold-start threshold to clear.
 
----37:T9c3,
+---
 
 ## Go-to-Market Strategy
 

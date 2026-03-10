@@ -6,7 +6,7 @@ Zigfu 2026 is a cross-platform hand-tracking SDK for Unity developers building s
 
 The market shift is simple: spatial computing hardware is now real and shipping at scale, but the developer tooling layer remains fragmented. Meta and Apple both lock developers into their own SDKs; open-source alternatives like MediaPipe require custom integration work. Zigfu wins by being the neutral, production-ready abstraction layer that saves developers 4–6 weeks of integration work per project.
 
-The go-to-market is ruthlessly focused: launch on the Unity Asset Store immediately (not after raising capital), target independent developers and small studios as the primary segment, and use the $27B digital signage market as the anchor enterprise wedge. Pricing is $199 per developer seat with optional monthly support—low enough to convert the long tail of indie builders, high enough to fund sustainable growth without chasing venture capital.34:T946,
+The go-to-market is ruthlessly focused: launch on the Unity Asset Store immediately (not after raising capital), target independent developers and small studios as the primary segment, and use the $27B digital signage market as the anchor enterprise wedge. Pricing is $199 per developer seat with optional monthly support—low enough to convert the long tail of indie builders, high enough to fund sustainable growth without chasing venture capital.
 
 ## Why Now?
 
@@ -42,7 +42,7 @@ Current competitors fall into three tiers:
 
 - **8th Wall / Niantic**: WebAR platform with gesture features, but optimized for marketing experiences rather than developer infrastructure. Weakness: not a general-purpose SDK; pricing targets enterprise marketing budgets, not indie developers.
 
-- **Mediapipe-based open-source projects**: Free but fragmented, undocumented, and unsupported. Weakness: no Unity integration, no commercial support, no cross-platform abstraction.36:T8d0,
+- **Mediapipe-based open-source projects**: Free but fragmented, undocumented, and unsupported. Weakness: no Unity integration, no commercial support, no cross-platform abstraction.
 
 ## Demand Signals
 

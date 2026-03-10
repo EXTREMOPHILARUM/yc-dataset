@@ -6,7 +6,7 @@ Natero was a B2B SaaS customer success platform founded in 2012 that ingested pr
 
 What has changed is the cost structure of the entire thesis: LLMs now synthesize unstructured signals into churn risk scores without custom ML pipelines, Segment and Amplitude have commoditized the data plumbing layer Natero spent three years building, and Gainsight's Vista Equity acquisition has opened a mid-market vacuum that a 3-person AI-native team can now address at the price point and integration depth a 2012 startup could never afford. The rebuild is a lightweight, AI-native CSM intelligence layer that plugs into tools mid-market SaaS teams already use — not a platform, a co-pilot.
 
----34:T9e6,
+---
 
 ## Why Now?
 

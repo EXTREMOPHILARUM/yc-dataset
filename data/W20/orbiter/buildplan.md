@@ -2,6 +2,14 @@
 
 ## Overview
 
+Orbiter was a San Francisco-based YC W20 startup that built ML-powered business metric monitoring for non-engineers — a "PagerDuty for the business side" — and quietly wound down in early 2022 after failing to raise a follow-on round in a market that had consolidated around Monte Carlo ($236M raised) and other enterprise-grade, heavily capitalized data observability players.
+
+The rebuild thesis is simple: the structural conditions that killed Orbiter have inverted. In 2020, Orbiter had to infer metric definitions from raw SQL, fight for Slack adoption, and compete on ML quality it couldn't afford to build. In 2026, dbt semantic layers codify metric definitions, LLMs can explain *why* a metric dropped in plain English, and the enterprise incumbents have left the mid-market completely unserved. The new Orbiter is a metric intelligence layer for mid-market companies already on the modern data stack — plug into your dbt project, get anomaly alerts with LLM-generated root cause explanations, in the tools your team already uses.
+
+---
+
+## Why Now?
+
 The single most important change since Orbiter's failure is the emergence of LLM-powered reasoning as a practical, affordable capability for small teams. In 2020, automated root cause analysis — explaining *why* a metric dropped, not just *that* it dropped — required either a large data engineering team or expensive proprietary ML infrastructure that Orbiter couldn't build on a pre-seed budget. GPT-4 (March 2023) and Claude 3 (March 2024) changed this equation entirely: a rebuilt Orbiter can now query a warehouse's metadata API, pull recent schema changes, inspect dbt model lineage, and ask an LLM to synthesize a plain-English explanation of a metric anomaly — all in a single API call costing fractions of a cent. This collapses what was previously a multi-engineer workflow into a product feature a two-person team can ship.
 
 The second structural shift is the standardization of the modern data stack. In 2020, the analytics ecosystem was fragmented across dozens of warehouse configurations, custom SQL dialects, and bespoke pipeline architectures. By 2026, the market has consolidated: Snowflake reported 9,820 customers as of fiscal year 2024 (Snowflake Q4 FY2024 earnings), BigQuery serves millions of projects, and Databricks crossed 10,000 customers in 2023. Each platform now exposes native metadata APIs, query history endpoints, and access logs — meaning a rebuilt Orbiter can achieve deeper, more reliable integrations in weeks rather than the months it would have taken in 2020.
@@ -14,9 +22,7 @@ The Slack App Directory currently lists over 2,600 apps with 750,000+ daily acti
 
 ---
 
-## Why Now?
-
-### Current Market Analysis
+## Current Market Analysis
 
 **Market size:** The global data observability market was valued at approximately $1.5B in 2023 and is projected to reach $4.5B by 2028 at a 24.5% CAGR (MarketsandMarkets, 2023). These figures cover the full observability stack; the specific sub-segment of business metric monitoring for non-engineering users is not separately sized in any public source, and any figure here would be fabricated. What is confirmed: Monte Carlo's $1.6B valuation (May 2022) and Bigeye's $66M raise (September 2021) validate that enterprises pay significant sums for this category. The market existence risk Orbiter faced in 2020 is gone.
 

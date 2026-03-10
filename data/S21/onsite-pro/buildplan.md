@@ -6,7 +6,7 @@ Onsite Pro (incorporated as Greenwork Inc.) launched in March 2021, passed throu
 
 The rebuild thesis is this: LLMs have eliminated the manual pricebook onboarding cost that made Onsite Pro's distributor model unscalable, IRA incentive APIs now make real-time rebate calculation a software feature rather than a full-time data job, and embedded lending infrastructure turns the proposal tool into a financing origination channel — making the unit economics work where they previously couldn't. The new version is a distributor-facing proposal platform that onboards a pricebook in minutes, calculates live federal and state incentives, and earns revenue on every financed deal it closes.
 
----34:Tbed,
+---
 
 ## Why Now?
 

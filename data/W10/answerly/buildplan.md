@@ -6,7 +6,7 @@ By 2026, Answerly is a lightweight question-intelligence layer for B2B SaaS comp
 
 The core insight: LLMs have solved the hard problem that killed the original InboxQ—reliable question detection. What was brittle and hand-tuned in 2013 is now commodity. Meanwhile, the social graph has fragmented. No single platform dominates anymore, and customers are scattered across X, LinkedIn, Reddit, and emerging networks. A unified question inbox across all of them is genuinely valuable again.
 
-The go-to-market angle is direct: land with a free tier that surfaces 5–10 questions daily, charge when teams want historical search, team collaboration, or response drafting. Avoid the freemium trap by making the paid tier solve a real workflow problem—not just removing artificial limits. Win by being 10x cheaper and faster than Sprout Social or Hootsuite for this specific use case.33:T863,
+The go-to-market angle is direct: land with a free tier that surfaces 5–10 questions daily, charge when teams want historical search, team collaboration, or response drafting. Avoid the freemium trap by making the paid tier solve a real workflow problem—not just removing artificial limits. Win by being 10x cheaper and faster than Sprout Social or Hootsuite for this specific use case.
 
 ## Why Now?
 
@@ -38,7 +38,7 @@ Distribution infrastructure has also matured. The HubSpot App Marketplace now li
 
 **Demand signals:** Clay's growth to $30M+ ARR (reported by multiple outlets in 2024, exact figure unconfirmed) on a signal-surfacing model validates willingness to pay. Reddit's AMA culture, LinkedIn's "ask me anything" posts, and Bluesky's growing question threads all demonstrate that question-intent content has migrated well beyond Twitter/X.
 
----35:T894,
+---
 
 ## Recommended MVP
 

@@ -112,7 +112,7 @@ Abel's precise pricing model was never publicly disclosed. The product was sold 
 
 The most plausible revenue model for a platform of this type would be a subscription fee per seat or per matter, potentially with usage-based components tied to document volume or pipeline runs. Law firms typically evaluate software on a per-attorney or per-case basis, and eDiscovery pricing conventions often include per-gigabyte data processing fees. Without confirmed pricing, it is impossible to assess whether Abel's unit economics were viable or whether the pricing model itself created friction with prospective buyers.
 
----2f:T606,
+---
 
 ## Traction
 

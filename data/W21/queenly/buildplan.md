@@ -40,9 +40,7 @@ The North American formalwear market was cited at $15 billion at the time of Que
 
 *StockX*: Sneakers and streetwear. No formalwear presence.
 
-**The gap is clear**: no current competitor offers formalwear-specific visual search, occasion-based filtering, size-range matching, or an authentication tier for gowns above $300. The category remains fragmented across general platforms.35:T4c4,- Peer-to-peer listings (under $300): 20% take rate. Stress test: Poshmark charges 20% on items over $15 with no formalwear-specific features. The rebuild's visual search and occasion filtering justify equivalent pricing with a better buyer experience.
-- Authenticated gowns (over $300): 35% take rate. Stress test: Vestiaire Collective charges 25–38% with full authentication on luxury items. A 35% rate on a $600 pageant gown ($210 platform revenue) is defensible if authentication reduces buyer hesitation on high-value purchases — Queenly's 2% return rate suggests it does.
-- Pageant Subscription ($19.99/month): Stress test against free alternatives — a contestant currently manages resale via Facebook groups and Poshmark at zero subscription cost. The $19.99 is justified only if the subscriber saves meaningfully on take rates (15% vs. 20% on a $400 gown saves $20 per transaction) and gets faster inventory access. At one sale per month, the subscription pays for itself. If a contestant sells fewer than one gown per month, the subscription does not pencil — which is why it should be positioned as a seasonal offering (3-month competition season pass at $49.99) rather than a perpetual monthly charge.36:Ta2a,
+**The gap is clear**: no current competitor offers formalwear-specific visual search, occasion-based filtering, size-range matching, or an authentication tier for gowns above $300. The category remains fragmented across general platforms.
 
 ## Defensibility Against Platform Incumbents
 
@@ -106,38 +104,9 @@ Direct community partnerships with pageant coaches, state directors, and titleho
 
 ## Pricing Strategy
 
-# Gownda
-
-## 1. Overview
-
-Gownda is a modern revival of Queenly — a vertical peer-to-peer resale marketplace exclusively for formalwear (pageant gowns, prom dresses, quinceañera gowns, and wedding attire). Buyers find occasion-specific dresses through AI-powered visual search and structured filters; sellers publish listings in under two minutes using GPT-4o-generated descriptions from photos. The core value proposition is community density: every listing, every buyer, and every search result is formalwear-specific, delivering a materially better experience than Poshmark or eBay for a buyer who needs a size-6 red ball gown for a pageant in three weeks.
-
----
-
-## 2. Core Features
-
-**Listing & Supply**
-- AI-assisted listing creation: seller uploads 3–5 photos → GPT-4o generates structured title, description, style tags, condition grade, and SEO copy → seller confirms/edits → publishes
-- Listing fields: occasion type, silhouette, neckline, color family, embellishment, brand, size (numeric + alpha), bust/waist/hip measurements, condition grade (New/Like New/Good/Fair), asking price, original retail price
-- Draft saving at any step; resume incomplete listings from dashboard
-- Seller photo guidelines overlay (front, back, label, detail shots) shown during upload
-- Listing status: Draft, Pending Review (authenticated tier), Active, Sold, Archived
-
-**Search & Discovery**
-- Occasion filter: Pageant / Prom / Quinceañera / Wedding / Gala
-- Visual attribute filters: silhouette (ball gown, mermaid, A-line, sheath, two-piece), neckline, color family, embellishment
-- Size filter: numeric (0–30) and alpha (XS–3XL), with measurement-range fallback
-- Price range slider
-- Sort: Newest, Price Low→High, Price High→Low, Most Liked
-- Full-text keyword search with formalwear-specific tokenization
-- Saved searches with email/push notification on new matches
-- Listing detail page: photo carousel, all structured attributes, seller profile, shipping estimate, size comparison tool (buyer enters own measurements, system shows fit delta)
-
-**Authentication & Trust**
-- Tier 1 (≤$300): Peer-to-peer. Seller submits 5-photo proof set before listing goes live; reviewed by automated CV check (Google Vision API) for completeness
-- Tier 2 (>$300): Authenticated. Seller submits structured photo set; human authenticator reviews within 24 hours; listing shows "Gownda Authenticated" badge; buyer receives condition guarantee
-- Seller ratings (1–5 stars) after each completed transaction
-- Buyer protection: disputes opened within 3 days of delivery; misrepresentation refund policy
+- Peer-to-peer listings (under $300): 20% take rate. Stress test: Poshmark charges 20% on items over $15 with no formalwear-specific features. The rebuild's visual search and occasion filtering justify equivalent pricing with a better buyer experience.
+- Authenticated gowns (over $300): 35% take rate. Stress test: Vestiaire Collective charges 25–38% with full authentication on luxury items. A 35% rate on a $600 pageant gown ($210 platform revenue) is defensible if authentication reduces buyer hesitation on high-value purchases — Queenly's 2% return rate suggests it does.
+- Pageant Subscription ($19.99/month): Stress test against free alternatives — a contestant currently manages resale via Facebook groups and Poshmark at zero subscription cost. The $19.99 is justified only if the subscriber saves meaningfully on take rates (15% vs. 20% on a $400 gown saves $20 per transaction) and gets faster inventory access. At one sale per month, the subscription pays for itself. If a contestant sells fewer than one gown per month, the subscription does not pencil — which is why it should be positioned as a seasonal offering (3-month competition season pass at $49.99) rather than a perpetual monthly charge.
 
 ## Differentiation vs. 2026 Competitors
 

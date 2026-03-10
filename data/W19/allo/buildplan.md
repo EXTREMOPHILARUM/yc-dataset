@@ -2,6 +2,14 @@
 
 ## Overview
 
+By 2026, Allo is a school-network-native coordination tool for elementary parents—not a broad neighborhood app, but a tight, verified community within a single school's parent base. The product solves one problem obsessively: matching parents who need practical help (carpool coverage, last-minute pickup, meal swaps) with parents who can provide it, all within a trust boundary that actually works.
+
+The viability shift is AI-powered request matching. In 2019, Allo required manual browsing and messaging—friction that killed adoption in sparse networks. Now, parents post requests in natural language ("need pickup Tuesday 3pm, can babysit Friday evening"), and GPT-4o instantly surfaces compatible matches with transparent reciprocity tracking. The cold-start problem dissolves when matching is frictionless enough to work even with 50 active parents, not 5,000.
+
+The go-to-market is PTO partnerships at target schools—10 to 15 schools per metro, starting in Austin. Schools provide the trust gate (verified parent directory) and distribution (PTO email). Parents get a free, ad-free, family-only tool that actually reduces their logistics burden. Allo wins by being boring, practical, and genuinely useful within a bounded community—the opposite of social-feed sprawl.
+
+## Why Now?
+
 The single most important change since Allo's 2019 failure is the maturation of LLM-powered coordination infrastructure. GPT-4 function calling (March 2023) and Claude tool use (November 2023) now make it technically feasible for a two-person team to automate the friction-heavy matching layer that killed Allo's Karma system. In 2019, "I need a carpool Thursday at 3pm" required manual back-and-forth across multiple messages before a match resolved. In 2026, an LLM agent can parse natural-language requests, cross-reference neighbors' stated availability, and surface a confirmed match in under 60 seconds — eliminating the coordination tax that made reciprocal exchange feel like work rather than community.
 
 Three additional structural shifts compound this advantage:
@@ -15,8 +23,6 @@ Three additional structural shifts compound this advantage:
 WhatsApp Communities (launched 2022) has additionally normalized small-group favor coordination, reducing the behavior-change barrier Allo faced when introducing an entirely new coordination paradigm. The cultural infrastructure now exists. The technical infrastructure now exists. The incumbent is now vulnerable.
 
 ---
-
-## Why Now?
 
 ## Current Market Analysis
 

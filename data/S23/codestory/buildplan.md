@@ -6,7 +6,7 @@ By 2026, CodeStory returns as a VSCode extension—not a fork—built for securi
 
 The viability shift: inference costs have collapsed 10x since 2023, making on-device frontier models economically viable. Cursor owns the prosumer market but processes all code through cloud APIs—a compliance blocker for financial services, healthcare, and defense contractors. CodeStory fills that gap by offering agentic capabilities (multi-file edits, semantic understanding) with zero cloud dependency.
 
-Go-to-market targets mid-market compliance teams directly: engineering leaders at 100–2,000 person companies who already pay for Copilot but can't use it. Distribution through security-focused channels and compliance communities, with a freemium model that converts on enterprise licensing. The win is simple: best-in-class agentic editing for the 30% of the market that Cursor can't touch.32:T749,
+Go-to-market targets mid-market compliance teams directly: engineering leaders at 100–2,000 person companies who already pay for Copilot but can't use it. Distribution through security-focused channels and compliance communities, with a freemium model that converts on enterprise licensing. The win is simple: best-in-class agentic editing for the 30% of the market that Cursor can't touch.
 
 ## Why Now?
 

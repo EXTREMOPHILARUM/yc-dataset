@@ -97,7 +97,7 @@ The only available traction signal is a LinkedIn post from Mohamed Khalifa's fat
 
 RadMate AI's LinkedIn company page had only 250 followers as of the most recent available data.<sup><a href="https://www.linkedin.com/company/radmate-ai">[32]</a></sup> For context, Rad AI's LinkedIn page has tens of thousands of followers. The 250-follower figure is consistent with a company that generated initial interest at YC launch but did not sustain public momentum.
 
-No customer announcements, pilot agreements, case studies, press coverage beyond the initial launch, or revenue figures were found in any public source. The company did not appear in any healthcare AI trade press, radiology industry publications, or investor portfolio announcements after April 2024.30:T1948,
+No customer announcements, pilot agreements, case studies, press coverage beyond the initial launch, or revenue figures were found in any public source. The company did not appear in any healthcare AI trade press, radiology industry publications, or investor portfolio announcements after April 2024.
 
 ## Post-Mortem
 

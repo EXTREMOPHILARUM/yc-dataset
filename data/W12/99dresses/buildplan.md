@@ -6,7 +6,7 @@ The 2026 version is a mobile-first resale platform built for Gen Z fast-fashion 
 
 The market shift that makes this work now is legitimacy. Secondhand fashion went from niche to $82B by 2026, and major acquisitions proved the category scales. But current leaders like Poshmark have slowed post-acquisition, leaving room for a faster, frictionless alternative. AI-powered listing (photograph an item, GPT-4V auto-fills everything) removes the manual work that kills seller momentum.
 
-Go-to-market is TikTok-native. Every listing auto-generates a 15-second vertical video that sellers share directly to TikTok Shop. You win by being the only resale platform that lives where Gen Z already shops—not asking them to download another app, but meeting them where they scroll. Free to list, 12% fees, buttons at $1 each. Differentiation: faster listing than Poshmark, lower fees, and a closed-loop34:T8a8,
+Go-to-market is TikTok-native. Every listing auto-generates a 15-second vertical video that sellers share directly to TikTok Shop. You win by being the only resale platform that lives where Gen Z already shops—not asking them to download another app, but meeting them where they scroll. Free to list, 12% fees, buttons at $1 each. Differentiation: faster listing than Poshmark, lower fees, and a closed-loop
 
 ## Why Now?
 

@@ -6,7 +6,7 @@ Anywhere.FM 2026 is a managed cloud locker for music collectors—the 28–45 ye
 
 The Music Modernization Act fundamentally changed the licensing math. What killed the original in 2008—the need for complex label negotiations—is now a solved problem with clear statutory rates. Combined with fingerprinting technology (AcoustID) that's mature and cheap, we can match uploaded files to metadata instantly, eliminating the legal gray area that haunted the category for 15 years.
 
-We win by being the easiest path to a portable music library. Launch with a freemium model ($5.99/month unlimited), target Bandcamp's community directly where music buyers already congregate, and prove the unit economics with 5,000 paying subscribers in six months—the metric the original never reached. No social features, no complexity. Just upload, play, own.34:T9af,
+We win by being the easiest path to a portable music library. Launch with a freemium model ($5.99/month unlimited), target Bandcamp's community directly where music buyers already congregate, and prove the unit economics with 5,000 paying subscribers in six months—the metric the original never reached. No social features, no complexity. Just upload, play, own.
 
 ## Why Now?
 

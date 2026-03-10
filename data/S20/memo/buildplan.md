@@ -6,7 +6,7 @@ Memo was a UK-based messaging application (2019–2020) that attempted to replac
 
 The rebuild thesis is not to try again against Slack — it is to stop competing with Slack entirely. Between 2020 and 2026, a documented, reachable segment of async-first companies (GitLab, Doist, 37signals and their imitators) has emerged that has already rejected synchronous communication as an organizational principle; LLMs can now do the structured work — surfacing questions, summarizing threads, flagging action items — that previously required users to change their behavior; and the creator-to-team communication layer remains genuinely unbuilt. The new Memo is a vertical async communication layer for async-first teams of 5–50, with AI-native thread intelligence baked in from day one.
 
----32:Ta9a,
+---
 
 ## Why Now?
 

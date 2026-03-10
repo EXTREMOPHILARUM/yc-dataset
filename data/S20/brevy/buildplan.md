@@ -6,7 +6,7 @@ Brevy was a San Francisco-based B2B software startup that cycled through at leas
 
 The rebuild thesis centers on Brevy Care, the company's final and most structurally interesting pivot: a self-serve tool that helps family caregivers navigate Medicaid HCBS waiver eligibility and reimbursement. What killed the original wasn't the idea — it was the team's lack of domain relationships, regulatory literacy, and runway to develop them. In 2026, multimodal LLMs can parse state-specific Medicaid waiver rules and auto-populate applications at near-caseworker accuracy, and a growing network of caregiver advocacy organizations provides a distribution channel the original team never had. The rebuild is a vertical AI agent for family caregivers: a TurboTax-style guided workflow that turns a 90-day bureaucratic ordeal into a 20-minute self-serve process.
 
----34:T89e,
+---
 
 ## Why Now?
 
@@ -35,7 +35,7 @@ Current competitors fall into three categories, each with specific weaknesses:
 - **Transcarent** (founded 2020, raised ~$200M): Employer-facing health navigation platform. Weakness: enterprise sales motion, no consumer or Medicaid-specific product.
 - **State Medicaid agency portals**: Uniformly poor UX, no guided eligibility assessment, no cross-state functionality.
 
-The gap is a self-serve, consumer-priced Medicaid HCBS navigation tool with state-specific waiver intelligence — a product none of the above competitors offer.36:T95c,
+The gap is a self-serve, consumer-priced Medicaid HCBS navigation tool with state-specific waiver intelligence — a product none of the above competitors offer.
 
 ## Defensibility Against Platform Incumbents
 

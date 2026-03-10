@@ -102,7 +102,7 @@ Flike operated on a B2B SaaS subscription model, selling seats or licenses to sa
 
 No revenue figures, ARR, MRR, or pricing tiers were publicly disclosed at any stage of the company's life. The asset deal structure of the acquisition—rather than a full company purchase—suggests the company had not reached a revenue scale that would have supported a traditional acquisition multiple. Total funding of $2.1M across all rounds<sup><a href="https://www.cbinsights.com/company/flike">[22]</a></sup> implies the company operated on an extremely lean budget for a technical team in San Francisco over approximately three years, with no disclosed Series A or seed extension. The absence of follow-on capital is the clearest available proxy for the company's commercial trajectory.
 
----2f:T6a4,
+---
 
 ## Traction
 

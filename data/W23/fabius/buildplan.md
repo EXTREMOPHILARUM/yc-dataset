@@ -2,6 +2,14 @@
 
 ## Overview
 
+Fabius 2026 is a lightweight methodology enforcement layer for mid-market sales teams priced out of Gong. It lives in HubSpot, ingests call transcripts from any source (Gong, Chorus, Zoom), and automatically scores every deal against a sales leader's actual framework — MEDDPICC, SPICED, or custom — then surfaces qualification gaps and auto-populates CRM fields. No native recording, no real-time coaching, no complexity.
+
+The market shift is LLM inference cost collapse. In 2022, extracting structured qualification data from calls was prohibitively expensive. Now GPT-4o makes it viable at $499/month for teams of 10–50 reps. Gong's $1,200+ per seat pricing leaves this segment completely underserved, and they're actively moving upmarket.
+
+Go-to-market is HubSpot App Marketplace as the primary channel, with founder outreach into RevOps communities (RevGenius, Pavilion) where sales ops leaders congregate. Win on three axes: SMB pricing, company-specific rubric customization that Gong can't match, and zero implementation friction. Target: 10 paying customers at $500+/month within 90 days.
+
+## Why Now?
+
 The single most important change since Fabius's original failure is the commoditization of LLM inference. In 2022, extracting structured MEDDPICC qualification data from unstructured call transcripts required expensive custom NLP pipelines that a two-person team could not realistically build and maintain. GPT-4 (March 2023) and Claude 3 (March 2024) demonstrated that this extraction is now a prompt-engineering problem, not a machine learning infrastructure problem. The engineering cost to build Fabius's core scoring feature has dropped by an order of magnitude.
 
 Three additional timing factors compound this shift:
@@ -13,8 +21,6 @@ Three additional timing factors compound this shift:
 **Distribution infrastructure now exists.** The HubSpot App Marketplace (with 200,000+ customers as of 2024, per HubSpot's public reporting) and Salesforce AppExchange provide inbound discovery channels that did not exist as viable SMB distribution paths for a two-person team in 2023. Fabius's original go-to-market was entirely founder-led outbound; that constraint is now addressable.
 
 ---
-
-## Why Now?
 
 ## Current Market Analysis
 
@@ -30,7 +36,7 @@ The sales intelligence and conversation analytics market was anchored by Gong's 
 - **Momentum**: Automates CRM updates via Slack. Weakness: workflow automation without methodology scoring — it moves data but does not evaluate whether the right qualification steps occurred.
 - **Salesloft (post-Drift merger)**: Broad sales engagement platform. Weakness: methodology enforcement is not a core differentiator; coaching features are generic.
 
-**The Gap**: No current product combines (a) customizable methodology rubrics, (b) per-call scoring against those rubrics, and (c) SMB-accessible pricing. This is the exact gap Fabius identified — it remains open.34:T8d4,
+**The Gap**: No current product combines (a) customizable methodology rubrics, (b) per-call scoring against those rubrics, and (c) SMB-accessible pricing. This is the exact gap Fabius identified — it remains open.
 
 ## Demand Signals
 

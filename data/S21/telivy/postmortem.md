@@ -115,7 +115,7 @@ On the MSP side, at least three named customers — Holt Data Solutions, Triada 
 
 Telivy's G2 profile went unmanaged for over a year before the acquisition, with no new reviews or vendor responses in that period.<sup><a href="https://www.g2.com/products/telivy/reviews">[14]</a></sup> For a company actively selling to MSPs — a market where G2 reviews are a meaningful part of the buying process — this inactivity suggests either a deliberate decision to stop investing in growth marketing or a team too constrained by runway to maintain it. Neither interpretation is favorable.
 
-No ARR, revenue, or customer count figures were ever publicly disclosed by the company.30:T1a11,
+No ARR, revenue, or customer count figures were ever publicly disclosed by the company.
 
 ## Post-Mortem
 

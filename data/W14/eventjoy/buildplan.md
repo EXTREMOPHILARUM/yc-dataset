@@ -6,7 +6,7 @@ Eventjoy was a mobile-first event management platform founded in 2013 by Todd Go
 
 The rebuild thesis: three structural changes have converged to make this viable as a standalone company in 2026 — the mid-market event app space has been vacated by consolidation (DoubleDutch, Guidebook, and Quickmobile are all gone or pivoted), embedded finance infrastructure now enables a revenue model that doesn't require charging organizers, and post-COVID behavioral norms have eliminated the attendee app adoption friction that constrained Eventjoy's growth. The new version is a composable event operating system for independent organizers — free to use, monetized through float revenue and self-serve promotional tools — built to be too sticky to absorb cheaply.
 
----34:Taf5,
+---
 
 ## Why Now?
 
@@ -72,49 +72,14 @@ Paid event promotion via Meta Ads API and Google Events structured data, offered
 
 **Target customer segment:** Independent event organizers running recurring in-person events with 100–1,500 attendees — specifically: tech community organizers (meetup series, hackathons, developer conferences), local festival and market operators, and professional association chapter leads. These organizers share three traits: they run events frequently enough to develop platform loyalty, they are currently paying Eventbrite fees they resent, and they have enough attendees to generate meaningful float GMV. Single-event organizers (weddings, one-off fundraisers) are explicitly out of scope for the initial GTM — their churn rate makes them uneconomical to acquire.
 
-**Primary distribution channel:** Community-led, not paid acquisition. The founding team should personally run or sponsor 20–30 events in the first six months using the platform — exactly as Eventjoy's founders did with Startup Weekend events in 2013. This generates authentic case studies, surfaces product gaps under real conditions, and creates word-of-mouth in the organizer community. Secondary channel: the Luma user base, which has demonstrated willingness to use free event tools but is hitting Luma's feature ceiling. Direct outreach to Luma power users (identifiable via public event pages) with a "you've outgrown Luma" positioning is a specific, executable tactic.37:T53a,- Core platform: free (ticketing, event pages, QR check-in, basic attendee app)
+**Primary distribution channel:** Community-led, not paid acquisition. The founding team should personally run or sponsor 20–30 events in the first six months using the platform — exactly as Eventjoy's founders did with Startup Weekend events in 2013. This generates authentic case studies, surfaces product gaps under real conditions, and creates word-of-mouth in the organizer community. Secondary channel: the Luma user base, which has demonstrated willingness to use free event tools but is hitting Luma's feature ceiling. Direct outreach to Luma power users (identifiable via public event pages) with a "you've outgrown Luma" positioning is a specific, executable tactic.
+
+## Pricing strategy:
+
+- Core platform: free (ticketing, event pages, QR check-in, basic attendee app)
 - In-event communication: free under 200 attendees; $49/month subscription or $149/event for larger events
 - Promotional tools: 15% management fee on ad spend, minimum $50 campaign
 
 The free core must be stress-tested against Luma (free, no app), Eventbrite (paid, full-featured), and group chats (WhatsApp/Slack, free, zero friction). The honest answer: a WhatsApp group and a Google Form can run a 100-person event for free. The rebuild wins only if the organizer values the QR check-in, the attendee app, and the analytics enough to switch workflows — which is a real but non-trivial ask. The GTM must lead with the check-in and app features (demonstrable, immediate value) rather than the float model (invisible to organizers) or the promotional tools (future value). Organizers should feel the product saves them time on event day before they're asked to pay for anything.
 
-**Differentiation vs. 2026 competitors:** Against Luma — native attendee app and in-event communication. Against Eventbrite — zero fees and organizer-aligned incentives. Against Whova — 10x lower price point for the same core feature set. The positioning is not "better than Eventbrite" — it is "Eventbrite for organizers who run events as a community, not a business."38:T896,
-
-## Pricing strategy:
-
-# Fete
-
-## 1. Overview
-
-Fete is a modern revival of Eventjoy — a free, mobile-first event operating system for independent organizers running recurring in-person events. Organizers create branded event pages, sell tickets at zero cost, check in attendees via QR code, broadcast real-time announcements, and promote events through self-serve ad tools. The platform monetizes through float yield on ticket revenue held in Stripe Connect accounts and a 15% management fee on promotional ad spend — never through per-ticket fees — creating incentive alignment with organizers that Eventbrite structurally cannot match.
-
----
-
-## 2. Core Features
-
-**Event Management**
-- Create event pages with title, description, cover image, date/time, location (address + map embed), and capacity limit
-- Rich text event description editor (bold, italic, links, headings, bullet lists, images)
-- Publish, unpublish, or duplicate events
-- Set events as free or paid; configure multiple ticket types (e.g., General Admission, VIP, Early Bird) with individual prices, quantities, and sale windows
-- Automatic slug generation from event title with collision handling
-
-**Ticketing & Registration**
-- Public registration/checkout flow for free events (name + email only)
-- Stripe-powered checkout for paid events with no platform fee passed to organizer or attendee
-- Ticket confirmation email with QR code attachment (PNG) sent via Resend
-- Organizer receives payout via Stripe Connect after event date
-- Refund management from organizer dashboard (full refunds only, up to 24 hours before event)
-
-**Attendee App (PWA)**
-- Progressive Web App served at `/e/[slug]/app` — installable on iOS and Android, no App Store required
-- Event schedule/agenda with session blocks (title, time, location, speaker)
-- Real-time push announcements from organizer (via Web Push API)
-- QR code display for check-in (attendee's unique ticket QR)
-- Event map with venue pin
-
-**Organizer Check-In**
-- QR code scanner in organizer dashboard (camera-based, works on mobile browser)
-- Manual attendee search and check-in by name or email
-- Real-time check-in counter and attendee list with checked-in status
-- Export attendee list as CSV
+**Differentiation vs. 2026 competitors:** Against Luma — native attendee app and in-event communication. Against Eventbrite — zero fees and organizer-aligned incentives. Against Whova — 10x lower price point for the same core feature set. The positioning is not "better than Eventbrite" — it is "Eventbrite for organizers who run events as a community, not a business."

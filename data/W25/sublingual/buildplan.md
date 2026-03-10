@@ -6,7 +6,7 @@ The 2026 Sublingual is a compliance-first LLM observability platform for regulat
 
 The market shift is regulatory: the EU AI Act's conformity assessment requirements went live in 2025, and U.S. financial regulators are now explicitly asking for LLM evaluation logs. Developers can no longer ship on vibes. Existing tools like LangSmith are cloud-only, which disqualifies them for teams handling sensitive data or operating under data residency rules.
 
-The go-to-market is direct: land with compliance and security teams who control vendor selection, then expand to developers once the infrastructure is trusted. Pricing anchors on the paid sync tier—free local observability removes friction, but team collaboration and audit-ready exports drive revenue. This turns the old free-forever model into a freemium wedge that actually converts.32:T8d0,
+The go-to-market is direct: land with compliance and security teams who control vendor selection, then expand to developers once the infrastructure is trusted. Pricing anchors on the paid sync tier—free local observability removes friction, but team collaboration and audit-ready exports drive revenue. This turns the old free-forever model into a freemium wedge that actually converts.
 
 ## Why Now?
 
@@ -58,7 +58,7 @@ The local agent is free and open-source. The paid tier adds encrypted team sync:
 
 **Cold-start note:** This product does not depend on network effects or local density. A single developer gets full value from the local collector on day one. The team sync feature requires at least 2 users per account, which is trivially achievable and not a cold-start risk.
 
----35:T8c1,
+---
 
 ## Go-to-Market Strategy
 

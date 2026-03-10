@@ -6,7 +6,7 @@ Rally Tennis (YC W17) entered Y Combinator's Winter 2017 batch with a single-sen
 
 What has changed is the market itself: U.S. tennis participation grew 22% between 2019 and 2021, the 2021 Rally Tennis (an unrelated company) independently validated the concept by reaching 20,000+ players across 150 cities, and LLM-powered matchmaking now makes it possible to deliver a useful experience with far fewer players per city than the original product required. The rebuild is a mobile-first competitive tennis league platform that uses AI-driven compatibility scoring to deliver value at low local density, then converts engaged players into paying league members through a subscription model normalized by Strava and Hinge.
 
----31:T92e,
+---
 
 ## Why Now?
 
@@ -57,7 +57,7 @@ Players log match scores after each session. The app maintains a rolling local l
 
 **Cold-start threshold:** The product is designed to deliver useful match recommendations at 30–50 players in a single metro. The launch strategy (see Section 4) targets 100 players in one city before any second city is opened.
 
----34:Ta17,
+---
 
 ## Go-to-Market Strategy
 

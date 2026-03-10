@@ -2,6 +2,14 @@
 
 ## Overview
 
+By 2026, Vizly returns as a compliance-first natural language query tool for regulated industries—healthcare clinics, financial services, and legal firms—where data never leaves the building. The product is a lightweight on-premises agent that connects to a single data source (PostgreSQL, Google Sheets) and translates plain English questions into SQL, with every query logged for audit. It ships as a Google Workspace add-on, so adoption is frictionless for teams already in Sheets.
+
+The market shift is local LLM inference maturity. In 2023, running reliable inference on-premises was a liability; by 2026, it's table stakes for any enterprise handling sensitive data. HIPAA, SOC 2, and data residency requirements are no longer edge cases—they're deal-breakers. Incumbents like Microsoft and Google own the horizontal BI market, but they can't promise data stays local. Vizly owns that wedge.
+
+Go-to-market targets IT managers at mid-market healthcare and financial services firms. The pitch: eliminate analyst bottlenecks without compliance risk. Distribution through Google Workspace Marketplace means no sales engineering required at launch. Land in one vertical, prove audit-log rigor, expand to adjacent regulated industries.
+
+## Why Now?
+
 The single most important change since Vizly's failure is the maturation of local LLM inference into a genuinely enterprise-grade capability. In September 2023, Vizly's on-premises stack ran on Llama 2 via llama.cpp — technically impressive but meaningfully weaker than GPT-4, creating a real quality tradeoff for privacy-conscious buyers. By 2026, Llama 3.1 70B (released July 2024) running via Ollama on commodity server hardware matches or exceeds GPT-3.5-class performance, and quantized variants run on a single A100 instance. The privacy pitch is no longer a compromise — it is a genuine capability match.
 
 This matters because the demand signal has hardened in parallel. Samsung's March 2023 incident — engineers accidentally uploading proprietary source code to ChatGPT — triggered enterprise-wide AI tool bans at dozens of regulated companies and made CISOs in financial services, healthcare, and government actively budget for on-premises AI analytics alternatives. That buyer urgency did not exist when Vizly was selling.
@@ -14,9 +22,7 @@ Critically, the "chat with your data" category has bifurcated. General-purpose t
 
 ---
 
-## Why Now?
-
-### Current Market Analysis
+## Current Market Analysis
 
 The global business intelligence and analytics software market was valued at approximately $29 billion in 2023 (source: research report); analyst projections for 2026 are not confirmed in the provided research and should be independently verified before fundraising. The AI-augmented analytics subcategory has grown substantially, driven by enterprise AI adoption budgets that expanded post-2023.
 

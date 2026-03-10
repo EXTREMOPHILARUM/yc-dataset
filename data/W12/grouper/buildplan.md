@@ -6,7 +6,7 @@ Grouper 2026 is a AI-powered group dating platform that arranges curated outings
 
 The viability shift: large language models now solve Grouper's original bottleneck. In 2016, matching required expensive human judgment. Today, Claude or GPT-4 can ingest user preferences and generate compatible groups at under $2 per match, making unit economics sustainable at a $25–35 price point with 40%+ repeat rates.
 
-The go-to-market angle is precision targeting: launch in one city, acquire through dating app fatigue messaging and word-of-mouth within tight friend networks, and prove retention before scaling. The win is positioning as the anti-app—a return to serendipity and real conversation, powered by AI that stays invisible.34:T8ab,
+The go-to-market angle is precision targeting: launch in one city, acquire through dating app fatigue messaging and word-of-mouth within tight friend networks, and prove retention before scaling. The win is positioning as the anti-app—a return to serendipity and real conversation, powered by AI that stays invisible.
 
 ## Why Now?
 

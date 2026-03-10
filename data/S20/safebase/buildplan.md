@@ -6,7 +6,7 @@ SafeBase was a San Francisco-based B2B SaaS company founded in 2020 that built t
 
 The rebuild thesis is not about fixing what SafeBase got wrong — it got nearly everything right. It is about the market gap Drata's acquisition created: SafeBase is now a product inside a larger compliance platform, optimized for Drata's existing customer base. The window is open for an independent, AI-native Trust Center built specifically for the segment SafeBase underserved — sub-200-person SaaS companies that face enterprise-grade security scrutiny but cannot afford enterprise-grade GRC stacks. The new version is a self-serve, AI-first Trust Center that a two-person startup can deploy in an afternoon and that grows with them into the enterprise.
 
----34:T8ac,
+---
 
 ## Why Now?
 

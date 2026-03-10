@@ -2,6 +2,14 @@
 
 ## Overview
 
+By 2026, Demo Gorilla is a lightweight browser extension that sits inside live SaaS demos and whispers real-time, deal-specific talking points to sales engineers. It pulls context from Salesforce or HubSpot at call start, surfaces persona-customized value props as the rep navigates the product, and surfaces pre-approved objection responses when needed. It's built for mid-market B2B SaaS companies (100–1,000 employees) with dedicated sales engineering teams who close deals in the browser.
+
+The timing works now because LLMs are finally reliable enough to generate contextually accurate, non-hallucinating talking points in real time—and because conversation intelligence platforms like Gong have proven the market will pay for sales intelligence, but they own post-call analysis, not in-the-moment guidance. That gap is the wedge.
+
+The go-to-market is direct sales to VP Sales Engineering at companies with 3–10 person SE teams. Land at $500–800/month per seat, expand as reps adopt it, and own the "live demo copilot" category before larger platforms bolt it on as a feature. Win by being fast, focused, and indispensable during the 30 minutes that matter most.
+
+## Why Now?
+
 The single most important change since Demo Gorilla's failure is the maturation of large language models capable of generating contextually accurate, persona-specific sales content in real time. When Demo Gorilla launched in early 2022, GPT-3-class models were the state of the art — prone to factual hallucination, generic outputs, and inconsistent quality. In a live enterprise demo, a single bad AI-generated talking point can cost a deal. That reliability ceiling was likely Demo Gorilla's most fundamental product constraint. GPT-4 (March 2023) and Claude 3.5 Sonnet (June 2024) have since crossed the threshold where structured, domain-specific generation from product documentation and CRM context is reliable enough for live deployment. This is the unlock that makes the rebuild viable.
 
 Beyond the core AI capability, three additional structural shifts matter:
@@ -16,9 +24,7 @@ The sales enablement software market was valued at approximately $2.6 billion in
 
 ---
 
-## Why Now?
-
-### Current Market Analysis
+## Current Market Analysis
 
 **Market size:** The sales enablement market was approximately $2.6 billion in 2022 with projected 15%+ CAGR through the mid-2020s, per the research report. A precise 2026 figure is not available in the provided data. The presales and interactive demo tooling sub-segment remains smaller but has grown substantially given the collective fundraising of Navattic, Reprise, Walnut, and Storylane since 2022.
 

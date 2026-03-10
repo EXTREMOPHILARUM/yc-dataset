@@ -171,8 +171,4 @@ The founders never disclosed whether they attempted to raise a seed round after 
 10. [The Org — Mark Wai at Orbiter](https://theorg.com/org/orbiter-com/org-chart/mark-wai)
 11. [Latka — Orbiter revenue data](https://getlatka.com/companies/orbiter)
 12. [LinkedIn Pulse — Key Players in Data Observability (Ramon Chen)](https://www.linkedin.com/pulse/key-players-unleashing-power-data-observability-ramon-chen)
-13. [Tomba — getorbiter.com domain data](https://tomba.io/company/getorbiter.com)33:T419,Orbiter was a San Francisco-based YC W20 startup that built ML-powered business metric monitoring for non-engineers — a "PagerDuty for the business side" — and quietly wound down in early 2022 after failing to raise a follow-on round in a market that had consolidated around Monte Carlo ($236M raised) and other enterprise-grade, heavily capitalized data observability players.
-
-The rebuild thesis is simple: the structural conditions that killed Orbiter have inverted. In 2020, Orbiter had to infer metric definitions from raw SQL, fight for Slack adoption, and compete on ML quality it couldn't afford to build. In 2026, dbt semantic layers codify metric definitions, LLMs can explain *why* a metric dropped in plain English, and the enterprise incumbents have left the mid-market completely unserved. The new Orbiter is a metric intelligence layer for mid-market companies already on the modern data stack — plug into your dbt project, get anomaly alerts with LLM-generated root cause explanations, in the tools your team already uses.
-
----34:Taf2,
+13. [Tomba — getorbiter.com domain data](https://tomba.io/company/getorbiter.com)

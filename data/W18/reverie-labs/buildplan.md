@@ -6,7 +6,7 @@ By 2026, Reverie becomes a specialized AI chemistry platform for mid-size biotec
 
 The platform wins by closing the synthesis-assay-model cycle in days through automated chemistry integration (Emerald Cloud Lab, Chemspeed) and a proprietary training corpus built from DNA-encoded library screening. This generates millions of binding affinity data points per campaign — something no off-the-shelf generative chemistry tool can match. The go-to-market is direct sales to computational chemistry leads who already have budget authority and understand the ROI of faster iteration.
 
-This is a $50–150M TAM business, not a $5B pharma software play. It's built for teams that exist now, not markets that need to be created.34:Ta4b,
+This is a $50–150M TAM business, not a $5B pharma software play. It's built for teams that exist now, not markets that need to be created.
 
 ## Why Now?
 

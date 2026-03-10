@@ -71,7 +71,7 @@ Bicycle AI's hybrid model was an attempt to occupy the middle ground: better tha
 
 Bicycle AI operated as a managed service provider, most likely charging clients a recurring fee based on ticket volume, number of conversations handled, or a flat monthly retainer — the standard pricing models for customer support outsourcing. <sup><a href="https://medium.com/bicycle-ai/about">[16]</a></sup> The company's cost structure included both the software engineering team building and maintaining the AI system and the human supervisors reviewing and correcting AI-generated responses. This dual cost structure was the central tension in the business model: software companies scale with near-zero marginal cost per additional unit of output, but Bicycle AI's human supervision layer meant costs scaled with volume. The theoretical path to profitability required the AI to progressively handle a higher percentage of tickets without human intervention as the model improved — reducing the human labor cost per ticket over time. No public data exists on whether the company ever achieved a ticket automation rate that made this math work. <sup><a href="https://tracxn.com/d/companies/bicycle-ai/__YVS1wJem8TqtCoRcRobMdE_FKNxnXHjl6mIzBaiI8OU">[9]</a></sup>
 
----2f:T562,
+---
 
 ## Traction
 

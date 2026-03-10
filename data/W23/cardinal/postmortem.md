@@ -96,7 +96,7 @@ Cardinal operated a SaaS subscription model with a product-led growth entry moti
 
 **Inferred unit economics (labeled as estimates, not facts):** Cardinal raised $2.5M in pre-seed funding from Y Combinator and Symbol VC, and operated for approximately 18 months with a small team starting at 3 employees. The company exited successfully via acquisition by Miro — investors saw returns and both founders had life-changing outcomes.
 
-The target ACV (average contract value) is unknown. Given the enterprise-readiness signals (SOC2 compliance, team-level pricing, integration with enterprise GTM tools like Gong and Clari), Cardinal was likely targeting $5,000–$20,000 ACV per team — a range that would require dozens of paying customers to generate meaningful revenue. Whether Cardinal reached that threshold before acquisition is unknown.2f:T754,
+The target ACV (average contract value) is unknown. Given the enterprise-readiness signals (SOC2 compliance, team-level pricing, integration with enterprise GTM tools like Gong and Clari), Cardinal was likely targeting $5,000–$20,000 ACV per team — a range that would require dozens of paying customers to generate meaningful revenue. Whether Cardinal reached that threshold before acquisition is unknown.
 
 ## Traction
 

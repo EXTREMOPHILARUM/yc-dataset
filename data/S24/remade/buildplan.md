@@ -35,7 +35,7 @@ The research report names Spyne.ai, PhotoRoom, and Blend as Remade's primary com
 - **PhotoRoom** has strong mobile distribution and AI background removal, but its core product is still image-focused. Its video capabilities are limited, and it is not purpose-built for TikTok Shop workflows. Its weakness is depth of video generation, not reach.
 - **Spyne.ai** has established enterprise relationships in automotive and e-commerce, but targets large catalog operations, not SMB TikTok sellers. Its onboarding and pricing are not SMB-accessible.
 - **Canva** and **Adobe Firefly** have absorbed generative image features into their platforms, but neither has a TikTok Shop-native workflow or per-generation pricing that maps to how SMB merchants buy. Their weakness is workflow specificity and pricing model mismatch.
-- **CapCut** (ByteDance) is the most dangerous adjacent competitor: it is free, TikTok-native, and has AI features. The rebuild must account for this directly (addressed in GTM).35:T89b,
+- **CapCut** (ByteDance) is the most dangerous adjacent competitor: it is free, TikTok-native, and has AI features. The rebuild must account for this directly (addressed in GTM).
 
 ## Demand Signals from Adjacent Products
 

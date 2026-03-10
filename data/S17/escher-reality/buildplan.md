@@ -6,7 +6,7 @@ By 2026, Escher Reality rebuilds as a cross-platform AR session layer that unifi
 
 The viable insight is neural rendering. NeRF and 3D Gaussian Splatting have made photorealistic 3D reconstruction fast and cheap enough to run on-device. That means Escher can anchor shared AR experiences to real-world geometry with far higher fidelity than 2017's feature-based mapping, and do it without heavy cloud dependency. Enterprise customers will pay for that reliability and accuracy.
 
-The go-to-market is direct: land with one industrial use case—say, collaborative equipment assembly or site inspection—where cross-device persistence solves a concrete workflow problem. Build the SDK tight enough that a small AR team can integrate it in weeks, not months. Win on developer velocity and device coverage where Niantic's Lightship remains fragmented.34:T9a3,
+The go-to-market is direct: land with one industrial use case—say, collaborative equipment assembly or site inspection—where cross-device persistence solves a concrete workflow problem. Build the SDK tight enough that a small AR team can integrate it in weeks, not months. Win on developer velocity and device coverage where Niantic's Lightship remains fragmented.
 
 ## Why Now?
 

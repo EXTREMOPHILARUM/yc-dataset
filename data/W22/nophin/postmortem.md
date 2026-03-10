@@ -177,8 +177,4 @@ Nophin operated with two co-CEOs — Li and Mensah — an arrangement that is st
 9. [YC Launch — Nophin Cresa: AI Analyst for CRE Deal Screening](https://www.ycombinator.com/launches/Lr8-nophin-cresa-ai-analyst-for-cre-deal-screening)
 10. [LinkedIn — Nophin Company Page](https://www.linkedin.com/company/nophin)
 11. [Y Combinator — Nophin Jobs Page](https://www.ycombinator.com/companies/nophin/jobs)
-12. [Crunchbase — Weeks Mensah](https://www.crunchbase.com/person/weeks-mensah)32:T52d,Nophin was a New York-based YC W22 startup that launched in 2021 as a rental income advance platform for residential landlords, pivoted mid-batch to an AI deal screening tool called Cresa for multifamily CRE acquisition teams, raised approximately $1.88M total, and quietly wound down by late 2023 after its founders departed — a casualty of a mid-seed pivot executed on thin capital, before the LLM infrastructure its core product required actually existed.
-
-The rebuild thesis is simple: the two things that killed Cresa — brittle pre-GPT-4 document parsing and insufficient runway to survive until the technology matured — are no longer problems. GPT-4o and Claude 3.5 Sonnet can extract structured data from rent rolls, T-12s, and offering memoranda accurately and at near-zero marginal cost today; the post-2022 CRE dislocation has created acute demand for faster deal screening with leaner analyst teams; and the capital required to reach MVP is now weeks of engineering time, not months of ML infrastructure build. **The rebuild is a focused, LLM-native CRE deal screening copilot targeting multifamily acquisition analysts at mid-market private equity firms and syndicators — built lean, priced as a per-seat SaaS tool, and distributed through the broker and GP networks that already control deal flow.**
-
----33:Taff,
+12. [Crunchbase — Weeks Mensah](https://www.crunchbase.com/person/weeks-mensah)

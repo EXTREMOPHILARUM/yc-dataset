@@ -115,7 +115,7 @@ The model had a structural problem embedded in its design. Revenue was capped by
 
 The addition of search, annotation, and sharing features represented an attempt to increase user stickiness and create a recurring value proposition beyond the initial record request. Whether a subscription model was ever tested is not documented in available sources. No revenue figures were ever publicly disclosed at any stage of the company's life.
 
----2f:T7d4,
+---
 
 ## Traction
 

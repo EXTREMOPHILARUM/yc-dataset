@@ -6,7 +6,7 @@ By 2026, Talkray is a B2B workforce communications platform for operations teams
 
 The market shift is simple: enterprise customers now pay for compliance and searchability. Talkray's original consumer app failed because voice-over-data was a commodity feature. But in logistics and field service, a PTT channel that auto-transcribes every transmission and integrates with ServiceNow or Zendesk is defensible—and worth $200–500/month per team.
 
-The go-to-market targets operations managers at SMBs (10–200 field workers) in last-mile delivery, maintenance, and warehousing. Launch with a tight integration to one dispatch system, win 10 paying accounts in 90 days, and expand vertically. The win is speed and compliance where Motorola's enterprise PTT is overkill and Slack has no voice.34:T76a,
+The go-to-market targets operations managers at SMBs (10–200 field workers) in last-mile delivery, maintenance, and warehousing. Launch with a tight integration to one dispatch system, win 10 paying accounts in 90 days, and expand vertically. The win is speed and compliance where Motorola's enterprise PTT is overkill and Slack has no voice.
 
 ## Why Now?
 

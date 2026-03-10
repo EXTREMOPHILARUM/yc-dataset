@@ -127,7 +127,7 @@ The model's structural weakness was that it worked best when users were actively
 
 The iOS pivot introduced a hybrid model: karma points for items under $60, cash transactions for higher-end items. This attempted to address the revenue-per-transaction problem but added complexity to a product that was already struggling to find US product-market fit.
 
----2f:T746,
+---
 
 ## Traction
 

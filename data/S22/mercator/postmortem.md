@@ -100,7 +100,7 @@ No pricing pages, subscription tiers, or revenue figures were ever made public. 
 
 The open-sourcing of the Dubo-SQL benchmark code created an inherent tension: potential customers could access the underlying methodology for free, which may have undermined the commercial product's perceived value. <sup><a href="https://github.com/mercatorhq/dubo-sql">[15]</a></sup> No founder statements explain whether open-sourcing was a deliberate growth strategy or a signal that the commercial path had been abandoned.
 
----2f:T1e66,
+---
 
 ## Post-Mortem
 

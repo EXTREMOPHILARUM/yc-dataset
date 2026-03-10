@@ -82,7 +82,7 @@ The B2D category in 2012 had limited established playbooks. Stripe, which launch
 
 No pricing information, revenue figures, or customer counts are publicly available. The company's failure to raise a follow-on round strongly implies it did not generate sufficient revenue or growth metrics to satisfy investor expectations for a Series A.<sup><a href="https://www.crunchbase.com/organization/marft">[5]</a></sup>
 
----2d:T1562,
+---
 
 ## Post-Mortem
 

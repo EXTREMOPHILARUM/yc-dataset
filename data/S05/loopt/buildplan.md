@@ -6,7 +6,7 @@ Loopt 2026 is a private friend-coordination app for urban adults 22–32 who wan
 
 The product works through three integrated layers. An ambient friend map shows opted-in contacts at neighborhood-level granularity—not surveillance, just enough context to know who's nearby. AI-powered convergence suggestions automatically surface when friends cluster in the same zone and proactively recommend venues with real-time availability. In-app bill splitting removes the last friction point. It's not a social network; it's a logistics tool that makes spontaneous plans actually happen.
 
-Go-to-market targets one neighborhood per city with a referral-gated waitlist, seeding with friend groups who already coordinate offline. Freemium pricing ($6.99/month for AI suggestions) aligns incentives: the app only wins when friends actually meet. The differentiation is surgical: Life360 owns safety, Snap owns broadcast, Maps owns navigation. This owns the moment between "want to hang out?" and "see you in 20."34:T892,
+Go-to-market targets one neighborhood per city with a referral-gated waitlist, seeding with friend groups who already coordinate offline. Freemium pricing ($6.99/month for AI suggestions) aligns incentives: the app only wins when friends actually meet. The differentiation is surgical: Life360 owns safety, Snap owns broadcast, Maps owns navigation. This owns the moment between "want to hang out?" and "see you in 20."
 
 ## Why Now?
 
@@ -35,7 +35,7 @@ Current competitors fall into three categories, each with a specific exploitable
 - **Foursquare / Placer.ai**: Pivoted entirely to B2B location intelligence. Weakness: abandoned the consumer social layer completely, leaving the friend-coordination use case unserved.
 - **Google Maps Live Location**: Functional but socially inert — no discovery, no coordination prompts, no commerce integration. Weakness: a utility, not a social product.
 
-**The gap**: No current product combines passive friend-location awareness, AI-powered local intent inference, and embedded commerce for adults aged 22–35 who have aged out of Snapchat but find Life360 infantilizing.36:T86a,
+**The gap**: No current product combines passive friend-location awareness, AI-powered local intent inference, and embedded commerce for adults aged 22–35 who have aged out of Snapchat but find Life360 infantilizing.
 
 ## Demand Signals
 

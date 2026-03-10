@@ -94,7 +94,7 @@ Raven Tech's pre-acquisition business model was never publicly articulated in de
 
 Post-acquisition under Baidu, the business model shifted to hardware sales. The Raven H at RMB 1,699 was a direct-to-consumer premium hardware play, with the implicit assumption that the device would drive engagement with Baidu's broader ecosystem of search, maps, and content services. This hardware-as-ecosystem-entry-point model was analogous to Amazon's strategy with Echo, but Amazon subsidized Echo pricing to drive Prime and AWS engagement—a subsidy Baidu was unwilling to extend at premium price points. The fundamental tension between Lyu's premium hardware margin model and Baidu's ecosystem-volume model was never resolved.
 
----2f:T609,
+---
 
 ## Traction
 

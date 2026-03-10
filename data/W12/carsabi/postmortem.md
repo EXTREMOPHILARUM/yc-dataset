@@ -107,7 +107,7 @@ A secondary possibility was lead generation: charging dealers a fee per qualifie
 
 Neither model was publicly confirmed as the primary revenue strategy, and no revenue figures are available in the public record. Given that the company operated for approximately eleven months with two employees and roughly $20,000 in total funding,<sup><a href="https://www.cbinsights.com/company/carsabi">[19]</a></sup> it is unlikely that meaningful revenue was generated before the Craigslist block ended the company's growth trajectory. The business model was aspirational rather than operational at the time of shutdown.
 
----2f:T678,
+---
 
 ## Traction
 
@@ -186,8 +186,4 @@ The acqhire outcome—Facebook wanting the founders but not the product—is the
 7. [TechCrunch – "Best of Y Combinator Demo Day" (March 27, 2012)](https://techcrunch.com/2012/03/27/best-of-y-combinator-demo-day/)
 8. [VentureBeat – "Facebook Acqui-Hires Carsabi" (October 1, 2012)](https://venturebeat.com/entrepreneur/facebook-acqui-hires-carsab-more-for-the-sabi-than-the-car/)
 9. [Crunchbase – Carsabi Organization Profile](https://www.crunchbase.com/organization/carsabi)
-10. [Hacker News – "Ark bought Carsabi" (December 11, 2012)](https://news.ycombinator.com/item?id=4869526)33:T42f,The 2026 Carsabi is a unified search engine for used cars that aggregates licensed inventory from dealers, private sellers, and marketplaces in real time. It targets buyers aged 28–45 searching the $10k–$35k segment who want transparency on fair market value and deal quality without dealer friction or private-party risk.
-
-The viability shift: licensed automotive data APIs (MarketCheck, Facebook Marketplace Partner API, Manheim) now exist and are commercially available. Unlike 2012, you don't need to scrape—you can build on legitimate data partnerships from day one. Combined with modern LLMs, you can score every listing by fair market value and let buyers search in plain English ("reliable SUV under $20k, good in snow"). No competitor does this across all sources.
-
-Go-to-market is search-first: rank high for "best used car search" and "used car deals," capture intent-rich traffic, and convert with a deal score that actually saves money. CarGurus owns dealer inventory; Carsabi owns the private-party and cross-marketplace gap where the real deals live.34:T766,
+10. [Hacker News – "Ark bought Carsabi" (December 11, 2012)](https://news.ycombinator.com/item?id=4869526)

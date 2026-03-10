@@ -101,7 +101,7 @@ An alternative model would have been a markup on underlying cloud infrastructure
 
 No pricing page, customer contract structure, or revenue data is available for SolidStage. YCDB records $0.0 million in follow-on funding,<sup><a href="https://www.ycdb.co/company/solidstage">[2]</a></sup> which suggests the company either never reached a revenue level that would attract investors, or never demonstrated sufficient traction to justify a seed extension. The standard YC investment at the time was approximately $150,000 — a runway of roughly six to twelve months for a small team.
 
----2f:T17cc,
+---
 
 ## Post-Mortem
 

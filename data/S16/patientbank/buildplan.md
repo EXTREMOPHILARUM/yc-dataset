@@ -6,7 +6,7 @@ The 2026 PatientBank targets personal injury law firms and insurance adjusters w
 
 The viability shift is regulatory: the 21st Century Cures Act's information-blocking rules now mandate electronic record sharing, meaning hospitals can no longer hide behind fax machines. The infrastructure PatientBank built in 2015 is finally legal and expected. This transforms the unit economics—no more manual labor bridging analog systems. API calls scale.
 
-The go-to-market is vertical and immediate. Law firms lose thousands per case waiting for records. PatientBank charges per-case or monthly retainer, integrates in weeks, and wins by cutting claim resolution time from 60 days to 10. The market is ready, the regulations are enforced, and the friction is quantifiable in dollars.34:T809,
+The go-to-market is vertical and immediate. Law firms lose thousands per case waiting for records. PatientBank charges per-case or monthly retainer, integrates in weeks, and wins by cutting claim resolution time from 60 days to 10. The market is ready, the regulations are enforced, and the friction is quantifiable in dollars.
 
 ## Why Now?
 
@@ -37,7 +37,7 @@ The U.S. telehealth market grew from approximately $2B (2019) to approximately $
 
 **Demand signals from adjacent products:** The growth of telehealth platforms (Teladoc, Amazon Clinic) that require prior record access before consultations, and the expansion of direct-to-consumer genetic and lab testing (23andMe, Function Health), signal sustained consumer appetite for owning and sharing health data across providers.
 
----36:T81d,
+---
 
 ## Recommended MVP
 

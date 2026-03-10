@@ -6,7 +6,7 @@ BookSolid 2026 targets independent tour operators drowning in manual booking log
 
 The market has fundamentally shifted. Marketplace infrastructure is now commoditized (Stripe Connect, GPT-4 for content, no-code backends). Viator dominates but extracts 25-35% commissions and provides operators almost no analytics or control. Meanwhile, the tours and activities market hit $254B globally in 2023, with independent operators still fragmented across spreadsheets and email.
 
-We win by going narrow first: launch in one high-tourism U.S. city targeting operators running 3-15 experiences. Offer 12-15% commission (half Viator's rate), AI-generated listings, and real demand analytics. Operators get profitability; travelers get transparent, operator-direct bookings. Expand city by city as unit economics prove.32:T818,
+We win by going narrow first: launch in one high-tourism U.S. city targeting operators running 3-15 experiences. Offer 12-15% commission (half Viator's rate), AI-generated listings, and real demand analytics. Operators get profitability; travelers get transparent, operator-direct bookings. Expand city by city as unit economics prove.
 
 ## Why Now?
 

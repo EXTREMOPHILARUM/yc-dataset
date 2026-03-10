@@ -6,25 +6,15 @@ Vizzly 2026 is a Postgres-native embedded analytics SDK for engineering teams at
 
 The shift that makes this viable now is LLM-native text-to-SQL. When Vizzly first launched, this was experimental. Today it's production-grade, and semantic layers are table stakes. Simultaneously, the embedded analytics market validated at scale—Sigma raised $200M in 2024—proving customers will pay for this. The original Vizzly lost to distribution and capital constraints, not product-market fit.
 
-The rebuild wins by going narrow and deep: target engineering leads at 50–500-person SaaS companies, ship a free tier that actually works (3 dashboards, full RLS, NL queries included), and distribute through Vercel and Railway marketplaces where thousands of active developers live. Charge for scale and white-label features. The goal is 80% of signups embedding their first dashboard in under 2 hours.34:T451,When James Bowers announced Vizzly's ChatGPT integration in June 2023, GPT-4 had been publicly available for only three months (March 2023). The model was capable but unreliable on complex schemas, and building a production-safe NL-to-chart pipeline required significant prompt engineering, schema introspection tooling, and output validation infrastructure that a four-person team could not prioritize alongside core product work. The feature never left alpha.
-
-By 2026, the capability gap has closed materially. GPT-4o and Claude 3.5 Sonnet achieve greater than 90% accuracy on standard text-to-SQL benchmarks (Spider, BIRD) against defined schemas. More importantly, structured output APIs — OpenAI's JSON mode, Anthropic's tool use — allow a rebuilt product to constrain model outputs to valid SQL against a known semantic layer, making hallucinated queries catchable before they reach the database. This means natural language querying can ship as a core feature on day one, directly addressing the "rigid and forces compromise" criticism Vizzly leveled at the entire embedded analytics category.35:T776,
+The rebuild wins by going narrow and deep: target engineering leads at 50–500-person SaaS companies, ship a free tier that actually works (3 dashboards, full RLS, NL queries included), and distribute through Vercel and Railway marketplaces where thousands of active developers live. Charge for scale and white-label features. The goal is 80% of signups embedding their first dashboard in under 2 hours.
 
 ## Why Now?
 
 ### The single most important change: LLM-native text-to-SQL is now a shippable core feature, not a two-engineer research project.
 
-*Well-capitalized incumbents:*
-- **Looker (Google):** Dominant in enterprise, but the embedding experience is iFrame-based, requires LookML expertise, and minimum contract sizes effectively exclude mid-market SaaS teams. Weakness: too expensive and too complex for a 10–50 person SaaS company shipping its first analytics feature.
-- **Sigma Computing:** Strong for internal analytics; embedding story is secondary to its core spreadsheet-like interface. Weakness: not developer-first, pricing is enterprise-only.
-- **Metabase:** Excellent self-serve adoption (50,000+ organizations), but its embedding is iFrame-based and its white-labeling is limited on the free tier. Weakness: the open-source version requires self-hosting and lacks production RLS without significant configuration.
+When James Bowers announced Vizzly's ChatGPT integration in June 2023, GPT-4 had been publicly available for only three months (March 2023). The model was capable but unreliable on complex schemas, and building a production-safe NL-to-chart pipeline required significant prompt engineering, schema introspection tooling, and output validation infrastructure that a four-person team could not prioritize alongside core product work. The feature never left alpha.
 
-*Direct embedded analytics competitors (Vizzly's former competitive set):*
-- **Explo:** Actively solicited Vizzly's customers post-acquisition, indicating real market presence. Weakness: no publicly documented LLM-native querying as of the research report; pricing starts at $995/month, which is a high floor for early-stage SaaS teams.
-- **Embeddable:** Published a dedicated Vizzly alternatives page, confirming competitive overlap. Weakness: developer-heavy setup; the semantic layer configuration requires significant upfront engineering investment.
-- **Cube:** Strong semantic layer, but it is infrastructure, not a complete embedded analytics product. Weakness: requires assembling a visualization layer separately; not a one-stop solution.
-
-**Demand signals from adjacent products:** The explosive growth of tools like Retool (internal tools), Hex (collaborative notebooks), and Observable (data apps) confirms that SaaS teams want to ship data experiences faster than they can build them. The specific gap — customer-facing, white-labeled, AI-queryable — remains underserved at the sub-$500/month price point.
+By 2026, the capability gap has closed materially. GPT-4o and Claude 3.5 Sonnet achieve greater than 90% accuracy on standard text-to-SQL benchmarks (Spider, BIRD) against defined schemas. More importantly, structured output APIs — OpenAI's JSON mode, Anthropic's tool use — allow a rebuilt product to constrain model outputs to valid SQL against a known semantic layer, making hallucinated queries catchable before they reach the database. This means natural language querying can ship as a core feature on day one, directly addressing the "rigid and forces compromise" criticism Vizzly leveled at the entire embedded analytics category.
 
 ## Specific market validation since Vizzly's operation:
 
@@ -48,7 +38,19 @@ By 2026, the capability gap has closed materially. GPT-4o and Claude 3.5 Sonnet 
 
 ## Competition map and gaps:
 
-### Defensibility analysis — why won't Google, Salesforce, or Microsoft simply add this feature?
+*Well-capitalized incumbents:*
+- **Looker (Google):** Dominant in enterprise, but the embedding experience is iFrame-based, requires LookML expertise, and minimum contract sizes effectively exclude mid-market SaaS teams. Weakness: too expensive and too complex for a 10–50 person SaaS company shipping its first analytics feature.
+- **Sigma Computing:** Strong for internal analytics; embedding story is secondary to its core spreadsheet-like interface. Weakness: not developer-first, pricing is enterprise-only.
+- **Metabase:** Excellent self-serve adoption (50,000+ organizations), but its embedding is iFrame-based and its white-labeling is limited on the free tier. Weakness: the open-source version requires self-hosting and lacks production RLS without significant configuration.
+
+*Direct embedded analytics competitors (Vizzly's former competitive set):*
+- **Explo:** Actively solicited Vizzly's customers post-acquisition, indicating real market presence. Weakness: no publicly documented LLM-native querying as of the research report; pricing starts at $995/month, which is a high floor for early-stage SaaS teams.
+- **Embeddable:** Published a dedicated Vizzly alternatives page, confirming competitive overlap. Weakness: developer-heavy setup; the semantic layer configuration requires significant upfront engineering investment.
+- **Cube:** Strong semantic layer, but it is infrastructure, not a complete embedded analytics product. Weakness: requires assembling a visualization layer separately; not a one-stop solution.
+
+**Demand signals from adjacent products:** The explosive growth of tools like Retool (internal tools), Hex (collaborative notebooks), and Observable (data apps) confirms that SaaS teams want to ship data experiences faster than they can build them. The specific gap — customer-facing, white-labeled, AI-queryable — remains underserved at the sub-$500/month price point.
+
+## Defensibility analysis — why won't Google, Salesforce, or Microsoft simply add this feature?
 
 This is the honest answer: platform incumbents are a real threat, and there is no structural moat that makes the rebuild categorically safe from them. Google already owns Looker. Microsoft has Power BI Embedded. The defensible position is not "platforms can't do this" — they can and do. The defensible position is **speed-to-value for the mid-market SaaS team that cannot afford Looker's minimum contract and cannot wait six months for a Power BI Embedded integration.** The moat is go-to-market focus and onboarding speed, not technology. This is a real but narrow moat, and the rebuild must be honest about it: if the product does not achieve significant distribution within 18–24 months, platform commoditization is a genuine kill risk.
 
@@ -91,7 +93,7 @@ The host developer points the SDK at their Postgres connection string, and the p
 
 **Target customer segment:** Engineering leads (typically a senior full-stack engineer or a small engineering team of 2–5) at B2B SaaS companies in the marketing technology, revenue operations, or sales enablement verticals, with 50–500 customers of their own, who have received repeated requests for better reporting from their customers and have estimated the internal build at 4–8 weeks of engineering time. This is narrower than Vizzly's horizontal "all B2B SaaS" positioning — the vertical focus enables case studies, word-of-mouth, and integration partnerships within a specific ecosystem.
 
-**Primary distribution channel:** The Supabase ecosystem. The rebuilt product is architected natively on Postgres RLS, which means Supabase users can integrate it with near-zero database configuration. A Supabase integration listing, a featured template in the Supabase template gallery, and active participation in the Supabase Discord (100,000+ members as of 2024, source: Supabase blog) provide a warm, developer-qualified top-of-funnel. Secondary channel: a public GitHub repository with a Next.js + Supabase starter template, optimized for organic search on queries like "embed analytics dashboard Next.js."37:T5b9,
+**Primary distribution channel:** The Supabase ecosystem. The rebuilt product is architected natively on Postgres RLS, which means Supabase users can integrate it with near-zero database configuration. A Supabase integration listing, a featured template in the Supabase template gallery, and active participation in the Supabase Discord (100,000+ members as of 2024, source: Supabase blog) provide a warm, developer-qualified top-of-funnel. Secondary channel: a public GitHub repository with a Next.js + Supabase starter template, optimized for organic search on queries like "embed analytics dashboard Next.js."
 
 ## Pricing strategy:
 

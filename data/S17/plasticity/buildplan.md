@@ -6,7 +6,7 @@ By 2026, Plasticity is a focused API layer for extracting structured data from l
 
 The shift that makes this viable now: LLMs are commodity infrastructure, but they're unreliable for high-stakes extraction. The market has moved from "can we do NLP?" to "can we do it safely and provably?" Plasticity solves the extraction layer that every enterprise LLM deployment actually needs—the part that turns raw model output into structured, auditable, legally defensible data.
 
-The go-to-market angle is direct: sell to legal operations teams and compliance officers who are already buying LLM tools but can't deploy them without a guardrail layer. Start with contract extraction—the highest-ROI, lowest-risk entry point—then expand into healthcare and federal. Win by being the extraction standard that enterprises trust enough to put in production.34:T842,
+The go-to-market angle is direct: sell to legal operations teams and compliance officers who are already buying LLM tools but can't deploy them without a guardrail layer. Start with contract extraction—the highest-ROI, lowest-risk entry point—then expand into healthcare and federal. Win by being the extraction standard that enterprises trust enough to put in production.
 
 ## Why Now?
 
@@ -37,7 +37,7 @@ Distribution channels unavailable in 2017 now exist at scale: the Hugging Face H
 
 **Demand Signals:** The disinformation detection vertical — a documented Plasticity use case — now has confirmed buyers at DARPA and CISA (source: research report). Legal document analysis and clinical NLP are adjacent markets with demonstrated willingness to pay, consistent with Plasticity's reported "hundreds of companies in technology, law, and medicine" customer description (unverified, source: research report).
 
----36:T976,
+---
 
 ## Recommended MVP
 

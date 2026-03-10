@@ -2,6 +2,14 @@
 
 ## Overview
 
+The 2026 Quest is a curated audio library of career guidance organized into structured learning tracks—"Breaking into Product Management," "First 90 Days as an Engineer"—where early-career professionals (0–3 years) find answers in under five minutes. It's built for job seekers and junior employees navigating their first roles, not for broad professional networking.
+
+The viability shift: AI now solves the original cold-start problem. Instead of waiting for experts to volunteer answers, the platform seeds the library with AI-generated responses, then recruits verified experts to review and re-record them. This flips the supply equation—experts get paid per answer through Stripe Connect, removing the motivation gap that killed the original product. The expert pool already exists in Substack and LinkedIn creator communities actively seeking monetization.
+
+The go-to-market is direct: launch through creator networks where supply lives, price at $12/month for listeners (Spotify-comparable), and differentiate on asynchronous access and creator revenue share. Unlike LinkedIn's clunky audio events or Maven's scheduling friction, this is passive consumption with real payouts. The unit economics work because AI handles content generation; experts just verify and voice.
+
+## Why Now?
+
 The single most important change since Quest's 2022 shutdown is the elimination of the supply-side bottleneck that killed the original product. Quest's core failure was structural: it depended entirely on time-constrained experts voluntarily recording audio clips for a 1,000-person audience. In 2026, that dependency is gone.
 
 Large language models — specifically GPT-4 (March 2023) and its successors — can generate high-quality, personalized career advice responses at near-zero marginal cost. A rebuilt Quest can seed its content library with AI-generated answers on day one, eliminating the cold-start problem that consumed $2M without resolution. Human expert audio becomes a premium tier, not a prerequisite for launch.
@@ -13,8 +21,6 @@ The demand side has also been validated externally. Career-focused content on Ti
 Distribution infrastructure has also matured. The Shopify App Store analogy applies here to LinkedIn's developer ecosystem and Substack's 35M+ active subscriber base (Substack, January 2024), both of which offer direct channels to knowledge workers and creators who represent Quest's expert supply side.
 
 ---
-
-## Why Now?
 
 ## Current Market Analysis
 
@@ -32,7 +38,7 @@ The global online professional development and e-learning market was valued at a
 
 The gap: no current product combines AI-seeded content, verified expert audio, and a monetization layer for contributors in a short-form, asynchronous format targeting early-career professionals.
 
----34:T829,
+---
 
 ## Recommended MVP
 

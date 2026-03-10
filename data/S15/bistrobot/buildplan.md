@@ -6,7 +6,7 @@ Bistrobot 2026 targets corporate campus food service—Aramark, Compass Group, S
 
 The market shift is simple: certified food-safe robot arms with uptime SLAs now exist. In 2015, custom hardware was the only path. Today, integrating proven industrial arms with cloud monitoring and service contracts is viable. Miso Robotics owns burger flipping but requires deep kitchen retrofits; Farmer's Fridge sells pre-made inventory. This sits between them—hot-made-to-order, deployed as a plug-and-play kiosk, sold as a service, not a product.
 
-Win condition: prove 95% uptime and $40+ daily revenue per unit at two pilot campuses within 90 days, then scale through existing vendor programs that actively fund food-tech innovation.34:T8a3,
+Win condition: prove 95% uptime and $40+ daily revenue per unit at two pilot campuses within 90 days, then scale through existing vendor programs that actively fund food-tech innovation.
 
 ## Why Now?
 

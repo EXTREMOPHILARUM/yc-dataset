@@ -6,7 +6,7 @@ Palifer (YC S19) built a deep-learning NLP algorithm that extracted structured f
 
 What has changed is the entire cost structure of the core technical problem: LLMs and RAG pipelines have collapsed the time to build Palifer's NLP capability from years to weeks, CMMS open APIs have eliminated the custom integration work that made each new customer a bespoke engineering project, and a $28B+ predictive maintenance market has made the budget conversation dramatically easier. The rebuild is a CMMS-native AI layer — embedded directly inside IBM Maximo and SAP PM as a marketplace app — that turns a customer's existing work order history into a live failure prediction engine within 48 hours of installation, sold on a per-asset subscription to mid-market mining and rail operators who already have the data but have never been able to use it.
 
----34:Ta3a,
+---
 
 ## Why Now?
 

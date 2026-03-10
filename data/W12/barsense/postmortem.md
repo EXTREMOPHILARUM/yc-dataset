@@ -102,7 +102,7 @@ The web-based parent dashboard implied ongoing infrastructure costs. Real-time G
 
 The Kytetime teen product, launched in April 2013, may have represented an attempt to find a monetizable segment—parents of teenagers may have higher willingness to pay for monitoring tools than parents of young children, who might expect safety features to be free. No pricing data for Kytetime is available either.
 
----2f:T645,
+---
 
 ## Traction
 

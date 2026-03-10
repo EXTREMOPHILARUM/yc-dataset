@@ -6,7 +6,7 @@ Tech in Asia launched in 2010 as a student blog called Penn Olson, grew into the
 
 The rebuild thesis is not to repeat the pivot treadmill. The original company proved that a paying audience exists for premium Southeast Asian tech intelligence; it simply priced that audience wrong, served it with the wrong product mix, and raised capital that forced it to chase scale it could never reach. The new version is a bootstrapped or lightly funded B2B intelligence platform — think Rhodium Group meets The Information, built for institutional investors and corporate strategists operating in Southeast Asia — that uses AI-assisted data infrastructure to deliver what Techlist never could, at a price point ($2,000–$5,000/seat/year) that makes the unit economics work with 300 subscribers instead of 3,500.
 
----34:Ta16,
+---
 
 ## Why Now?
 

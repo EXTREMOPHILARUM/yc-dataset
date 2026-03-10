@@ -2,6 +2,14 @@
 
 ## Overview
 
+The 2026 Carsabi is a unified search engine for used cars that aggregates licensed inventory from dealers, private sellers, and marketplaces in real time. It targets buyers aged 28–45 searching the $10k–$35k segment who want transparency on fair market value and deal quality without dealer friction or private-party risk.
+
+The viability shift: licensed automotive data APIs (MarketCheck, Facebook Marketplace Partner API, Manheim) now exist and are commercially available. Unlike 2012, you don't need to scrape—you can build on legitimate data partnerships from day one. Combined with modern LLMs, you can score every listing by fair market value and let buyers search in plain English ("reliable SUV under $20k, good in snow"). No competitor does this across all sources.
+
+Go-to-market is search-first: rank high for "best used car search" and "used car deals," capture intent-rich traffic, and convert with a deal score that actually saves money. CarGurus owns dealer inventory; Carsabi owns the private-party and cross-marketplace gap where the real deals live.
+
+## Why Now?
+
 The single most important change since Carsabi's failure is the emergence of licensed, commercial automotive data infrastructure that eliminates the scraping dependency that killed the original company overnight. In 2012, there was no clean path to Craigslist's private-party inventory without unauthorized crawling. In 2026, that constraint is gone.
 
 MarketCheck now offers real-time licensed feeds covering 6+ million active used car listings from dealers, auctions, and classifieds. Similar structured inventory APIs are available from Lotame and through OEM data partnerships. Facebook Marketplace—which has displaced Craigslist as the dominant private-party car listing platform in most U.S. markets—offers a Partner API accessible through approved integrations. OfferUp provides additional private-party inventory. A rebuilt Carsabi could negotiate data licensing agreements before writing a single line of product code, making data access a business development problem rather than a legal time bomb.
@@ -12,9 +20,7 @@ The market has also validated Carsabi's core thesis. CarGurus built a $1B+ publi
 
 ---
 
-## Why Now?
-
-### Current Market Analysis
+## Current Market Analysis
 
 The U.S. used car market has grown substantially since 2012. At Demo Day, Carsabi cited $650 billion in total annual car sales. The used car segment specifically reached approximately $840 billion globally in 2023, with the U.S. representing the largest single market (Grand View Research, 2024—exact U.S.-only figure not confirmed in research report). COVID-era digital acceleration normalized online-first car research and purchasing: Carvana, Vroom, and CarMax's online channel all scaled significantly between 2020 and 2023, reducing the consumer education burden a new aggregator would face.
 
@@ -28,7 +34,7 @@ The U.S. used car market has grown substantially since 2012. At Demo Day, Carsab
 
 **The gap:** No current product aggregates dealer *and* private-party inventory across all major sources while surfacing value-relative rankings with AI-assisted natural language search. CarGurus comes closest but excludes Facebook Marketplace's private-party volume. That gap is the rebuild opportunity.
 
----36:T673,
+---
 
 ## Recommended MVP
 

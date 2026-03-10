@@ -6,7 +6,7 @@ The 2026 CapWay targets hourly workers at mid-sized employers—retail, food ser
 
 The infrastructure shift that makes this viable now is the post-Synapse rebuild. The middleware collapse forced fintech to move away from fragile third-party layers toward direct bank partnerships and cleaner APIs. That means lower operational risk and faster onboarding—exactly what employers need to integrate payroll accounts at scale.
 
-The go-to-market angle is employer-first, not consumer-first. You're not competing with Chime for attention in an app store. You're selling HR and payroll teams a retention tool that costs them nothing to offer and solves real cash-flow problems for their workforce. Workers get same-day or next-day access to earned wages. Employers reduce turnover. You build a defensible moat through embedded distribution.33:T8df,
+The go-to-market angle is employer-first, not consumer-first. You're not competing with Chime for attention in an app store. You're selling HR and payroll teams a retention tool that costs them nothing to offer and solves real cash-flow problems for their workforce. Workers get same-day or next-day access to earned wages. Employers reduce turnover. You build a defensible moat through embedded distribution.
 
 ## Why Now?
 

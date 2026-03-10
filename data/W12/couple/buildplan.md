@@ -6,7 +6,7 @@ By 2026, Couple is a subscription app for long-distance couples aged 22–34 who
 
 The shift that makes this viable now is subscription normalization. In 2012, asking users to pay monthly for a messaging app was a non-starter. Today, couples routinely pay for premium experiences. Simultaneously, wearables have matured enough to make the original ThumbKiss concept actually work at scale, and AI can now generate the contextual relationship intelligence that makes a shared calendar feel personal, not generic.
 
-The go-to-market is direct: target college students and young professionals in long-distance relationships through Reddit, TikTok, and Discord communities where these couples already congregate. Launch with a 14-day free trial, price at $4.99/month, and let word-of-mouth drive adoption. The win is simplicity—we're not competing with WhatsApp or Snapchat. We're solving one problem better than anyone else.34:T7d7,
+The go-to-market is direct: target college students and young professionals in long-distance relationships through Reddit, TikTok, and Discord communities where these couples already congregate. Launch with a 14-day free trial, price at $4.99/month, and let word-of-mouth drive adoption. The win is simplicity—we're not competing with WhatsApp or Snapchat. We're solving one problem better than anyone else.
 
 ## Why Now?
 
@@ -33,7 +33,7 @@ Finally, Between — the Korean couples app that competed directly with Couple �
 
 **Demand signals:** Honeydue's traction in couples finance, Calm's success in relationship wellness content, and the growth of couples therapy apps (e.g., Lasting, which reportedly reached $10M+ ARR — source not confirmed in research) all indicate a consumer segment actively spending on relationship infrastructure.
 
----36:T967,
+---
 
 ## Recommended MVP
 

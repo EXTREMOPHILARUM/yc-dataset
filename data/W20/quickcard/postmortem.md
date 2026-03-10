@@ -94,7 +94,7 @@ The strongest documented traction signal came from within the YC community. Afte
 
 This is a meaningful but bounded data point. The YC community is a self-selected audience of founders who are themselves building sales motions and who have a strong incentive to support fellow portfolio companies. Sign-ups from this cohort reflect genuine interest in the problem space, but they do not validate commercial demand from the broader market of sales teams at non-YC companies. The engagement metrics from Bookface were never translated into disclosed paying customer counts or revenue figures.
 
-The 2021 Product Hunt launch extended the product's visibility beyond the YC network, but no vote count, ranking, or conversion data from that launch was ever published. No customer testimonials, case studies, or named enterprise customers appear in any public record associated with Quickcard. The company's hiring materials referenced the Bookface traction as the primary evidence of product-market fit — a framing that suggests the team was still in early validation mode well into 2021.30:T1a96,
+The 2021 Product Hunt launch extended the product's visibility beyond the YC network, but no vote count, ranking, or conversion data from that launch was ever published. No customer testimonials, case studies, or named enterprise customers appear in any public record associated with Quickcard. The company's hiring materials referenced the Bookface traction as the primary evidence of product-market fit — a framing that suggests the team was still in early validation mode well into 2021.
 
 ## Post-Mortem
 

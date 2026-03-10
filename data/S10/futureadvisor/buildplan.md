@@ -6,7 +6,7 @@ The 2026 FutureAdvisor is a 401(k) fund optimizer embedded directly into the HR 
 
 The infrastructure shift that makes this work now: 401(k) data aggregation is no longer a moat. Plaid and Vestwell APIs handle plan connectivity. We can build the core product—fund menu mapping, lowest-cost alternatives, plain-language AI explanations of what each recommendation saves—in months, not years. The real advantage is distribution: we reach employees at the moment they care most (onboarding and open enrollment) through a channel their employer already trusts.
 
-We win by being the only product that lives inside the HR workflow, not a separate app employees forget to open. Employers get measurable engagement metrics and employee satisfaction lift. Employees get personalized 401(k) optimization without leaving their benefits portal. That's the wedge.35:T8b1,
+We win by being the only product that lives inside the HR workflow, not a separate app employees forget to open. Employers get measurable engagement metrics and employee satisfaction lift. Employees get personalized 401(k) optimization without leaving their benefits portal. That's the wedge.
 
 ## Why Now?
 
@@ -81,7 +81,7 @@ The product is embedded as a financial wellness benefit within the HR platform t
 
 **Target customer segment:** HR and benefits managers at mid-market employers (500–5,000 employees) who are actively building or refreshing their financial wellness benefits stack, and who already use Workday, ADP, or Gusto as their HR platform. These buyers have budget authority for benefits add-ons, are under pressure to differentiate their benefits packages in a competitive labor market, and are not the same enterprise sales targets that Edelman Financial Engines pursues (which focuses on Fortune 500 plans with dedicated benefits consultants).
 
-**Primary distribution channel:** Workday Marketplace, Gusto Partner Ecosystem, and ADP Marketplace — all three offer self-serve or lightly assisted listing processes for benefits vendors. The go-to-market motion is inbound from HR buyers browsing the marketplace, supplemented by direct outreach to benefits brokers (who influence 60–70% of mid-market benefits decisions, per industry estimates — exact figure not confirmed in primary sources reviewed). This is the structural CAC advantage the original FutureAdvisor never had.38:T711,
+**Primary distribution channel:** Workday Marketplace, Gusto Partner Ecosystem, and ADP Marketplace — all three offer self-serve or lightly assisted listing processes for benefits vendors. The go-to-market motion is inbound from HR buyers browsing the marketplace, supplemented by direct outreach to benefits brokers (who influence 60–70% of mid-market benefits decisions, per industry estimates — exact figure not confirmed in primary sources reviewed). This is the structural CAC advantage the original FutureAdvisor never had.
 
 ## Pricing strategy:
 

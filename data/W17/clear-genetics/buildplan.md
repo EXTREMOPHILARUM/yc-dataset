@@ -6,7 +6,7 @@ By 2026, Clear Genetics rebuilds as the automation layer for mid-sized health sy
 
 The market shift is Invitae's bankruptcy collapse, which eliminated the dominant incumbent and left health systems with fragmented, outdated infrastructure. Simultaneously, LLM and voice AI matured enough in 2024 to make natural, compliant patient conversations viable at scale—something that wasn't possible in 2019.
 
-The go-to-market targets genetics department heads at 500–2,000 bed systems already running high-volume testing programs. Distribution runs through direct sales and lab partnerships. Pricing ties to patient conversations processed, so revenue scales with the customer's testing volume. The win is simple: 3–5x faster patient throughput per counselor, lower cost per interaction, and zero regulatory friction because the AI never interprets variants—it only guides workflow.34:T94b,
+The go-to-market targets genetics department heads at 500–2,000 bed systems already running high-volume testing programs. Distribution runs through direct sales and lab partnerships. Pricing ties to patient conversations processed, so revenue scales with the customer's testing volume. The win is simple: 3–5x faster patient throughput per counselor, lower cost per interaction, and zero regulatory friction because the AI never interprets variants—it only guides workflow.
 
 ## Why Now?
 
@@ -37,7 +37,7 @@ Current adjacent competitors include:
 - **Genome Medical**: A telehealth genetics service that deploys human genetic counselors remotely—a direct substitute for automation rather than a software platform, with cost structures that limit scalability.
 - **Color Health**: Population genomics platform with some workflow tooling, but primarily focused on employer and health plan channels rather than health system clinical workflows.
 
-The gap is specific: no current vendor combines LLM-powered patient conversation, FHIR-native EHR integration, and a clinician-side triage dashboard purpose-built for genetics workflows. That combination is the rebuild opportunity.36:T8c0,
+The gap is specific: no current vendor combines LLM-powered patient conversation, FHIR-native EHR integration, and a clinician-side triage dashboard purpose-built for genetics workflows. That combination is the rebuild opportunity.
 
 ## Demand Signals from Adjacent Products
 

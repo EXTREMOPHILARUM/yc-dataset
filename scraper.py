@@ -307,14 +307,64 @@ def _extract_company_json(decoded_chunks: list[str]) -> dict | None:
     return None
 
 
+def _split_t_chunks(decoded_chunks: list[str]) -> list[str]:
+    """Split decoded RSC chunks that contain multiple concatenated T-headers.
+
+    RSC T-headers declare their content length in hex bytes (UTF-8):
+    "2a:Td5c,<content>" means key 2a has 0xd5c bytes of UTF-8 content.
+    When multiple T-headers are packed into a single decoded chunk, we
+    split them using the declared byte length.
+    """
+    T_HEADER_RE = re.compile(r'([0-9a-f]+):T([0-9a-f]+),')
+    result = []
+    for chunk in decoded_chunks:
+        m = T_HEADER_RE.match(chunk)
+        if not m:
+            result.append(chunk)
+            continue
+
+        # Parse potentially multiple T-headers using byte-length splitting
+        pos = 0
+        while pos < len(chunk):
+            m = T_HEADER_RE.match(chunk, pos)
+            if not m:
+                remaining = chunk[pos:]
+                if remaining.strip():
+                    result.append(remaining)
+                break
+
+            key = m.group(1)
+            hex_len = m.group(2)
+            declared_bytes = int(hex_len, 16)
+            content_start = m.end()
+
+            # Advance by declared_bytes in UTF-8
+            byte_count = 0
+            char_pos = content_start
+            while byte_count < declared_bytes and char_pos < len(chunk):
+                byte_count += len(chunk[char_pos].encode('utf-8'))
+                char_pos += 1
+
+            content = chunk[content_start:char_pos]
+            result.append(f"{key}:T{hex_len},{content}")
+            pos = char_pos
+
+    return result
+
+
 def _build_rsc_text_map(decoded_chunks: list[str], company_data: dict | None = None) -> dict[str, str]:
     """Build a map of RSC ref keys to their text content.
 
     RSC flight format uses T-header chunks like "2a:Td5c," to declare a text
     node with key "2a" and hex-length d5c.  The actual text follows in the
-    next chunk.  The very first text chunk (before any T-header) is keyed by
-    the first $ref found in the company's report sections.
+    next chunk (if no inline content) or is inline (declared by hex length).
+
+    Chunks may contain multiple concatenated T-headers which are first split
+    using the declared lengths.
     """
+    # Split multi-T-header chunks first
+    chunks = _split_t_chunks(decoded_chunks)
+
     text_map = {}
     pending_key = None
 
@@ -336,7 +386,7 @@ def _build_rsc_text_map(decoded_chunks: list[str], company_data: dict | None = N
 
     # Find the first T-header index
     first_t_idx = None
-    for i, chunk in enumerate(decoded_chunks):
+    for i, chunk in enumerate(chunks):
         if re.match(r'^[0-9a-f]+:T[0-9a-f]+,', chunk):
             first_t_idx = i
             break
@@ -344,7 +394,7 @@ def _build_rsc_text_map(decoded_chunks: list[str], company_data: dict | None = N
     # The Overview chunk is the last bare prose chunk before the first T-header.
     if first_t_idx is not None and overview_key is not None:
         for i in range(first_t_idx - 1, -1, -1):
-            chunk = decoded_chunks[i]
+            chunk = chunks[i]
             if (len(chunk) > 100
                 and not re.match(r'^(\d+:|\[|I\[|[0-9a-f]+:)', chunk)
                 and "className" not in chunk[:200]
@@ -352,20 +402,14 @@ def _build_rsc_text_map(decoded_chunks: list[str], company_data: dict | None = N
                 text_map[overview_key] = chunk
                 break
 
-    # Pass 2: process T-header chunks and their following text
-    # When a T-header has inline content, the next bare chunk maps to key+1
-    # (the next sequential hex key). When it has no inline content, the next
-    # bare chunk maps to the same key.
-    for chunk in decoded_chunks:
+    # Process T-header chunks and their following text
+    for chunk in chunks:
         m = re.match(r'^([0-9a-f]+):T([0-9a-f]+),(.*)', chunk, re.DOTALL)
         if m:
             key = m.group(1)
             inline_content = m.group(3)
             if inline_content.strip():
                 text_map[key] = inline_content
-                # Next bare chunk maps to key+1
-                next_key = format(int(key, 16) + 1, 'x')
-                pending_key = next_key
             else:
                 pending_key = key
             continue

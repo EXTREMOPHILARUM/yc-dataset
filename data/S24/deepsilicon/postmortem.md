@@ -140,8 +140,4 @@ No founder post-mortem, shutdown announcement, or investor statement has been pu
 8. [Crunchbase – Deepsilicon organization](https://www.crunchbase.com/organization/deepsilicon)
 9. [Tracxn – Deepsilicon funding and investors](https://tracxn.com/d/companies/deepsilicon/__03kslZpHzgqa1YSkCDaT1yNL2p_ZVQO_IsnuEvk5tUg/funding-and-investors)
 10. [RocketReach – Deepsilicon management](https://rocketreach.co/deepsilicon-management_b6dfb8b1c72ace8f)
-11. [Brian Lovin HN mirror – Deepsilicon launch post](https://brianlovin.com/hn/41490196)32:T413,Deepsilicon was a San Francisco-based YC S24 company that built software and hardware for ternary-quantized transformer inference — compressing model weights from 16 bits to 2 bits to dramatically reduce memory usage and increase throughput — before going inactive in late 2024 or early 2025, having raised only $500K against a strategy that required custom silicon tape-outs, enterprise hardware sales cycles, and a software product competitive with free open-source tools simultaneously.
-
-The rebuild thesis is simple: the core technical bet has been validated by Microsoft and the open-source community, the robotics market now has named, funded buyers with explicit edge-inference budgets, and open-source silicon tooling has lowered tape-out costs enough to make hardware a credible 18-month roadmap item rather than a fantasy. The new version is a software-first ternary inference runtime purpose-built for humanoid and mobile robotics OEMs — a $3M seed company that earns enterprise contracts before it ever tapes out a chip.
-
----33:T989,
+11. [Brian Lovin HN mirror – Deepsilicon launch post](https://brianlovin.com/hn/41490196)

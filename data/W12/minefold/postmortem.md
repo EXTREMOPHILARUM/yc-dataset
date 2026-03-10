@@ -102,7 +102,7 @@ The business model was straightforward subscription SaaS applied to infrastructu
 
 The model's fatal flaw was the price point relative to the customer's willingness to pay. At $5 per month, Minefold needed a large volume of paying subscribers to cover infrastructure costs and two salaries. The conversion rate from interested users to paying customers was apparently too low to reach that volume, and the churn rate among those who did convert was high enough to prevent compounding growth.
 
----2e:T581,
+---
 
 ## Traction
 
@@ -186,8 +186,4 @@ The shutdown was orderly: existing subscriptions expired naturally without requi
 8. [Minefold GitHub Organization](https://github.com/minefold)
 9. [Chris Lloyd — Medium Profile](https://medium.com/@chrislloyd)
 10. [Wayback Machine — Minefold.com Archive](https://web.archive.org/web/20130101000000*/minefold.com)
-11. [Amund Blog — YC W12 Demo Day Notes](http://amundblog.blogspot.com/)32:T4a8,By 2026, Minefold is a modpack-native server hosting platform for adult Minecraft players who want friction-free multiplayer without paying for unused capacity. The target is the 22–35 demographic playing modded Minecraft with friend groups—a segment with disposable income, technical literacy, and genuine willingness to pay for convenience.
-
-The market shift is demographic, not technical. Minecraft's player base has aged up dramatically since 2012. Today's core multiplayer audience has money and expects seamless infrastructure; they're the same cohort that pays for Discord Nitro and game passes. Modded Minecraft—which requires server-side coordination—has become the dominant way adults play together, creating a natural willingness to outsource hosting complexity.
-
-The go-to-market angle is radical simplicity: pick a modpack, spin up a server in 30 seconds, pay only for active player-months. No plan tiers, no upsell friction, no competitor's "unlimited" nonsense. Win by being the obvious choice for friend groups who just want to play, not manage infrastructure. Distribution runs through modding communities on Discord and Reddit where these players already congregate.33:T9e0,
+11. [Amund Blog — YC W12 Demo Day Notes](http://amundblog.blogspot.com/)
