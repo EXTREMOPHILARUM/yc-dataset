@@ -39,6 +39,9 @@ jobs:
       - name: Transform raw → markdown
         run: uv run python3 transform.py
 
+      - name: Validate no data loss
+        run: uv run python3 validate.py
+
       - name: Commit and push changes
         run: |
           git config user.name "github-actions[bot]"
