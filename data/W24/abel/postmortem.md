@@ -2,8 +2,6 @@
 
 ## Overview
 
-## Founding Story
-
 Abel was founded in 2023 by Sean Safahi and Chenyu Li, two operators who had each previously built and sold companies before turning their attention to legal technology.
 
 Safahi served as CEO. His background was in consumer product development at scale: he held product roles at Netflix and Airbnb before co-founding Bold, a startup that Airbnb subsequently acquired.<sup><a href="https://www.ycombinator.com/companies/abel">[1]</a></sup> That acquisition gave him firsthand experience navigating the transition from independent startup to enterprise integration — a signal that he understood how large organizations adopt new tools.
@@ -19,6 +17,8 @@ The company's stated mission carried an access-to-justice dimension: to "empower
 Abel created its Twitter account in November 2023 but never posted a single tweet from it — an early indicator that go-to-market execution was not running in parallel with product development.<sup><a href="https://x.com/abelforlaw?lang=en">[5]</a></sup>
 
 ---
+
+## Founding Story
 
 ## Timeline
 
@@ -112,7 +112,7 @@ Abel's precise pricing model was never publicly disclosed. The product was sold 
 
 The most plausible revenue model for a platform of this type would be a subscription fee per seat or per matter, potentially with usage-based components tied to document volume or pipeline runs. Law firms typically evaluate software on a per-attorney or per-case basis, and eDiscovery pricing conventions often include per-gigabyte data processing fees. Without confirmed pricing, it is impossible to assess whether Abel's unit economics were viable or whether the pricing model itself created friction with prospective buyers.
 
----2e:T606,
+---2f:T606,
 
 ## Traction
 

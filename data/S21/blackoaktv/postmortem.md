@@ -2,6 +2,17 @@
 
 ## Overview
 
+BlackOakTV was a subscription video-on-demand (SVOD) platform founded in 2020 by Uzo Ometu and Iyanu Obidele, designed to serve Black viewers and independent Black creators who were systematically underrepresented on mainstream streaming services.The company launched publicly on February 5, 2021, priced at $4.99 per month, and participated in Y Combinator's Summer 2021 batch.
+
+Despite a credible founding team, genuine market demand, and real execution against its content roadmap—ultimately licensing and producing over 200 titles—BlackOakTV quietly wound down without a formal announcement, with Ometu pivoting to a newsletter venture by 2025.The core thesis of failure is structural: $1.65 million in total funding was categorically insufficient to simultaneously build a content library deep enough to retain subscribers, acquire those subscribers at scale, and sustain operations in a streaming landscape where billion-dollar incumbents were competing for the same eyeballs.
+
+The company was caught in a permanent chicken-and-egg trap between content spend and subscriber growth that its capital base could never break.
+
+<report-gallery>
+<media-image src="https://urbangeekz.com/wp-content/uploads/2021/04/BlackOakTV-Uzo-Ometu.jpg" alt="Uzo Ometu, founder of BlackOakTV, featured in UrbanGeekz press coverage" caption="Uzo Ometu in April 2021, weeks after launching BlackOakTV from Harlem — a former YouTube executive betting that the platform he'd spent seven years building had left 46 million Black viewers fundamentally underserved."></media-image>
+<media-image src="https://mma.prnewswire.com/media/1858000/BlackOakTV_Relaunch_2022.jpg" alt="BlackOakTV July 2022 relaunch press release image" caption="The July 2022 relaunch announcement — BlackOakTV's attempt to reset the narrative with 200-plus episodes in the library and a $4.99 price point, though the capital runway to turn content into subscribers was already running thin."></media-image>
+</report-gallery>
+
 ## Founding Story
 
 Uzo Ometu's path to BlackOakTV was not a sudden pivot—it was the culmination of nearly two decades in media. After graduating from Columbia Business School in 2006,<sup><a href="https://entrepreneurship.columbia.edu/startup/blackoaktv/">[1]</a></sup> Ometu launched Black Oak Enterprises, a digital media publishing company that serviced clients including ABC, The Economist, ESPN, and Ziff Davis, and began uploading webisodes on YouTube.<sup><a href="https://urbangeekz.com/2021/04/ivy-league-grad-launches-video-streaming-content-service-blackoaktv/">[2]</a></sup> He then built a career spanning Inc. Magazine, ESPN, CBS Sports, and Disney before spending seven years at YouTube and Google, where he most recently helped grow YouTube's news vertical in North America.<sup><a href="https://wealthnoir.com/blog/quality-black-content-uzo-ometu-blackoaktv/">[3]</a></sup>

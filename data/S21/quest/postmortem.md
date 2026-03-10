@@ -114,7 +114,7 @@ The subscription model faced a structural challenge: the users most likely to pa
 
 The company burned through nearly $2 million across all iterations without establishing a revenue stream, suggesting the monetization question was never resolved before runway ran out. <sup><a href="https://www.linkedin.com/pulse/why-startup-lost-2-million-how-avoid-same-fate-chris-monk">[13]</a></sup>
 
----2e:T785,
+---2d:T785,
 
 ## Traction
 
@@ -193,8 +193,8 @@ Quest launched its audio product at the peak of the Clubhouse-driven social audi
 7. [LinkedIn Pulse: Why This Startup Lost $2 Million (April 2022)](https://www.linkedin.com/pulse/why-startup-lost-2-million-how-avoid-same-fate-chris-monk)
 8. [PitchBook: Quest/Cooper Media Company Profile](https://pitchbook.com/profiles/company/267245-02)
 9. [TechCrunch: YC S21 Demo Day 2 Roundup (September 2021)](https://techcrunch.com/2021/09/01/here-are-all-the-companies-from-day-two-of-y-combinators-summer-2021-demo-day/)
-10. [Robert Gaal Personal Website](https://gaal.co/)32:T505,The 2026 Quest is a curated audio library of career guidance organized into structured learning tracks—"Breaking into Product Management," "First 90 Days as an Engineer"—where early-career professionals (0–3 years) find answers in under five minutes. It's built for job seekers and junior employees navigating their first roles, not for broad professional networking.
+10. [Robert Gaal Personal Website](https://gaal.co/)31:T505,The 2026 Quest is a curated audio library of career guidance organized into structured learning tracks—"Breaking into Product Management," "First 90 Days as an Engineer"—where early-career professionals (0–3 years) find answers in under five minutes. It's built for job seekers and junior employees navigating their first roles, not for broad professional networking.
 
 The viability shift: AI now solves the original cold-start problem. Instead of waiting for experts to volunteer answers, the platform seeds the library with AI-generated responses, then recruits verified experts to review and re-record them. This flips the supply equation—experts get paid per answer through Stripe Connect, removing the motivation gap that killed the original product. The expert pool already exists in Substack and LinkedIn creator communities actively seeking monetization.
 
-The go-to-market is direct: launch through creator networks where supply lives, price at $12/month for listeners (Spotify-comparable), and differentiate on asynchronous access and creator revenue share. Unlike LinkedIn's clunky audio events or Maven's scheduling friction, this is passive consumption with real payouts. The unit economics work because AI handles content generation; experts just verify and voice.33:T886,
+The go-to-market is direct: launch through creator networks where supply lives, price at $12/month for listeners (Spotify-comparable), and differentiate on asynchronous access and creator revenue share. Unlike LinkedIn's clunky audio events or Maven's scheduling friction, this is passive consumption with real payouts. The unit economics work because AI handles content generation; experts just verify and voice.32:T886,

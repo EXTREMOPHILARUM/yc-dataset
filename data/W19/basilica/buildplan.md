@@ -6,7 +6,7 @@ Basilica (YC W19, incorporated December 2018) built an embedding API that conver
 
 The rebuild thesis is not to re-enter the general-purpose embedding market — that market is closed — but to exploit the one structural gap the incumbents cannot fill: regulated industries where sensitive data cannot leave a controlled environment, and where R-native data scientists in pharma, clinical research, and financial compliance need domain-specific embedding and fine-tuning pipelines that run entirely within their own infrastructure. The new Basilica is a **private-deployment fine-tuning platform for regulated data scientists** — think Hugging Face Inference API, but air-gapped, R-native, and pre-configured for GxP and SOC 2 environments.
 
----33:T8d3,
+---32:T8d3,
 
 ## Why Now?
 
@@ -60,7 +60,7 @@ A UI and API for customers to upload labeled examples (target: functional with 5
 
 **Cold-start note:** This product does not depend on network effects or local density. Each customer deployment is independent. The domain model library improves with more customers only if customers consent to federated learning — which should be offered but not required, and not promised as a moat until demonstrated.
 
----36:Tacb,
+---35:Tacb,
 
 ## Go-to-Market Strategy
 

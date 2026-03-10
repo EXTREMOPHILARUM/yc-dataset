@@ -2,6 +2,16 @@
 
 ## Overview
 
+Paid — later rebranded as Paid Labs — was a San Francisco-based fintech startup founded in September 2014 by Ryan Jackson, an MIT-trained electrical engineer and computer scientist. <sup><a href="https://theorg.com/org/modern-treasury/org-chart/ryan-jackson">[1]</a></sup> <sup><a href="https://www.ycombinator.com/companies/paid">[2]</a></sup> Backed by Y Combinator's Summer 2014 batch and seed funding from Founder Collective, the company set out to build an "Autopilot for Accounts Receivable" — a developer-first API that let businesses automate invoicing, payment collection, and reconciliation in roughly 30 minutes of integration time. <sup><a href="https://www.ycombinator.com/companies/paid">[3]</a></sup>
+
+Paid failed to achieve meaningful scale in the general-purpose accounts receivable market because it was building a horizontal feature in a space where Stripe, PayPal, and established accounting software incumbents could absorb the same functionality at zero marginal cost to their existing customers. The company never disclosed revenue, and third-party estimates placed annual revenue below $1 million with fewer than ten employees throughout its life. <sup><a href="https://www.owler.com/company/paidapi">[4]</a></sup>
+
+Facing commoditization pressure, Paid pivoted to serve the auction industry through a partnership with Auction Mobility, eventually rebranding as Paid Labs. Auction Mobility acquired the company on January 25, 2019 — roughly four and a half years after founding. <sup><a href="https://www.einpresswire.com/article/474605284/auction-mobility-acquires-paid-labs-expanding-its-back-office-and-invoicing-solution">[5]</a></sup> Auction Mobility itself was subsequently acquired by Auction Technology Group in October 2020, folding Paid Labs' technology into a larger industry consolidator. <sup><a href="https://www.cbinsights.com/investor/auction-mobility">[6]</a></sup> Jackson departed post-acquisition and joined Modern Treasury as a Product Manager. <sup><a href="https://theorg.com/org/modern-treasury/org-chart/ryan-jackson">[7]</a></sup>
+
+<report-gallery>
+<media-image src="https://bookface-images.s3.amazonaws.com/small_logos/fae29a98d132c4b435b336dbb5d6cf4a1aaf5de7.png" alt="Paid (YC S14) company logo from Y Combinator bookface" caption="Paid's logo as listed in the Y Combinator startup directory — one of 457 companies in the S14 batch, and one of the few to attempt a horizontal fintech infrastructure play at the API layer."></media-image>
+</report-gallery>
+
 ## Founding Story
 
 Ryan Jackson founded Paid in September 2014, immediately following the company's participation in Y Combinator's Summer 2014 batch. <sup><a href="https://theorg.com/org/modern-treasury/org-chart/ryan-jackson">[1]</a></sup> <sup><a href="https://www.ycombinator.com/companies/paid">[2]</a></sup> Jackson held undergraduate and graduate degrees from MIT in electrical engineering and computer science — a technical pedigree that shaped the company's developer-first product philosophy. <sup><a href="https://theorg.com/org/modern-treasury/org-chart/ryan-jackson">[8]</a></sup>

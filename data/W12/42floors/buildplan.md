@@ -6,7 +6,7 @@
 
 The rebuild thesis is not to try again at the same problem with better design. Three structural changes make a different attack viable in 2026: LLMs can now extract structured listing data from unstructured broker documents without broker cooperation, the WeWork and Knotel bankruptcies have left the sub-5,000 sq ft flex market without a dominant discovery layer, and the hybrid work cycle has compressed office decisions from once-a-decade events into annual ones. The new version is a broker-side SaaS platform with a tenant-facing search layer built on top — charging brokers for AI-powered tenant matching rather than competing with them for commissions, and using that cooperation to build the listing coverage that killed the original.
 
----34:T883,
+---33:T883,
 
 ## Why Now?
 
@@ -31,7 +31,7 @@ The US commercial real estate leasing market is not cleanly sized for the sub-5,
 - **CoStar/LoopNet**: The dominant incumbent. LoopNet has 11M+ monthly visitors (CoStar investor materials, 2023) but its UX remains broker-first and data-table-heavy. Its specific weakness in 2026: CoStar's attention is split toward residential (Homes.com), and LoopNet's small-tenant product has not meaningfully improved since 42Floors competed with it. CoStar's data moat is real but its product moat is not.
 - **CommercialCafe (Yardi)**: The direct heir to 42Floors' brand and URL. Yardi's weakness is that it is an enterprise software company optimizing for property managers and institutional landlords, not small tenants. The consumer UX gap that 42Floors originally identified still exists inside CommercialCafe.
 - **Crexi**: The most credible current challenger, with 500,000+ listings and a mobile-first product (Crexi's own figures, 2023). Crexi's weakness is that it skews toward investment sales and larger transactions, not the sub-5,000 sq ft lease market.
-- **Industrious, Regus/IWG, Flex by JLL**: Flex operators with direct booking but no cross-operator search. A tenant cannot compare an Industrious space against a Regus space against a sublease on any single platform. This is the gap.36:T999,
+- **Industrious, Regus/IWG, Flex by JLL**: Flex operators with direct booking but no cross-operator search. A tenant cannot compare an Industrious space against a Regus space against a sublease on any single platform. This is the gap.35:T999,
 
 ## Defensibility Against Platform Incumbents
 

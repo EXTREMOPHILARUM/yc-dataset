@@ -6,7 +6,7 @@ Gander was a New York-based YC F24 startup founded in 2024 by Arjan Guglani and 
 
 The rebuild thesis is this: the DOT's October 2024 automatic cash refund mandate has transformed airline reimbursement processing from a discretionary efficiency play into a legal compliance obligation, creating a procurement forcing function that did not exist when Gander launched — and targeting low-cost carriers (LCCs) and ultra-low-cost carriers (ULCCs) instead of legacy network carriers cuts the sales cycle from eighteen months to a window where a well-capitalized seed-stage company can survive. **Gander 2.0 is a compliance-first AI claims processing platform for LCCs, using mandatory DOT refund workflows as the wedge into broader disruption automation.**
 
----31:Ta4c,
+---32:Ta4c,
 
 ## Why Now?
 

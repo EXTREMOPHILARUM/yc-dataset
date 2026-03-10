@@ -6,7 +6,7 @@ Ozone 2026 is a browser-native video editor built for small creative agencies an
 
 The timing window is now. CapCut's forced US divestment in January 2025 displaced millions of creators and agencies who built their workflows around it. Unlike the original Ozone, which competed on technical novelty against entrenched incumbents, this version competes on migration friction—we solve the immediate problem of teams who need to move their projects somewhere trustworthy and fast. One-click CapCut import removes the switching cost entirely.
 
-Go-to-market is direct sales to creative agencies and in-house video teams, starting with agencies already losing CapCut access. The pitch is simple: keep your workflow, add collaboration, keep your data in the US. Launch with 500 paying teams in six months, target $150/month per account, and own the post-CapCut vacuum before Adobe or another well-funded player fills it.34:T8cc,
+Go-to-market is direct sales to creative agencies and in-house video teams, starting with agencies already losing CapCut access. The pitch is simple: keep your workflow, add collaboration, keep your data in the US. Launch with 500 paying teams in six months, target $150/month per account, and own the post-CapCut vacuum before Adobe or another well-funded player fills it.33:T8cc,
 
 ## Why Now?
 

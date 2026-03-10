@@ -2,6 +2,15 @@
 
 ## Overview
 
+Argovox was a Y Combinator S22 company that built AI voice agents for patient billing and collections in the US healthcare market.Founded in 2022 by Nelson Munoz and Luis Pellerano under the legal entity Ruffo Inc., the company raised only the standard $500K YC pre-seed check and never announced a follow-on round. <sup><a href="https://www.crunchbase.com/organization/argovox">[1]</a></sup> By 2025, the company's website had reduced to a near-blank page, its CPO had departed to a stealth startup, and its CEO had founded a new voice AI company targeting LatAm banking. <sup><a href="https://www.argovox.com/">[2]</a></sup> <sup><a href="https://govox.ai/">[3]</a></sup> The core thesis of failure is that Argovox entered one of the most compliance-heavy, slow-sales-cycle markets in enterprise software — US healthcare billing — with a small team lacking deep technical credentials, insufficient capital to outlast long procurement cycles, and a product category that was rapidly commoditizing as large AI platforms entered the space.
+
+The company appears to have quietly wound down rather than formally shutting, with founders pivoting to adjacent opportunities.
+
+<report-gallery>
+<media-image src="https://images.crunchbase.com/image/upload/c_pad,h_256,w_256,f_auto,q_auto:eco,dpr_1/mnffclqdavsfvecyc10j?ik-sanitizeSvg=true" alt="Argovox - Crunchbase Company Profile & Funding" caption="Argovox's Crunchbase profile — a company that raised exactly one check, the standard $500K YC pre-seed in September 2022, and never announced another round as healthcare's long procurement cycles quietly drained the clock."></media-image>
+<media-image src="https://cdn-1.webcatalog.io/catalog/argovox/argovox-icon-filled-256.png?v=1716618159550" alt="Argovox - Desktop App for Mac, Windows (PC) - WebCatalog" caption="The Argovox logo, still indexed by app catalogues in 2024 long after the company's website had faded to near-blank — a digital ghost of a voice AI startup that once promised to eliminate collection agencies from US healthcare billing entirely."></media-image>
+</report-gallery>
+
 ## Founding Story
 
 Nelson Munoz and Luis Pellerano brought complementary but unconventional backgrounds to a technically demanding problem. Munoz holds a master's degree in engineering and management from MIT and a bachelor's in business administration from Babson College. <sup><a href="https://www.ycombinator.com/companies/argovox">[4]</a></sup> Before Argovox, he accumulated over nine years of experience across technology startups, fintech, machine learning, and product management in both the United States and the Dominican Republic, with stints at DVx Ventures and PwC in the US, and ITC Finnova and Fihogar in the Dominican Republic. <sup><a href="https://www.ycombinator.com/companies/argovox">[4]</a></sup> Pellerano came from a different world entirely: eight-plus years as an M&A and capital markets attorney at Simpson Thacher in New York and Palo Alto, with an LL.M. from UC Berkeley School of Law. <sup><a href="https://www.ycombinator.com/companies/argovox">[4]</a></sup>
@@ -90,7 +99,7 @@ The company's stated value proposition — recovering up to 20% of lost profit m
 
 Revenue figures from third-party databases suggest the company reached somewhere between $750K and $1.1M in annual revenue before contracting. <sup><a href="https://getlatka.com/companies/argovox.com">[9]</a></sup> <sup><a href="https://leadiq.com/c/argovox-yc-s22/644ff0dcbe10691471893f1a">[12]</a></sup> No information on pricing, contract sizes, customer count, or gross margins was publicly available.
 
----2e:T5b5,
+---2f:T5b5,
 
 ## Traction
 
@@ -164,6 +173,6 @@ This pattern — no shutdown announcement, no acquisition, no post-mortem — is
 10. [ContactOut — Luis R. Pellerano](https://contactout.com/luis-r-pellerano-91624)
 11. [CloudHire.ai — From Debt to Collaboration](https://www.cloudhire.ai/from-debt-to-collaboration/)
 12. [LeadIQ — Argovox YC S22](https://leadiq.com/c/argovox-yc-s22/644ff0dcbe10691471893f1a)
-13. [CBInsights — Argovox](https://www.cbinsights.com/company/argovox)32:T45e,By 2026, Argovox rebuilds as a lightweight voice automation layer for mid-market physician practices—not a full billing platform, but a plug-and-play agent that sits on top of existing EHR systems (Athenahealth, Kareo) and handles outbound patient collections calls at a fraction of traditional agency costs. The insight is simple: voice infrastructure commoditized between 2022 and 2025. Vapi and Retell AI now handle reliability; GPT-4o handles reasoning. What's missing is healthcare-specific orchestration—the compliance guardrails, EHR connectors, and outcome tracking that turn a generic voice API into a revenue recovery tool practices actually deploy.
+13. [CBInsights — Argovox](https://www.cbinsights.com/company/argovox)33:T45e,By 2026, Argovox rebuilds as a lightweight voice automation layer for mid-market physician practices—not a full billing platform, but a plug-and-play agent that sits on top of existing EHR systems (Athenahealth, Kareo) and handles outbound patient collections calls at a fraction of traditional agency costs. The insight is simple: voice infrastructure commoditized between 2022 and 2025. Vapi and Retell AI now handle reliability; GPT-4o handles reasoning. What's missing is healthcare-specific orchestration—the compliance guardrails, EHR connectors, and outcome tracking that turn a generic voice API into a revenue recovery tool practices actually deploy.
 
-The go-to-market targets independent and small group practices ($2M–$20M annual billing) drowning in bad debt but too small to justify in-house collections teams or agency fees. Argovox wins by being 60% cheaper than agencies, HIPAA-native from day one, and deployed in weeks rather than months. Distribution runs through Athenahealth's marketplace and direct outreach to practice managers—the same buyers who already trust the EHR vendor ecosystem.33:T996,
+The go-to-market targets independent and small group practices ($2M–$20M annual billing) drowning in bad debt but too small to justify in-house collections teams or agency fees. Argovox wins by being 60% cheaper than agencies, HIPAA-native from day one, and deployed in weeks rather than months. Distribution runs through Athenahealth's marketplace and direct outreach to practice managers—the same buyers who already trust the EHR vendor ecosystem.34:T996,

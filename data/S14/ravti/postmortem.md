@@ -2,6 +2,16 @@
 
 ## Overview
 
+Ravti was a commercial real estate software company founded by Alex Rangel and Chris Ginter, operating from approximately 2012 to 2020. The company built a platform to digitize, manage, and procure HVAC systems for commercial property owners — solving a problem that Rangel had witnessed firsthand as a sales engineer at Trane: most building managers had no reliable record of what HVAC equipment they owned, let alone a system to maintain or replace it efficiently. Ravti participated in Y Combinator's Summer 2014 batch and raised from a proptech-focused investor syndicate that included Homebrew, Brick & Mortar Ventures, and MetaProp.
+
+Ravti built a genuinely useful product and demonstrated early traction, but it remained a narrow point solution in a market where distribution belonged to incumbent property management platforms. The company could not scale independently to the size required for a standalone enterprise software business.
+
+In January 2021, Building Engines acquired Ravti for an undisclosed sum, immediately folding its technology into a new HVAC module inside Building Engines' Prism platform. Ten months later, JLL (Jones Lang LaSalle) acquired Building Engines for approximately $300 million — meaning Ravti's technology ultimately landed inside one of the world's largest commercial real estate services firms. The value accrued to the platform aggregator, not the point solution.
+
+<report-gallery>
+<media-image src="https://www.buildingengines.com/wp-content/uploads/2021/03/ravti-mockup-new-480x296.png" alt="Ravti HVAC management platform UI mockup as shown on Building Engines' website post-acquisition" caption="Ravti's HVAC management interface as showcased by Building Engines after the January 2021 acquisition — the product that had operated as a standalone platform for six years was rebranded as a module inside Prism within months of the deal closing."></media-image>
+</report-gallery>
+
 ## Founding Story
 
 Alex Rangel came to the HVAC software problem the hard way: by living inside it. Working as a sales engineer for Trane in Florida, Rangel encountered the same dysfunction repeatedly across commercial properties — building managers who could not identify which HVAC units they owned, had no maintenance history for their equipment, and were paying retail prices for replacements because they lacked the purchasing leverage that came with organized inventory data.<sup><a href="https://techcrunch.com/2014/08/19/yc-backed-ravti-wants-to-digitize-the-hvac-industry/">[1]</a></sup>

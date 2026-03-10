@@ -6,7 +6,7 @@ Beek was a Spanish-language audio subscription platform founded in Austin, Texas
 
 The rebuild thesis is this: AI-generated narration has collapsed the cost of producing Spanish-language audio content by roughly 100x, eliminating the creator subsidy that made Beek's original model expensive and acquisition-prone, while Spotify's proven audiobook subscription in Latin America means the market no longer needs to be educated. The new version is a lean, AI-native Spanish-language audio studio and subscription platform built explicitly to be acquired — not to out-scale Audible, but to become the catalog asset that Spotify, Apple, or a LatAm media conglomerate needs next.
 
----34:T5b0,
+---33:T5b0,
 
 ## Why Now?
 
@@ -52,9 +52,9 @@ The honest answer is that it probably will — and the strategy should be design
 
 If the goal is long-term independence rather than a catalog exit, the defensibility case is weaker and should be stated honestly: a well-capitalized incumbent can replicate this model within 18–24 months of seeing it work.
 
----37:T4a5,$7.99/month (vs. Beek's $12/month). Justification: Spotify Premium in Mexico costs approximately MXN $99/month (~$5.50 USD as of 2025); a Spanish-language audio subscription must price within 50% of Spotify to avoid the "why not just use Spotify" objection. Spotify's audiobook catalog in Spanish is thin — this is the differentiation — but the price anchor is Spotify, not Audible. Free alternatives that overlap: Spotify free tier (podcast audio, no audiobooks), YouTube (some Spanish audiobook content, ad-supported), WhatsApp audio (social, not curated). The $7.99 price is defensible if the catalog contains original content unavailable elsewhere — which is the explicit strategy. If the catalog is not exclusive, the price is not defensible. Annual plan at $59.99 (~$5/month) should be offered at launch to improve cash flow and reduce churn.
+---36:T4a5,$7.99/month (vs. Beek's $12/month). Justification: Spotify Premium in Mexico costs approximately MXN $99/month (~$5.50 USD as of 2025); a Spanish-language audio subscription must price within 50% of Spotify to avoid the "why not just use Spotify" objection. Spotify's audiobook catalog in Spanish is thin — this is the differentiation — but the price anchor is Spotify, not Audible. Free alternatives that overlap: Spotify free tier (podcast audio, no audiobooks), YouTube (some Spanish audiobook content, ad-supported), WhatsApp audio (social, not curated). The $7.99 price is defensible if the catalog contains original content unavailable elsewhere — which is the explicit strategy. If the catalog is not exclusive, the price is not defensible. Annual plan at $59.99 (~$5/month) should be offered at launch to improve cash flow and reduce churn.
 
-**Stress-test:** A Mexican listener currently gets Spanish-language podcasts free on Spotify and can find some audiobook content on YouTube. The $7.99/month ask requires the catalog to contain content they cannot get elsewhere. This means exclusivity windows on creator content are non-negotiable from day one — not a nice-to-have.38:T985,
+**Stress-test:** A Mexican listener currently gets Spanish-language podcasts free on Spotify and can find some audiobook content on YouTube. The $7.99/month ask requires the catalog to contain content they cannot get elsewhere. This means exclusivity windows on creator content are non-negotiable from day one — not a nice-to-have.37:T985,
 
 ## Recommended MVP
 

@@ -2,6 +2,12 @@
 
 ## Overview
 
+Gander was a New York-based AI startup founded in 2024 by Arjan Guglani and Andrew Dixon as part of Y Combinator's Fall 2024 batch. <sup><a href="https://www.ycombinator.com/companies/gander">[1]</a></sup> The company set out to automate the most expensive and compliance-heavy customer service workflows in commercial aviation — processing reimbursement claims, rebooking disrupted passengers, and eventually expanding AI into broader airline operations. <sup><a href="https://www.ycombinator.com/launches/MJh-gander-ai-customer-service-for-airlines">[2]</a></sup>
+
+Gander failed because its target customer — the commercial airline — is structurally incompatible with a pre-seed startup's runway. Enterprise procurement in aviation moves in quarters and years; Gander's cash likely measured in months. The company never publicly confirmed closing its first customer launch, pivoted to a different market segment (private jet operators), and was acquired by an undisclosed buyer before it could validate product-market fit in either vertical.
+
+Gander's YC profile now lists its status as "Acquired." <sup><a href="https://www.ycombinator.com/companies/gander">[3]</a></sup> Both founders have since moved on — CTO Andrew Dixon returned to Meta and CEO Arjan Guglani joined Archer Aviation — and no acquisition price, acquirer name, or public post-mortem has been disclosed. <sup><a href="https://www.linkedin.com/in/andrewdixon139/">[4]</a></sup> <sup><a href="https://www.linkedin.com/in/arjanguglani/">[5]</a></sup> The outcome is consistent with a quiet acqui-hire rather than a strategic product acquisition.
+
 ## Founding Story
 
 Arjan Guglani graduated from the University of Michigan's Ross School of Business in April 2023 with a dual degree in Business Administration and User Experience Design. <sup><a href="https://uploads-ssl.webflow.com/5fe252dfccdc3a202c48a5f1/613ba52c3e4b3d5a815a90c3_Arjan_Guglani-Resume.pdf">[6]</a></sup> His career before Gander read like a deliberate preparation for the company he would eventually build: product roles at American Airlines and United Airlines gave him direct exposure to the operational dysfunction of airline customer service, while a stint as an investor at Insight Partners — where he focused on aviation software — gave him a view of the market from the capital side. He also spent time at Bain & Company and was an investor at Dorm Room Fund. <sup><a href="https://clay.earth/profile/arjan-guglani">[7]</a></sup>

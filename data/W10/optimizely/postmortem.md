@@ -2,6 +2,17 @@
 
 ## Overview
 
+Optimizely was founded in 2010 by Dan Siroker and Pete Koomen, both former Google employees, as a self-serve A/B testing and website optimization platform. Built on the insight that non-technical marketers needed a way to run experiments without engineering support, the company grew from a YC Winter 2010 startup into a $600M-valued enterprise software company with $100M+ ARR, 1,000+ customers, and a roster that included Nike, Uber, IBM, and more than a quarter of the Fortune 100.<sup><a href="https://en.wikipedia.org/wiki/Optimizely">[1]</a></sup>
+
+Optimizely's failure was not a product failure — it was a valuation trap. The company raised $252M against a $600M valuation in a market where its core capability, A/B testing, was being commoditized from below by free tools and absorbed from above by Adobe, Google, and enterprise platform incumbents. The result was a below-valuation acquisition rather than the IPO its capital structure demanded.<sup><a href="https://www.bloomberg.com/news/articles/2020-09-03/goldman-backed-startup-optimizely-to-be-acquired-by-episerver">[2]</a></sup>
+
+Episerver acquired Optimizely in October 2020 for an undisclosed price reported as below $600M — a down-round exit after a decade of genuine growth.<sup><a href="https://techcrunch.com/2020/09/03/episerver-acquires-optimizely/">[3]</a></sup> The acquirer subsequently rebranded its entire combined company as "Optimizely," a telling signal that the brand was worth more than the organizational structure it came with. Both founders departed within a year of the deal closing.
+
+<report-gallery>
+<media-image src="https://files.readme.io/66777db2506e694fe279d97f7e523c4cb2d68fdffa527056bfdaa16ff6c2f08c-CMS-SaaS-product-chooser.png" alt="Optimizely CMS SaaS product interface" caption="The post-acquisition Optimizely CMS interface — a product suite that expanded far beyond the simple A/B testing tool that made the company famous, reflecting a decade of platform sprawl under valuation pressure."></media-image>
+<media-image src="https://media.licdn.com/dms/image/C4E18AQF35xBOlhb5qw/companyUpdate-article-image-shrink_627_1200/0/1661532597270?e=2147483647&v=beta&t=aSrPH7q3_6q0S9ub-exwI2PEDZ1xidVG0PwUzw15nBw" alt="Optimizely expanding enterprise sales team" caption="Optimizely's 2022 push to expand its national Field Enterprise Account Executive team — a post-acquisition effort to build the enterprise sales motion the original company never fully cracked."></media-image>
+</report-gallery>
+
 ## Founding Story
 
 Dan Siroker's path to Optimizely ran directly through the Obama 2008 presidential campaign. Siroker, a Stanford computer science graduate who had worked as a product manager on Google Chrome and AdWords, took a leave of absence to serve as the campaign's Director of Analytics.<sup><a href="https://www.crunchbase.com/person/dan-siroker">[4]</a></sup> There, he applied systematic A/B testing to the campaign's donation pages — testing different images, headlines, and button copy — and the results were striking: the optimization work generated an estimated $60 million in incremental donations.<sup><a href="https://research.contrary.com/company/optimizely">[5]</a></sup>

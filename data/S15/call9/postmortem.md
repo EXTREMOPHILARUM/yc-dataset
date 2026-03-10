@@ -2,6 +2,17 @@
 
 ## Overview
 
+Call9 was a Brooklyn-based healthcare startup that embedded paramedics and nurses inside skilled nursing facilities 24/7, connecting them via a proprietary telemedicine platform to remote emergency medicine physicians within one minute.Founded in 2015 by ER physician Timothy Peck, Stanford radiology fellow Celina Tenev, and Stanford computer scientist XiaoSong Mu, the company raised $34 million in venture capital and conducted more than 150,000 telemedicine encounters before shutting down in June 2019.
+
+Its clinical results were peer-reviewed and genuine: an 80% reduction in unnecessary hospital transfers, saving an estimated $8 million per year per 200-bed facility.The company did not fail because its product failed.
+
+It failed because Medicare's pre-COVID telehealth reimbursement rules capped revenue from urban nursing homes, a controlling investor pushed a fee-for-service strategy that contradicted the company's value-based care model, and the resulting strategic paralysis prevented a Series C from closing.Nine months after Call9 shut down, CMS removed the very restrictions that had made its business model unworkable.
+
+<report-gallery>
+<media-image src="https://techcrunch.com/wp-content/uploads/2016/01/call9_logo.png?w=738" alt="TechCrunch article: Call9 Raises $10 Million Series A Led by Index Ventures" caption="January 2016 — Call9 closes a $10M Series A led by Index Ventures, with backing from Anne Wojcicki and Joe Lonsdale. The company was riding high, its nursing-home telemedicine model drawing serious institutional money. Three years later, a Medicare reimbursement rule would unravel everything."></media-image>
+<media-image src="https://techcrunch.com/wp-content/uploads/2015/07/callinterface.png?w=169" alt="Call9 Delivers On-Demand Doctors In Emergency Situations | TechCrunch" caption="The Call9 interface as it appeared at launch in July 2015 — a paramedic or nurse inside a skilled nursing facility could connect a frail elderly patient to a remote ER physician within sixty seconds, bypassing the 911 call that would otherwise guarantee a traumatic hospital transfer. The product worked. The reimbursement system didn't."></media-image>
+</report-gallery>
+
 ## Founding Story
 
 Timothy Peck spent years watching the same scene repeat itself in emergency rooms. Elderly nursing home residents — many with dementia, many already frail — would arrive by ambulance in acute distress, only to deteriorate further in the chaos of a busy ER. The hospital environment itself was making them worse. Peck, who had practiced emergency medicine at Beth Israel Deaconess Medical Center in Boston, became convinced that the problem was structural: the only tool nursing homes had in a medical emergency was a phone call to 911, which guaranteed a hospital transfer regardless of whether one was medically necessary.<sup><a href="https://medcitynews.com/2019/06/new-york-telemedicine-startup-call9-winding-down-operations/">[1]</a></sup>

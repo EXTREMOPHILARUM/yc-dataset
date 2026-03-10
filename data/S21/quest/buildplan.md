@@ -32,7 +32,7 @@ The global online professional development and e-learning market was valued at a
 
 The gap: no current product combines AI-seeded content, verified expert audio, and a monetization layer for contributors in a short-form, asynchronous format targeting early-career professionals.
 
----35:T829,
+---34:T829,
 
 ## Recommended MVP
 

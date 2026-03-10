@@ -307,36 +307,49 @@ def _extract_company_json(decoded_chunks: list[str]) -> dict | None:
     return None
 
 
-def _build_rsc_text_map(decoded_chunks: list[str]) -> dict[str, str]:
+def _build_rsc_text_map(decoded_chunks: list[str], company_data: dict | None = None) -> dict[str, str]:
     """Build a map of RSC ref keys to their text content.
 
     RSC flight format uses T-header chunks like "2a:Td5c," to declare a text
     node with key "2a" and hex-length d5c.  The actual text follows in the
     next chunk.  The very first text chunk (before any T-header) is keyed by
-    the first $ref found in the company data (usually "29").
+    the first $ref found in the company's report sections.
     """
     text_map = {}
     pending_key = None
 
-    # Two-pass approach:
-    # Pass 1: find the index of the first T-header
+    # Determine the overview key from the company data — it's the first $ref
+    # in the report sections (varies per request, e.g. $28, $29, $2a)
+    overview_key = None
+    if company_data:
+        for tab in ("report", "buildPlan"):
+            sections = company_data.get(tab, {})
+            if isinstance(sections, dict):
+                sections = sections.get("sections", [])
+            for sec in sections:
+                ref = sec.get("content", "")
+                if isinstance(ref, str) and ref.startswith("$"):
+                    overview_key = ref[1:]
+                    break
+            if overview_key:
+                break
+
+    # Find the first T-header index
     first_t_idx = None
     for i, chunk in enumerate(decoded_chunks):
         if re.match(r'^[0-9a-f]+:T[0-9a-f]+,', chunk):
             first_t_idx = i
             break
 
-    # The Overview chunk (key "29") is the last bare prose chunk before the
-    # first T-header. Scan backwards from first_t_idx to find it.
-    if first_t_idx is not None:
+    # The Overview chunk is the last bare prose chunk before the first T-header.
+    if first_t_idx is not None and overview_key is not None:
         for i in range(first_t_idx - 1, -1, -1):
             chunk = decoded_chunks[i]
-            # Must be substantial prose, not framework/component code
             if (len(chunk) > 100
                 and not re.match(r'^(\d+:|\[|I\[|[0-9a-f]+:)', chunk)
                 and "className" not in chunk[:200]
                 and "react." not in chunk[:200]):
-                text_map["29"] = chunk
+                text_map[overview_key] = chunk
                 break
 
     # Pass 2: process T-header chunks and their following text
@@ -370,7 +383,7 @@ def _extract_rsc_data(html: str) -> dict:
     decoded_chunks = _decode_rsc_chunks(html)
 
     company_data = _extract_company_json(decoded_chunks)
-    text_map = _build_rsc_text_map(decoded_chunks)
+    text_map = _build_rsc_text_map(decoded_chunks, company_data)
 
     # Also keep the old text_chunks for full_text fallback
     text_chunks = {}
