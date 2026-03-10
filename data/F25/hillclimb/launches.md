@@ -1,0 +1,53 @@
+# Launches
+
+## hillclimb - Training data derived from human superintelligence
+
+Hello! We’re Jun Park and Ibrakhim Ustelbay, founders of[ hillclimb](https://www.hillclimb.ing).
+
+_TLDR: To close the gap between today and the arrival of artificial superintelligence, we’re building a community of the world’s brightest minds to create the next generation of training data. Starting with math, we’ve formed the world’s densest cluster of IMO medalists, lean experts, and other math talent to design **RL environments** for frontier labs._\
+\
+[Launch Video](https://youtu.be/30y3-SbRfZM)
+
+# The Problem - Data is accelerating on every axis
+
+**3 years ago,** we were impressed that ChatGPT could get good SAT scores. Today, GPT-5 and other frontier models assist meaningfully in coding, research, and tool use. Within two years, AI systems will autonomously [extend the frontier of science](https://x.com/SebastienBubeck/status/1958198661139009862?s=20).
+
+**Behind every leap in capability is a leap in the sophistication of data:**
+
+* From simple supervised fine-tuning → to richly structured RL environments → to world models and beyond
+* From mass labor → to curated, deeply intellectual data generation
+* From “labeling tasks” → to capturing the reasoning processes of domain experts
+
+![uploaded image](https://www.ycombinator.com/media/?type=post&id=95533&key=user_uploads/1934623/128c37ee-f8e8-411b-9826-4b1b4492a9e2)
+
+_If AI reflects the intelligence of the people who shape its training data, the next era of progress requires the smartest humans on the planet._
+
+# The Solution - The world’s first _human superintelligence_ community
+
+![uploaded image](https://www.ycombinator.com/media/?type=post&id=95533&key=user_uploads/1934623/1e971272-cd2e-46d9-9814-f81268047155)
+
+**In our first 2 months, we’ve:**
+
+* Built the densest cluster of elite math talent in the industry (IMO medalists, [Putnam Top 50](https://maa.org/wp-content/uploads/2025/03/2024-William-Lowell-Putnam-Competition-Announcement-of-Winners.pdf), Lean formalization experts, etc.)
+* Created _training data_ pipelines that faithfully capture their problem-solving intelligence
+* Partnered with [Nous Research](https://nousresearch.com) to help train a model that’s SOTA for math competitions.
+
+**We recruit top talent with a 85% winrate** against incumbents because we treat them as partners, not gig workers. For our work with Nous, we’ve negotiated co-authorship for our mathematicians because the data they produce has become a critical component of AI research.
+
+**Researchers love working with us** because we drop them in our community, allowing the iteration loop to become radically tighter. Instead of waiting for dataset revisions, they collaborate directly with world-class minds and see improvements in minutes, not months.
+
+# Our Story  **🎮 → 👨‍💻 → ⛰️**
+
+It was only two years ago that we retired from competing professionally in esports. We taught ourselves to code and within a year, I became a research engineer at **DeepMind**, and Ibrakhim founded **Headstarter**, the first AI interviewer, scaling it to 100k+ users.
+
+In the business of connecting the world’s smartest people to frontier labs, I understand the AI researcher’s perspective on what makes good training data, and Ibrakhim understands how to properly vet talent.
+
+![uploaded image](https://www.ycombinator.com/media/?type=post&id=95533&key=user_uploads/1934623/08897fc4-b9c0-4dfd-913f-61f4bebd1998)
+
+# Our Ask
+
+If you work at a frontier lab and need data (or know anyone who does), please reach out! Email us at [founders@hillclimb.ing](mailto:founders@hillclimb.ing)
+
+Also, check out our site at [hillclimb.ing](http://hillclimb.ing). Thanks for the support!
+
+![uploaded image](https://www.ycombinator.com/media/?type=post&id=95533&key=user_uploads/1934623/797938d1-6d99-44f5-ad7d-1d302f0193fe)

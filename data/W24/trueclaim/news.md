@@ -1,0 +1,3 @@
+# News
+
+- [The 18 most interesting startups from YC’s Demo Day show we’re in an AI bubble](https://techcrunch.com/2024/04/03/ycs-winter-2024-demo-day-confirms-that-we-are-indeed-in-an-ai-bubble/?guccounter=1) (Apr 03, 2024)

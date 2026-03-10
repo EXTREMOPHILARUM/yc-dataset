@@ -1,0 +1,7 @@
+# News
+
+- [MarketForce raises $40 million Series A, introduces BNPL merchant stock financing – TechCrunch](https://techcrunch.com/2022/02/21/marketforce-raises-40-million-series-a-introduces-bnpl-merchant-stock-financing/) (Feb 21, 2022)
+- [MarketForce partners with Cellulant to expand in five new markets across Africa as it races to cover continent – TechCrunch](https://techcrunch.com/2021/12/05/marketforce-partners-with-cellulant-to-expand-in-five-new-markets-across-africa-as-it-races-to-cover-continent/?tpcc=tcplustwitter) (Dec 05, 2021)
+- [Kenya’s MarketForce raises $2M, plans to focus on its B2B retail marketplace RejaReja – TechCrunch](https://techcrunch.com/2021/07/08/kenyas-marketforce-raises-2m-plans-to-focus-on-its-b2b-retail-marketplace-rejareja/?guccounter=1&guce_referrer=aHR0cHM6Ly93d3cuZ29vZ2xlLmNvbS8&guce_referrer_sig=AQAAAB-aq1_SIDxxgEbS3t58vwGDSZ3BuFTYBmtWkysdllPffnmsYFWJIcwM4bIfbkTfCe7Dhrbj6kBH2DPOxP7Lv_MHRL4vwOmeV1mNx-9FcIbxvLDuI8duW0VjQwWwD_GmiNfx-pkvFq6GuNsfOWRgU3NXFjJb2RXk5trR_Ak6P6l1) (Jul 08, 2021)
+- [Kenya’s MarketForce 360 Bags US$350,000 Seed Round Led by ViKtoria Ventures (VBAN) - Founder360°](https://founder360mag.com/kenyas-marketforce-360-bags-us350000-seed-round-led-by-viktoria-ventures-vban/) (Jun 29, 2021)
+- [Kenya’s MarketForce acquires Digiduka to consolidate distribution of consumer goods with digital financial services - Disrupt Africa](https://disrupt-africa.com/2021/06/15/kenyas-marketforce-acquires-digiduka-to-consolidate-distribution-of-consumer-goods/) (Jun 14, 2021)

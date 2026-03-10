@@ -1,0 +1,4 @@
+# Founders
+
+## Sam Altman
+**Founder**

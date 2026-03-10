@@ -1,0 +1,65 @@
+# Launches
+
+## Noloco - Build internal tools for your team without code
+
+### **TLDR**
+
+It usually takes less than 20 minutes to build your first internal tool with Noloco, without writing a line of code. We’d love to help other startups improve their internal tooling while freeing up their developer resources. Try Noloco today and check out our YC Deal for the current batch and alumni.
+
+* [Sign up](https://portals.noloco.io/register?utm_source=yc&utm_medium=forum&utm_campaign=launch)
+* [YC Deal](https://bookface.ycombinator.com/deals/1610)
+* [Guides](https://guides.noloco.io/?utm_source=yc&utm_medium=forum&utm_campaign=launch)
+* [Video Tutorials](https://noloco.io/video-tutorials?utm_source=yc&utm_medium=forum&utm_campaign=launch)
+
+![uploaded image](https://www.ycombinator.com/media/?type=post&id=68486&key=user_uploads/567509/236105a3-2bbd-4c56-be5a-5d37f5edd08e)
+
+### **🤔 What’s the problem?**
+
+Many of us have experienced the pains of internal tooling in startups and scale-ups. From a management point of view, engineering resources dedicated to internal tooling are wasted as they should be focusing on customer-facing products. For developers, it’s a chore to work on unloved parts of the codebase that aren’t a priority for the business. And for other stakeholders in Product, Ops and Support, there’s never enough capacity to build the tools they desperately need, while the ones they have are slow, cluttered and the UX is often poor. 
+
+### **🙌 How does Noloco help?**
+
+[Noloco](https://noloco.io?utm_source=bookface&utm_medium=forum&utm_campaign=postgres) is the no-code platform for teams to instantly create internal tools from databases like PostgreSQL, MySQL, Airtable & Google Sheets.
+
+Once you connect your data source (e.g. PostgreSQL), Noloco automatically builds an app for you from your chosen tables including collection views (e.g. tables and kanban boards), record pages to view individual records and forms to add new records.
+
+Noloco provides a totally no-code builder. This genuinely makes building and configuring internal tools 10x faster. With our no-code first approach, Noloco also removes the reliance on engineers whenever your Ops, Customer Support, Product or Sales team want to make any changes or add new tools.
+
+![uploaded image](https://www.ycombinator.com/media/?type=post&id=68486&key=user_uploads/567509/8fb689b6-3b51-4d51-8691-67e67803b002)
+
+### **🛠️ What can I build with Noloco?**
+
+Customers around the world have built hundreds of internal tools with Noloco for a variety of use cases, including:
+
+* Internal tool for your customer support team to update customer plans
+* CRM to keep customer info up to date and trigger automated workflows
+* Dashboards to monitor product usage, sign-ups and converted customers
+* Project management tool for your Ops team 
+
+### **⏰ Build your first internal tool in 20 minutes**
+
+Most customers find that they can build a functional, useful tool for their teammates to view or update data in their database within 20 minutes. This is because Noloco does so much of the work for you in building the basic structure and pages of your app. 
+
+If you’d like to try building internal tools for your team without writing a line of code, you can [sign up here](https://portals.noloco.io/register?utm_source=yc&utm_medium=forum&utm_campaign=launch).
+
+We also have lots of useful resources to help you:
+
+* [Guides](https://guides.noloco.io/?utm_source=yc&utm_medium=forum&utm_campaign=launch)
+* [Video Tutorials](https://noloco.io/video-tutorials?utm_source=yc&utm_medium=forum&utm_campaign=launch) 
+
+### **💸 YC Deal**
+
+We’ve published our first YC Deal - see [redemption instructions](https://bookface.ycombinator.com/deals/1610) here.
+
+Current batch:
+
+* Free during the batch
+* 50% off all paid plans for your first 6 months after the batch
+
+Alumni:
+
+* 50% off all paid plans for your first 6 months 
+
+### **🙏 Asks**
+
+[Sign up](https://portals.noloco.io/register?utm_source=yc&utm_medium=forum&utm_campaign=launch) and see how quickly you can build internal tools for your team with Noloco.

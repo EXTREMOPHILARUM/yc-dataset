@@ -1,0 +1,7 @@
+# News
+
+- [Whatnot Raises $225 Million as Investors Bet on Livestream Shopping](https://www.nytimes.com/2025/10/28/business/dealbook/whatnot-livestream-shopping-fundraise.html) (Oct 28, 2025)
+- [Whatnot co-founder Grant Lafontaine on his plans for 2023](https://www.modernretail.co/technology/whatnot-co-founder-grant-lafontaine-on-the-livestream-shopping-platforms-plans-for-2023/) (Apr 18, 2023)
+- [Livestream Shopping Stays Hot As Whatnot Valuation More Than Doubles To $3.7 Billion](https://www.forbes.com/sites/laurendebter/2022/07/21/livestream-shopping-stays-hot-as-whatnot-takes-on-ebay-valuation-more-than-doubles-to-37-billion/?sh=57b6947bc4ed) (Jul 21, 2022)
+- [Fast-growing livestream shopping platform Whatnot acquires Pastel Labs, hires VP of engineering – TechCrunch](https://techcrunch.com/2022/02/02/fast-growing-livestream-shopping-platform-whatnot-acquires-pastel-labs-hires-vp-of-engineering/) (Feb 02, 2022)
+- [Whatnot raises another $150M for its livestream shopping platform, evolves into a unicorn – TechCrunch](https://techcrunch.com/2021/09/16/whatnot-raises-another-150m-for-its-livestream-shopping-platform-evolves-into-a-unicorn/?guccounter=1&guce_referrer=aHR0cHM6Ly93d3cubGlua2VkaW4uY29tLw&guce_referrer_sig=AQAAAAhaCNIdJrxshXAltWQyEpYhNtOuYBP8zd2H1exNimnxpLseoS63R1TOqgXZFOtnTWOZv_Duv38ZBbuxiwCV0O5Zmc1u6X8P_LIFNJeDm6WHZxHoYatOPHFXF0pjljibxiwMssgGWbyJ8b2CbAFHWbKB-dlcHsK857zs2Hq0DCHc) (Sep 16, 2021)

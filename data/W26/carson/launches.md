@@ -1,0 +1,69 @@
+# Launches
+
+## Carson: More secure than OpenClaw, More capable than Cowork
+
+**TL;DR:** AI agents are trapped in chat bubbles. Carson breaks free by generating dynamic interfaces like research dashboards or slide editors, customized to your current task. Carson is built for problem solvers pushing the bounds of AI in sales, marketing, and ops, with enterprise-grade security baked in.
+
+**Our ask:** Sign up to use Carson today at [usecarson.com](http://usecarson.com), it's free for your first 7 days.
+
+**Demo Video:** <https://www.youtube.com/watch?v=23sZGNMz3PU>
+
+### The Problem:
+
+AI tools today force you to choose between power and safety:
+
+**1) Openclaw is powerful but insecure** ([example](https://x.com/summeryue0/status/2025774069124399363))**:**
+
+![uploaded image](https://www.ycombinator.com/media/?type=post&id=98162&key=user_uploads/2724635/b2f3f2f6-a15c-437b-840a-e8e2f075c2d4)
+
+**2) Claude Cowork is too limited:** Cowork is useful, but it could do much more. For example, if you use Cowork to source candidates, you need to bounce between LinkedIn, email, and the desktop app. Its permissions system is also clunky: you either approve every single action manually or skip permissions entirely with YOLO mode.
+
+On some level security & autonomy are fundamental tradeoffs, but better tools should exist.
+
+### The Solution:
+
+Carson’s UI is generative, which means it changes to suit your use-case. Let’s walk through a common workflow as an example: **sales.**
+
+**Phase 1: Outbound**: Below, I first use Carson to research leads. It realizes that I want structured data, so it fills an editable spreadsheet with deep research. 
+
+Once that’s ready, I ask it to help me draft emails. Instead of switching between my LinkedIn, research, and my email, Carson generates a unified email workspace with all three in one pane.
+
+![uploaded image](https://www.ycombinator.com/media/?type=post&id=98162&key=user_uploads/2724635/4d5a7add-b0dd-4189-be0c-2f296cc24915)
+
+**Phase 2: First Meeting Prep (“Vibe Sliding”):** when the emails turn into meeting invites, I can use Carson to generate a customized slide deck based on the response & deep research (complete with branding)! I can also “vibe slide” and make edits to the slides using natural language.
+
+![uploaded image](https://www.ycombinator.com/media/?type=post&id=98162&key=user_uploads/2724635/c69368ec-fa33-4746-a005-ef640ff400d7)
+
+**Phase 3: Automations:** Carson can create and run automations in natural language. In this case, I ask Carson to send slides to me on Slack every time a new intro meeting comes up:
+
+![uploaded image](https://www.ycombinator.com/media/?type=post&id=98162&key=user_uploads/2724635/7ec59f08-0a16-4bb4-aefd-e686923d5a21)
+
+### 
+
+**Security Infrastructure**
+
+**TL;DR: You can actually install Carson at work.**
+
+We weren’t happy at all with the primitives out there on agentic security. The compromises range from the uncomfortable (granting broad access to your entire email & calendar) to deeply concerning (giving an agent secret keys and telling it “\_hey make no mistakes\_”).
+
+Instead, Carson is built around a fine-grained authorization system. You can tell the agent “\_it’s ok to send emails to these addresses, but ask me before interacting with those other ones\_”, and it’s enforced at the runtime level – the agent literally cannot send emails to unintended recipients.
+
+### **Our Asks:**
+
+If you’ve felt that Claude Cowork could be more capable or felt scared to try OpenClaw at work, Carson is right for you.
+
+Contact us at +1-614-984-8423 or at [sid@usecarson.com](mailto:sid@usecarson.com). We’ll come over and install Carson for you (if you ask nicely, there may be a bag of sumo oranges provided, too).
+
+**The Team**
+
+Alex, Sid, and Milan met doing college projects together at Harvard, and Sid and Ketan go way back (to elementary school).
+
+![uploaded image](https://www.ycombinator.com/media/?type=post&id=98162&key=user_uploads/2724635/275c90fc-a5a9-4199-a657-221b81dee677)
+
+**Sid (CEO)** was a tech lead on Palantir’s cloud infrastructure team, where he built secure deployment infrastructure for untrusted workloads. He studied CS at Harvard.
+
+**Milan (CTO)** was a cofounder of Bolto (YC S23) and previously worked on Palantir's ML infrastructure team, where he built tools for in-platform model deployment and evaluation. He studied CS at Harvard.
+
+**Ketan (CSO)** has worked as a machine learning engineer at Robust Intelligence where he red-teamed AI systems to make them fail, and at Snowflake where he built data-querying agents. He studied CS at Stanford.
+
+**Alex (CPO)** worked as a software engineer at Pinterest and at Flowcode where he led an effort to rearchitect the product for large enterprises. He studied CS at Harvard.

@@ -1,0 +1,63 @@
+# Launches
+
+## Lexius — 🚨 AI Security Guards
+
+**Hi! 👋** We’re [David](https://www.linkedin.com/in/davidelskamp) and [Liam](https://www.linkedin.com/in/liamwebsterxyz) - co-founders of [Lexius](https://www.lexius.ai/).
+
+## TL;DR
+
+Lexius turns existing security cameras into AI security guards that **detect theft, prevent liability, and turns months of video into searchable answers.** Trusted by 7-Eleven, Erewhon and Prada.
+
+**_Ask_:** Do you have/work with lot of **security cameras** or know someone who does? Email [david@lexius.ai](mailto:david@lexius.ai) or [book a demo here](https://calendar.app.google/TPJg27xLALWnndZq7).
+
+<https://youtu.be/lBq4dXcfb0k>
+
+## **❌** The Problem
+
+Buildings with security cameras generate **thousands of hours of footage**, but:
+
+* No one has time to review it
+* Investigations take days of scrubbing video
+* Critical moments get missed
+* Legacy systems are hard to access and impossible to scale
+
+_Security cameras generate video. They don’t generate answers._
+
+## 🎥 Our Solution
+
+Lexius runs on top of **any existing camera** system and gives them **superpowers**:
+
+* **Access**: Instantly view live or recorded footage from anywhere.
+
+![uploaded image](https://www.ycombinator.com/media/?type=post&id=98246&key=user_uploads/1856621/08a8927c-63df-49c5-bb65-e9288028a1eb)
+
+* **AI Alerts**: Receive real time alerts for shoplifting, fall incidents or anything you’d like. Sent right to your phone.
+
+![uploaded image](https://www.ycombinator.com/media/?type=post&id=98246&key=user_uploads/1856621/2c748d8f-91e3-422b-9d32-3570f8ad85dd)
+
+* **Search and Trace**: Instantly search across months of footage across all your sites and follow a person across multiple cameras and visits in seconds.
+
+![uploaded image](https://www.ycombinator.com/media/?type=post&id=98246&key=user_uploads/1856621/60b9cf00-9014-4f54-9211-e8269edb89e3)
+
+* **Repeat Offenders:** Automatically identify, track, and alert on individuals who return across multiple visits, helping teams build stronger cases and prevent problems.
+* **Case Building**: Automatically stitch events together and generate clean, ready to use case files with evidence.
+
+_Setup takes minutes, not weeks._
+
+## Who It’s For
+
+**Retail stores / Malls / Warehouses / Manufacturing sites / Hotels / Office buildings / Campuses / Casinos / Law enforcement**
+
+_If you have cameras, Lexius can unlock more value from them._
+
+## Erewhon loves our product and uses it across their stores!
+
+<https://youtu.be/KGi-CWVp0dc>
+
+## Try It Free
+
+**If you manage security cameras**, _or know someone who does,_ we’ll connect to your system in minutes and show you what AI can unlock from your existing system:
+
+👉 [Book a demo](https://calendar.app.google/TPJg27xLALWnndZq7) and try Lexius for free.
+
+[_www.lexius.ai_](https://www.lexius.ai/)
