@@ -1,0 +1,12 @@
+[
+  {
+    "slug": "reddit",
+    "name": "Reddit",
+    "batch": "S05",
+    "analyzed_at": "2026-03-11T00:00:00Z",
+    "source": "claude-generated",
+    "sections_generated": ["report", "buildplan", "techspecs"],
+    "source_count": 37,
+    "word_count": {"report": 3546, "buildplan": 2259, "techspecs": 4076}
+  }
+]
