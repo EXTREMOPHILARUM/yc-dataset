@@ -63,3 +63,19 @@ uv run python3 transform.py
 Each company is a directory of small markdown files with YAML frontmatter — designed for LLM agents to read efficiently without loading large JSON blobs.
 
 Use `data/index.json` to find companies by slug, batch, or status, then read individual files as needed.
+
+### `/analyze` Skill
+
+A Claude Code custom skill that generates comprehensive startup analysis for any company in the dataset — the same framework used by startups.rip but applicable to any startup (active, dead, or acquired).
+
+```bash
+/analyze reddit           # Full analysis (report + build plan + tech specs)
+/analyze reddit report    # Just the research report
+```
+
+Generates three files per company:
+- **Research Report** (`postmortem.md`) — founding story, timeline, product analysis, market position, business model, traction, post-mortem/current status, key lessons. Citation-heavy, 8+ sources.
+- **Build Plan** (`buildplan.md`) — how to rebuild the company today. Market analysis, competition map, MVP features, go-to-market strategy with specific pricing.
+- **Technical Specs** (`techspecs.md`) — full system architecture: tech stack, database schema, API routes, user flows, auth, deployment.
+
+The skill includes detailed per-section guides and real examples (20n) as quality anchors. See `.claude/skills/analyze/`.

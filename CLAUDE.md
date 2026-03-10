@@ -58,3 +58,18 @@ Batch codes: S05 = Summer 2005, W07 = Winter 2007, F24 = Fall 2024, Sp25 = Sprin
 **YC Detail Pages**: JSON blob in `data-page` HTML attribute. Decoded via `html.unescape` + `json.loads`. Checkpoints every 50 companies.
 
 **Startups.RIP**: Next.js RSC site. Content is in `self.__next_f.push([1,"..."])` flight payloads, not the DOM. `json.loads` on the raw array decodes JS string escaping generically. RSC pipeline: `_decode_rsc_chunks` → `_extract_company_json` → `_build_rsc_text_map` → `_resolve_section_content`.
+
+## Custom Skills
+
+### `/analyze <company> [sections]`
+
+Generates research report, build plan, and technical specs for any company in the dataset. Structured as a skill directory at `.claude/skills/analyze/`:
+
+- `SKILL.md` — Main command with frontmatter (`allowed-tools`, `argument-hint`), auto-loaded index search via `!`backtick`` injection, phased execution plan
+- `report-guide.md` — Section-by-section requirements for the 10-section research report (citations, tone, checklists)
+- `buildplan-guide.md` — Section-by-section requirements for the 6-section build plan
+- `techspecs-guide.md` — Section-by-section requirements for the 12-section technical spec
+- `quality-checklist.md` — Cross-document validation checklist
+- `examples/` — Real 20n analysis files from startups.rip as gold-standard examples
+
+Results are saved to the company's data directory and tracked in `raw/analyses.json`.
