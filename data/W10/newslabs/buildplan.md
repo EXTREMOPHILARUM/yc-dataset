@@ -45,7 +45,7 @@ Distribution channels available now that did not exist in 2010 include the Subst
 
 ## Recommended MVP
 
-## Core Feature 1: Journalist-Owned Personal Domains (Day One, Non-Negotiable)
+### Core Feature 1: Journalist-Owned Personal Domains (Day One, Non-Negotiable)
 
 Every journalist on the platform publishes at their own domain (`janesmith.com` or `janesmith.yourplatform.com` as a stepping stone), provisioned automatically via Cloudflare for SaaS integration. This is the feature NewsTilt cut and never recovered from. It is not a premium add-on — it is the product's reason to exist. Unlike NewsTilt's from-scratch build, this is implemented on top of Ghost's open-source CMS layer, reducing engineering scope to the domain provisioning and network layer only.
 

@@ -26,7 +26,7 @@ The window is open. The question is execution discipline.
 
 ## Current Market Analysis
 
-## Market Size
+### Market Size
 
 The U.S. home health care market exceeded $150B in 2023, up from approximately $103B in 2018 (source: research report). The addressable technology layer — scheduling, EVV, billing, RPM, and clinical documentation software — is a subset of this figure; a precise current estimate is not available in the sources reviewed and should not be invented. What is documented is that vertical SaaS incumbents serving this market have achieved significant scale, validating the technology spend.
 
@@ -51,7 +51,7 @@ Adjacent products confirm demand: Withings, iRhythm, and Best Buy Health's Curre
 
 ## Core Features
 
-## RPM-Integrated Connected Vitals Hub
+### RPM-Integrated Connected Vitals Hub
 
 A pre-configured, cellular-connected device kit (blood pressure cuff, pulse oximeter, weight scale) that automatically transmits readings to the agency dashboard, with CMS-compliant time-tracking built in to satisfy CPT 99457 billing requirements. This differs from the original Anchor Health hardware vision by using off-the-shelf FDA-cleared peripherals assembled into a branded kit via a contract manufacturer (Fictiv or equivalent), eliminating custom hardware development entirely. It matters because it converts the hardware layer from a cost into a direct Medicare billing line item — the structural change that makes the model viable.
 
@@ -82,7 +82,7 @@ No custom hardware silicon, no hospital-facing care coordination portal, no staf
 
 ## Go-to-Market Strategy
 
-## Target Customer Segment
+### Target Customer Segment
 
 Independent home health agencies with 50–200 active Medicare patients, operating in states with high RPM reimbursement uptake (Texas, Florida, and Ohio are documented high-volume Medicare home health states — CMS data). These agencies are large enough to have a dedicated administrator making technology decisions but small enough to be underserved by WellSky and Homecare Homebase's enterprise sales motions. Owner-operators in this segment are actively looking for revenue diversification because Medicare reimbursement rate pressure is compressing margins; RPM billing is a concrete answer to that problem.
 
@@ -92,6 +92,6 @@ The primary channel is direct outbound to agency administrators, supplemented by
 
 ## Pricing Strategy
 
-## Differentiation vs. 2026 Competitors
+### Differentiation vs. 2026 Competitors
 
 WellSky and Homecare Homebase sell compliance infrastructure; this platform sells a new revenue line. That reframe — from cost center to profit center — is the primary sales narrative and is not available to incumbents whose architecture predates RPM reimbursement. AlayaCare lacks U.S. Medicare billing depth. Axxess lacks RPM hardware integration. No current competitor owns the full loop: device → data → AI documentation → Medicare claim.

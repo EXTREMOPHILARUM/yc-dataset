@@ -10,7 +10,7 @@ The rebuild thesis is this: AI-generated narration has collapsed the cost of pro
 
 ## Why Now?
 
-## The single most important change: AI narration has eliminated the cost structure that made Beek's model fragile.
+### The single most important change: AI narration has eliminated the cost structure that made Beek's model fragile.
 
 Beek's creator marketplace required the company to subsidize recording studios, audio editing services, and production support to lower the barrier for independent Spanish-language creators. This cost center was offset by creator-driven user acquisition (70%+ of new users), but it also meant Beek's catalog was expensive to build and its creator relationships were contingent on continued platform support. When Audible offered global distribution, the economics shifted.
 
@@ -30,7 +30,7 @@ The distribution channels available now — Spotify's partner API, Apple Podcast
 
 ## Current Market Analysis
 
-## Market size today vs. Beek's operating years:
+### Market size today vs. Beek's operating years:
 
 The Spanish-language audio content gap has barely closed despite five years of incumbent attention. Audible's own December 2024 data cites approximately 50,000 Spanish audiobooks — up from the 25,000 Beek cited in 2019, but still roughly 10x less than English-language catalog depth relative to speaker population. The global audiobook market has grown significantly (estimated $6.7B in 2023 per Grand View Research), but LatAm-specific revenue figures are not publicly available in sources reviewed for this report. What is documented: Spotify reports 100M+ monthly active users in Latin America as of 2024, and the region represents one of its fastest-growing podcast markets — confirming audio consumption at scale.
 
@@ -60,7 +60,7 @@ If the goal is long-term independence rather than a catalog exit, the defensibil
 
 ## Core features:
 
-## AI-Assisted Audio Studio for Spanish-Language Creators
+### AI-Assisted Audio Studio for Spanish-Language Creators
 
 An in-browser production tool that takes a creator's manuscript or outline and produces a narrated audiobook using ElevenLabs or OpenAI TTS (both available via API as of 2024), with regional accent selection (Mexican, Colombian, Argentine, Castilian) and basic audio mastering. This replaces the recording studio subsidies that cost Beek significant operational overhead. Unlike the original, creators do not need to record themselves — they submit text and receive a finished audio file within hours. Creators who want their own voice can upload recordings for AI voice cloning (ElevenLabs supports this as of 2023). The studio is free for creators; the platform takes a revenue share on listener minutes.
 
@@ -92,7 +92,7 @@ A $7.99/month subscription (see pricing rationale in Section 4) giving listeners
 
 ## Go-to-Market Strategy
 
-## Target customer segment:
+### Target customer segment:
 
 Primary: Spanish-language podcast creators in Mexico with existing audiences of 5,000–50,000 followers on Spotify or YouTube who have no long-form audio monetization path. These creators already produce audio content, already have distribution habits, and already understand the format — they lack a revenue model for long-form work. Secondary: their existing listeners, who convert to subscribers when their favorite creator launches an audiobook on the platform. This replicates Beek's creator-as-distributor flywheel with a pre-qualified supply base.
 

@@ -37,7 +37,7 @@ The global eDiscovery market has grown from approximately $14.5B in 2023 to an e
 
 ## Core Features:
 
-## Mass Tort Entity Extraction Pipeline
+### Mass Tort Entity Extraction Pipeline
 
 Ingests PDFs, emails, and medical records common to mass tort cases and extracts a pre-configured entity schema: plaintiffs, defendants, exposure events, medical diagnoses, damages, and key dates. This matters because mass tort litigation involves thousands of near-identical documents with high-value pattern recognition across claimants — exactly the depth-vs.-breadth problem Abel identified. Unlike Abel's fully custom pipelines, this ships with a pre-built schema that works out of the box, reducing onboarding time from weeks to hours.
 

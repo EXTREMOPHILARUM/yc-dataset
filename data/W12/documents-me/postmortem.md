@@ -18,7 +18,7 @@ What is notable — and telling — is the proliferation of brand names. The leg
 
 ## Founding Story
 
-## Timeline
+### Timeline
 
 - **2011** — Nouvou, Inc. founded in Santa Clara, CA by Sai Kumar Thumuluru and Anirudh Ramachandran.<sup>[[2]](https://contactout.com/company/Nouvou-Inc-61191)</sup>
 

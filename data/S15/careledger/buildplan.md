@@ -38,7 +38,7 @@ The US employer-sponsored healthcare market was approximately $700 billion annua
 
 ## Recommended MVP
 
-## Feature 1 — AI-Powered Procedure Cost Navigator
+### Feature 1 — AI-Powered Procedure Cost Navigator
 
 An employee-facing chat interface, built on GPT-4o (released May 2024) or Claude 3.5 Sonnet (June 2024), that accepts a procedure name or referral description in plain language and returns a ranked list of local providers with price estimates, quality signals, and estimated out-of-pocket cost under the employer's specific plan. This replaces the manual concierge layer CareLedger's original model implicitly required, reducing cost-per-interaction to near zero. The original CareLedger required human coordination to match employees to providers; this feature makes that process self-serve and instant.
 

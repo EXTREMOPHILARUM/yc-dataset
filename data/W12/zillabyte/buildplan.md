@@ -41,7 +41,7 @@ The sales intelligence market has grown substantially since Zillabyte operated. 
 
 ## Recommended MVP
 
-## Feature 1: ICP Embedding Engine
+### Feature 1: ICP Embedding Engine
 
 Users paste in 5–10 of their best existing customers; the system embeds those companies using a combination of public firmographic data, technology stack signals, and LLM-extracted web descriptions, then retrieves the top 100 most similar companies from a corpus built on Common Crawl and public business registries. This directly implements the "Pandora for sales leads" mechanic Zillabyte described in 2013 but could not build. Unlike Apollo's filter-based search, similarity is semantic — it captures patterns the user cannot articulate explicitly.
 

@@ -39,7 +39,7 @@ Specific market data on the 2026 recreational tennis league software market size
 
 ## Recommended MVP
 
-## AI-Powered Compatibility Matching
+### AI-Powered Compatibility Matching
 
 Players submit a short onboarding profile: self-reported NTRP rating, play style description (baseline, serve-and-volley, etc.), availability windows, and preferred court areas. A GPT-4-class model generates dynamic compatibility scores against other players in the same metro, surfacing the three to five best match candidates for any given session request. Unlike the original Rally Tennis concept — which would have required large structured match-result datasets to produce reliable ratings — this approach delivers useful recommendations with as few as 30–50 players in a city, directly addressing the cold-start problem.
 

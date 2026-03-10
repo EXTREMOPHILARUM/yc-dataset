@@ -18,7 +18,7 @@ Allo was flagged by Crunchbase as both Women Founded and Women Led — a demogra
 
 ## Founding Story
 
-## Timeline
+### Timeline
 
 - **2017 (low confidence):** Allo potentially founded, per PitchBook<sup>[[11]](https://pitchbook.com/profiles/company/265245-13)</sup>
 - **2018 (low confidence):** Allo potentially founded, per Easyleadz; sources conflict on exact year<sup>[[7]](https://www.easyleadz.com/people/catherine-hrdy-9649875)</sup>

@@ -44,7 +44,7 @@ The HIPAA-compliant software and compliance tooling market has grown substantial
 
 ## Core Features:
 
-## Zero-Knowledge Encryption SDK for Mobile (iOS and Android)
+### Zero-Knowledge Encryption SDK for Mobile (iOS and Android)
 
 A native mobile SDK that intercepts file and data writes within a developer's application and encrypts them client-side before transmission, using keys the developer's end-user controls. This matters because no current competitor offers a drop-in mobile SDK that provides zero-knowledge encryption without requiring a full infrastructure migration. Unlike the original Documents.Me, which appears to have been a standalone consumer app, this is a B2B developer tool that embeds into existing applications.
 
@@ -73,7 +73,7 @@ A digitally signed Business Associate Agreement available at the $X/month paid t
 
 ## Go-to-Market Strategy
 
-## Target Customer Segment:
+### Target Customer Segment:
 
 Independent mobile app developers and small engineering teams (2–15 engineers) building iOS or Android applications that handle Protected Health Information — specifically, telehealth apps, remote patient monitoring tools, and digital therapeutics. These teams have a legal obligation to implement HIPAA-compliant encryption but lack the security engineering expertise to build it correctly and the legal resources to negotiate BAAs with infrastructure vendors. They are the exact customer CloudClear was targeting in 2012 but could not reach without a mature developer ecosystem to distribute through.
 

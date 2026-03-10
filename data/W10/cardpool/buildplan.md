@@ -44,7 +44,7 @@ The single most important change since Cardpool's failure is the maturation of r
 
 ## Recommended MVP
 
-## Core Feature 1: Zero-Inventory Peer-to-Peer Listing with Real-Time Balance Verification
+### Core Feature 1: Zero-Inventory Peer-to-Peer Listing with Real-Time Balance Verification
 
 Sellers list digital gift card codes; the platform calls a balance verification API (via Yiftee or direct retailer integrations) at listing time and locks the verified balance on-chain or in escrow before the listing goes live. This eliminates the "card drained before delivery" fraud vector that plagued Cardpool without requiring the platform to purchase inventory. Unlike Cardpool's original model, the platform never holds the card — it holds the verified code in escrow until the buyer pays and the transaction clears. This is the structural change that makes the economics work.
 

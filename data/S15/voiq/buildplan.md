@@ -40,7 +40,7 @@ Demand signals from adjacent products confirm pull: Calendly reports that automa
 
 ## Recommended MVP
 
-## Core Feature 1: CRM-Native Voicebot Launcher
+### Core Feature 1: CRM-Native Voicebot Launcher
 
 A one-click workflow trigger inside HubSpot and Salesforce that initiates an AI outbound call to a contact record without leaving the CRM interface. The voicebot pulls contact data (name, company, prior interactions) from the CRM to personalize the opening. This matters because VOIQ's biggest friction point was the separate platform login — embedding directly into existing workflows eliminates the adoption barrier that kept customer counts flat. Unlike VOIQ's 2019 implementation, this is built on HubSpot's 2024 App Marketplace APIs with native webhook support, requiring no custom middleware engineering.
 

@@ -10,7 +10,7 @@ The rebuild thesis is not to retry REM's original approach with more money. It i
 
 ## Why Now?
 
-## The single most important change since REM's failure is that the RISC-V ecosystem has become a production-grade distribution channel for processor IP.
+### The single most important change since REM's failure is that the RISC-V ecosystem has become a production-grade distribution channel for processor IP.
 
 When REM joined the RISC-V Foundation in November 2017, RISC-V was an academic project with institutional momentum but almost no commercial deployment. By 2026, RISC-V International reports 4,000+ member organizations, and commercial RISC-V SoCs ship in billions of devices annually — including Western Digital hard drives, Alibaba server chips, and a growing share of IoT microcontrollers. This is not a projection; it is a documented market transition. The ecosystem bootstrapping cost that would have consumed a significant fraction of REM's $2M seed round simply does not exist in 2026.
 
@@ -44,7 +44,7 @@ Finally, the body camera and drone markets REM targeted now have explicit regula
 
 ## Recommended MVP
 
-## Core Feature 1: Asynchronous RISC-V RV32IMC IP Core on GF 22FDX
+### Core Feature 1: Asynchronous RISC-V RV32IMC IP Core on GF 22FDX
 
 A production-characterized, silicon-verified asynchronous implementation of the RISC-V RV32IMC instruction set, delivered as licensable RTL with full verification collateral. This is the product REM was building toward in December 2017 but never completed with sufficient commercial packaging. The difference from REM's approach: this is the *first* product, not a pivot from chip sales. It targets SoC designers at IoT chip companies who already use GF 22FDX and need a lower-power processor option than SiFive's synchronous cores. Delivery format matches existing SiFive licensing conventions so procurement teams face no new process.
 

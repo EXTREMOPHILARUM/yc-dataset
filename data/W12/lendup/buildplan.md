@@ -36,7 +36,7 @@ The market opportunity has also been empirically validated since 2012. The CFPB 
 
 ## Recommended MVP
 
-## Feature 1: Compliance-First Loan Origination
+### Feature 1: Compliance-First Loan Origination
 
 At the moment a loan is approved, the system automatically furnishes data to all three major credit bureaus via direct furnisher API integrations (Equifax, TransUnion, Experian developer platforms) and generates FCRA-compliant adverse-action notices for any declined applicants through Alloy or an equivalent embedded compliance platform. This is not a feature — it is the foundation. LendUp marketed credit reporting for two years before implementing it; this rebuild makes it technically impossible to originate a loan without triggering bureau reporting, inverting the original failure mode entirely.
 
@@ -70,7 +70,7 @@ Short video modules on credit, budgeting, and debt management, with completion s
 
 ## Go-to-Market Strategy
 
-## Target Customer Segment:
+### Target Customer Segment:
 
 Employed adults aged 25–45 with subprime or thin-file credit (FICO below 620 or no score), verifiable regular income via direct deposit, and a smartphone. Specifically: gig economy workers, hourly retail and healthcare workers, and recent immigrants with no U.S. credit history. This segment is narrow enough to underwrite consistently and large enough to build a business — the CFPB documented 12 million annual payday loan users, and this profile represents the highest-intent, most underserved slice of that population.
 

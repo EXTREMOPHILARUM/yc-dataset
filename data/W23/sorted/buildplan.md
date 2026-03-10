@@ -10,7 +10,7 @@ The rebuild thesis is not to fix Sorted's product — it is to fix its customer.
 
 ## Why Now?
 
-## The single most important change: AI-powered transaction parsing has made "fully automated" technically achievable for a small team.
+### The single most important change: AI-powered transaction parsing has made "fully automated" technically achievable for a small team.
 
 Sorted's core marketing claim — complete automation — was aspirational in 2022–2023. Building and maintaining integrations with dozens of SaaS APIs was engineering-intensive work that consumed teams of 50+ at Torii and BetterCloud. A two-person team could not credibly deliver it. That constraint no longer applies in the same way. Large language models with tool-use capabilities — specifically GPT-4 Turbo (November 2023) and Claude 3.5 Sonnet (June 2024) — can parse bank and corporate card transaction feeds, classify vendors, identify subscription patterns, and flag anomalies with high accuracy without requiring a hand-built integration for every vendor. A rebuild team can achieve meaningful SaaS discovery coverage from day one by connecting to a single financial data source rather than building 100 individual API integrations.
 
@@ -42,7 +42,7 @@ Sorted's core marketing claim — complete automation — was aspirational in 20
 
 ## Recommended MVP
 
-## Core features:
+### Core features:
 
 **1. AI-powered SaaS discovery via transaction feed parsing.** Connect to a corporate card feed or bank account (via Plaid or direct CSV import) and automatically identify every SaaS subscription the company is paying for, including shadow IT purchases made on personal cards that get expensed. This is the entry point — it delivers immediate value without requiring any IT involvement or manual data entry. Unlike Sorted's original approach, which likely required individual tool integrations, this works from a single financial data connection and uses LLM classification to handle vendors it has never seen before.
 

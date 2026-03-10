@@ -39,7 +39,7 @@ Specific distribution channels available now that did not exist in usable form i
 
 ## Recommended MVP
 
-## Feature 1: ERC-4337 Inheritance Module
+### Feature 1: ERC-4337 Inheritance Module
 
 A smart contract module built on Account Abstraction that allows a wallet owner to designate a beneficiary address and a time-lock condition (e.g., no wallet activity for 12 months triggers a claimable transfer). The beneficiary can initiate a claim after the inactivity window, which the owner can cancel at any time while alive. Unlike Bifrost's multi-sig approach, this requires no co-signing key held by the startup — the logic lives entirely on-chain. This eliminates the "trust a startup with your assets" problem that was structurally fatal to the original product.
 

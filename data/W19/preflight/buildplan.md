@@ -10,7 +10,7 @@ The rebuild thesis is simple: the two things that killed Preflight — brittle D
 
 ## Why Now?
 
-## The single most important change: LLMs can now write and repair tests that no-code recorders could not sustain.
+### The single most important change: LLMs can now write and repair tests that no-code recorders could not sustain.
 
 Preflight's core technical failure was that its Chrome extension recorded tests by capturing DOM selectors — CSS classes, element IDs, XPath expressions — that broke every time a developer renamed a button or restructured a component. Self-healing logic existed in the product (Applitools' CTO cited it as the differentiator), but it was heuristic-based and fragile on dynamic, JavaScript-heavy applications. GPT-4 (March 2023) and Claude 3 Opus (March 2024) changed this structurally: a model that understands the semantic intent of a user action ("click the primary checkout button") can locate the correct element even after a full UI redesign, without relying on brittle selectors. Momentic, Octomind, and Reflect have demonstrated this capability in production since 2023 — the technical risk is no longer speculative.
 
@@ -42,7 +42,7 @@ Preflight's core technical failure was that its Chrome extension recorded tests 
 
 ## Recommended MVP
 
-## Core Feature 1: AI-Native Test Generation from Plain English
+### Core Feature 1: AI-Native Test Generation from Plain English
 
 A user describes a workflow in natural language ("log in, add the Pro plan to cart, complete checkout") and the system generates a runnable, cross-browser test without recording or code. Powered by GPT-4o or Claude 3.5 Sonnet (both available as of mid-2024), the model interprets semantic intent rather than capturing DOM selectors, making tests resilient to UI changes by design. This directly replaces Preflight's Chrome extension recorder — the feature that generated the most maintenance overhead — with an approach that degrades gracefully when the UI changes.
 

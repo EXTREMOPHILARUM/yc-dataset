@@ -16,7 +16,7 @@ Distribution channels unavailable in 2012 now exist at scale: the CurseForge App
 
 ## Why Now?
 
-## Current Market Analysis
+### Current Market Analysis
 
 **Market size:** The managed Minecraft server hosting market did not exist as a tracked category in 2012. Today, Apex Hosting, Nodecraft, and BisectHosting collectively serve hundreds of thousands of paying subscribers (exact figures are not publicly disclosed by any of these private companies). The broader game server hosting market was valued at approximately $1.7 billion in 2023 and is projected to grow at roughly 8% CAGR through 2030 (Grand View Research, 2023 — treat this figure as directional, not precise). Minecraft's 140 million MAU base represents a large addressable pool, with the modded segment conservatively estimated in the low millions of active players.
 

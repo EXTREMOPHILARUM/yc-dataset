@@ -22,7 +22,7 @@ The irony embedded in this founding story is significant: a founder who articula
 
 ## Founding Story
 
-## Timeline
+### Timeline
 
 - **2021** — Flike founded in San Francisco by Tobias Müller, Yannick Müller, and Henrik Laxhuber.<sup>[[1]](https://golden.com/wiki/Flike-6AX8YWA)</sup>
 - **January 2022** — Flike joins Y Combinator Winter 2022 (W22) batch.<sup>[[4]](https://www.ycombinator.com/companies/flike)</sup>

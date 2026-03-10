@@ -44,7 +44,7 @@ Copilot Money raised $13 million in 2023 partly on a conversational finance thes
 
 ## Core Features:
 
-## Free-form AI spending coach (powered by GPT-4o or Claude 3.5 Sonnet)
+### Free-form AI spending coach (powered by GPT-4o or Claude 3.5 Sonnet)
 
 After connecting accounts via Plaid, users can ask any natural language question about their finances — "where did my paycheck go this month?" or "am I spending more on food than last year?" — and receive plain-language answers with supporting transaction data. This directly replaces Penny's pre-populated message constraint with the open-ended conversational experience the original product was architecturally prevented from building. The AI layer is prompted with the user's actual transaction history, not generic financial advice, making responses specific and actionable rather than generic.
 

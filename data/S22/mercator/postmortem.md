@@ -18,7 +18,7 @@ What the founding story does not explain is why the company was called "Quincy's
 
 ## Founding Story
 
-## Timeline
+### Timeline
 
 - **2022** — Mercator Technologies incorporated in Delaware, headquartered in San Francisco. Company was previously operating under the name "Quincy's" before rebranding. <sup>[[6]](https://usefind.ai/companies/mercator)</sup>
 

@@ -28,7 +28,7 @@ Distribution is now available through Greenhouse's partner marketplace (12,000+ 
 
 ## Current Market Analysis
 
-## Market Size
+### Market Size
 
 The global recruitment software market was valued at approximately $3.1 billion in 2023 and is projected to reach $4.5 billion by 2028 (MarketsandMarkets; exact 2016 baseline unavailable for direct comparison). The employee referral software subcategory is smaller but growing; specific subcategory sizing data is not available in the research provided.
 
@@ -54,7 +54,7 @@ Clay's rapid growth to a reported $50M+ ARR (2024, per public reporting) demonst
 
 ## Core Features
 
-## AI-Facilitated Async Sourcing Session
+### AI-Facilitated Async Sourcing Session
 
 A structured 20-minute Slack or browser-based workflow that guides employees through reviewing their enriched second-degree network and flagging warm connections for open roles. Unlike StrongIntro's in-person sourcing party, this runs asynchronously—employees complete it on their own schedule, with no recruiter present. This eliminates the per-engagement labor cost that made the original model unscalable. The session is triggered by the hiring manager, not a StrongIntro employee.
 
@@ -86,7 +86,7 @@ No proprietary candidate database. No full ATS. No recruiter-facing sourcing too
 
 ## Go-to-Market Strategy
 
-## Target Customer Segment
+### Target Customer Segment
 
 Series A and Series B technology companies, 30–150 employees, actively hiring 3+ engineers simultaneously, using Greenhouse or Ashby as their ATS. This segment is narrow by design: they have large enough employee networks to generate meaningful candidate volume, they have budget authority without enterprise procurement cycles, and the ATS integration requirement pre-qualifies them as operationally mature buyers. Geographic focus is irrelevant given the async-first product—target English-speaking markets globally from day one.
 

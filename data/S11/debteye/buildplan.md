@@ -44,7 +44,7 @@ On market demand: U.S. consumer debt reached $17.5 trillion in Q4 2024 (Federal 
 
 ## Recommended MVP
 
-## Feature 1: Open Banking Debt Aggregation with Triage Scoring
+### Feature 1: Open Banking Debt Aggregation with Triage Scoring
 
 Using Plaid (launched 2013, now covering 12,000+ institutions) and MX, the product pulls all unsecured debt balances, interest rates, and payment history automatically via OAuth — no credential sharing required. A triage algorithm classifies each debt by resolution pathway: self-managed payoff, debt management plan (DMP), settlement candidate, or refinance candidate. This replaces Debteye's Yodlee-powered analysis but adds a structured triage output rather than a binary settlement/DMP recommendation. The critical difference from the original: the triage output feeds directly into automated execution workflows rather than a form-generation layer.
 

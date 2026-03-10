@@ -24,7 +24,7 @@ Additionally, voice AI (real-time speech-to-speech models, commercially availabl
 
 ## Current Market Analysis
 
-## Market Size
+### Market Size
 
 The global clinical genomics market was valued at approximately $14.4 billion in 2022 and is projected to exceed $30 billion by 2030 (Grand View Research; specific figures should be independently verified). The patient engagement and workflow automation layer—where a rebuilt Clear Genetics would compete—is a subset of this market without a precise published size in the available research record. However, the structural driver is clear: every incremental genetic test ordered generates a pre-test education, consent, and post-test results communication workflow that currently requires genetic counselor time. Testing volume growth directly expands the addressable market for automation software.
 
@@ -49,7 +49,7 @@ The direct-to-consumer genomics market—23andMe (now in bankruptcy proceedings 
 
 ## Core Features
 
-## LLM-Powered Patient Conversation Engine
+### LLM-Powered Patient Conversation Engine
 
 A multi-turn conversational interface—deployable as web chat and SMS—that guides patients through pre-test education, informed consent, insurance navigation, and results interpretation for hereditary cancer, carrier screening, and cardiology indications. Unlike Gia's 2017 rule-based NLP, this engine uses GPT-4o or Claude 3.5 Sonnet fine-tuned on genetic counseling protocols co-developed with certified counselors, enabling genuine handling of ambiguous questions and emotional responses. The clinical scope is deliberately narrower than Gia's original five specialties—three indications at launch reduces validation complexity while covering the highest-volume use cases.
 
@@ -83,7 +83,7 @@ An asynchronous handoff workflow allowing the AI to escalate specific patient qu
 
 ## Go-to-Market Strategy
 
-## Target Customer Segment
+### Target Customer Segment
 
 The primary target is mid-sized integrated health systems (500–2,000 beds) with existing genetics programs that are actively expanding genomic testing volumes but cannot recruit sufficient genetic counselors to match. This segment is more accessible than Geisinger-scale systems (which have longer procurement cycles and more complex IT requirements) and more financially capable than small community hospitals. Specific indicators: systems that have launched or are planning hereditary cancer or cardiac genetics programs, have Epic or Oracle Health as their EHR, and have a genetics department head who can serve as internal champion.
 

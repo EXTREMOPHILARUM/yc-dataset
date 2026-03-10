@@ -144,7 +144,7 @@ Kiefer's subsequent commentary, while not specifically about BookSolid, reflects
 
 ## Post-Mortem
 
-## Key Lessons
+### Key Lessons
 
 - **Capital requirements must match the business model from day one.** Two-sided marketplaces require simultaneous investment in supply acquisition, demand generation, and product development—three expensive, parallel workstreams. BookSolid's $120,000 in funding was structurally insufficient for this model in a market where direct competitors were raising millions. Founders pursuing marketplace models should either secure sufficient capital before launch or constrain the initial market to a geography or niche small enough to reach liquidity with available resources.
 

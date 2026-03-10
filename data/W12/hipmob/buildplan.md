@@ -39,7 +39,7 @@ Distribution infrastructure has also matured in Hipmob's favor. The React Native
 
 ## Core Features:
 
-## AI-First In-App Chat Widget (Flutter + React Native SDK)
+### AI-First In-App Chat Widget (Flutter + React Native SDK)
 
 A single cross-platform SDK that embeds a conversational AI support layer—powered by Claude 3.5 Sonnet or GPT-4o via API—directly inside iOS and Android apps. The widget handles tier-1 queries (order status, account questions, FAQs) autonomously before escalating to a human agent. Unlike Hipmob's original product, which required a human agent on the other end of every conversation, this feature resolves the majority of queries without any agent involvement, making the unit economics viable at SMB price points.
 

@@ -10,7 +10,7 @@ Three structural shifts have converged to make this viable in 2026: delivery pla
 
 ## Why Now?
 
-## The single most important change: AI-powered data orchestration has eliminated the integration engineering bottleneck that killed the original company.
+### The single most important change: AI-powered data orchestration has eliminated the integration engineering bottleneck that killed the original company.
 
 ZeroStorefront's fatal constraint was not its product vision — it was that building and maintaining integrations across 24+ restaurant software systems (POS, delivery platforms, review aggregators, reservation tools, SMS providers) required more engineering capacity than a seven-person, sub-$500K-funded team could sustain. In 2026, that constraint no longer exists in the same form. LLM-based API orchestration frameworks — specifically GPT-4 with structured outputs (March 2023), LangChain's tool-calling architecture (mature as of late 2023), and purpose-built data normalization pipelines built on these primitives — can now ingest, normalize, and unify heterogeneous restaurant data formats without custom per-integration engineering. A two-engineer team can today maintain what required a full engineering organization in 2019. This is not a marginal improvement; it is a structural change in the cost curve of the original product.
 
@@ -44,7 +44,7 @@ ZeroStorefront's fatal constraint was not its product vision — it was that bui
 
 ## Recommended MVP
 
-## Core Feature 1: AI-Powered Cross-Platform Data Unification
+### Core Feature 1: AI-Powered Cross-Platform Data Unification
 
 Ingest order, customer, and behavioral data from DoorDash, Uber Eats, Grubhub, Toast, Square, and Yelp via their current open APIs, normalize it into a unified customer record using GPT-4-class structured output pipelines, and surface a single customer view per restaurant. This is what ZeroStorefront built manually with a full engineering team; the rebuild does it with two engineers and AI-assisted normalization. The difference is not incremental — it is the difference between a product that can onboard a new restaurant in days versus months.
 

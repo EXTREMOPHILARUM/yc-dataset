@@ -40,7 +40,7 @@ Demand signal from adjacent products: Blind and Levels.fyi — anonymous compens
 
 ## Recommended MVP
 
-## Core Feature 1: LLM-Powered Equity Document Ingestion
+### Core Feature 1: LLM-Powered Equity Document Ingestion
 
 Users upload option grant agreements, RSU schedules, cap table summaries, and offer letters; the system extracts structured data (strike price, vesting schedule, expiration dates, exercise windows, share class) and populates a unified equity dashboard automatically. This matters because manual data entry was Compound's primary operational bottleneck and the reason its advisor-to-client ratio was unsustainable. Unlike the original, this is a software-first workflow requiring no human labor for standard document types.
 

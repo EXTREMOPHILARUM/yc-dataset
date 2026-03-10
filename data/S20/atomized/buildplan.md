@@ -16,7 +16,7 @@ Distribution channels unavailable to Atomized in 2021 now exist at scale: the AW
 
 ## Why Now?
 
-## Current Market Analysis
+### Current Market Analysis
 
 **Market size.** The global DevOps tools market was estimated at approximately $7 billion in 2021 and is projected to exceed $25 billion by 2028, growing at roughly 19% CAGR (MarketsandMarkets, 2023 — note: third-party market size projections carry inherent uncertainty and should be treated as directional). The specific segment relevant to a rebuilt Atomized — deployment automation for teams without dedicated cloud engineers — is not broken out separately in public research, but the sustained growth of Render, Railway, and Fly.io suggests the addressable base is large enough to support multiple well-capitalized players.
 
@@ -36,7 +36,7 @@ Distribution channels unavailable to Atomized in 2021 now exist at scale: the AW
 
 ## Recommended MVP
 
-## Core Feature 1: LLM-Assisted Infrastructure Generation
+### Core Feature 1: LLM-Assisted Infrastructure Generation
 
 A developer describes their application in plain English — stack, dependencies, expected traffic, compliance requirements — and the product generates a complete, deployable AWS CDK or Pulumi stack. The generated configuration is shown to the developer before deployment, not applied silently. This directly replaces the custom module-building that consumed Atomized's engineering capacity; the LLM handles configuration generation, and the IaC framework handles provisioning. Unlike Atomized's original approach, no custom infrastructure logic is written — the product is a generation and orchestration layer, not an infrastructure engine.
 

@@ -42,7 +42,7 @@ Automated chemistry platforms — Chemspeed, Emerald Cloud Lab — now allow hun
 
 ## Recommended MVP
 
-## Core Feature 1: DEL-Powered Proprietary Training Corpus
+### Core Feature 1: DEL-Powered Proprietary Training Corpus
 
 The platform generates its own binding affinity training data through DNA-encoded library screening, producing millions of data points per campaign for under $500,000. This directly addresses Reverie's original dependency on customers' proprietary data — which created a chicken-and-egg problem where the platform needed data to be useful, but customers wouldn't share data until the platform was proven. The new company owns its training data from day one, enabling model quality that is demonstrable before the first enterprise sale. Unlike Reverie's customer-data-in-VPC approach, this corpus is a company asset that compounds with each campaign.
 

@@ -44,7 +44,7 @@ Semantic search via pgvector (PostgreSQL extension, GA 2023) and Pinecone now en
 
 ## Core Features:
 
-## AI-Generated Dependency Annotations (Powered by GPT-4o / Claude 3.5 Sonnet)
+### AI-Generated Dependency Annotations (Powered by GPT-4o / Claude 3.5 Sonnet)
 
 On first install, the product automatically generates plain-English annotations for every third-party package in a project's dependency tree — explaining what each package does, flagging known deprecation patterns, and surfacing version-specific behavioral changes. This directly eliminates Omniref's cold-start problem: the product is useful before a single human annotation exists. Unlike Omniref's community-dependent model, value is immediate and individual.
 
@@ -74,7 +74,7 @@ All annotations — AI-generated and team-authored — surface as inline decorat
 
 ## Go-to-Market Strategy
 
-## Target Customer Segment:
+### Target Customer Segment:
 
 Engineering teams of 10–75 developers at Series A–C software companies with significant open-source dependency surface area — specifically teams shipping Node.js, Python, or Ruby applications who have experienced at least one production incident caused by an undocumented dependency behavior or surprise breaking change. This is narrow by design. These teams have a DevEx budget, a technical decision-maker (Staff Engineer or Engineering Manager), and a visceral memory of the pain the product solves.
 

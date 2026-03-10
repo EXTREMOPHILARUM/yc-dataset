@@ -52,7 +52,7 @@ Distribution channels unavailable to the original Triplebyte now exist at scale:
 
 ## Core Features:
 
-## AI Technical Interview Engine
+### AI Technical Interview Engine
 
 An asynchronous, AI-conducted technical interview replacing Triplebyte's original two-stage human screen. Candidates complete an adaptive coding assessment followed by a 30-minute conversational AI interview — conducted via text or voice — that probes reasoning, debugging approach, and system design thinking. This differs from the original by eliminating human interviewer scheduling and cost entirely, enabling same-day candidate processing at any volume. It differs from HackerRank by assessing reasoning process, not just output correctness.
 
@@ -86,7 +86,7 @@ Candidate profiles are private by default, permanently. Candidates explicitly op
 
 ## Go-to-Market Strategy
 
-## Target Customer Segment:
+### Target Customer Segment:
 
 Series A and Series B US-based technology startups with 10–100 employees, actively hiring for their first 5–15 engineering roles. This is the exact segment Triplebyte served successfully in 2015–2018 before expanding to enterprise. These companies have the highest pain-per-mis-hire ratio, the least internal recruiting infrastructure, and the strongest cultural alignment with skills-over-credentials hiring. They are also the most likely to accept a placement-fee model because they lack the procurement bureaucracy that makes enterprise sales slow.
 

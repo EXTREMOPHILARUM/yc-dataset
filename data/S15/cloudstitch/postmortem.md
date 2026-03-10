@@ -20,7 +20,7 @@ The company applied to and was accepted into Y Combinator's Summer 2015 batch, r
 
 ## Founding Story
 
-## Timeline
+### Timeline
 
 - **2010** — Ted Benson begins MIT PhD in Computer Science under advisor David Karger; Cloudstitch concept originates as thesis research.<sup>[[10]](https://people.csail.mit.edu/karger/alumni.html)</sup>
 

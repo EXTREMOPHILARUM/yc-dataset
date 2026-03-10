@@ -10,7 +10,7 @@ What has changed is that the open-source community Parse accidentally created at
 
 ## Why Now?
 
-## The single most important change since Parse's failure is that usage-based pricing infrastructure has matured enough to make the freemium-to-revenue conversion problem solvable.
+### The single most important change since Parse's failure is that usage-based pricing infrastructure has matured enough to make the freemium-to-revenue conversion problem solvable.
 
 Parse's core business model failure — generous free tier, no credible path to upsell — was not a strategic mistake unique to the team. In 2011–2013, the billing infrastructure to implement granular usage-based pricing (per-request, per-compute-millisecond, per-egress-GB) simply did not exist at the developer tooling layer in a commercially mature form. Stripe's usage-based billing APIs, which now power companies like Supabase and Vercel, were not available until 2018. Supabase's $80M Series B in 2022 at a reported $2B valuation — built explicitly on usage-based pricing tied to compute and egress — is the clearest proof that the monetization architecture Parse lacked now exists and works.
 
@@ -44,7 +44,7 @@ Finally, LLM-powered code generation — specifically GitHub Copilot (launched O
 
 ## Recommended MVP
 
-## Core Feature 1: Edge-Native Data + Auth
+### Core Feature 1: Edge-Native Data + Auth
 
 A real-time database and authentication layer deployed on Cloudflare Workers, with native SDKs for iOS (Swift), Android (Kotlin), and React Native. Data operations execute at the edge closest to the user, targeting sub-50ms response times globally without server configuration. Unlike the original Parse, which ran Cloud Code on centralized servers Parse had to provision, this runs on Cloudflare's existing global network — eliminating the infrastructure cost that made Parse's pricing structurally unsustainable. Unlike Firebase, the data model is portable: standard JSON over a documented REST API, with a one-command export tool available from day one.
 

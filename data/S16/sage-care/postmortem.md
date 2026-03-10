@@ -16,7 +16,7 @@ Importantly, Lee was deliberate about how she framed the company's identity. Rat
 
 ## Founding Story
 
-## Timeline
+### Timeline
 
 - **2015** — Sage Care founded by Vanessa Lee and Lucas Lu in Toronto, Canada. <sup>[[3]](https://tracxn.com/d/companies/sage-care/__ymCNNNnyQbrinVuaV4q7PBXBtom9OGdmUwgc1NaA3qc)</sup>
 - **2015–2016** — Company builds and pilots a smartphone app for elder care scheduling. Pilot reveals families prefer texting; team pivots to an SMS-first coordination system. <sup>[[10]](https://www.bostonherald.com/2016/06/26/startup-offers-elder-care-via-text-message/)</sup>

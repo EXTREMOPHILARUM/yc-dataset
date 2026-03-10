@@ -24,7 +24,7 @@ Adjacent validation has also arrived: Yelp, DoorDash, and Instacart have all lau
 
 ## Current Market Analysis
 
-## Market Size
+### Market Size
 
 The research report does not cite a precise market size figure for AI video ad creation tools. What is documented: global digital advertising spend exceeded $600B annually by 2024, with social media video advertising representing a fast-growing share. TikTok Shop reached $20B+ US GMV in 2024. The addressable market for the rebuild — SMB sellers needing TikTok-ready product video — is a subset of this, and a precise TAM figure is not available from the research. What is clear is that the buyer pool is orders of magnitude larger than the enterprise delivery platforms Remade was targeting.
 
@@ -51,7 +51,7 @@ The honest answer is that platform commoditization risk remains real. ByteDance 
 
 ## Core Features
 
-## Product Image → TikTok Video Pipeline (the original wedge, rebuilt)
+### Product Image → TikTok Video Pipeline (the original wedge, rebuilt)
 
 Upload a product image; the system generates a 9:16, 5–15 second video clip with AI-generated background, motion, and a text overlay hook — optimized for TikTok Shop and Reels. This is Remade's original three-click pipeline, now running on Wan2.1 or CogVideoX at sub-$0.10 inference cost. Unlike the original, it is not a canvas product — there is no freeform editing surface. The output is a finished, exportable video, not a workspace. This differs from the original by being narrower, faster, and priced per output rather than per seat.
 
@@ -86,7 +86,7 @@ This product does not depend on network effects or local density. Each seller ge
 
 ## Go-to-Market Strategy
 
-## Target Customer Segment
+### Target Customer Segment
 
 SMB sellers on TikTok Shop with 1–50 SKUs, monthly GMV of $5K–$100K, who are currently producing video content manually (filming on phone, using CapCut templates) or not at all. This is not the enterprise delivery platform CMO that Remade targeted. It is a merchant who makes buying decisions in minutes, not procurement cycles, and who measures value in sales lift per video, not brand consistency scores.
 

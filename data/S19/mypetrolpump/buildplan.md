@@ -10,7 +10,7 @@ The rebuild thesis is this: PESO's 2021 draft amendment to Petroleum Rules has b
 
 ## Why Now?
 
-## The single most important change since MyPetrolPump's failure is the emergence of a formal regulatory pathway for mobile fuel dispensing in India.
+### The single most important change since MyPetrolPump's failure is the emergence of a formal regulatory pathway for mobile fuel dispensing in India.
 
 When MyPetrolPump launched in June 2017, it operated with no licence under Petroleum Rules, 2002 — a fact confirmed by RTI filings in April 2019. PESO shut it down within four days of commercial launch. The company spent its entire operational life in a regulatory grey zone that made institutional investors unwilling to commit capital at Series A scale. In 2021, PESO issued a draft amendment to Petroleum Rules specifically to regulate mobile fuel dispensing units. As of this writing, the precise status of that amendment's finalisation is not publicly confirmed in available sources, and a rebuild team must verify current licensing requirements directly with PESO before committing capital. However, even a draft framework represents a categorically different starting position than 2017: a new entrant can engage with a defined regulatory process rather than fight for the creation of one. This alone changes the investor conversation.
 
@@ -26,7 +26,7 @@ Specific distribution channels available now include the ONDC network (launched 
 
 ## Current Market Analysis
 
-## Market Size
+### Market Size
 
 The Indian high-speed diesel (HSD) market was cited at approximately $100 billion at the time of the FuelBuddy acquisition in May 2021, with doorstep delivery estimated to have potential for up to 26% market share — a $26 billion addressable opportunity. These figures should be treated as directional; they reflect total HSD consumption, not the subset realistically convertible to on-demand delivery. No updated independent market sizing for the doorstep B2B diesel delivery segment in 2025–2026 is available in public sources reviewed for this report, and a rebuild team should commission primary research before finalising TAM claims for investors. What is confirmed: FuelBuddy's continued growth post-acquisition across 30+ cities demonstrates the addressable market is large enough to sustain a well-capitalised operator.
 
@@ -44,7 +44,7 @@ The current competitive landscape is dominated by **FuelBuddy** (Treis Solutions
 
 ## Recommended MVP
 
-## Feature 1: IoT Tank Monitoring + Predictive Dispatch
+### Feature 1: IoT Tank Monitoring + Predictive Dispatch
 
 Install sub-$50 ultrasonic fuel level sensors on customer DG sets and fuel storage tanks at no upfront cost to the customer (hardware bundled into subscription). The sensor transmits real-time fuel levels to the operator's dispatch system, which triggers a delivery order when the tank crosses a defined threshold. This matters because it solves the utilisation problem that killed MyPetrolPump: predictive dispatch allows route batching 24–48 hours in advance, increasing orders per vehicle per shift from the estimated 2–3 reactive orders to a planned 4–6. Unlike the original, which was purely reactive and on-demand, this model gives the operator control over route density.
 
@@ -70,7 +70,7 @@ For customers who do not want to manage an app, offer full order visibility, del
 
 ## Go-to-Market Strategy
 
-## Target Customer Segment
+### Target Customer Segment
 
 The primary target is apartment complex Resident Welfare Associations (RWAs) in Bengaluru with 100+ units and a diesel generator for backup power. This segment is narrow and specific for three reasons: DG sets create predictable, recurring diesel consumption (typically 50–200 litres per refuelling event); RWAs are a single point of contact for a building with dozens of implicit end-users; and Bengaluru's power infrastructure reliability issues make DG dependency structurally persistent. Secondary targets in months 7–12 are SME logistics fleets (5–20 vehicles) operating from fixed depots in Bengaluru's outer ring road industrial corridors.
 

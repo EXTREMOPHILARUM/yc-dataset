@@ -10,7 +10,7 @@ The rebuild thesis is not to relaunch a consumer grocery brand. It is to rebuild
 
 ## Why Now?
 
-## The single most important change: the quick-commerce shakeout has eliminated Farmstead's best-capitalized competitors and left the dark-store operating layer unoccupied.
+### The single most important change: the quick-commerce shakeout has eliminated Farmstead's best-capitalized competitors and left the dark-store operating layer unoccupied.
 
 Between 2022 and 2024, the companies that had replicated Farmstead's dark-store model at scale collapsed or consolidated. Gopuff laid off 10% of its workforce in March 2022 and another 1,500 employees in July 2022. Gorillas was acquired by Getir in late 2022. Jokr exited the U.S. market entirely. Getir itself retrenched from multiple U.S. cities by 2024. The capital that had been deployed to commoditize the dark-store model — over $3 billion in Gopuff's case alone — is gone. What remains is a proven consumer behavior (43% of U.S. households now buy groceries online at least monthly, per Brick Meets Click 2023, up from a fraction of that when Farmstead launched in 2016) and no well-capitalized operator serving the mid-market weekly shopper with a capital-efficient dark-store model.
 
@@ -45,7 +45,7 @@ Between 2022 and 2024, the companies that had replicated Farmstead's dark-store 
 
 ## Recommended MVP
 
-## Core Feature 1: Dark-Store Operating System for Convenience Operators
+### Core Feature 1: Dark-Store Operating System for Convenience Operators
 
 A cloud-native inventory management and order fulfillment platform purpose-built for small-footprint dark stores (500–3,000 sq. ft.) operating out of existing convenience store back rooms or adjacent spaces. It handles SKU catalog management, supplier ordering, pick-and-pack workflows, and delivery dispatch integration via DoorDash Drive or Instacart Platform APIs. This differs from the original Grocery OS in that it is designed from day one for the convenience-store operator profile — not as a productization of a consumer grocery business — and integrates with existing convenience-store POS systems (NCR, Verifone) rather than requiring a full system replacement.
 

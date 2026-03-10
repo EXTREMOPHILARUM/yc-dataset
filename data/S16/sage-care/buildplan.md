@@ -42,7 +42,7 @@ The U.S. home care services market was estimated at approximately $100 billion a
 
 ## Recommended MVP
 
-## Feature 1: AI-Native Conversational Scheduling via SMS and WhatsApp
+### Feature 1: AI-Native Conversational Scheduling via SMS and WhatsApp
 
 Families text requests in plain language—"We need someone Tuesday at 2pm and again Friday morning"—and a GPT-4o-powered backend parses intent, confirms details conversationally, and books the visit. This directly replaces Sage Care's rule-based SMS bot, which almost certainly broke on edge cases and eroded trust. The difference is reliability: modern LLMs handle ambiguity, follow-up questions, and schedule changes in natural conversation rather than returning error states. Built on Twilio Conversations API with WhatsApp Business Platform as the primary channel (SMS as fallback).
 

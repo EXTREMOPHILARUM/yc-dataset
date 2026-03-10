@@ -18,7 +18,7 @@ Distribution channels that did not exist or were immature in 2022 now include th
 
 ## Current Market Analysis
 
-## Market Size
+### Market Size
 
 The U.S. multifamily CRE market is large in asset value — estimates of total investable multifamily stock exceed $4 trillion — but the relevant addressable market for a deal screening SaaS tool is the software budget of acquisition teams, not the asset base. The number of active multifamily acquisition teams in the U.S. is estimated in the low thousands (specific 2026 figure not independently verified; this is an inference from industry directories and NMHC membership data). At $500–$1,500 per seat per month, a 2,000-team market with 3 seats per team represents $36M–$108M in annual recurring revenue at full penetration — a real but not enormous TAM. Expansion to other CRE asset classes (industrial, office, retail) is the path to venture scale, and that expansion is now more tractable given LLM generalization across document formats.
 
@@ -46,7 +46,7 @@ Juniper Square (fund administration for GPs) and Covercy (GP/LP management) have
 
 ## Core Features
 
-## OM Ingestion and Criteria Matching
+### OM Ingestion and Criteria Matching
 
 The user uploads an offering memorandum (PDF) and defines their firm's investment criteria — minimum cap rate, target geography, price per unit range, minimum unit count, return thresholds. The product extracts key deal metrics from the OM using GPT-4o with structured output prompts and scores the deal against the firm's criteria, flagging pass/fail on each dimension within 60 seconds. This is the core value proposition Cresa promised but could not reliably deliver in 2022; it is now buildable in days with off-the-shelf LLM APIs. Unlike Cresa, the rebuild stores criteria persistently and learns which flags matter most to each firm over time.
 
@@ -81,7 +81,7 @@ This product does not depend on network effects or local density. Each team's va
 
 ## Go-to-Market Strategy
 
-## Target Customer Segment
+### Target Customer Segment
 
 The primary target is the acquisition analyst or associate (not the principal) at mid-market multifamily private equity firms and syndicators managing $50M–$500M in assets under management, with 2–8 person acquisition teams, actively screening 20+ deals per month. These firms are large enough to have a software budget and a real screening volume problem, but small enough that they lack the internal engineering resources to build their own tools. Firms above $500M AUM typically have custom-built or enterprise-contracted solutions; firms below $50M AUM often lack the deal volume to justify the subscription cost.
 

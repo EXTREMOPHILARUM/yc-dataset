@@ -38,7 +38,7 @@ The alternative CS education market has grown substantially since Make School op
 
 ## Recommended MVP
 
-## Core Feature 1: Compliant, Capped ISA with Employer Co-Investment Option
+### Core Feature 1: Compliant, Capped ISA with Employer Co-Investment Option
 
 A financing structure modeled on Purdue's Back a Boiler program, capping total repayment at 2.5x the funded amount with full TILA disclosures, deployed only in states with explicit ISA consumer protection frameworks. Students can alternatively access employer co-investment agreements—structured with 5–10 anchor employer partners before launch—that reduce or eliminate personal financial obligation. This directly inverts Make School's fatal flaw: the financing instrument is legally vetted and liability-capped before enrollment opens, not after a regulatory order arrives.
 

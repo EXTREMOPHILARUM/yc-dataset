@@ -41,7 +41,7 @@ Distribution channels available now that did not exist or were immature in 2023 
 
 ## Recommended MVP
 
-## Feature 1: Multi-source call transcript ingestion with revenue tagging
+### Feature 1: Multi-source call transcript ingestion with revenue tagging
 
 Connect to Gong, Chorus, and Fireflies simultaneously via their published APIs, extract structured feature requests using GPT-4o or Claude 3.5 Sonnet, and tag each request with the associated customer's ARR pulled from a connected CRM (HubSpot or Salesforce). This is the core workflow Miro Insights runs in production, but the rebuild does it across all three major call recorders simultaneously — a multi-platform approach Miro cannot pursue due to competitive positioning. Unlike Cardinal's 2023 version, the AI extraction requires no fine-tuning; foundation model APIs handle it at near-zero marginal cost.
 

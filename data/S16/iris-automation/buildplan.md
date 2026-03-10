@@ -10,7 +10,7 @@ The rebuild thesis is this: the FAA's 2023 BVLOS NPRM has transformed the regula
 
 ## Why Now?
 
-## The single most important change: the FAA published its BVLOS NPRM in 2023.
+### The single most important change: the FAA published its BVLOS NPRM in 2023.
 
 Iris Automation's entire commercial life was spent waiting for a regulatory window that never opened. The FAA's Notice of Proposed Rulemaking for BVLOS operations, published in 2023, fundamentally changes that calculus. For the first time, the agency is moving toward standardized, scalable BVLOS rules rather than the case-by-case waiver process that kept Iris Automation's addressable market structurally tiny. A DAA company founded in 2026 is building into an opening regulatory window — the exact inverse of Iris Automation's position. The final rule timeline remains uncertain (this is the FAA; caution is warranted), but the direction is unambiguous and the rulemaking machinery is now in motion rather than stalled.
 
@@ -38,7 +38,7 @@ Iris Automation's entire commercial life was spent waiting for a regulatory wind
 
 ## Recommended MVP
 
-## Core Feature 1: Software-Defined DAA on Commodity Hardware
+### Core Feature 1: Software-Defined DAA on Commodity Hardware
 
 A computer vision DAA application running on NVIDIA Jetson Orin or equivalent edge AI hardware, using DINOv2-fine-tuned models (April 2023) for non-cooperative aircraft detection. The operator purchases commodity hardware at cost; the DAA capability is delivered as a software subscription. This differs from the original Casia by decoupling the margin structure from hardware manufacturing — Iris Automation sold a proprietary hardware unit; the rebuild sells a software license that runs on hardware the operator can source independently, dramatically lowering the entry price and eliminating supply chain risk.
 

@@ -10,7 +10,7 @@ The rebuild thesis is not that OneGraph was wrong — it was early. The two stru
 
 ## Why Now?
 
-## The single most important change: LLMs can now write and maintain API integrations autonomously.
+### The single most important change: LLMs can now write and maintain API integrations autonomously.
 
 OneGraph's primary structural failure was that maintaining live integrations with dozens of third-party APIs was a headcount-scaling problem, not a revenue-scaling problem. A two-person team hit a hard ceiling. That ceiling is gone. GPT-4 (March 2023) and Claude 3 Opus (March 2024) can read API documentation, infer schema relationships, generate typed GraphQL resolvers, and detect breaking changes by diffing OpenAPI specs — tasks that previously required a human engineer per integration. A rebuilt OneGraph could plausibly support 500+ APIs with a team of five, where the original supported "a couple dozen" with two.
 
@@ -44,7 +44,7 @@ Distribution is also solved differently now. The Vercel Marketplace and the emer
 
 ## Recommended MVP
 
-## Core features:
+### Core features:
 
 **1. LLM-maintained API resolver engine.** On ingestion of an OpenAPI or GraphQL spec, the system auto-generates typed resolvers, maps authentication requirements, and schedules weekly spec-diff checks to detect breaking changes — triggering automated resolver updates with human review flagged only for ambiguous cases. This directly solves OneGraph's primary failure mode: the two-person maintenance ceiling. The original OneGraph required a human engineer to write and maintain each integration; this version treats integration maintenance as a background job.
 

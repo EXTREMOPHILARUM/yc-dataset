@@ -46,7 +46,7 @@ The global creator supply base has also deepened materially. High-speed internet
 
 ## Recommended MVP
 
-## Core Feature 1: Figma-Native Asset Browser and Purchase
+### Core Feature 1: Figma-Native Asset Browser and Purchase
 
 A Figma plugin that allows designers to browse, preview, and license assets — UI kits, icon sets, fonts, illustration packs, and brand templates — without leaving the canvas. This matters because it captures purchase intent at the moment of creative need, the same insight behind Creative Market's 2014 Photoshop extension, but applied to a tool with a larger and more team-oriented user base. Unlike Creative Market's extension, this is built as the primary distribution channel from day one, not a feature added post-launch.
 

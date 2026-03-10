@@ -41,7 +41,7 @@ Distribution channels unavailable in 2017 now exist at scale: the Hugging Face H
 
 ## Recommended MVP
 
-## Core Features:
+### Core Features:
 
 **1. Structured Extraction API for Long-Form Documents:** An API that accepts unstructured documents — contracts, clinical notes, intelligence reports, regulatory filings — and returns structured JSON outputs: named entities, relationships, event timelines, and subject-verb-object triples. Unlike Plasticity's original Sapien engine, which required custom C++ infrastructure, this layer is built on top of GPT-4 (March 2023) and Llama 3 (April 2024) with prompt engineering and fine-tuning, dramatically reducing build time. Unlike generic LLM APIs, it enforces schema validation and provides confidence scores — requirements for production enterprise use. Success threshold: extraction accuracy ≥ 90% F1 on three target document types (contracts, clinical notes, incident reports) in internal benchmarks before launch.
 

@@ -10,7 +10,7 @@ The rebuild thesis is not to fight that convergence — it is to exploit the gap
 
 ## Why Now?
 
-## The single most important change since Sqreen's failure: eBPF has made language-specific agent distribution obsolete.
+### The single most important change since Sqreen's failure: eBPF has made language-specific agent distribution obsolete.
 
 Sqreen's original architecture required maintaining separate SDK integrations for six language runtimes (Ruby, Node.js, PHP, Go, Java, Python). Each integration was an engineering liability, a sales friction point, and a ceiling on addressable market — a company running Elixir or Rust was simply out of scope. eBPF (Extended Berkeley Packet Filter), now production-stable in Linux kernel 5.8+ (released August 2020) and battle-tested in tools like Cilium, Falco, and Pixie, enables kernel-level instrumentation of any application regardless of language, without modifying application code or deploying a language-specific library. A rebuilt Sqreen can instrument a polyglot microservices fleet — Go services, Python ML pipelines, Node.js APIs — with a single kernel-level probe. This is not an incremental improvement; it eliminates the primary engineering and sales bottleneck that constrained Sqreen's growth.
 
@@ -44,7 +44,7 @@ Datadog will win the enterprise segment of this market. That is not the target. 
 
 ## Recommended MVP
 
-## Core Feature 1: eBPF-Native Runtime Protection
+### Core Feature 1: eBPF-Native Runtime Protection
 
 A kernel-level security probe that instruments any application — regardless of language or framework — by attaching to Linux syscalls and network events, with no code changes required. It detects and blocks SQL injection, command injection, SSRF, and path traversal attacks by observing actual execution context, not traffic patterns. Unlike Sqreen's language-specific agents, this works across polyglot microservices fleets and requires a single Kubernetes DaemonSet deployment — one `helm install` command for the entire cluster.
 

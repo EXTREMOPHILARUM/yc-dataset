@@ -41,7 +41,7 @@ The identity and access management market has grown from an underdeveloped SMB n
 
 ## Core Features:
 
-## Shared Credential Vault with Zero-Knowledge Architecture
+### Shared Credential Vault with Zero-Knowledge Architecture
 
 A centralized vault where administrators store credentials for SaaS apps that lack SAML/OIDC support, using a zero-knowledge encryption model (built on Bitwarden's open-source SDK or equivalent) that allows employees to authenticate without ever seeing or extracting the underlying password. This is Meldium's original core feature, rebuilt on modern open-source cryptographic foundations that reduce engineering cost by an estimated 60–70% versus a custom implementation. Unlike 1Password for Business, the vault is explicitly designed for shared team credentials with role-based access, not individual password storage.
 

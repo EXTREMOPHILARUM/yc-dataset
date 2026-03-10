@@ -47,7 +47,7 @@ Several structural conditions now make a rebuild viable where it wasn't in 2021:
 
 ## Core Features:
 
-## One-command fine-tuning launcher with PEFT/LoRA defaults.
+### One-command fine-tuning launcher with PEFT/LoRA defaults.
 
 A CLI and web UI that accepts a base model (from Hugging Face Hub), a dataset, and a task type, and launches a pre-configured fine-tuning job with sensible PEFT/LoRA defaults — no CUDA configuration, no Docker management, no cloud console navigation required. This is FloydHub's original insight applied to the specific fine-tuning workflow, not generic deep learning. Unlike FloydHub's general-purpose job runner, this is opinionated: it knows what fine-tuning looks like and pre-configures accordingly, reducing the surface area where things break.
 

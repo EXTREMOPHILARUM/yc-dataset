@@ -22,7 +22,7 @@ His bio at the time read: "Working on better outcomes, better experiences, and w
 
 ## Founding Story
 
-## Timeline
+### Timeline
 
 - **2014** — CareLedger founded in Sunnyvale, CA (per Tracxn); Oliver Takach also founds Aiddly Health around this period <sup>[[3]](https://tracxn.com/d/companies/careledger/__GlHg6BmJWSy-8ANF3iefYZzixBlCS_vPzhiCC-x6m6c)</sup><sup>[[6]](https://theorg.com/org/keep-technologies/org-chart/oliver-takach)</sup>
 

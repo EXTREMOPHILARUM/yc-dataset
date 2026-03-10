@@ -41,7 +41,7 @@ The U.S. telehealth market grew from approximately $2B (2019) to approximately $
 
 ## Recommended MVP
 
-## Core Features:
+### Core Features:
 
 **1. FHIR API-native record aggregation.** Connects to CommonWell, Carequality, and CMS payer APIs to pull structured patient records electronically, without fax or mail. This replaces PatientBank's entire operational infrastructure — the 2.5M contact database, the fax machine, the manual follow-up workflow — with software integrations. The original PatientBank absorbed analog costs linearly with volume; this version does not.
 

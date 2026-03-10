@@ -10,7 +10,7 @@ The rebuild thesis is this: compliance mandates that were aspirational in 2021 a
 
 ## Why Now?
 
-## The single most important change since Telivy's failure: compliance mandates have converted discretionary security spending into legally required, auditable, recurring expenditure.
+### The single most important change since Telivy's failure: compliance mandates have converted discretionary security spending into legally required, auditable, recurring expenditure.
 
 When Telivy launched in 2021, cyber risk assessments were a best practice that MSPs could recommend and SMB clients could decline. That dynamic has structurally reversed. Three specific regulatory changes now make continuous risk assessment non-optional for large swaths of the SMB market:
 
@@ -48,7 +48,7 @@ Distribution has also changed materially. **NinjaRMM's app marketplace**, **Conn
 
 ## Core Features:
 
-## Compliance-Mapped Risk Assessment Engine
+### Compliance-Mapped Risk Assessment Engine
 
 Automated external attack surface scan (built on open-source tooling: ProjectDiscovery's Nuclei and OWASP Amass, both of which have matured significantly since 2021) that maps findings directly to CMMC 2.0 Practice requirements, FTC Safeguards Rule controls, and SOC 2 Trust Service Criteria. Each finding generates a remediation task with a compliance citation, not just a severity score. This differs from Telivy's original ASM in that the output is a compliance artifact, not a security report — it answers the question an MSP's client actually needs answered: "Am I compliant, and what do I need to fix?"
 

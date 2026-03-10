@@ -18,7 +18,7 @@ The initial vision was expansive. By May 2013, Krumbholz was articulating an amb
 
 ## Founding Story
 
-## Timeline
+### Timeline
 
 - **2012** — Cole Krumbholz enters Y Combinator Winter 2012 batch with Backlift. Company raises $120K seed from YC. Incorporated as Sendspree Inc. <sup>[[9]](https://tracxn.com/d/companies/brace/__3xHuH3sQMB_a9TqHRQpLohrSWOA8MCuce4fFQLKYX6s)</sup>
 

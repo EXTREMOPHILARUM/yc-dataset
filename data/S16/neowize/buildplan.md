@@ -37,7 +37,7 @@ The global e-commerce personalization market was valued at approximately $1.1 bi
 
 ## Recommended MVP
 
-## Feature 1: Semantic Cold-Start Engine
+### Feature 1: Semantic Cold-Start Engine
 
 On merchant install, the system ingests the full product catalog — titles, descriptions, tags, images — and generates semantic embeddings using a hosted embedding model (e.g., OpenAI text-embedding-3-large, available since January 2024). From the first visitor's first click, the engine surfaces semantically similar products without requiring any prior behavioral data. This directly replaces NeoWize's active machine learning approach with a capability that performs equivalently on day one, at a fraction of the engineering cost.
 

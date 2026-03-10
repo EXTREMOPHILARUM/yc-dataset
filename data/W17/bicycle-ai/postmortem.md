@@ -18,7 +18,7 @@ The founding insight appears to have been straightforward: customer support at s
 
 ## Founding Story
 
-## Timeline
+### Timeline
 
 - **July 2016** — Abhishek Nayak, Arpit Mohan, and Arvind Singh found Bicycle AI in Bengaluru, India; Nayak begins as CEO <sup>[[6]](https://contactout.com/Abhishek-Nayak-31824818)</sup>
 - **September 2016** — Arpit Mohan formally joins as CTO <sup>[[7]](https://theorg.com/org/appsmith/org-chart/arpit-mohan)</sup>

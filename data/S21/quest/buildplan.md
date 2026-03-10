@@ -18,7 +18,7 @@ Distribution infrastructure has also matured. The Shopify App Store analogy appl
 
 ## Current Market Analysis
 
-## Market Size
+### Market Size
 
 The global online professional development and e-learning market was valued at approximately $250 billion in 2023 (Global Market Insights, 2024) and is projected to grow at roughly 17% CAGR through 2030. The narrower "creator knowledge economy" segment — paid expert content, cohort courses, and Q&A platforms — is harder to isolate precisely; specific TAM figures for short-form audio career advice are not publicly available. However, adjacent proxies are instructive: Substack crossed $300M in annualized creator revenue in 2024, and Patreon reported $230M+ in creator payouts in 2023, signaling that knowledge workers will pay for and monetize expert content at meaningful scale.
 
@@ -36,7 +36,7 @@ The gap: no current product combines AI-seeded content, verified expert audio, a
 
 ## Recommended MVP
 
-## Feature 1: AI-Seeded Answer Library with Expert Verification
+### Feature 1: AI-Seeded Answer Library with Expert Verification
 
 The platform generates initial answers to career questions using GPT-4o (released May 2024) or equivalent, organized by role, industry, and career stage. Verified human experts — recruited from LinkedIn and Substack creator communities — review, edit, or override AI drafts and attach their name and credentials. This directly inverts Quest's cold-start problem: the library is populated on day one, and expert participation improves quality rather than enabling it.
 
@@ -64,7 +64,7 @@ Content is organized into structured tracks (e.g., "Breaking into Product Manage
 
 ## Go-to-Market Strategy
 
-## Target Customer Segment
+### Target Customer Segment
 
 Primary: Early-career professionals (0–3 years of experience) in tech, product, and design roles, actively navigating a job search or first promotion decision. This is Quest's original audience, now validated by CareerTok's scale. Secondary — and the critical difference from Quest's model — paying experts are mid-senior professionals (5–10 years experience) who already create content on Substack or LinkedIn and want a monetized audio channel without podcast production overhead.
 

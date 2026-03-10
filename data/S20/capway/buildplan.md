@@ -39,7 +39,7 @@ Distribution channels unavailable to the original CapWay now exist at scale. The
 
 ## Recommended MVP
 
-## Core Features:
+### Core Features:
 
 **1. Employer-Sponsored Account Onboarding.** A white-labeled onboarding flow that employers (retailers, logistics companies, food service operators) deploy to hourly workers as a payroll benefit, pre-loading the CapWay account with the worker's first direct deposit. This matters because it eliminates the direct-to-consumer customer acquisition cost that made the interchange model unworkable at CapWay's funding level. Unlike the original CapWay, which identified this channel but did not scale it, the 2026 rebuild makes employer distribution the *primary* go-to-market motion, not a secondary experiment.
 

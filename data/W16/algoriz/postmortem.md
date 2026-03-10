@@ -14,7 +14,7 @@ One data discrepancy is worth noting. Y Combinator's own company page lists Algo
 
 ## Founding Story
 
-## Timeline
+### Timeline
 
 - **2015** — Soraya Taghavi founds Algoriz in New York City after departing Millennium Partners, drawing on her Goldman Sachs and Millennium Partners trading floor experience.<sup>[[5]](https://app.dealroom.co/companies/algoriz)</sup>
 

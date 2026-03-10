@@ -22,7 +22,7 @@ Distribution infrastructure has also matured. Curve Health — Peck's own 2020 r
 
 ## Current Market Analysis
 
-## Market Size
+### Market Size
 
 The U.S. skilled nursing facility market encompasses approximately 15,000 licensed facilities housing roughly 1.3 million residents at any given time, a figure that has remained relatively stable since Call9's operation. The financial opportunity has expanded significantly: the broader post-acute telehealth addressable market is estimated in the tens of billions annually in avoidable Medicare hospitalization costs, though a precise 2026 figure specific to SNF telehealth is not available in the research provided. What is documented is that the telehealth market overall grew roughly 9x between 2019 and 2023, and SNF-specific telehealth has moved from experimental to reimbursable.
 
@@ -48,7 +48,7 @@ SNF staffing platforms Clipboard Health and IntelyCare have demonstrated that fl
 
 ## Core Features
 
-## Flexible On-Site Clinical Care Specialist Staffing via Marketplace Integration
+### Flexible On-Site Clinical Care Specialist Staffing via Marketplace Integration
 
 Rather than directly employing all CCS staff as W-2 employees from day one, the rebuilt platform integrates with existing SNF staffing marketplaces (Clipboard Health, IntelyCare) to source and credential paramedics and EMTs for on-site shifts, transitioning high-performing staff to direct employment as facilities scale. This directly addresses the cost structure that required 200 employees for 12 facilities — the original's most economically punishing feature. The CCS role remains the clinical core of the product; the staffing model becomes variable rather than fixed.
 
@@ -87,7 +87,7 @@ Real-time encounter notifications and post-encounter summaries delivered to desi
 
 ## Go-to-Market Strategy
 
-## Target Customer Segment
+### Target Customer Segment
 
 The initial target is mid-size skilled nursing facilities (100–250 beds) in markets with Medicare Advantage penetration above 40% — specifically the Sun Belt states (Florida, Texas, Arizona) where SNF density is high, MA enrollment is above the national average, and the rural-only restriction that trapped Call9 in New York is irrelevant. This is a deliberate departure from Call9's New York concentration, which maximized clinical density but minimized reimbursement eligibility. Facility administrators at chains of 3–10 facilities are the primary buyer, because a single signed agreement can deploy across multiple sites, improving sales efficiency.
 

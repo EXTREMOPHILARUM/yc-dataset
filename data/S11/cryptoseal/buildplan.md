@@ -42,7 +42,7 @@ Distribution channels that did not exist in 2013 are now primary: the AWS Market
 
 ## Recommended MVP
 
-## Feature 1: Multi-cloud attested secret delivery
+### Feature 1: Multi-cloud attested secret delivery
 
 A secrets manager that delivers secrets to workloads only after cryptographically verifying, via hardware attestation (AWS Nitro, Azure CVM, GCP Confidential VM), that the requesting environment is unmodified and running the expected code. Unlike HashiCorp Vault, which trusts the network perimeter, this product trusts the hardware attestation report. Unlike cloud-native tools, it works across AWS, Azure, and GCP simultaneously. This is the core feature CryptoSeal's Trusted Computing vision pointed toward but could not build in 2011.
 

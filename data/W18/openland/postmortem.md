@@ -20,7 +20,7 @@ No public record exists of whether the real estate marketplace ever had paying c
 
 ## Founding Story
 
-## Timeline
+### Timeline
 
 - **2017** — Openland founded in San Francisco by Yury Lifshits and Steve Korshakov as a real estate marketplace targeting urban land development stakeholders.<sup>[[6]](https://news.crunchbase.com/startups/y-combinator-backed-openland-raises-2-5m-launches-real-estate-messenger/)</sup>
 

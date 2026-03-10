@@ -43,7 +43,7 @@ Demand signal from adjacent products: Royal Match's $1B+ annual revenue confirms
 
 ## Recommended MVP
 
-## Core Feature 1: Match-3 PvP Combat with Async Ladder
+### Core Feature 1: Match-3 PvP Combat with Async Ladder
 
 Players compete in asynchronous 1v1 match-3 battles against recorded opponent sessions, with a live-updating seasonal leaderboard. This differs from Toon Squad's original PvP in that it is fully async — no real-time matchmaking required — which dramatically reduces server infrastructure costs and allows a micro-studio to operate it. Async PvP is the mechanic that made Clash Royale's early ladder viable at small team sizes.
 

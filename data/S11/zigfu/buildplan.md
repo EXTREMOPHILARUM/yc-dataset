@@ -26,7 +26,7 @@ The investor landscape has shifted structurally. Andreessen Horowitz's a16z Game
 
 ## Current Market Analysis
 
-## Market Size
+### Market Size
 
 The global digital signage market — where Zigfu found its only profitable OEM customers — reached $27B in 2023, up from approximately $14B in 2012 (source: Grand View Research). Gesture-controlled kiosks are now a validated commercial category deployed in retail, healthcare, and hospitality, meaning the B2B revenue thesis Zigfu stumbled toward at the end is now a fundable, proven market rather than a speculative one.
 
@@ -54,7 +54,7 @@ Unity's XR Interaction Toolkit (open-source) has 2,000+ GitHub stars and active 
 
 ## Core Features
 
-## Cross-Platform Hand Tracking SDK for Unity (the ZDK, rebuilt)
+### Cross-Platform Hand Tracking SDK for Unity (the ZDK, rebuilt)
 
 A single Unity package that abstracts hand tracking across Meta Quest 3, Apple Vision Pro, and webcam/smartphone via MediaPipe — one API, three hardware targets. This directly addresses the gap neither Apple nor Meta will fill. Unlike the original ZDK, it ships on Unity's Asset Store on day one, not twelve months after product readiness. It targets Unity 6 (released 2024) and integrates with the XR Interaction Toolkit rather than replacing it.
 
@@ -80,7 +80,7 @@ No proprietary game content (no Sushi Warrior equivalent). No motion OS for TV O
 
 ## Go-to-Market Strategy
 
-## Target Customer Segment
+### Target Customer Segment
 
 Primary: Independent Unity developers and small studios (1–10 people) building XR applications for Meta Quest 3 or Apple Vision Pro who need hand tracking to work consistently across both platforms without maintaining two separate codebases. These developers are already paying for Unity Pro ($2,040/year) and actively purchasing Asset Store packages — they are pre-qualified buyers with demonstrated willingness to pay for developer tools.
 

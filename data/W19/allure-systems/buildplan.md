@@ -41,7 +41,7 @@ Demand signals from adjacent products are strong. Shopify's native AR/3D feature
 
 ## Recommended MVP
 
-## Core Feature 1: Single-Image to On-Figure Generator
+### Core Feature 1: Single-Image to On-Figure Generator
 
 A merchant uploads one flat product photograph (standard white-background SKU shot); the system outputs photorealistic on-figure images using a fine-tuned Stable Diffusion XL pipeline (capability available July 2023). This is the direct rebuild of Allure's core product, now executable without proprietary hardware. Unlike Allure's original enterprise workflow, this runs entirely in-browser via a Shopify app interface with no integration work required from the merchant.
 
@@ -71,7 +71,7 @@ Direct integration with Shopify's Product API automatically pulls existing SKU i
 
 ## Go-to-Market Strategy
 
-## Target Customer Segment
+### Target Customer Segment
 
 Independent and mid-market apparel brands on Shopify with 50–2,000 active SKUs, $500K–$10M in annual eCommerce revenue, and no in-house photography studio. This segment is large enough to generate meaningful ARR, small enough to make self-serve purchasing decisions without a procurement cycle, and directly underserved by enterprise-oriented competitors. Size-inclusive brands and extended-size retailers (plus-size, adaptive apparel) are the highest-priority sub-segment given the documented conversion and representation gap.
 

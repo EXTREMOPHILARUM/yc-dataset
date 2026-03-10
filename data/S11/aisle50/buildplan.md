@@ -43,7 +43,7 @@ Finally, grocery e-commerce reached approximately 12% of US grocery sales by 202
 
 ## Core Features:
 
-## Cross-Retailer Offer Management Dashboard
+### Cross-Retailer Offer Management Dashboard
 
 A single interface where CPG brand managers create, schedule, and budget manufacturer-funded promotional offers across multiple integrated retailer apps simultaneously. This matters because the current alternative — buying separately from Kroger Precision Marketing, Albertsons Media Collective, and Instacart Ads — requires three separate campaigns, three creative formats, and three attribution reports. The original Aisle50 had no such dashboard; it was a consumer-facing deal page, not a B2B campaign tool.
 

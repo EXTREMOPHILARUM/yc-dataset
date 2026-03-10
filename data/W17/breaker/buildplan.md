@@ -42,7 +42,7 @@ Demand signal: the organic emergence of podcast Discord servers—without any pr
 
 ## Core Features:
 
-## Moment-Level Clip Sharing
+### Moment-Level Clip Sharing
 
 Using Whisper transcription and GPT-4 summarization, the app automatically generates a searchable transcript for every episode and allows users to highlight any passage to create a shareable quote card with a deep-link timestamp. This matters because it makes podcast audio as linkable and discussable as text—the fundamental capability Breaker lacked. Unlike Breaker's episode-level likes, this creates specific, substantive social objects worth sharing.
 

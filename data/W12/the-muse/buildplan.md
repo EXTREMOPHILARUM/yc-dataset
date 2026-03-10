@@ -46,7 +46,7 @@ Three additional structural shifts reinforce the timing:
 
 ## Recommended MVP
 
-## Core Feature 1: AI-Generated Employer Culture Profiles
+### Core Feature 1: AI-Generated Employer Culture Profiles
 
 Employers complete a structured 20-minute intake (values, team structure, work style, growth paths). GPT-4o generates a rich, narrative profile — including "day in the life" vignettes by role — that the employer reviews and approves. This directly eliminates the video production and editorial overhead that constrained The Muse's original employer-side growth. Unlike The Muse's manually produced profiles, this scales to hundreds of employers without headcount. Unlike LinkedIn's static pages, profiles are role-specific and dynamically updated.
 

@@ -40,7 +40,7 @@ Distribution has also matured. The AWS Marketplace and Azure Marketplace now hav
 
 ## Recommended MVP
 
-## Feature 1: OTel-native local collector with compliance export
+### Feature 1: OTel-native local collector with compliance export
 
 A single-binary OTel collector sidecar that intercepts LLM traces from any provider (OpenAI, Anthropic, Mistral, local models via Ollama) without code changes, storing all data locally in a structured SQLite format. Unlike the original Sublingual's custom static/dynamic analysis approach, this uses the standardized OTel instrumentation libraries already shipping with major SDKs, making it reliable across framework updates. The compliance export feature generates a signed, timestamped audit log in formats accepted by SOC 2 and EU AI Act conformity documentation — this is the paid unlock.
 

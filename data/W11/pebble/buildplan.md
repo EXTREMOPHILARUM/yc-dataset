@@ -39,7 +39,7 @@ Distribution channels available now that did not exist at scale in 2016 include 
 
 ## Recommended MVP
 
-## Core Feature 1: Open PebbleOS on Color E-Ink Hardware
+### Core Feature 1: Open PebbleOS on Color E-Ink Hardware
 
 Ship a watch running the open-sourced PebbleOS on a modern color e-ink panel (E Ink Kaleido 3 or equivalent) with a minimum five-day battery life. This is the foundational value proposition: everything the original Pebble delivered, with color, on a proven OS that already has 8,000 apps. The difference from the original is that the OS is now open-source and community-maintained, eliminating the proprietary software maintenance cost that required 160 employees to sustain.
 

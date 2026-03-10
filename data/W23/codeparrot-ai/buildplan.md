@@ -45,7 +45,7 @@ Distribution is also solved differently now. The Figma Plugin Marketplace hosts 
 
 ## Core Features:
 
-## Figma Dev Mode API Ingestion Pipeline
+### Figma Dev Mode API Ingestion Pipeline
 
 Connects directly to Figma's Dev Mode API to extract structured design tokens, component metadata, spacing variables, and typography hierarchies — replacing screenshot parsing entirely. This matters because CodeParrot's screenshot-based approach introduced ambiguity at the first step of the pipeline; structured data eliminates that ambiguity before the LLM is invoked. Unlike Locofy and Anima, which still rely primarily on Figma's older REST API, this approach consumes the richer variable bindings exposed only in Dev Mode.
 
@@ -79,7 +79,7 @@ Surfaces a structured diff between generated output and the target codebase's co
 
 ## Go-to-Market Strategy
 
-## Target Customer Segment:
+### Target Customer Segment:
 
 Frontend engineers at Series A–C SaaS companies (50–500 employees) with an established Figma-based design system and a React/TypeScript codebase. Specifically: teams where a dedicated design system exists but no tooling bridges it to code generation. This excludes early-stage startups (no design system yet) and large enterprises (procurement friction, security reviews). This is the segment v0 cannot serve and where CodeParrot's aspiration — confirmed by its enterprise logo claims — was always pointed.
 
@@ -89,6 +89,6 @@ The Figma Plugin Marketplace, with over 1,000 plugins and millions of installs, 
 
 ## Pricing Strategy:
 
-## Differentiation vs. 2026 Competitors:
+### Differentiation vs. 2026 Competitors:
 
 The rebuild's moat is specificity: it is the only tool that combines Figma Dev Mode structured input, MCP live codebase context, and an evaluation layer that measures output quality against the customer's actual design system. v0 generates generic components. Figma "Make" ignores the codebase. Locofy and Anima lack MCP integration. This rebuild does not compete on breadth — it competes on the single workflow where all current tools fail enterprise frontend teams.

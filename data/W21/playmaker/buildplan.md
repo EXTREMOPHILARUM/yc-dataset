@@ -42,7 +42,7 @@ Market size has also expanded materially. FPL's registered user base grew from 7
 
 ## Recommended MVP
 
-## Feature 1: WhatsApp Bot with Live Gameweek Updates
+### Feature 1: WhatsApp Bot with Live Gameweek Updates
 
 When a gameweek is active, the bot pushes real-time alerts into the group chat — goals, assists, clean sheets, red cards — translated into fantasy point implications for each manager's team. It uses the free FPL API for live data and requires no Opta license. Unlike Playmaker's standalone app, this delivers value inside the communication tool the league already uses, eliminating the download-and-switch barrier entirely.
 

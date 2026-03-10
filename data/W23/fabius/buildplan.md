@@ -18,7 +18,7 @@ Three additional timing factors compound this shift:
 
 ## Current Market Analysis
 
-## Market Size
+### Market Size
 
 The sales intelligence and conversation analytics market was anchored by Gong's $7.25 billion valuation (2021 Series E) and Chorus's $575 million acquisition by ZoomInfo (2021). The broader sales enablement market was estimated at $2.6 billion in 2023 (MarketsandMarkets). A 2026 figure is not available in this report. What is clear is that the market has not contracted — Gong, Clari, and Salesloft have all continued expanding headcount and product surface area through 2024–2025 based on public LinkedIn data.
 
@@ -42,7 +42,7 @@ Orum's growth in AI-assisted live coaching and Momentum's CRM automation tractio
 
 ## Core Features
 
-## Methodology Rubric Builder
+### Methodology Rubric Builder
 
 A no-code interface that lets a sales leader encode their specific sales framework — MEDDPICC, SPICED, SPIN, or a custom variant — as a structured scoring rubric with weighted criteria. This matters because Gong's coaching benchmarks against industry aggregates, not company-specific process; the rubric builder is the foundational differentiator that makes every downstream feature company-specific rather than generic. The original Fabius built this manually in onboarding; the rebuild makes it self-serve, reducing time-to-value from days to under an hour.
 
@@ -73,7 +73,7 @@ Qualification data extracted during scoring is written directly to HubSpot or Sa
 
 ## Go-to-Market Strategy
 
-## Target Customer Segment
+### Target Customer Segment
 
 B2B SaaS companies with 10–50 sales reps, a defined sales methodology (MEDDPICC or SPICED), and an existing HubSpot or Salesforce CRM. This segment is explicitly priced out of Gong, has enough reps that individual manager coaching is becoming a bottleneck, and has already demonstrated process-orientation by adopting a named methodology. Revenue Operations leads and VP of Sales at Series A–B companies are the primary buyers.
 
@@ -85,6 +85,6 @@ Secondary: LinkedIn content from the founders documenting methodology-enforcemen
 
 ## Pricing
 
-## Differentiation vs. 2026 Competitors
+### Differentiation vs. 2026 Competitors
 
 The rebuild wins on three axes simultaneously that no current competitor matches: SMB-accessible pricing, company-specific rubric customization (not industry benchmarks), and a HubSpot-native integration path. Momentum automates CRM but does not score methodology. Gong scores calls but not against your rubric and not at your price point. The rebuild occupies the intersection of both.

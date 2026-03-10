@@ -16,7 +16,7 @@ Market validation is further confirmed by Salesforce, HubSpot, and Microsoft Cop
 
 ## Why Now?
 
-## Current Market Analysis
+### Current Market Analysis
 
 **Market Size:** The RFP and proposal automation software market was valued at approximately $1.5B in 2022 (source: Grand View Research; exact 2026 figure not available in research materials). The adjacent compliance automation market—where Vanta, Drata, and Secureframe compete—has attracted $500M+ in venture funding alone, suggesting the combined security questionnaire and RFP workflow market is meaningfully larger than the standalone RFP category implies.
 
@@ -35,7 +35,7 @@ Market validation is further confirmed by Salesforce, HubSpot, and Microsoft Cop
 
 ## Recommended MVP
 
-## Core Features:
+### Core Features:
 
 **1. Compliance Platform Knowledge Sync:** Integrates directly with Vanta, Drata, and Secureframe via their published APIs to pull structured security controls, evidence documents, and prior questionnaire responses into a continuously updated knowledge base. This matters because it eliminates the manual content ingestion step that was a key time-to-value barrier for Dialect—customers already have their security content organized inside these platforms. Unlike Dialect's original browser extension, which required users to manually connect help center articles and documents, this integration makes the knowledge base self-maintaining.
 

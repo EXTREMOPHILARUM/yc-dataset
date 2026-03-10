@@ -16,7 +16,7 @@ Critically, the "chat with your data" category has bifurcated. General-purpose t
 
 ## Why Now?
 
-## Current Market Analysis
+### Current Market Analysis
 
 The global business intelligence and analytics software market was valued at approximately $29 billion in 2023 (source: research report); analyst projections for 2026 are not confirmed in the provided research and should be independently verified before fundraising. The AI-augmented analytics subcategory has grown substantially, driven by enterprise AI adoption budgets that expanded post-2023.
 
@@ -36,7 +36,7 @@ The global business intelligence and analytics software market was valued at app
 
 ## Recommended MVP
 
-## Core Feature 1: On-Premises Natural Language Query Engine
+### Core Feature 1: On-Premises Natural Language Query Engine
 
 Connects to a single data source — initially PostgreSQL and Google Sheets only — and translates plain English questions into SQL or Python using a locally hosted Llama 3.1 70B instance via Ollama, with an optional cloud-fallback to Claude Haiku for complex queries. This is the product Vizly built, but with 2024-generation model quality that eliminates the accuracy gap that made the 2023 version a hard sell. Unlike the original, the model selection is invisible to the end user; the system routes automatically based on query complexity and data sensitivity settings configured by the IT administrator at setup.
 

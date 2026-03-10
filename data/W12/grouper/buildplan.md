@@ -44,7 +44,7 @@ Several additional conditions have converged to make 2026 the right moment:
 
 ## Recommended MVP
 
-## Core features:
+### Core features:
 
 **1. AI Group Matching Engine.** Using Claude 3.5 (June 2024) or GPT-4o (May 2024) via API, the system ingests user-provided interest data, optional Spotify taste signals, and a short onboarding questionnaire to generate 3+3 group matches without human reviewers. This directly replaces Grouper's fatal cost center. Unlike the original, matching runs at software marginal cost — the quality floor is maintained by model capability, not headcount. Users invite one or two friends, or the system assembles a group from solo sign-ups (a key expansion of the original's coordination requirement).
 

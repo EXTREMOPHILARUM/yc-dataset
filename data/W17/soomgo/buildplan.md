@@ -44,7 +44,7 @@ Distribution channels now available that did not exist at Soomgo's founding: Kak
 
 ## Recommended MVP
 
-## Core Feature 1: AI Intake & Brief Generation
+### Core Feature 1: AI Intake & Brief Generation
 
 A conversational chat interface (KakaoTalk-native or in-app) that asks consumers structured questions about their service need — location, timing, budget, specific requirements — and generates a standardized job brief before any provider is contacted. This directly addresses the low-quality lead problem that drove provider churn in Soomgo's credit model; providers receive a pre-qualified brief, not a raw keyword request. Unlike Soomgo's original form-based intake, this is conversational and adaptive — it asks follow-up questions based on prior answers, handles ambiguous requests, and outputs a brief that providers can quote against with confidence.
 
@@ -79,7 +79,7 @@ In-platform payment with milestone-based escrow for jobs above ₩100,000 KRW. C
 
 ## Go-to-Market Strategy
 
-## Target customer segment (narrow and specific):
+### Target customer segment (narrow and specific):
 
 Primary: Korean freelance professionals and sole-proprietor service businesses in Seoul with 1–5 years of operating experience, earning ₩30–80M KRW annually, who currently acquire customers through Naver blog SEO, word-of-mouth, or paid Naver/Kakao advertising — and are dissatisfied with the unpredictability and cost of those channels. These providers are digitally fluent, already using Kakao Pay or Toss for payments, and have experienced the credit-model frustration of Soomgo or a competitor firsthand. Secondary: Korean urban consumers aged 25–45 in Seoul who have used Baemin or Coupang Eats and are comfortable with app-mediated service transactions.
 

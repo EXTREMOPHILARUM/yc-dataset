@@ -14,7 +14,7 @@ The team entered YC with this pivot already in progress, revealed the product at
 
 ## Founding Story
 
-## Timeline
+### Timeline
 
 - **January 2012** — BarSense participates in Y Combinator Winter 2012 batch. Kytephone is revealed at YC W12 Demo Day and enters beta.<sup>[[1]](https://www.ycombinator.com/companies/barsense)</sup>
 

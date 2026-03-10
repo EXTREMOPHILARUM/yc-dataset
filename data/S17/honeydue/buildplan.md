@@ -44,7 +44,7 @@ Finally, the original Honeydue target demographic has aged into peak willingness
 
 ## Recommended MVP
 
-## Core Feature 1: Reliable shared financial dashboard with open banking connectivity.
+### Core Feature 1: Reliable shared financial dashboard with open banking connectivity.
 
 Each partner links their individual accounts via Plaid's API (or MX, as a fallback), with Section 1033-compliant data access where available. Both partners see a shared view of balances, transactions, and spending by category, with per-partner privacy controls — each user chooses what to share at the account level. This is Honeydue's original core feature, rebuilt on infrastructure that actually works. The difference from the original: open banking APIs replace screen-scraping, eliminating the syncing failures that destroyed user trust post-acquisition. Do not launch in more than two countries at MVP; Honeydue's six-country expansion spread infrastructure support too thin for a small team.
 

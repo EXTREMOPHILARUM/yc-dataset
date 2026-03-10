@@ -10,7 +10,7 @@ The rebuild thesis is not to repeat the pivot treadmill. The original company pr
 
 ## Why Now?
 
-## The single most important change since the original failure is the collapse in the cost of structured data collection across Asian markets.
+### The single most important change since the original failure is the collapse in the cost of structured data collection across Asian markets.
 
 Techlist's core problem was not product design — it was data economics. Asian founders refused to share company information openly, which meant every record in the database required expensive manual research. At $399/seat/month, the product needed to justify CB Insights-level data completeness it could not afford to build. That unit economics trap is now structurally different.
 
@@ -44,7 +44,7 @@ Distribution channels available now that did not exist at scale in 2015 include 
 
 ## Recommended MVP
 
-## Core Feature 1: The Intelligence Brief
+### Core Feature 1: The Intelligence Brief
 
 A daily or three-times-weekly email brief covering funding rounds, regulatory developments, and market moves across Singapore, Indonesia, Vietnam, Thailand, and the Philippines — written for institutional readers, not general tech enthusiasts. Each brief is 600–900 words, sourced from original reporting and AI-assisted monitoring of regulatory filings, job postings, and local-language sources. This differs from the original Tech in Asia in that it is explicitly B2B-priced from day one, not a free editorial product seeking advertising revenue. It differs from DealStreetAsia in editorial voice: analyst-grade framing, not news wire framing.
 

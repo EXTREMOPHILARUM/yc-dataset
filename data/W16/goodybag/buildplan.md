@@ -42,7 +42,7 @@ Finally, hybrid work has created a structurally new use case: companies now need
 
 ## Recommended MVP
 
-## Core Features:
+### Core Features:
 
 **1. AI-Powered Restaurant Onboarding.** Using GPT-4-class LLM parsing, the platform automatically ingests restaurant catering menus from PDFs, websites, and images, structures them into a standardized catalog, and flags items for human review only when confidence is low. This directly eliminates the manual onboarding labor that constrained Goodybag's supply acquisition speed. Unlike the original, supply-side scaling is no longer gated by headcount.
 

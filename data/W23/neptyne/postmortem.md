@@ -18,7 +18,7 @@ The company was incorporated in 2022 and headquartered in Brooklyn, New York.<su
 
 ## Founding Story
 
-## Timeline
+### Timeline
 
 - **2022** — Neptyne founded by Douwe Osinga and Jack Amadeo in Brooklyn, NY, after identifying the Python-to-spreadsheet workflow gap at Sidewalk Labs.<sup>[[9]](https://pitchbook.com/profiles/company/502803-55)</sup>
 

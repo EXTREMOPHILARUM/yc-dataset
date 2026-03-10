@@ -28,7 +28,7 @@ The creator economy infrastructure market reached an estimated $104 billion by 2
 
 ## Current Market Analysis
 
-## Market Size
+### Market Size
 
 The U.S. social commerce market was estimated at approximately $19.4 billion in 2019 (eMarketer). By 2023, eMarketer estimated U.S. social commerce sales at $67.8 billion, growing to a projected $107 billion by 2027. The influencer marketing market reached an estimated $21.1 billion globally in 2023 (Influencer Marketing Hub), up from $4.6 billion in 2018. The addressable market for a cross-platform creator commerce management tool is a subset of both — the specific TAM for creator-facing commerce SaaS is not independently published, but the directional scale is large.
 
@@ -58,7 +58,7 @@ The honest answer is that platform incumbents remain a risk, and this must be st
 
 ## Core Features
 
-## Unified Cross-Platform Storefront Dashboard
+### Unified Cross-Platform Storefront Dashboard
 
 A single interface that syncs product listings, inventory, and pricing across TikTok Shop, Instagram Shopping, and YouTube Shopping simultaneously. When a creator updates a product or marks it out of stock, the change propagates to all three platforms in one action. This matters because managing three separate seller dashboards is the primary operational pain point for mid-tier creators running active commerce operations. The original ShopWith built its own destination storefront; this version manages storefronts the platforms already provide.
 
@@ -91,7 +91,7 @@ This product does not have a network effect problem. It is a single-player SaaS 
 
 ## Go-to-Market Strategy
 
-## Target Customer Segment
+### Target Customer Segment
 
 Mid-tier fashion and beauty creators: 10,000–500,000 followers, already active on at least two of TikTok Shop, Instagram Shopping, or YouTube Shopping, generating between $2,000 and $20,000/month in social commerce GMV. This segment is large enough to have real operational pain (managing multiple platforms is genuinely time-consuming at this scale) but small enough to be underserved by enterprise tools and ignored by platform-native solutions optimized for mega-influencers. Macro-influencers (1M+ followers) have managers and operations staff; micro-influencers (<10K) don't yet have the GMV to justify a paid tool.
 
@@ -101,6 +101,6 @@ Direct outreach via TikTok and Instagram, targeting creators who post "creator b
 
 ## Pricing Strategy
 
-## Differentiation vs. 2026 Competitors
+### Differentiation vs. 2026 Competitors
 
 LTK requires creators to drive audiences to LTK's destination — the same distribution problem ShopWith had. Shopify Collabs is merchant-centric, not creator-centric, and does not aggregate non-Shopify platform data. Native platform tools are siloed by design. The rebuild's differentiation is the only cross-platform, creator-centric commerce operations layer that works where the creator's audience already is, rather than asking the audience to go somewhere new.

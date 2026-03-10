@@ -41,7 +41,7 @@ Market context: TurboTenant reported 700,000+ landlords on its platform as of 20
 
 ## Recommended MVP
 
-## Feature 1: One-form listing syndication to Zillow, Apartments.com, and Facebook Marketplace.
+### Feature 1: One-form listing syndication to Zillow, Apartments.com, and Facebook Marketplace.
 
 A landlord enters property details once and the platform distributes to the three highest-traffic rental portals via their published APIs (Zillow Rental Manager API, CoStar/Apartments.com partner feed, Facebook Marketplace Rentals API). This is table stakes — it replicates what Rentobo built in 2011 — but it is the acquisition hook that gets a landlord into the platform. Unlike the original, this feature will not be the product's differentiation; it is the free front door. Do not build integrations beyond these three portals in the MVP; Craigslist's API is deprecated and the marginal reach does not justify the maintenance cost.
 

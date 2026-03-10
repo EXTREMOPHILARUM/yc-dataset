@@ -10,7 +10,7 @@ The rebuild thesis is not that the market changed — it is that the cost struct
 
 ## Why Now?
 
-## The single most important change since Queenly's failure is that its entire technology stack is now commodity infrastructure.
+### The single most important change since Queenly's failure is that its entire technology stack is now commodity infrastructure.
 
 Queenly's CTO Kathy Zhou-Patel built the iOS app, Android app, web platform, ML search engine, computer vision layer, AR try-on tool, and generative AI listing system largely herself — and then spent additional senior engineering time building analytics infrastructure in-house. In 2026, every one of those components can be sourced, assembled, or fine-tuned from existing APIs and platforms at a fraction of the original cost.
 
@@ -24,7 +24,7 @@ Distribution channels unavailable at Queenly's founding now include TikTok Shop 
 
 ## Current Market Analysis
 
-## Market Size
+### Market Size
 
 The North American formalwear market was cited at $15 billion at the time of Queenly's a16z raise, with prom alone representing a $4 billion annual market. These figures are industry estimates, not audited data, and no updated vertical-specific figure for formalwear resale is available in the public record as of early 2026. However, the broader secondhand apparel market's growth from $28B (2021) to a projected $82B (2026) per ThredUp provides a directional signal that the resale subset of formalwear has grown meaningfully. The specific TAM for formalwear resale should be modeled conservatively at 5–8% of the primary formalwear market — approximately $750M–$1.2B annually in North America — until better data is available. Do not use the $15B primary market figure as a proxy for resale opportunity.
 
@@ -58,7 +58,7 @@ Depop's formalwear listings consistently rank among its highest-engagement categ
 
 ## Core Features
 
-## AI-Powered Listing in Under 2 Minutes
+### AI-Powered Listing in Under 2 Minutes
 
 Sellers photograph their dress (3–5 photos); GPT-4o generates a structured listing including style category, silhouette, embellishment detail, condition grade, and SEO-optimized description. The seller confirms or edits, then publishes. This directly replicates Queenly's proven result — 85% listing completion, 50% reduction in time-to-listing — but deploys it from day one using off-the-shelf LLM APIs rather than a custom engineering build. Unlike Queenly's implementation, which required dedicated engineering effort to build, this version costs approximately $0.02–$0.05 per listing in API fees.
 
@@ -94,7 +94,7 @@ The core feature — visual search across a deep formalwear inventory — requir
 
 ## Go-to-Market Strategy
 
-## Target Customer Segment
+### Target Customer Segment
 
 Primary: Active pageant contestants in the United States, specifically women competing in Miss America Organization, Miss USA, and Miss Teen USA state-level circuits. This segment has the highest purchase frequency in the formalwear category (multiple gowns per competition season), the strongest peer network for word-of-mouth distribution, and a documented cultural norm of wearing unique, non-repeated dresses. Queenly's a16z lead Connie Chan identified this segment explicitly as "a really great wedge." The rebuild uses the same wedge, but does not expand beyond it until the core unit economics are proven.
 

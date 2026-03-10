@@ -24,7 +24,7 @@ Distribution channels unavailable in 2018 now exist at scale: the Shopify App St
 
 ## Current Market Analysis
 
-## Market Size
+### Market Size
 
 The addressable market in 2018 was structurally capped by the Alexa Skills ecosystem — a platform with tens of millions of devices but consumer behavior concentrated in native functions. The 2026 addressable market is categorically different: it is the small business conversational AI market, not the Alexa tooling market. Exact TAM figures for the no-code conversational AI builder segment are not available in the research report and should not be invented here; the MarketsandMarkets $10.7B–$29.8B range for the broader conversational AI market is the best available proxy.
 
@@ -50,7 +50,7 @@ This is the honest hard question. Amazon (Alexa+), Google (Gemini-powered Assist
 
 ## Recommended MVP
 
-## Core Features
+### Core Features
 
 *Natural Language Agent Builder*
 A creator describes their agent's purpose, personality, and knowledge base in plain English — "I run a yoga studio and want an agent that answers questions about class schedules, handles new student inquiries, and books intro sessions" — and the system generates a working conversational agent with appropriate dialogue logic, fallback handling, and knowledge retrieval. This directly addresses the root cause Storyline's post-mortem identified: the product thinking barrier was higher than the technical barrier. LLM-generated agent scaffolding lowers the product thinking barrier for the first time, not just the coding barrier. Unlike Storyline's tree-based editor, creators are not required to map every conversational branch manually.
@@ -83,7 +83,7 @@ This product does not depend on network effects or local density. An agent deliv
 
 ## Go-to-Market Strategy
 
-## Target Customer Segment
+### Target Customer Segment
 
 The beachhead customer is the solo operator or two-to-five person small service business — yoga studios, tutoring centers, independent consultants, local restaurants, real estate agents — that receives repetitive inbound inquiries it cannot staff to answer consistently. This is deliberately narrower than Storyline's "content creators and hobbyists" framing. These customers have a clear, recurring pain (missed inquiries = missed revenue), an existing willingness to pay for tools that solve operational problems, and no technical staff to build a custom solution.
 

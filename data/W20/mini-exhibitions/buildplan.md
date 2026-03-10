@@ -46,7 +46,7 @@ The global corporate team-building market was estimated at approximately $4.8 bi
 
 ## Recommended MVP
 
-## Feature 1: Hybrid Experience Catalog (in-person + remote simultaneous)
+### Feature 1: Hybrid Experience Catalog (in-person + remote simultaneous)
 
 A curated catalog of 15–20 experiences designed explicitly for hybrid teams — where some participants are in an office together and others are remote. Each experience ships physical kits to remote attendees while providing a facilitated in-room component for the in-office group. This is architecturally different from the original Mini Exhibitions catalog, which assumed all participants were remote. The hybrid format is the product's core structural innovation and its primary differentiation from Confetti and Teambuilding.com, which still treat hybrid as an afterthought.
 

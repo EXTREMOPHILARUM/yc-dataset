@@ -22,7 +22,7 @@ Voice commerce adoption is no longer a thesis — it is documented behavior. Glo
 
 ## Current Market Analysis
 
-## Market Size
+### Market Size
 
 Global e-commerce reached approximately $5.8 trillion in 2023 (eMarketer), compared to roughly $1.9 trillion in 2016 when Mindori operated — a 3x expansion of the underlying market. The e-commerce search software segment specifically is harder to isolate; precise 2026 figures are not available at time of writing. The voice commerce sub-segment was estimated at $19.4 billion globally in 2023 by Juniper Research, though this figure aggregates smart speaker commerce, in-app voice, and voice-assisted browsing in ways that make direct comparison to Mindori's original TAM difficult.
 
@@ -44,7 +44,7 @@ Shopify's own search app category shows consistent top-chart presence for produc
 
 ## Recommended MVP
 
-## Core Features
+### Core Features
 
 *Voice-to-conversational-search widget.* A lightweight JavaScript widget (plus Shopify App Block) that captures voice input via browser microphone, transcribes it using Whisper API, and passes the transcript to an LLM-powered search layer that queries the merchant's existing product catalog via Shopify's Storefront API. Unlike Mindori's catalog-specific model training, this requires zero onboarding customization — the merchant installs the app and the widget is live within minutes. This is the fundamental architectural difference from the original: inference-time reasoning over catalog data rather than catalog-encoded model weights.
 
@@ -69,7 +69,7 @@ No custom ASR model training per merchant. No native iOS/Android SDK (browser-ba
 
 ## Go-to-Market Strategy
 
-## Target Customer Segment
+### Target Customer Segment
 
 Shopify merchants on the Basic or Shopify plan (not Plus) with 1,000–50,000 monthly sessions and a product catalog of 200–5,000 SKUs. Specifically: fashion, footwear, outdoor gear, and home goods merchants where product discovery is attribute-rich (color, size, material, style) and where voice's ability to express multi-attribute queries in natural language provides the clearest UX advantage over text search. This segment is large enough to build meaningful revenue but small enough to be ignored by Coveo and Constructor.io.
 

@@ -44,7 +44,7 @@ The competitive landscape has shifted meaningfully since 2016, but no direct suc
 
 ## Core Features:
 
-## Algorithmic Inspiration Feed with Structured Metadata
+### Algorithmic Inspiration Feed with Structured Metadata
 
 A TikTok-style scrolling feed of short video and photo posts, each tagged at upload with stylist name, location, products used, and estimated price range. Unlike the original Tress feed — which relied on follow-based network effects that required years to build — this feed surfaces content algorithmically based on hair type, style preference, and location, generating value for new users from their first session. This directly addresses the original's distribution failure by removing the cold-start problem for individual users.
 
@@ -80,7 +80,7 @@ Stylists claim verified profiles with portfolio galleries, service menus, price 
 
 ## Go-to-Market Strategy
 
-## Target Customer Segment:
+### Target Customer Segment:
 
 Black women aged 22–38 in three US cities with high Black population density and established natural hair communities: Atlanta, Houston, and Washington D.C. This is deliberately narrower than Tress's original global launch. The original's 90-country user base was a vanity metric that masked the inability to build deep engagement in any single market. A city-by-city rollout builds the local stylist supply and community density that makes booking and discovery genuinely useful before expanding.
 

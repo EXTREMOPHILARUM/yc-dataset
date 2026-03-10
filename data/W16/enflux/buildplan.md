@@ -44,7 +44,7 @@ Distribution channel available now that did not exist in 2016: WebPT's marketpla
 
 ## Recommended MVP
 
-## Core Feature 1: Camera-Based Movement Assessment
+### Core Feature 1: Camera-Based Movement Assessment
 
 Using MediaPipe Pose or Apple's Vision framework, the app captures a patient performing a standardized movement screen (squat, single-leg stance, overhead reach) via the PT clinic's existing iPad or iPhone. The system extracts joint angles, flags deviations from normative ranges, and generates a structured report. This replaces the ten-sensor garment entirely for the assessment use case — the original Enflux product required the patient to own and wear the garment; this requires only the clinic's existing device.
 

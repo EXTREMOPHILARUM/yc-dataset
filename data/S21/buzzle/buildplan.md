@@ -10,7 +10,7 @@ The rebuild thesis is simple: the structural flaw was never the product idea —
 
 ## Why Now?
 
-## The single most important change: GPT-4 (March 2023) and Claude 3 (March 2024) have made high-quality structured extraction from unstructured conversation data a commodity API call, not a multi-month NLP engineering project.
+### The single most important change: GPT-4 (March 2023) and Claude 3 (March 2024) have made high-quality structured extraction from unstructured conversation data a commodity API call, not a multi-month NLP engineering project.
 
 Buzzle's three-person team spent meaningful engineering bandwidth building and maintaining custom NLP models to extract themes, competitive signals, and feature requests from call transcripts. That work is now largely replaceable with a well-engineered prompt chain against a foundation model. The implication is not just cost reduction — it is a fundamental shift in what a small team can build and maintain. A two-person engineering team in 2026 can ship extraction quality that would have required a dedicated ML team in 2021.
 
@@ -44,7 +44,7 @@ Finally, Gong's 2023 acquisition of Mindtickle and Chorus's absorption into Zoom
 
 ## Recommended MVP
 
-## Core Feature 1: Multi-Source Signal Ingestion
+### Core Feature 1: Multi-Source Signal Ingestion
 
 Ingest call recordings directly from Zoom, Google Meet, and Microsoft Teams via native OAuth integrations — *not* through Gong or Chorus APIs. Supplement with support ticket imports (Zendesk, Intercom) and CRM note sync (HubSpot). This is the structural fix that Buzzle never made: owning the data pipeline rather than licensing it from a competitor. The original Buzzle was entirely dependent on Gong/Chorus; this version treats those platforms as optional sources, not required ones.
 

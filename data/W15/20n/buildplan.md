@@ -45,7 +45,7 @@ Distribution channel available now that did not exist in 2015: Ginkgo Bioworks' 
 
 ## Recommended MVP
 
-## Core Feature 1: AI-Powered Pathway Prediction with Structural Validation
+### Core Feature 1: AI-Powered Pathway Prediction with Structural Validation
 
 The platform accepts a target molecule as input and returns a ranked list of biosynthetic routes, each scored by a composite of literature evidence (mined via BioGPT-class LLMs from KEGG, MetaCyc, and BRENDA), AlphaFold2-predicted enzyme structural compatibility, and organism-specific expression likelihood in *E. coli* or *S. cerevisiae*. Unlike 20n's original platform, which relied primarily on NLP literature mining, structural scoring via AlphaFold2 allows the system to distinguish between enzymes that are documented to catalyze a reaction and enzymes that are structurally predicted to do so reliably in a specific host—a meaningful accuracy improvement. The 20n/act open-source codebase on GitHub provides the foundational data structures and pathway logic; the rebuild layers AlphaFold2 integration and modern LLM-based literature mining on top.
 

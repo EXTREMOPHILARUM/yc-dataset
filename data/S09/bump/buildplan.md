@@ -10,7 +10,7 @@ The go-to-market is event organizers, not consumers. A 500-person tech conferenc
 
 ## Why Now?
 
-## The single most important change: UWB is now commodity hardware, eliminating Bump's most expensive engineering problem.
+### The single most important change: UWB is now commodity hardware, eliminating Bump's most expensive engineering problem.
 
 Bump's original server-side accelerometer-matching algorithm was a genuine technical achievement — a distributed sensor-fusion system that identified paired devices in real time using GPS and accelerometer data. It was also expensive to operate at scale and introduced latency that made the product feel less magical than it appeared. Ultra-Wideband (UWB) chips, standardized under IEEE 802.15.4z, are now embedded in every iPhone 11 and later (released September 2019) and in a growing majority of Android flagships including the Samsung Galaxy S21+ series and Google Pixel 6 Pro onward. UWB enables centimeter-accurate, sub-10ms proximity detection natively at the hardware level, with no proprietary server matching required. A rebuilt Bump can use UWB as its proximity trigger — more accurate, lower latency, and dramatically cheaper to operate than Bump's 2009 infrastructure.
 
@@ -42,7 +42,7 @@ Bump's original server-side accelerometer-matching algorithm was a genuine techn
 
 ## Recommended MVP
 
-## Core Feature 1: Cross-Platform UWB/Bluetooth Proximity Profile Exchange
+### Core Feature 1: Cross-Platform UWB/Bluetooth Proximity Profile Exchange
 
 When two users with the app installed come within approximately 1 meter of each other and both make a deliberate confirmation gesture (a single tap, not a physical bump), their professional profiles exchange automatically — name, title, company, LinkedIn URL, and one custom field. This differs from the original Bump in two ways: it uses UWB for reliable cross-platform detection rather than server-side accelerometer matching, and it requires a single intentional tap rather than a physical collision, reducing false positives in crowded conference environments. For devices without UWB (older Android models), the fallback is Bluetooth Low Energy proximity with QR confirmation — explicitly a degraded experience, not the primary flow.
 

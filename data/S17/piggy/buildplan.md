@@ -40,7 +40,7 @@ India's mutual fund industry AUM reached ₹67 lakh crore (~$800B USD) as of Mar
 
 ## Recommended MVP
 
-## Core Feature 1 — AA-Powered Net Worth Dashboard
+### Core Feature 1 — AA-Powered Net Worth Dashboard
 
 Connects all financial accounts (mutual funds, EPF, bank savings, equities) via the Account Aggregator framework with user consent, displaying a unified real-time net worth view. This matters because it creates immediate, tangible value on day one without requiring any investment action — reducing the activation barrier that plagued Piggy's funnel. Unlike Piggy's manually built integrations, this uses the standardized AA API, meaning the entire integration surface is maintained by the AA ecosystem, not the startup's engineering team.
 

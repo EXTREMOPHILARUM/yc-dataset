@@ -42,7 +42,7 @@ The parental controls market has transformed from a nascent, unproven category i
 
 ## Recommended MVP
 
-## Core Feature 1: Cross-Platform Managed Launcher (iOS + Android)
+### Core Feature 1: Cross-Platform Managed Launcher (iOS + Android)
 
 A simplified, distraction-free home screen built on Apple's Screen Time API and Google's Family Link API that parents configure remotely. Unlike Kytephone's Android-only implementation, this works on both platforms from launch, doubling the addressable market. Unlike platform-native controls, it provides a fully customized visual interface — large icons, minimal chrome, predictable layout — that parents can tailor to their child's cognitive and sensory needs. This is the foundational feature that makes everything else possible.
 
@@ -76,7 +76,7 @@ A read-only dashboard view that parents can share with occupational therapists, 
 
 ## Go-to-Market Strategy
 
-## Target customer segment:
+### Target customer segment:
 
 Parents of children aged 6–12 with autism spectrum disorder, ADHD, or other developmental and cognitive differences who are receiving or have received occupational therapy or special education services. This is a narrow, specific segment — not "all parents" — chosen because it has the highest willingness to pay, the strongest word-of-mouth infrastructure (parent Facebook groups, IEP networks, OT practices), and the clearest unmet need that generic competitors have not addressed. The research report explicitly identifies this as the segment where Kytephone found organic traction without even trying; a rebuilt product makes it the primary target rather than a footnote.
 
@@ -86,6 +86,6 @@ Occupational therapists and special education coordinators as referral partners,
 
 ## Pricing strategy:
 
-## Differentiation vs. 2026 competitors:
+### Differentiation vs. 2026 competitors:
 
 Bark monitors but doesn't control; Qustodio controls but doesn't understand context; Circle works only at home; Google and Apple provide blunt instruments without clinical-grade customization. The rebuilt product is the only one built specifically for children whose needs require more than a generic content filter — and the only one with a distribution strategy rooted in clinical and educational trust networks rather than app store rankings. The AI content layer (GPT-4-class, March 2023+) is the technical moat; the therapist portal is the distribution moat; the specialized population focus is the brand moat.

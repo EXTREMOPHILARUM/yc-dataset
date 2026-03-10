@@ -22,7 +22,7 @@ Distribution channels unavailable to 42Floors now exist at scale: the Buildout m
 
 ## Current Market Analysis
 
-## Market Size
+### Market Size
 
 The US commercial real estate leasing market is not cleanly sized for the sub-5,000 sq ft segment in publicly available sources — this is an honest gap in the research. What is documented: JLL estimates the total US flex office market at $50B+ projected for 2024, up from $6B in 2019. CoStar Group's total revenue reached $2.46B in 2023 (CoStar 10-K, 2023), the majority of which comes from commercial listing and data subscriptions, indicating the monetizable layer of CRE information services is large and growing. The sub-5,000 sq ft segment remains the majority of CRE transactions by count, as it was in 2012 — this structural fact has not changed.
 
@@ -41,7 +41,7 @@ Google Maps has the distribution but not the CRE-specific data or transaction in
 
 ## Recommended MVP
 
-## Feature 1: AI-Powered Listing Ingestion
+### Feature 1: AI-Powered Listing Ingestion
 
 An LLM pipeline (built on GPT-4o or Claude 3.5 Sonnet, both available as of mid-2024) that ingests broker offering memoranda, email attachments, and PDF flyers and outputs structured listing records — address, square footage, price, lease type, available date, photos. This directly solves the supply-side cold-start problem without requiring broker cooperation. Unlike 42Floors, which needed brokers to manually enter listings, the rebuild can seed its database from documents brokers are already distributing publicly. The pipeline should target 10,000 structured listings in three metro markets (New York, San Francisco, Austin) before public launch.
 
@@ -73,7 +73,7 @@ A single search interface that surfaces both traditional direct leases and flex/
 
 ## Go-to-Market Strategy
 
-## Target Customer (Narrow)
+### Target Customer (Narrow)
 
 Primary paying customer: independent commercial real estate brokers and boutique brokerage firms (2–20 agents) in New York City who specialize in sub-10,000 sq ft office leases. These brokers are underserved by CoStar (too expensive, built for large firms) and invisible on LoopNet's consumer-facing product. They have demonstrated willingness to pay for tools that generate qualified leads — this is not an assumption, it is the Buildout and VTS adoption pattern applied to a smaller firm segment.
 

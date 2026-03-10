@@ -10,7 +10,7 @@ The rebuild thesis is simple: the market Abbot identified is real and larger tha
 
 ## Why Now?
 
-## The single most important change: LLMs have automated the core product.
+### The single most important change: LLMs have automated the core product.
 
 When Abbot added AI summaries in March 2023, it was a late-stage feature bolted onto a manually-configured product. In 2026, GPT-4o (May 2024) and Claude 3.5 Sonnet (June 2024) can read an entire Slack Connect channel history, identify the open question, draft a contextually appropriate response, flag the sentiment trend, and surface the at-risk account — without a human writing a single playbook rule. The engineering complexity that required a five-person team to build Abbot's monitoring and playbook layer is now a prompt chain. This is not incremental improvement; it collapses the build cost of the core product by an order of magnitude and eliminates the "skill-writing" abstraction that made Phase 1 unsellable.
 
@@ -44,7 +44,7 @@ When Abbot added AI summaries in March 2023, it was a late-stage feature bolted 
 
 ## Recommended MVP
 
-## Feature 1: AI Channel Health Monitor
+### Feature 1: AI Channel Health Monitor
 
 Automatically reads all connected Slack Connect channels and surfaces a daily digest: which channels have unanswered questions older than 24 hours, which customers have gone silent (a churn signal), and which threads contain negative sentiment. This is the core value proposition Abbot built manually with playbooks and monitoring rules; in 2026, it is a GPT-4o prompt chain over the Slack API. Unlike Abbot's version, there is no configuration required — the AI infers what "overdue" and "at-risk" mean from context, rather than requiring the team to write rules.
 

@@ -22,7 +22,7 @@ The app launched publicly in March 2012 under the name "Pair," as part of the YC
 
 ## Founding Story
 
-## Timeline
+### Timeline
 
 - **2011** — Five University of Waterloo students meet at the VeloCity Residence; team wins one of the first VeloCity Venture Fund awards while working on Maide, a 3D CAD tablet app.<sup>[[1]](https://uwaterloo.ca/news/are-you-connecting-your-love-theres-app)</sup>
 

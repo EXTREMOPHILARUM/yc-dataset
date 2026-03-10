@@ -26,7 +26,7 @@ Distribution channels unavailable to Opkit now exist: the athenahealth Marketpla
 
 ## Current Market Analysis
 
-## Market Size
+### Market Size
 
 The US healthcare administrative cost burden attributable to phone-based transactions is large and structurally persistent. CAQH's 2023 Index estimates that the healthcare industry spends $350B annually on administrative transactions, with eligibility and benefit verification alone costing $11B per year—$9.5B of which remains manual. Phone calls are the dominant manual channel. This figure has grown since Opkit's 2021 founding, not shrunk, because payer incentives to adopt electronic alternatives remain absent. Specific market size data for the AI voice automation sub-segment is not publicly available as of this writing.
 
@@ -52,7 +52,7 @@ Hint Health's 3,000+ direct primary care practices and the growth of GLP-1 virtu
 
 ## Core Features
 
-## Automated Insurance Verification Calls
+### Automated Insurance Verification Calls
 
 The system initiates outbound calls to insurance carriers, navigates IVR trees, and returns structured eligibility and benefit data—coverage status, copay, deductible remaining, and prior authorization requirements—via webhook or dashboard. This is Opkit's original product, rebuilt on GPT-4o real-time audio and Deepgram Nova-3, which together eliminate the accent and IVR navigation failures that required human escalation. Unlike the original, this version targets sub-60-second call completion for standard verifications, making it viable for same-day scheduling workflows.
 
@@ -81,7 +81,7 @@ Every call type is accessible via a documented REST API returning JSON, with web
 
 ## Go-to-Market Strategy
 
-## Target Customer Segment
+### Target Customer Segment
 
 Virtual-first specialty clinics in weight management, mental health, and nutrition with 200–2,000 active patients, 2–10 administrative staff, and no existing RCM vendor contract. This is the exact profile of Opkit's validated beta customers—Fella and Flourish—and represents a segment large enough to generate meaningful revenue but narrow enough to close quickly. These clinics share a common payer mix (commercial insurance, GLP-1 PA-heavy), a common tech stack (Canvas Medical or Elation Health as EHR), and a common pain point: insurance verification and PA checks consuming 30–50% of administrative staff time.
 

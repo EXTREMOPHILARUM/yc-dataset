@@ -46,7 +46,7 @@ The market signal is unambiguous: vinyl sales hit 40-year highs in 2022 (RIAA da
 
 ## Core Features:
 
-## Managed Cloud Locker with Automatic Catalog Matching
+### Managed Cloud Locker with Automatic Catalog Matching
 
 Users upload local music files (MP3, FLAC, AAC) via a desktop uploader or drag-and-drop web interface; the service uses AcoustID fingerprinting and the Spotify Web API's track-matching endpoints to automatically link uploaded tracks to licensed catalog metadata, enriching artwork, lyrics, and credits without manual tagging. This differs from the original Anywhere.FM in one critical way: matched tracks stream from licensed sources where available, reducing storage costs and legal exposure simultaneously. Unmatched tracks (rare bootlegs, local recordings, Bandcamp exclusives) stream from the user's uploaded file. This hybrid architecture is technically feasible today using AcoustID (open-source, production-ready since 2013) and was impossible in 2007.
 
@@ -76,7 +76,7 @@ Free tier: up to 10,000 tracks stored, web player only. Premium tier ($5.99/mont
 
 ## Go-to-Market Strategy
 
-## Target customer segment:
+### Target customer segment:
 
 The primary customer is a 28–45 year old music buyer who purchases digital downloads (Bandcamp, Beatport, HDtracks, or direct artist stores), owns a library of 500–5,000 tracks accumulated over 10–20 years, and has experienced Spotify's 2022 removal of local file sync as a direct pain point. This person is not a casual listener — they are a music collector who has already demonstrated willingness to pay for music ownership. They are disproportionately represented in electronic music, jazz, classical, and independent rock communities where catalog gaps on Spotify are well-documented. This is a narrow segment by design: estimated at 2–5 million users in the U.S. and EU combined (no precise data available), but with high intent and low price sensitivity relative to the general streaming market.
 
@@ -86,6 +86,6 @@ Bandcamp's community forums, artist newsletters, and the Bandcamp Weekly podcast
 
 ## Pricing strategy:
 
-## Differentiation vs. 2026 competitors:
+### Differentiation vs. 2026 competitors:
 
 Against Apple Music: cross-platform (Windows, Android, Linux) and library-portable — your files are always exportable. Against Plex: zero infrastructure required, music-first UX, mobile-native. Against Spotify: your purchased music is permanent and accessible regardless of licensing disputes or catalog removals. The positioning statement is explicit and simple: *"The music you bought, everywhere you go — permanently."* This directly addresses the documented consumer anxiety about streaming catalog impermanence that has grown measurably since 2022, and it is a positioning no major streaming service can credibly adopt without undermining their own licensing model.

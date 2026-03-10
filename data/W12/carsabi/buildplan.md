@@ -14,7 +14,7 @@ The market has also validated Carsabi's core thesis. CarGurus built a $1B+ publi
 
 ## Why Now?
 
-## Current Market Analysis
+### Current Market Analysis
 
 The U.S. used car market has grown substantially since 2012. At Demo Day, Carsabi cited $650 billion in total annual car sales. The used car segment specifically reached approximately $840 billion globally in 2023, with the U.S. representing the largest single market (Grand View Research, 2024—exact U.S.-only figure not confirmed in research report). COVID-era digital acceleration normalized online-first car research and purchasing: Carvana, Vroom, and CarMax's online channel all scaled significantly between 2020 and 2023, reducing the consumer education burden a new aggregator would face.
 
@@ -32,7 +32,7 @@ The U.S. used car market has grown substantially since 2012. At Demo Day, Carsab
 
 ## Recommended MVP
 
-## Feature 1: Licensed Multi-Source Inventory Aggregation
+### Feature 1: Licensed Multi-Source Inventory Aggregation
 
 Ingest real-time used car listings via licensed API feeds from MarketCheck (dealer inventory), Facebook Marketplace Partner API (private-party), and OfferUp (private-party), covering the full market spectrum Carsabi attempted to scrape. This directly solves the original failure mode—data access is contractual, not contingent on a platform's tolerance for crawlers. Unlike Carsabi, no single source termination kills the product.
 

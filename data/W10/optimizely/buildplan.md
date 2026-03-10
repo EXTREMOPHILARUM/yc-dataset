@@ -10,7 +10,7 @@ Go-to-market targets product and growth leaders at the exact companies that outg
 
 ## Why Now?
 
-## The single most important change since Optimizely's failure: Google Optimize is dead.
+### The single most important change since Optimizely's failure: Google Optimize is dead.
 
 In September 2023, Google shut down Google Optimize and Optimize 360 — the free product that was the most structurally dangerous competitor Optimizely ever faced. A free tool integrated directly into Google Analytics, distributed to every Google Analytics user, with Google's brand behind it, required zero procurement approval and zero budget. Its shutdown was not a minor market event. It removed the floor from the competitive landscape and left a documented gap: Google's own support page now directs former Optimize users to third-party tools, and the Hacker News and r/analytics communities have been actively debating replacements since the shutdown announcement. This is a pull-market opportunity that did not exist at any point during Optimizely's independent life.
 
@@ -48,7 +48,7 @@ Distribution channels available now that did not exist at Optimizely's founding:
 
 ## Recommended MVP
 
-## Core Feature 1: AI Hypothesis Engine
+### Core Feature 1: AI Hypothesis Engine
 
 The product ingests a customer's Google Analytics 4 or Segment data, session recordings (via Hotjar or FullStory API), and heatmaps, and returns a ranked list of experiment hypotheses with expected impact estimates and statistical rationale. This matters because the hardest part of experimentation is knowing where to start — Optimizely's original product assumed customers already had hypotheses and just needed tooling to test them. The rebuild inverts this: the AI generates the hypotheses, the human approves them. Unlike the original, this feature compounds in value as the platform accumulates cross-customer experiment outcome data to improve its recommendations.
 

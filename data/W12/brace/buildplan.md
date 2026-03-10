@@ -42,7 +42,7 @@ Distribution channels unavailable to Brace now exist: the GitHub Marketplace wit
 
 ## Core Features:
 
-## Drag-and-Drop or Folder-Upload Deployment
+### Drag-and-Drop or Folder-Upload Deployment
 
 Accept a ZIP file, folder upload, or direct paste of AI-generated HTML/CSS/JS output and deploy it to a live URL in under 60 seconds. This replicates Brace's "Ship It" interaction without any Dropbox dependency, using Cloudflare Pages or Vercel's deployment API as the underlying layer. Unlike the original Brace, the deployment target is infrastructure the founder controls — no third-party deprecation risk.
 

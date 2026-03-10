@@ -42,7 +42,7 @@ The global fashion e-commerce market exceeded $700 billion in 2023 (exact AI ima
 
 ## Recommended MVP
 
-## Core Feature 1: Model Consent Registry
+### Core Feature 1: Model Consent Registry
 
 A structured database of professional models who have provided explicit, jurisdiction-specific consent for AI likeness use, with defined usage parameters (brand categories, geographic markets, campaign types, duration). This is the foundational layer — without it, every other feature is legally exposed. Unlike the original Persona product, which gated access at the brand level, this registry gates at the model level and generates a machine-readable consent record attached to every image output. This is the feature AI.Fashion was moving toward but never fully built.
 

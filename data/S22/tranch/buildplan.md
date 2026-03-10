@@ -10,7 +10,7 @@ The acquisition validated the vertical-specific invoice payments thesis so compl
 
 ## Why Now?
 
-## The single most important change: Elite's acquisition of Tranch has structurally orphaned the mid-market.
+### The single most important change: Elite's acquisition of Tranch has structurally orphaned the mid-market.
 
 Elite's software is priced and architected for Am Law 200 firms — organizations with $150M+ in annual revenue, dedicated IT departments, and multi-year software contracts. The acquisition of Tranch accelerates Elite's roadmap for that segment, but it does not solve the problem for the 2,000+ US law firms with $5M–$50M in revenue that run on Clio, MyCase, or PracticePanther. These firms have the same invoice payment friction — large client bills, check-dominated settlement, no embedded financing options — but no purpose-built solution now that Tranch is inside an enterprise platform they cannot access or afford.
 
@@ -44,7 +44,7 @@ Elite's software is priced and architected for Am Law 200 firms — organization
 
 ## Recommended MVP
 
-## Core features:
+### Core features:
 
 **1. Embedded Pay Later for Clio and MyCase (the anchor feature).** The product allows law firms to offer clients installment payment plans on invoices from $5,000 to $150,000, directly within their existing billing software workflow. The firm receives full payment immediately from the platform; the client repays in 3–12 monthly installments. This differs from Tranch's original product in two ways: it targets smaller invoice sizes appropriate for mid-market firms, and it is distributed through Clio's App Marketplace rather than through a direct enterprise sales motion — reducing customer acquisition cost dramatically. Network effects are not required for this feature to deliver value to the first firm that installs it; each firm's benefit is independent of other firms' adoption.
 

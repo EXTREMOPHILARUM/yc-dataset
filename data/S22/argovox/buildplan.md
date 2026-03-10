@@ -18,7 +18,7 @@ Distribution channels unavailable in 2022 now exist: the Epic App Orchard market
 
 ## Why Now?
 
-## Current Market Analysis
+### Current Market Analysis
 
 The US healthcare revenue cycle management market was valued at approximately $47B in 2022 and is projected to exceed $240B by 2030 (source: research report rebuild signals — original source not independently verified). Even applying significant discount to that projection, the directional growth is unambiguous: rising patient-pay balances, staffing shortages in billing departments, and increasing regulatory complexity are all structural tailwinds.
 
@@ -38,7 +38,7 @@ The gap is specific and defensible: no well-capitalized competitor is currently 
 
 ## Recommended MVP
 
-## Core Feature 1: Pre-built multi-turn billing conversation engine
+### Core Feature 1: Pre-built multi-turn billing conversation engine
 
 An AI voice agent, built on Vapi or Retell AI infrastructure with GPT-4o as the reasoning layer, that conducts outbound patient billing calls — identifying the patient, explaining the balance, offering payment plan options within provider-defined parameters, and processing payment via Stripe. This directly replicates Argovox's original vision but is now achievable without proprietary voice infrastructure. Unlike Argovox's 2022 build, the conversation quality is grounded in a frontier LLM rather than rule-based dialogue management, enabling genuine handling of patient objections and disputes.
 

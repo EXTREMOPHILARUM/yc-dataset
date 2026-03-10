@@ -14,7 +14,7 @@ The "Figma for PMs" framing was aspirational but set a demanding standard. Figma
 
 ## Founding Story
 
-## Timeline
+### Timeline
 
 - **2020** — Fable founded by Aravindh Dorai and Alex Chumbley in New York, NY.<sup>[[10]](https://www.ycombinator.com/companies/fable)</sup>
 - **January 2021** — Fable participates in Y Combinator Winter 2021 batch.<sup>[[10]](https://www.ycombinator.com/companies/fable)</sup>

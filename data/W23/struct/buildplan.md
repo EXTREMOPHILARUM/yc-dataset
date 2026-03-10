@@ -22,7 +22,7 @@ Distribution channels unavailable to Struct in 2023 now exist: the Salesforce Ap
 
 ## Current Market Analysis
 
-## Market Size
+### Market Size
 
 The global AI voice agent market is estimated at approximately $3.4 billion in 2024, projected to reach $11.2 billion by 2028 (MarketsandMarkets, 2024 — 2026-specific figures unavailable). The LATAM call center and collections automation sub-segment is not independently sized in available public research; this is a data gap the rebuild team should validate through primary customer interviews before committing capital. What is documented: LATAM fintech companies collectively process hundreds of millions of customer calls annually, and collections call automation alone — a single use case — represents a multi-hundred-million-dollar addressable market in the region. The broader global call center market exceeds $300 billion annually, and LATAM represents an estimated 8–10% of that figure (source: Grand View Research, 2023).
 
@@ -50,7 +50,7 @@ The platform incumbents — OpenAI, Google, Amazon — will not build LATAM fint
 
 ## Recommended MVP
 
-## Core Feature 1: Pre-Built LATAM Collections Call Flows
+### Core Feature 1: Pre-Built LATAM Collections Call Flows
 
 A library of configurable outbound collections call flows in Spanish and Portuguese, compliant with LATAM regulatory frameworks (Brazil's BACEN guidelines, Mexico's CONDUSEF requirements). Each flow handles the full call arc: greeting, debt identification, negotiation, payment arrangement, and call recording with compliant disclosure. This differs from the original Struct in that it is not a blank-canvas platform — it ships opinionated, vertical-specific logic that a LATAM fintech collections team can deploy in days, not months. This matters because collections is the highest-ROI use case for voice automation in LATAM fintech: the cost per resolved account drops dramatically versus human agents, and the compliance risk of getting it wrong is high enough that buyers will pay a premium for a vendor who has already solved it.
 
@@ -83,7 +83,7 @@ This product does not depend on network effects or local density. Each customer 
 
 ## Go-to-Market Strategy
 
-## Target Customer Segment
+### Target Customer Segment
 
 LATAM fintech companies at the 50–500 employee scale with active lending or BNPL portfolios — specifically those with collections teams of 5–50 human agents who are already spending $15,000–$100,000/month on collections labor or BPO contracts. This segment has a clear, quantifiable pain point, a budget already allocated to the problem, and a decision-maker (VP of Collections or COO) who can sign a contract without a 12-month procurement cycle. Nubank-scale companies are not the initial target — they have internal engineering teams and will build custom solutions. The target is Konfio, Kueski, Addi, Creditas, and the 200+ companies at similar scale across Mexico, Brazil, Colombia, and Argentina.
 

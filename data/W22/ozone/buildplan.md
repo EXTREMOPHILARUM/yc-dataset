@@ -42,7 +42,7 @@ Distribution channels unavailable to Ozone now exist: the Shopify App Store (2M+
 
 ## Recommended MVP
 
-## Core Feature 1: Browser-native timeline editor with WebCodecs/WebGPU acceleration
+### Core Feature 1: Browser-native timeline editor with WebCodecs/WebGPU acceleration
 
 A clean, fast, browser-based video timeline supporting up to 4K footage without installation, leveraging WebCodecs and WebGPU APIs available natively in Chrome and Edge as of 2024–2025. This replicates Ozone's headline technical achievement in a fraction of the original build time. Unlike Ozone's proprietary compression approach, this uses platform-native APIs, reducing maintenance overhead and improving reliability across devices.
 

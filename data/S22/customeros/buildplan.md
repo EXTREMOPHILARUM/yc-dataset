@@ -18,7 +18,7 @@ In 2022, building a credible intent data product required either (a) purchasing 
 
 ## The single most important change: LLMs have eliminated the manual signal curation cost that made intent data platforms structurally inaccessible to pre-seed companies.
 
-## Current Market Analysis
+### Current Market Analysis
 
 **Market size:** The CRM software market was valued at approximately $63.9B globally in 2022 (Grand View Research) and is projected to exceed $130B by 2030. The narrower GTM intelligence and intent data segment — the more relevant competitive frame for this rebuild — is harder to size precisely; analyst estimates range from $3B to $6B in 2024, and this report treats those figures as directional rather than precise. What is clear from Clay's $200M ARR and 6sense's $200M+ in funding is that buyer willingness to pay at scale is established.
 
@@ -42,7 +42,7 @@ In 2022, building a credible intent data product required either (a) purchasing 
 
 ## Recommended MVP
 
-## Core Feature 1: First-Party Signal Ingestion Pipeline
+### Core Feature 1: First-Party Signal Ingestion Pipeline
 
 A pre-built set of connectors that pull product event data (Segment, PostHog, Mixpanel), CRM activity (HubSpot, Salesforce, Twenty), email metadata (Gmail, Outlook — subject lines and thread counts, not content, to avoid privacy issues), and support ticket volume (Intercom, Zendesk) into a unified customer timeline. This matters because it eliminates the integration work that currently requires a data engineer and 3–6 months of setup. Unlike CustomerOS's original open source framework, which required developers to build the data model from scratch, this ships opinionated connectors for the 10 tools that cover 80% of B2B SaaS stacks — reducing time-to-value from months to days.
 

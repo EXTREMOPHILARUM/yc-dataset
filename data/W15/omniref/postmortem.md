@@ -18,7 +18,7 @@ The founding team was technically credible but structurally thin. Two engineers 
 
 ## Founding Story
 
-## Timeline
+### Timeline
 
 - **August 2013** — Tim Robertson and Montana Low found Omniref in San Francisco. <sup>[[1]](https://venturebeat.com/2016/12/29/y-combinator-backed-omniref-is-shutting-down-on-january-31-2017/)</sup>
 - **November 22, 2013** — Omniref launches publicly with a Show HN post as a Ruby documentation search tool. <sup>[[6]](https://news.ycombinator.com/item?id=6776168)</sup>

@@ -16,7 +16,7 @@ The Slack App Directory currently lists over 2,600 apps with 750,000+ daily acti
 
 ## Why Now?
 
-## Current Market Analysis
+### Current Market Analysis
 
 **Market size:** The global data observability market was valued at approximately $1.5B in 2023 and is projected to reach $4.5B by 2028 at a 24.5% CAGR (MarketsandMarkets, 2023). These figures cover the full observability stack; the specific sub-segment of business metric monitoring for non-engineering users is not separately sized in any public source, and any figure here would be fabricated. What is confirmed: Monte Carlo's $1.6B valuation (May 2022) and Bigeye's $66M raise (September 2021) validate that enterprises pay significant sums for this category. The market existence risk Orbiter faced in 2020 is gone.
 
@@ -40,7 +40,7 @@ The Slack App Directory currently lists over 2,600 apps with 750,000+ daily acti
 
 ## Recommended MVP
 
-## Core Feature 1: dbt Semantic Layer Integration with Anomaly Detection
+### Core Feature 1: dbt Semantic Layer Integration with Anomaly Detection
 
 Connect to a customer's dbt project (Cloud or Core via dbt Artifacts) and automatically discover all defined metrics. Run statistical anomaly detection — using a combination of simple time-series methods (STL decomposition, z-score on rolling windows) augmented by GPT-4o (released May 2024) for contextual interpretation — against warehouse query results on a configurable schedule. This differs from the original Orbiter in a critical way: rather than inferring what metrics matter from raw SQL, the rebuilt product reads metric definitions the customer has already written, eliminating the configuration burden and dramatically reducing false positives.
 

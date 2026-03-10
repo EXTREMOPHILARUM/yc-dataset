@@ -10,7 +10,7 @@ The rebuild thesis rests on two structural changes: enterprise buyers now have e
 
 ## Why Now?
 
-## The single most important change: enterprise buyers now have a recognized budget category for cross-app AI search that did not exist when Station operated.
+### The single most important change: enterprise buyers now have a recognized budget category for cross-app AI search that did not exist when Station operated.
 
 When Station launched in 2017, "SaaS aggregation" was a consumer novelty. In 2026, it is a funded enterprise category. Glean — which does for enterprise knowledge retrieval what Station's "automated knowledge base" pivot was attempting — raised at a $4.6B valuation in 2024. Guru, Notion AI, and Microsoft Copilot for M365 collectively validate that knowledge workers and their employers will pay $15–30/user/month for cross-app intelligence. Station was directionally correct in its late-stage pivot; it simply arrived before the market existed.
 
@@ -44,7 +44,7 @@ When Station launched in 2017, "SaaS aggregation" was a consumer novelty. In 202
 
 ## Recommended MVP
 
-## Feature 1: AI Semantic Search Across Connected Apps
+### Feature 1: AI Semantic Search Across Connected Apps
 
 A natural-language query interface that retrieves answers — not just links — from across a user's connected SaaS stack (Slack, Gmail, Notion, Linear, Google Drive at launch). A user types "what's the current status of the rebrand project?" and receives a synthesized answer with source citations, not a list of search results. This is the feature Station's universal search aspired to be but could not deliver with 2017-era NLP. It is powered by Claude 3.5 or GPT-4o APIs with retrieval-augmented generation over indexed SaaS content. This is the primary paid feature and the primary reason to charge — it is not replicable by Ferdium or any free webview wrapper.
 

@@ -42,7 +42,7 @@ Distribution channels unavailable to the original Gigster now include the **AWS 
 
 ## Core Features:
 
-## LLM-Powered Instant Scoping Engine
+### LLM-Powered Instant Scoping Engine
 
 Clients submit a natural language project brief; the system uses GPT-4o or Claude 3.5 Sonnet to generate a structured technical specification, architecture recommendation, stack selection, and fixed-price quote within 90 seconds. This replaces the original Gigster's 10-minute quote—which required a proprietary 1,000-project database to bootstrap—with a capability available on day one. Unlike the original, the engine explicitly surfaces assumptions and flags ambiguities for client confirmation before locking the quote, reducing scope-creep disputes that likely contributed to the original's freelancer payment problems.
 
@@ -77,7 +77,7 @@ GitHub contribution analysis, LeetCode/HackerRank verified scores, and CodersRan
 
 ## Go-to-Market Strategy
 
-## Target customer segment:
+### Target customer segment:
 
 Mid-market enterprises with $500M–$5B in annual revenue, specifically VP-level heads of digital transformation or engineering at companies in financial services, healthcare, and logistics—sectors with high custom software demand, compliance requirements that favor managed delivery over self-serve staffing, and procurement cycles shorter than Fortune 500 enterprises. This is deliberately narrower than the original Gigster's eventual Fortune 500 focus; mid-market buyers have faster procurement cycles, lower compliance overhead, and less entrenched incumbent vendor relationships.
 

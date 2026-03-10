@@ -24,7 +24,7 @@ Both statements reflect genuine conviction. Neither anticipated the regulatory c
 
 ## Founding Story
 
-## Timeline
+### Timeline
 
 - **2012** — Jeremy Rossmann and Ashu Desai found MakeGamesWithUs after dropping out of MIT and UCLA following acceptance into Y Combinator's Winter 2012 batch; company offers iOS game publishing and CS summer camps for high schoolers <sup>[[7]](https://en.wikipedia.org/wiki/Make_School)</sup>
 - **2014** — Company rebrands from MakeGamesWithUs to Make School and launches a gap year program, marking the pivot from game publishing to alternative higher education <sup>[[8]](https://en.wikipedia.org/wiki/Make_School)</sup>

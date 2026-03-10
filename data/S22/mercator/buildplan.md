@@ -42,7 +42,7 @@ The distribution channel that didn't exist for Mercator is now mature: **dbt Hub
 
 ## Core Features:
 
-## Schema-Aware Natural Language Query Engine
+### Schema-Aware Natural Language Query Engine
 
 Connects directly to a user's existing data warehouse (Snowflake, BigQuery, Redshift) and ingests schema metadata, column descriptions, and sample values to generate accurate SQL from plain English. This matters because generic LLM SQL generation fails on proprietary schemas — the schema-awareness layer is where Mercator's RAG approach from the arXiv paper (arXiv:2404.12560) remains genuinely valuable. Unlike the original Dubo, this is not a standalone editor but a warehouse-native integration that meets analysts where they already work.
 
@@ -72,7 +72,7 @@ For every generated query, produces a plain-English explanation of what the SQL 
 
 ## Go-to-Market Strategy
 
-## Target Customer Segment:
+### Target Customer Segment:
 
 Data analysts and analytics engineers at B2B SaaS companies with 50–500 employees, 2–8 person data teams, and an existing dbt + Snowflake or BigQuery stack. This segment has budget authority at the team level (no lengthy procurement), high SQL query volume, and acute productivity pain. It is the segment Mercator's "startups to large enterprises" framing obscured entirely.
 
@@ -82,6 +82,6 @@ The **dbt Hub marketplace** and **dbt Slack community** (20,000+ members as of d
 
 ## Pricing Strategy:
 
-## Differentiation vs. 2026 Competitors:
+### Differentiation vs. 2026 Competitors:
 
 Where Vanna.ai wins on open-source flexibility and DataGPT wins on enterprise scale, this rebuild owns the **dbt-native mid-market** — a segment neither competitor has explicitly claimed. The dbt integration is not a feature; it is the distribution strategy. Every dbt project that installs the free package is a qualified lead. Mercator's original failure was competing on benchmark scores with no distribution wedge; this rebuild competes on ecosystem fit with a measurable acquisition funnel from day one.

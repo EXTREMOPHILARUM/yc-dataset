@@ -42,7 +42,7 @@ Specific market data: global digital ad spend reached $740 billion in 2024 (Stat
 
 ## Recommended MVP
 
-## Core Feature 1: Cross-Channel Automated Campaign Execution
+### Core Feature 1: Cross-Channel Automated Campaign Execution
 
 Connect Meta, Google, and TikTok ad accounts and execute campaign decisions autonomously — pausing underperformers, rotating creatives, reallocating budget across channels — without requiring user action. This directly inherits Automate Ads' original thesis but extends it to three platforms instead of one, eliminating the single-platform dependency that made the original product fragile. Unlike Madgicx, which surfaces recommendations, this system acts.
 

@@ -28,7 +28,7 @@ Specific market sizing for the suburban on-demand convenience segment is not ava
 
 ## Current Market Analysis
 
-## Market Size
+### Market Size
 
 The U.S. convenience store industry generates approximately $860 billion in annual in-store sales as of 2023 (NACS State of the Industry Report, 2023), up from roughly $700 billion when Cache operated. The relevant addressable segment — suburban consumers ordering convenience goods through delivery platforms — lacks reliable public sizing data, a gap that persists from 2021. However, the overall U.S. food and beverage delivery market reached $26.5 billion in 2023 (Statista), with convenience delivery growing as a distinct subcategory.
 
@@ -49,7 +49,7 @@ Amazon Hub locker adoption in suburban apartment complexes and grocery pickup lo
 
 ## Recommended MVP
 
-## Core Features
+### Core Features
 
 **1. Commodity-Hardware Cache Unit v2.** Deploy automated dispensing units built from Luxer One-style smart locker components rather than custom-manufactured hardware. Each unit holds 50–80 SKUs, connects via cellular IoT, and grants access to verified delivery drivers through a QR-code unlock system. This directly addresses the original Cache's primary failure mode — custom hardware on pre-seed capital — by substituting proven components. Unlike the original, units can be operational within days of site agreement rather than weeks of manufacturing.
 
@@ -72,7 +72,7 @@ No proprietary hardware. No consumer-facing app. No owned delivery fleet. No urb
 
 ## Go-to-Market Strategy
 
-## Target Customer Segment
+### Target Customer Segment
 
 Suburban property managers of mid-size apartment complexes (150–500 units) in markets with active DoorDash and Uber Eats coverage but no GoPuff service area. This segment is narrow and specific: they control the real estate Cache needs, have an existing incentive to offer resident amenities, and can be reached through a defined B2B sales motion. Residents of these complexes are the end consumers — the suburban household that needs plan B at 11pm or NyQuil on a Sunday.
 

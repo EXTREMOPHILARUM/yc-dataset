@@ -45,7 +45,7 @@ Three additional structural changes make 2026 materially different from 2012:
 
 ## Core Features:
 
-## Co-Stream Event Hub
+### Co-Stream Event Hub
 
 When a major tournament is live, Teevox automatically surfaces all co-streaming POVs of that event in a single organized view, pulling from the Twitch API's game and tag metadata. Users can select two to six streams and arrange them in a responsive grid. This differs from the original Teevox by targeting a specific, recurring use case — co-streaming events — rather than generic multi-stream browsing, which creates a natural content calendar and predictable traffic spikes that can be planned around rather than feared.
 

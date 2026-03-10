@@ -36,7 +36,7 @@ The gap is specific: no platform in 2026 is purpose-built for mainstream celebri
 
 ## Recommended MVP
 
-## Feature 1: Standardized Celebrity Campaign Onboarding via API Integration with Existing Talent Platforms
+### Feature 1: Standardized Celebrity Campaign Onboarding via API Integration with Existing Talent Platforms
 
 Rather than acquiring celebrities through cold outreach, the rebuilt GiveSpark connects to existing creator management infrastructure — specifically Cameo's API (if available) and direct integrations with MCN partner networks — to allow celebrities to authorize charity campaigns through workflows they already use. This directly addresses GiveSpark's original supply-side failure: instead of building a new relationship layer from scratch, the platform rides existing ones. The original GiveSpark required Teplow to personally broker each celebrity relationship; this feature makes onboarding self-serve for talent teams.
 

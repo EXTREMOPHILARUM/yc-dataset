@@ -39,7 +39,7 @@ Distribution channels unavailable in 2014 now exist: the Shopify App Store (2M+ 
 
 ## Recommended MVP
 
-## Core Feature 1: Composable event pages with embedded ticketing (free)
+### Core Feature 1: Composable event pages with embedded ticketing (free)
 
 A single-URL event page that handles registration, ticketing (free and paid), and attendee communications — built on Stripe Connect for payment processing, with float revenue as the business model rather than per-ticket fees. Unlike Eventjoy's 2014 version, this is not a custom-built payment stack; it composes Stripe's infrastructure, reducing the surface area that incumbents can absorb by replicating proprietary technology. The "free" positioning is sustainable because the revenue model doesn't depend on organizer fees — it depends on float yield and promotional upsells.
 

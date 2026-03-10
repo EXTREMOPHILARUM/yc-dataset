@@ -40,7 +40,7 @@ Finally, Posthaven — Garry Tan's direct response to Posterous's failure, launc
 
 ## Recommended MVP
 
-## Core Feature 1: Per-User Email Inbox with AI-Powered Formatting
+### Core Feature 1: Per-User Email Inbox with AI-Powered Formatting
 
 Each user receives a unique address (e.g., yourname@posterous2026.com), built on Cloudflare Email Workers or AWS SES. Any email sent to that address — text, photos, PDFs, audio links, video URLs — is automatically parsed by Claude 3 or GPT-4o, formatted into a clean post, and published to the user's private or shared space. This directly fulfills the "post anything, it just works" promise Posterous made but couldn't cleanly execute across all media types. Unlike the original's shared inbox workaround, per-user routing is a deliberate design choice enabled by infrastructure that didn't exist in 2008.
 

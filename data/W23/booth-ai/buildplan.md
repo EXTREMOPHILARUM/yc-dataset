@@ -24,7 +24,7 @@ Demand is now empirically confirmed, not assumed. Shopify's native AI image gene
 
 ## Current Market Analysis
 
-## Market Size
+### Market Size
 
 The global product photography services market was valued at approximately $2.3 billion in 2023 and is projected to reach $4.1 billion by 2030 (source: this figure is cited in industry reports but should be independently verified before use in investor materials). The AI-generated imagery subset did not exist as a measurable category when Booth AI launched; by 2025, it is a recognized segment with funded incumbents. Photoroom raised a $43M Series B in 2023. Picsart raised $130M. These rounds confirm that AI-powered visual editing for e-commerce is a fundable, scalable category — Booth AI was directionally correct but under-resourced.
 
@@ -54,7 +54,7 @@ This is the honest hard question. Shopify will continue expanding its native AI 
 
 ## Core Features
 
-## Shopify-Native Catalog Sync
+### Shopify-Native Catalog Sync
 
 Connects directly to a merchant's Shopify store and imports all product images automatically, organized by SKU. This matters because the original Booth AI required manual uploads, creating friction before the first image was generated. The rebuild eliminates that step entirely — a merchant authenticates once and their full catalog is available immediately. Unlike the original, this is not an integration bolted onto a standalone tool; it is the primary entry point.
 
@@ -89,7 +89,7 @@ This product has no network effects — it delivers value to a single merchant f
 
 ## Go-to-Market Strategy
 
-## Target Customer Segment
+### Target Customer Segment
 
 Independent Shopify merchants with 50–500 SKUs in home goods, apparel, or packaged food and beverage — specifically those currently spending $500–$3,000 per year on freelance photographers or stock photo subscriptions. This segment is large enough to build a business (Shopify has hundreds of thousands of merchants in this range) and specific enough to message precisely. Enterprise retail is explicitly out of scope for the first 18 months.
 

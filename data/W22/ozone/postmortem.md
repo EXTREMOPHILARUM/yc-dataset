@@ -18,7 +18,7 @@ Ozone incorporated as Ozone Technologies Inc. at 1475 Folsom Street in San Franc
 
 ## Founding Story
 
-## Timeline
+### Timeline
 
 - **2021** — Max von Wolff founds Ozone while a sophomore at MIT, subsequently dropping out to pursue the company full-time. <sup>[[8]](https://techcrunch.com/2023/11/08/ozone-raises-7-1m-to-scale-its-ai-powered-collaborative-video-editor/)</sup>
 

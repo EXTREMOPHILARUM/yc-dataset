@@ -10,7 +10,7 @@ Go-to-market targets IT directors at mid-market multi-academy trusts in the UK f
 
 ## Why Now?
 
-## The single most important change: LLM-assisted SIS integration has collapsed the cost of Clever's core technical moat.
+### The single most important change: LLM-assisted SIS integration has collapsed the cost of Clever's core technical moat.
 
 Clever's defensibility was built on years of painstaking, hand-coded integrations with dozens of idiosyncratic SIS platforms — PowerSchool, Infinite Campus, Skyward, and others — each with different data schemas, export formats, and authentication mechanisms. That integration library took years and tens of millions of dollars to build and was genuinely difficult to replicate. As of 2024–2025, large language models including GPT-4 (March 2023) and Claude 3 (March 2024) can parse, map, and normalize heterogeneous data schemas with dramatically less manual engineering effort. A new entrant building SIS integrations today faces a fraction of the engineering cost that Clever faced in 2012–2016. This changes the competitive calculus for international markets where Clever never built its integration library.
 
@@ -46,7 +46,7 @@ Clever's defensibility was built on years of painstaking, hand-coded integration
 
 ## Recommended MVP
 
-## Core Feature 1: LLM-Assisted SIS Integration Builder
+### Core Feature 1: LLM-Assisted SIS Integration Builder
 
 A toolchain that uses GPT-4-class models to parse a new district's SIS data export, map it to a standard schema, and generate a working integration in days rather than months. This directly addresses the core technical moat that made Clever hard to replicate — and makes it possible to enter international markets (UK, EU, Australia) where Clever never built its integration library. Unlike Clever's hand-coded integrations, this system improves with each new SIS encountered, compounding the speed advantage over time.
 

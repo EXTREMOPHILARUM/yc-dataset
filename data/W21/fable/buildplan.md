@@ -40,7 +40,7 @@ Distribution channels unavailable to Fable in 2022 now include: the **Linear Mar
 
 ## Recommended MVP
 
-## Core Feature 1: AI Spec Compiler
+### Core Feature 1: AI Spec Compiler
 
 The editor accepts natural-language product intent from a PM and uses Claude 3.5 Sonnet or GPT-4o (both available as of mid-2024) to generate a structured spec with explicit acceptance criteria, edge cases, and dependency flags. Unlike Fable's original editor — which was a blank canvas that PMs filled manually — this feature actively co-writes the spec, enforcing completeness before the PM can publish. This matters because AI coding agents fail on underspecified tickets; the compiler makes failure-by-ambiguity structurally harder.
 

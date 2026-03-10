@@ -18,7 +18,7 @@ The ambition was structural, not incremental. Pit.AI was not trying to build a b
 
 ## Founding Story
 
-## Timeline
+### Timeline
 
 - **2010** — Yves-Laurent Kom Samo joins Goldman Sachs as Equities Algorithmic Trading Strategist <sup>[[1]](https://contactout.com/Yves-Laurent-SAMO-83532239)</sup>
 - **2012** — Moves to JPMorgan Chase as FX Quant Trader <sup>[[1]](https://contactout.com/Yves-Laurent-SAMO-83532239)</sup>
@@ -137,7 +137,7 @@ The $120,000 seed round was the binding constraint. At San Francisco salary leve
 
 ## Post-Mortem
 
-## Key Lessons
+### Key Lessons
 
 - **Operating as a regulated financial product requires a different capital structure than a software startup.** Pit.AI raised $120,000 to build a hedge fund—a product category that requires audited track records, compliance infrastructure, prime broker relationships, and LP relations before generating a dollar of revenue. <sup><a href="https://pitchbook.com/profiles/company/178851-88">[8]</a></sup> Startups entering regulated financial services need to either raise enough capital to clear the compliance threshold or find a go-to-market path (licensing, white-labeling, B2B SaaS) that generates revenue before the regulatory burden is fully loaded.
 

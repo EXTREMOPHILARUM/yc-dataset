@@ -14,7 +14,7 @@ No information is available on how Ma and Martin met, whether they had prior sta
 
 ## Founding Story
 
-## Timeline
+### Timeline
 
 - **January 2016** — Anchor Health participates in Y Combinator's Winter 2016 (W16) batch, receiving seed funding of approximately $125,000. The two-person team consists of Jennifer Ma and Ryan Martin.<sup>[[7]](https://www.ycombinator.com/companies/anchor-health)</sup> <sup>[[8]](https://pitchbook.com/profiles/company/226130-14)</sup>
 

@@ -38,7 +38,7 @@ The global customer service software market was valued at approximately $11.5 bi
 
 ## Recommended MVP
 
-## Core Features:
+### Core Features:
 
 **1. Revenue-signal draft responses.** The system generates human-reviewable reply drafts that incorporate real-time customer data—subscription tier, usage patterns, purchase history—pulled via Census or Hightouch reverse-ETL from the company's data warehouse. Unlike Intercom Fin or Zendesk AI, drafts are explicitly scored for expansion opportunity (e.g., flagging when a support query maps to a feature available on a higher tier), turning each ticket into a potential upsell touchpoint. This is the feature Parabolic sketched with "upsell mode" but never shipped with data-warehouse depth.
 

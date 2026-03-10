@@ -20,7 +20,7 @@ Abel created its Twitter account in November 2023 but never posted a single twee
 
 ## Founding Story
 
-## Timeline
+### Timeline
 
 - **2023** — Abel founded in San Francisco by Sean Safahi (CEO) and Chenyu Li (CTO).<sup>[[6]](https://tracxn.com/d/companies/abel/__ieaAuqtoDlLnC2Mbf4wUM-PPHV9R8K0yai-6Q67xaTM)</sup>
 

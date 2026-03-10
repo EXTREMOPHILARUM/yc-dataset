@@ -14,7 +14,7 @@ On her personal website, Chou describes the founding mission in direct terms: bu
 
 ## Founding Story
 
-## Timeline
+### Timeline
 
 - **2015** — Gabrielle Chou sells MOOD BY ME, her second company, completing her second exit before founding Allure Systems<sup>[[9]](https://shanghai.nyu.edu/academics/faculty/directory/gabrielle-chou)</sup>
 

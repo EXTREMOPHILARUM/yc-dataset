@@ -18,7 +18,7 @@ Distribution channels unavailable in 2013 now exist at scale: the Figma Communit
 
 ## Current Market Analysis
 
-## Market Size
+### Market Size
 
 The global design software market was valued at approximately $15.1 billion in 2023 (Grand View Research; independent verification recommended), compared to a much smaller and less defined market in 2012–2015 when Pixelapse operated. Figma alone reported over 4 million users before its acquisition attempt. The freelance design segment has expanded substantially: Upwork's 2023 annual report listed design as one of its top five skill categories by revenue, and platforms like Contra and Toptal have normalized remote-first design team structures that create persistent version control and handoff pain. Precise sizing of the design version control subcategory specifically is not publicly available.
 
@@ -40,7 +40,7 @@ Figma's own changelog feature has a 4.2-star rating on the Figma Community with 
 
 ## Core Features
 
-## Figma API-Native Version Intelligence
+### Figma API-Native Version Intelligence
 
 Connects to a team's Figma workspace via OAuth and automatically indexes every version save, auto-save, and named version across all project files. Unlike Figma's native history — which shows snapshots but requires manual inspection — this feature generates a structured, searchable changelog per file using GPT-4 Vision (March 2023) to describe what changed between each version in plain language. This differs from the original Pixelapse, which required a desktop sync client and worked on local binary files; the 2026 version requires zero installation and works entirely through Figma's existing API.
 
@@ -74,7 +74,7 @@ Generates shareable, time-stamped review links for any version or version range,
 
 ## Go-to-Market Strategy
 
-## Target Customer Segment
+### Target Customer Segment
 
 The primary target is in-house design teams of 3–15 people at B2B SaaS companies with $5M–$50M ARR — specifically teams that use Figma as their primary tool but still maintain Adobe Creative Cloud licenses for brand, marketing, or legacy assets. This segment has persistent cross-tool version confusion, regular stakeholder review cycles, and a budget owner (design lead or VP of Product) with purchasing authority under $500/month without procurement involvement. This is narrower than Pixelapse's original freelance-plus-agency dual target and avoids the conversion challenge of individual free-tier users.
 
@@ -84,6 +84,6 @@ The Figma Plugin Marketplace (10M+ users) is the primary acquisition channel. A 
 
 ## Pricing Strategy
 
-## Differentiation vs. 2026 Competitors
+### Differentiation vs. 2026 Competitors
 
 Figma's native version history is the primary incumbent to displace, not replace. The positioning is additive: "Figma tells you *that* something changed; we tell you *what* changed and *why it matters* to your stakeholders." Abstract's pivot away from version control leaves its former user base — documented in public community threads as actively seeking alternatives — as a warm acquisition target reachable through direct outreach on the Figma Community forum. No current competitor offers cross-tool unification of Figma and Adobe CC version history; this is the defensible wedge that a well-funded competitor would take 12–18 months to replicate given Adobe API integration complexity.

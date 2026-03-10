@@ -22,7 +22,7 @@ Distribution channels unavailable to Atmos also now exist at scale. The Autodesk
 
 ## Current Market Analysis
 
-## Market Size
+### Market Size
 
 The U.S. residential construction market generates approximately $900 billion in annual activity (Census Bureau, 2023). The custom and semi-custom segment — the addressable slice for this rebuild — represents roughly 20–25% of new single-family starts, or approximately 180,000–220,000 homes per year at current start rates. The design services layer within that segment is not cleanly sized in public data; the most defensible estimate is that design, permitting, and pre-construction coordination represent 8–12% of total project cost, implying a $15–25 billion addressable market for the services layer alone. This is larger than when Atmos launched in 2020, driven by the deepening housing shortage and continued Sun Belt in-migration.
 
@@ -48,7 +48,7 @@ Autodesk is the most credible platform threat. Its AEC Collection already includ
 
 ## Core Features
 
-## AI Floor Plan Generator with Builder Constraints Input
+### AI Floor Plan Generator with Builder Constraints Input
 
 A builder inputs lot dimensions, local zoning parameters, target square footage, and style preferences; the system outputs 3–5 buildable floor plan variations with room-level specifications within minutes. This directly replaces the human designer bottleneck Atmos never automated. Unlike Atmos's consumer-facing design tool, this is calibrated to what a builder can actually construct — not what a buyer dreams about — eliminating the 85% design-to-build drop-off that made Atmos's funnel a cost center.
 
@@ -79,7 +79,7 @@ This product has no network effects and no local density requirement. A builder 
 
 ## Go-to-Market Strategy
 
-## Target Customer Segment
+### Target Customer Segment
 
 Small regional homebuilders doing 10–50 custom or semi-custom homes per year in Sun Belt metros (Raleigh-Durham, Charlotte, Atlanta, Austin, Tampa). These firms have no dedicated design staff, rely on freelance architects or draftspeople for floor plans, and spend $2,000–$8,000 per plan in external design fees. They are underserved by enterprise tools like Higharc and ignored by consumer platforms like Drafted. Estimated U.S. population of this builder tier: tens of thousands of firms (exact figure not available in public data).
 
@@ -89,6 +89,6 @@ Procore's app marketplace and BuilderTrend's integration ecosystem are the highe
 
 ## Pricing Strategy
 
-## Differentiation vs. 2026 Competitors
+### Differentiation vs. 2026 Competitors
 
 Against Drafted: B2B vs. B2C — the rebuild never depends on a consumer financing a home to generate revenue. Against Higharc: radical simplicity and price accessibility for sub-50-home builders vs. enterprise complexity. Against Archistar/Symbium: full design output, not just feasibility screening. The rebuild's durable differentiation is the combination of AI design generation *and* automated compliance in a single workflow priced for operators who cannot afford enterprise software.

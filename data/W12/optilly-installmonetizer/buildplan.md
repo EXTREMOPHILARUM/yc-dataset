@@ -40,7 +40,7 @@ The gap is specific: no current tool combines LLM-powered creative generation, S
 
 ## Recommended MVP
 
-## Feature 1: LLM-Powered Creative Variant Engine
+### Feature 1: LLM-Powered Creative Variant Engine
 
 Integrates GPT-4o (May 2024) for copy generation and Stable Diffusion 3 for image variants to produce hundreds of ad creative combinations from a single brief. The marketer inputs a product description, target audience, and performance goal; the system generates structured variant sets organized for statistically valid multivariate testing. This differs from Optilly's 2014 approach, which required human-produced assets for every variant — a cost and time constraint that limited test breadth to dozens of combinations rather than hundreds.
 

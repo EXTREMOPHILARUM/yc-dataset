@@ -42,7 +42,7 @@ The third change is distribution. The Drata acquisition repositioned SafeBase as
 
 ## Recommended MVP
 
-## Core Feature 1: AI-Native Questionnaire Autopilot
+### Core Feature 1: AI-Native Questionnaire Autopilot
 
 Upload your existing security documentation (SOC 2 report, penetration test summary, security policies), and the system generates a structured, searchable Trust Center and auto-populates answers to the 200 most common security questionnaire questions using a fine-tuned LLM. This differs from the original SafeBase in that it requires zero manual curation — the AI does the initial build, not the security team. The original SafeBase required customers to manually configure their Trust Center; the rebuild makes the first version available in under 30 minutes.
 

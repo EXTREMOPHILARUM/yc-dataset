@@ -38,7 +38,7 @@ The enterprise knowledge management market has grown substantially since Niles o
 
 ## Recommended MVP
 
-## Core Feature 1: Conversational Q&A in Slack
+### Core Feature 1: Conversational Q&A in Slack
 
 A Slack bot that accepts natural language questions in any channel or DM and returns answers sourced from the team's indexed knowledge base, with citations linking to the source message or document. This is the original Niles core interaction, now powered by GPT-4 or Claude 3 via RAG over a vector database (Pinecone or pgvector). Unlike the original, accuracy is no longer the bottleneck — the MVP ships with a confidence threshold that routes low-confidence queries to a human expert rather than returning a wrong answer.
 

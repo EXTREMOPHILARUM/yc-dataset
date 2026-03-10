@@ -26,7 +26,7 @@ Finally, infrastructure costs have dropped. Vercel, Supabase, and serverless com
 
 ## Current Market Analysis
 
-## Market Size
+### Market Size
 
 The global sales enablement platform market was valued at approximately $3.5B in 2023 and is projected to reach $12.8B by 2030, growing at a CAGR of roughly 20% (Grand View Research, 2023). The narrower digital sales room subcategory — the most direct analog to the rebuild — does not yet have a reliable standalone market size figure; this is an honest gap in the available data. What is documented is that the three leading digital sales room players (Aligned, Trumpet, Dock) collectively raised over $50M between 2022 and 2024, suggesting investor conviction in a category that did not exist as a named segment when Quickcard operated.
 
@@ -52,7 +52,7 @@ HubSpot and Salesforce are the most credible platform threats. HubSpot already o
 
 ## Recommended MVP
 
-## Core Features
+### Core Features
 
 *1. AI-Personalized Buyer Microsite Generation*
 A rep inputs a prospect's CRM record (or pastes a LinkedIn URL), and the system generates a branded microsite in under 60 seconds: personalized headline, relevant case studies auto-selected by industry and company size, ROI framing adjusted to the prospect's stated pain points, and an embedded calendar widget. This differs from Quickcard's original in that personalization is fully automated rather than manual — a rep never touches a template. The original Quickcard required rep effort to configure each document; this version requires none.
@@ -82,7 +82,7 @@ This product has no network effects and no local density requirement. Value is d
 
 ## Go-to-Market Strategy
 
-## Target Customer Segment
+### Target Customer Segment
 
 B2B SaaS account executives at companies with 20–200 employees, running sales cycles of 30–90 days, selling deals in the $10,000–$100,000 ACV range. This is the segment that is too small for Seismic, too sophisticated to rely on a generic HubSpot document link, and large enough to have multiple reps who each send 10–30 follow-up documents per month. Exclude companies below 20 employees (too few reps to generate meaningful engagement data) and above 200 employees (procurement cycles too long for a seed-stage company to close).
 
@@ -94,6 +94,6 @@ Secondary channel: LinkedIn organic content from the founding team demonstrating
 
 ## Pricing
 
-## Differentiation vs. 2026 Competitors
+### Differentiation vs. 2026 Competitors
 
 Aligned, Trumpet, and Dock compete on room design and buyer experience. The rebuild competes on rep intelligence: the question is not "did your buyer open the document" but "what does your buyer's behavior tell you to do next, and here is the exact message to send." This is a positioning claim no current competitor makes, and it is the direct answer to the lesson Quickcard's failure teaches — the document delivery layer is commoditized; the intelligence layer is not.

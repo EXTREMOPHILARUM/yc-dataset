@@ -16,7 +16,7 @@ At YC, the team was described by Washington Post sources as "mild-mannered and l
 
 ## Founding Story
 
-## Timeline
+### Timeline
 
 - **2011** — Andrew Torba and Charles Szymanski co-found Kuhcoon in Scranton, Pennsylvania. Torba is CEO; Szymanski is CTO.<sup>[[2]](https://en.wikipedia.org/wiki/Automate_Ads)</sup>
 

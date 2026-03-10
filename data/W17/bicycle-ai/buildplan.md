@@ -37,7 +37,7 @@ Demand signals from adjacent products: Zapier's AI integrations and Make.com's a
 
 ## Recommended MVP
 
-## Core Feature 1 — Instant RAG Knowledge Base Ingestion
+### Core Feature 1 — Instant RAG Knowledge Base Ingestion
 
 The onboarding flow ingests a client's existing help center, Notion docs, past Zendesk/Freshdesk ticket history, and product FAQs via URL or file upload, constructing a client-specific RAG index in under 30 minutes. This matters because Bicycle AI's original model required expensive per-client ML training; RAG eliminates that cost entirely. Unlike competitors such as Tidio, which require manual FAQ entry, this feature makes onboarding zero-friction.
 

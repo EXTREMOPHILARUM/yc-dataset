@@ -28,7 +28,7 @@ Distribution is also categorically different. TikTok Shop (launched US 2023) and
 
 ## Current Market Analysis
 
-## Market Size
+### Market Size
 
 The US secondhand apparel market was approximately $28B in 2019 (ThredUp Resale Report). It is projected to reach $82B by 2026 — a 3x expansion in seven years. The peer-to-peer fashion resale subcategory, where 99dresses competed, is the fastest-growing segment within that total. Specific 2026 subcategory sizing for peer-to-peer resale is not publicly available with precision, but Poshmark's $1.2B acquisition price in 2022 implies the category supports billion-dollar outcomes.
 
@@ -55,7 +55,7 @@ StockX's "credit" system for sneaker trades and Whatnot's live-auction community
 
 ## Core Features
 
-## AI-Powered Instant Listing
+### AI-Powered Instant Listing
 
 A seller photographs an item with their phone camera; GPT-4V (November 2023) and Google Vision APIs auto-generate the title, brand tag, size, condition grade, and suggested button price within seconds. This directly addresses the supply-side friction that throttled 99dresses' original growth and eliminates the manual effort that causes seller drop-off on Poshmark and Depop. Unlike the original 99dresses, listing takes under 60 seconds — no typing required.
 
@@ -86,7 +86,7 @@ No desktop web experience at launch. No handbag or luxury category (high-value i
 
 ## Go-to-Market Strategy
 
-## Target Customer Segment
+### Target Customer Segment
 
 Primary: US women aged 18–26 who buy fast fashion (Zara, ASOS, Shein) at least twice monthly, have 10+ unworn items in their closet, and are already active on TikTok. This is the segment Durkin originally identified — but in 2026 they are fluent in platform currencies, sustainability-motivated, and TikTok-native. Secondary: the same user as a seller first, buyer second — the supply-side acquisition strategy that made the Australian pilot's 78% sell-through rate possible.
 

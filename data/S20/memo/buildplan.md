@@ -44,7 +44,7 @@ Distribution channels unavailable in 2020 now exist: the Notion template marketp
 
 ## Recommended MVP
 
-## Core Feature 1: Thread-first messaging with paragraph-level annotation
+### Core Feature 1: Thread-first messaging with paragraph-level annotation
 
 Every message in the rebuild is a structured document, not a chat bubble. Users can highlight any sentence or paragraph and attach a threaded reply directly to it — the interaction Memo pioneered and that Notion has since validated in document workflows. This differs from the original in one critical way: the annotation layer is the primary interface, not an optional affordance. There is no "send a plain message" mode that bypasses structure.
 

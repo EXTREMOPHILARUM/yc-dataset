@@ -306,17 +306,42 @@ def write_launches_md(slug: str, sources: dict, company_dir: Path):
 
 
 def _write_sections_md(title: str, sections: list[dict]) -> str:
-    """Convert a list of {heading, content} sections to markdown."""
+    """Convert a list of {heading, content} sections to markdown.
+
+    Empty parent headings (e.g. "Why Now?" with no content) are kept as
+    headings — the next section with content appears as a sub-section
+    underneath. This preserves the original document structure.
+    """
     lines = [f"# {title}", ""]
+    pending_parent = None
     for sec in sections:
         heading = sec.get("heading") or ""
         content = sec.get("content") or ""
-        if heading:
+
+        if heading and not content:
+            # Empty heading — treat as parent section
+            pending_parent = heading
             lines.append(f"## {heading}")
             lines.append("")
-        if content:
+            continue
+
+        if heading and content:
+            if pending_parent:
+                # This is a child of the empty parent — use ### instead of ##
+                lines.append(f"### {heading}")
+                pending_parent = None
+            else:
+                lines.append(f"## {heading}")
+            lines.append("")
             lines.append(content.strip())
             lines.append("")
+            continue
+
+        if content and not heading:
+            lines.append(content.strip())
+            lines.append("")
+            pending_parent = None
+
     return "\n".join(lines)
 
 

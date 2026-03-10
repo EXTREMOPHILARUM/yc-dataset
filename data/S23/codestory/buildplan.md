@@ -37,7 +37,7 @@ The AI coding tools market has grown substantially since CodeStory operated. Git
 
 ## Recommended MVP
 
-## Feature 1: Local-First Agentic Engine via VSCode Extension
+### Feature 1: Local-First Agentic Engine via VSCode Extension
 
 A VSCode extension (not a fork) that routes all code context through a locally running model via Ollama, with DeepSeek-V3 or Qwen2.5-Coder as the default backend. This matters because it eliminates the single biggest enterprise objection to AI coding tools — code leaving the perimeter — while removing the IDE-switching friction that killed Aide's adoption. Unlike CodeStory's Sidecar architecture, this requires no custom IDE distribution; it ships through the VSCode Marketplace on day one.
 

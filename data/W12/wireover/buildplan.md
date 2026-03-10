@@ -22,7 +22,7 @@ The Frame.io acquisition by Adobe for $1.275B in 2021 confirms that large-file t
 
 ## Why Now?
 
-## Current Market Analysis
+### Current Market Analysis
 
 **Market size:** The global managed file transfer (MFT) market was valued at approximately $2.4B in 2023 and is projected to reach $4.1B by 2028 (MarketsandMarkets, 2023). The adjacent large-file transfer segment — spanning media production, genomics, AI/ML data pipelines, and legal/healthcare document exchange — is not cleanly separated in public data, but Frame.io's $1.275B acquisition price and Aspera's continued growth under IBM suggest the media vertical alone supports nine-figure revenue at scale. When WireOver operated (2012–2015), the MFT market was estimated at under $1B globally; the problem has grown substantially.
 
@@ -48,7 +48,7 @@ The Frame.io acquisition by Adobe for $1.275B in 2021 confirms that large-file t
 
 ## Core Features:
 
-## Browser-native zero-install P2P transfer with automatic relay fallback.
+### Browser-native zero-install P2P transfer with automatic relay fallback.
 
 Using WebRTC DataChannels, the sender initiates a transfer from a browser tab and shares a link; the recipient clicks the link and receives the file with no installation required on either side. When P2P is blocked by firewalls or NAT (a common enterprise network condition), the file routes through a Cloudflare R2-backed relay that holds data in transit only — never at rest. This directly eliminates WireOver's fatal two-sided installation barrier while preserving its architectural advantage of not storing files on servers.
 
@@ -87,7 +87,7 @@ For enterprise accounts: centralized user provisioning, SAML/OIDC SSO integratio
 
 ## Go-to-Market Strategy
 
-## Target customer segment:
+### Target customer segment:
 
 Mid-market teams in regulated industries — specifically healthcare (radiology practices, genomics labs, clinical research organizations), legal (litigation support, e-discovery firms, boutique M&A practices), and architecture/engineering firms — with 10–200 employees who regularly transfer files exceeding 5 GB and have documented HIPAA, SOC 2, or GDPR obligations. This segment is narrow enough to have a specific, verifiable compliance pain point (unlike WireOver's diffuse "anyone who sends big files" positioning) and large enough to support enterprise pricing. They are currently underserved: Aspera is too expensive, WeTransfer lacks encryption compliance, and Wormhole has no enterprise features.
 

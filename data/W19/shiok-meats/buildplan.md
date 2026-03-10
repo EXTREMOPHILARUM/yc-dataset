@@ -10,7 +10,7 @@ The rebuild thesis rests on a specific biological unlock: CRISPR-based genome ed
 
 ## Why Now?
 
-## The single most important change: crustacean cell line stabilization is now an engineering problem, not a scientific mystery.
+### The single most important change: crustacean cell line stabilization is now an engineering problem, not a scientific mystery.
 
 When Shiok Meats was operating, the fundamental obstacle was that crustacean stem cells had no established scientific literature — no validated cell lines, no published differentiation protocols, no growth factor maps. The company was building the playbook from scratch using trial-and-error wet lab work. That is no longer the starting position in 2026.
 
@@ -49,7 +49,7 @@ Finally, the cultivated meat funding collapse post-2021 has created a buyer's ma
 
 ## Core features:
 
-## Stabilized shrimp cell line library (immortalized, serum-free)
+### Stabilized shrimp cell line library (immortalized, serum-free)
 
 Using CRISPR base editing to introduce targeted immortalization edits into *Litopenaeus vannamei* (Pacific white shrimp) stem cells — the dominant commercial species globally — combined with AlphaFold3-guided growth factor screening to develop a defined, serum-free media formulation. This directly addresses Shiok's primary failure mode. Unlike Shiok's approach, which developed cell lines and media simultaneously through trial-and-error, this version sequences the work: computational media design first, cell line editing second, scale-up third. The MVP deliverable is a validated, stable cell line that proliferates reliably across at least 30 passages without differentiation drift — a threshold that does not exist in published crustacean literature and would itself be a defensible scientific asset.
 

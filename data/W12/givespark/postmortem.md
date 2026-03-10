@@ -18,7 +18,7 @@ No information is available on how Teplow connected with the celebrity used in t
 
 ## Founding Story
 
-## Timeline
+### Timeline
 
 - **February 2012** — GiveSpark's Twitter account (@Givespark) is created, establishing the company's earliest confirmed public presence.<sup>[[9]](https://x.com/givespark)</sup>
 

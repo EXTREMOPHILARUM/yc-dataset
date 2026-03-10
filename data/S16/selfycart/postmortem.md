@@ -16,7 +16,7 @@ No public account exists of how Hashelit and Lee first met, and the founding yea
 
 ## Founding Story
 
-## Timeline
+### Timeline
 
 - **June 2015** — Sahle Hashelit and Erick Lee co-found Selfycart, drawing on their shared PayPal and eBay backgrounds. <sup>[[8]](https://tracxn.com/d/companies/selfycart/__bsBV9GJxo-vEiWX8GRZBSkzCWaMeQzRKtWKhbNsnoNQ)</sup>
 

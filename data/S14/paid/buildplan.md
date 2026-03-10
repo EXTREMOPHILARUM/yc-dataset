@@ -40,7 +40,7 @@ Market validation has also arrived: Modern Treasury raised a $185 million Series
 
 ## Recommended MVP
 
-## Feature 1: Contract-to-Invoice Extraction
+### Feature 1: Contract-to-Invoice Extraction
 
 Upload a signed engagement letter or SOW, and the system uses an LLM (GPT-4o or Claude 3.5 Sonnet, both available as of mid-2024) to extract billing terms — milestones, retainage percentages, net terms, and payment schedules — and auto-populate a draft invoice schedule. This directly addresses the manual setup problem that made the original Paid high-churn: the "30-minute integration" promise failed because configuring AR rules for complex billing relationships still required significant human effort. The new version eliminates that friction at the point of onboarding.
 

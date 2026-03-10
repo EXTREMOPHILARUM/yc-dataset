@@ -46,7 +46,7 @@ The market timing that Dalton Caldwell called "inevitable" in 2016 has arrived.
 
 ## Core Features:
 
-## Scan-and-Go Mobile App (iOS and Android)
+### Scan-and-Go Mobile App (iOS and Android)
 
 Shoppers scan barcodes as they shop and pay via Apple Pay, Google Pay, or card on exit — no cashier, no kiosk. This mirrors Selfycart's original core but removes the consumer transaction fee entirely; the cost is borne by the retailer subscription. Eliminating the 2% shopper fee removes the single most documented adoption barrier from the original product.
 
@@ -80,7 +80,7 @@ Real-time visibility into basket composition, item pick-up-and-put-back behavior
 
 ## Go-to-Market Strategy
 
-## Target Customer Segment:
+### Target Customer Segment:
 
 Independent grocery stores with 1–10 locations, annual revenue between $5M–$50M, already running Square for Retail or Lightspeed POS, located in metro areas with above-average smartphone penetration. This is Selfycart's original beachhead — but now filtered for POS compatibility to eliminate the integration bottleneck from the sales cycle entirely. The National Grocers Association's 2022 data confirms this segment is actively seeking technology investment, not resistant to it.
 

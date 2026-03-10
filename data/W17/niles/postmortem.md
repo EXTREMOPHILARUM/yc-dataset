@@ -18,7 +18,7 @@ Andy Kim's specific background, technical role, and eventual departure from the 
 
 ## Founding Story
 
-## Timeline
+### Timeline
 
 - **November 2016** — Niles AI founded by Mack Lu and Andy Kim in San Francisco, CA. <sup>[[1]](https://tracxn.com/d/companies/niles/__koYdQVw8-9MNdjb6j826YxIqXvIbsCYZFDjIyQ1_8U4)</sup>
 

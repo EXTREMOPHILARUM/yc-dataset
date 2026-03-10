@@ -40,7 +40,7 @@ The U.S. residential solar installed base has grown from approximately 1.7 milli
 
 ## Recommended MVP
 
-## Feature 1: Installer-Embedded REC Registration API
+### Feature 1: Installer-Embedded REC Registration API
 
 A single API endpoint that installer platforms (Aurora Solar, Scanifly, OpenSolar) can call at project completion to automatically initiate REC generator registration across the relevant regional tracking system (WREGIS, PJM-GATS, M-RETS, or NEPOOL-GIS based on project location). The API accepts structured project data already present in the installer's system — system size, location, interconnection date, owner information — and handles the tracking system submission without human intervention. This differs from Jasmine's original approach by targeting the installer's existing workflow rather than requiring homeowners to discover and onboard to a separate platform. The cold-start problem is solved structurally: value is delivered on the first registration, with no network density required.
 

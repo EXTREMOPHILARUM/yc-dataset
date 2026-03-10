@@ -43,7 +43,7 @@ The consumer messaging war is over. WhatsApp won. The enterprise field communica
 
 ## Recommended MVP
 
-## Core Feature 1: Instant PTT Channels with Role-Based Access
+### Core Feature 1: Instant PTT Channels with Role-Based Access
 
 Press-and-hold voice transmission across named channels (e.g., "Warehouse Floor," "Dispatch," "Site 3"), with manager-controlled permissions. Built on Agora SDK or Daily.co WebRTC for sub-300ms latency. This is what TiKL built for consumers; the rebuild delivers it with enterprise access controls TiKL never implemented.
 

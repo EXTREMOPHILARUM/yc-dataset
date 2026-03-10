@@ -16,7 +16,7 @@ Finally, open-source silicon tooling (OpenROAD, Google's open PDK, RISC-V chiple
 
 ## Why Now?
 
-## Current Market Analysis
+### Current Market Analysis
 
 **Market size.** The global edge AI chip market was estimated at approximately $3.5B in 2023 and is projected to exceed $15B by 2030, per MarketsandMarkets (2023 report). The narrower robotics inference subsegment does not have a clean public estimate; this is a gap in the available data. What is documentable: the humanoid robotics market alone attracted over $1B in disclosed venture investment in 2023–2024 (Crunchbase aggregates), and each deployed unit represents a recurring inference compute cost that OEMs are actively trying to reduce.
 
@@ -36,7 +36,7 @@ Finally, open-source silicon tooling (OpenROAD, Google's open PDK, RISC-V chiple
 
 ## Recommended MVP
 
-## Core Feature 1: Ternary Inference Runtime for ROS 2
+### Core Feature 1: Ternary Inference Runtime for ROS 2
 
 A pip-installable Python package and C++ shared library that runs BitNet b1.58-compatible ternary models natively within ROS 2 (Robot Operating System 2), the de facto middleware for humanoid and mobile robotics. It exposes a standard ROS 2 node interface so robotics engineers can drop it into an existing perception or action pipeline without rewriting their stack. Unlike the original Deepsilicon's generic pip-install, this is vertically scoped: it ships with pre-quantized versions of the three or four vision-language-action model architectures most commonly used in robotics (OpenVLA, RT-2 variants), removing the quantization step from the customer's workflow entirely.
 

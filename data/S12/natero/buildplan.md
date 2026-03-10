@@ -44,7 +44,7 @@ The single most important change since Natero's acquisition is that the three-ye
 
 ## Recommended MVP
 
-## Core Feature 1: Unified Signal Ingestion via Existing Infrastructure
+### Core Feature 1: Unified Signal Ingestion via Existing Infrastructure
 
 Connect to Segment, Amplitude, or a direct event API to pull product usage data, and to HubSpot or Salesforce for CRM context, Zendesk or Intercom for support history, and Stripe for billing signals — all via pre-built connectors, not custom pipelines. This is the data plumbing layer Natero spent three years building; in 2026 it should take weeks. The critical difference from the original: the rebuild does not own the data infrastructure, it consumes it. This eliminates the three-year build cycle and the ML engineering headcount that defined Natero's cost structure.
 

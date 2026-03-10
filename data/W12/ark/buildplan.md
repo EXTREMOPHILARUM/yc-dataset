@@ -44,7 +44,7 @@ Distribution channels unavailable in 2012 now include the Clay integration marke
 
 ## Recommended MVP
 
-## Feature 1: User-Consented Identity Aggregation ("Bring Your Own Graph")
+### Feature 1: User-Consented Identity Aggregation ("Bring Your Own Graph")
 
 Users connect their own LinkedIn, GitHub, and optionally their email contacts via OAuth and official portability APIs, authorizing Ark to index their extended professional network. This creates a permissioned identity graph seeded by the user's actual connections, not scraped data. This directly inverts Ark's fatal dependency: the platform cannot revoke what the user has explicitly shared. Unlike the original Ark, no data is held without user consent, and the index is personal rather than universal.
 

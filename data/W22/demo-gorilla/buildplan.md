@@ -18,7 +18,7 @@ The sales enablement software market was valued at approximately $2.6 billion in
 
 ## Why Now?
 
-## Current Market Analysis
+### Current Market Analysis
 
 **Market size:** The sales enablement market was approximately $2.6 billion in 2022 with projected 15%+ CAGR through the mid-2020s, per the research report. A precise 2026 figure is not available in the provided data. The presales and interactive demo tooling sub-segment remains smaller but has grown substantially given the collective fundraising of Navattic, Reprise, Walnut, and Storylane since 2022.
 
@@ -40,7 +40,7 @@ The sales enablement software market was valued at approximately $2.6 billion in
 
 ## Recommended MVP
 
-## Core Feature 1: LLM-Powered Live Talking Point Engine
+### Core Feature 1: LLM-Powered Live Talking Point Engine
 
 A browser extension overlay that surfaces persona-specific talking points in real time as a rep navigates a live browser-based SaaS demo. Unlike Demo Gorilla's 2022 version — which relied on GPT-3-class generation with unreliable accuracy — this version uses GPT-4o or Claude 3.5 Sonnet to generate content grounded in the company's own product documentation, uploaded battlecards, and CRM deal context, dramatically reducing hallucination risk. The rep sees three to five concise, sourced talking points per product screen, not a wall of AI-generated prose.
 

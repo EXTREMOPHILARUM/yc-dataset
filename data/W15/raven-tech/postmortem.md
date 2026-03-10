@@ -18,7 +18,7 @@ Lyu's vision was explicitly maximalist. He described the market for next-generat
 
 ## Founding Story
 
-## Timeline
+### Timeline
 
 - **May 2014** — Raven Tech (渡鸦科技) founded in Beijing by Jesse Lyu.<sup>[[1]](https://www.linkedin.com/company/%E6%B8%A1%E9%B8%A6%E7%A7%91%E6%8A%80)</sup>
 - **June 2014** — Selected as the fifth alumni of the Microsoft Venture Accelerator.<sup>[[4]](https://m.huxiu.com/article/106102.html)</sup>

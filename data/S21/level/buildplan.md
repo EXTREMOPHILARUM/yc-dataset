@@ -11,7 +11,7 @@ for-lenders niche Level occupied.
 
 ## Why Now?
 
-## The single most important change since Level's failure is the collapse in the cost of underwriting infrastructure.
+### The single most important change since Level's failure is the collapse in the cost of underwriting infrastructure.
 
 In 2021, Level had to build its loan tape ingestion, borrower monitoring, and credit decisioning stack largely from scratch, against a $2.3M equity base that also had to fund the loan book itself. In 2026, that same stack can be assembled from commodity components at a fraction of the cost — and that changes the math on whether a small team can reach institutional debt thresholds before running out of runway.
 
@@ -21,7 +21,7 @@ In 2021, Level had to build its loan tape ingestion, borrower monitoring, and cr
 
 ## Current Market Analysis
 
-## Market size:
+### Market size:
 
 The total U.S. warehouse lending market is estimated in the hundreds of billions of dollars annually, but that figure is dominated by mortgage warehouse lines and large-scale consumer lending facilities — not the early-stage fintech segment Level targeted. The addressable market for a rebuilt Level is the sub-$10M first warehouse facility segment: companies that have originated loans, have 3–12 months of performance data, and are too small for traditional specialty finance lenders whose minimums typically start at $10M–$25M. Precise sizing of this segment is not publicly available; this is a known gap in the research.
 
@@ -29,7 +29,7 @@ What is documentable: YC alone has backed 40+ lending-adjacent companies since 2
 
 ## Competition map:
 
-## Defensibility against platform incumbents:
+### Defensibility against platform incumbents:
 
 This is the honest answer: Stripe, Unit, and Synctera are the most plausible platform threats. Stripe Capital already extends financing to Stripe users; it could theoretically extend warehouse-style facilities to fintech lenders built on Stripe Treasury. The structural defense is that warehouse lending for third-party lenders requires credit underwriting of *loan portfolios* — a fundamentally different risk model than underwriting a merchant's payment volume. Stripe has no demonstrated appetite for this complexity. Unit and Synctera are infrastructure providers, not balance sheet lenders; they have no incentive to compete with their own customers' capital providers. The more honest risk is not platform commoditization but a well-capitalized specialty finance entrant deciding the segment is worth serving — and there is no permanent structural defense against that. Speed to data moat (proprietary loan performance benchmarks across dozens of early-stage lenders) is the best available answer.
 
@@ -39,7 +39,7 @@ This is the honest answer: Stripe, Unit, and Synctera are the most plausible pla
 
 ## Core features:
 
-## Automated loan tape ingestion and scoring (the underwriting engine)
+### Automated loan tape ingestion and scoring (the underwriting engine)
 
 Connects to a borrower's loan origination system or accounting platform via Plaid, MX, or direct API, ingests the loan tape, and uses an LLM-assisted pipeline (built on GPT-4o or Claude 3.5 Sonnet, both available as of mid-2024) to normalize, validate, and score the portfolio against configurable credit criteria. This is the direct successor to Level's original underwriting engine, but built on commodity AI infrastructure rather than custom NLP — reducing build time from months to weeks and marginal cost per underwrite to near zero. Unlike the original, this engine produces an auditable, structured credit memo that can be shared with co-investors or future institutional lenders, accelerating the borrower's path to graduation.
 
@@ -66,7 +66,7 @@ Rather than deploying only equity capital into loan purchases — the constraint
 
 ## Go-to-Market Strategy
 
-## Target customer segment:
+### Target customer segment:
 
 YC-backed and top-accelerator-backed fintech lending startups in their first 6–18 months of origination, with $200K–$2M in loans already on book, seeking their first $500K–$3M warehouse facility. This is narrow by design. These founders are reachable, credible-reference-able, and acutely aware of the capital problem — they have already built a product and proven demand; the warehouse gap is their stated #1 growth constraint.
 

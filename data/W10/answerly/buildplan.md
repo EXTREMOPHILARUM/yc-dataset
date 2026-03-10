@@ -42,7 +42,7 @@ Distribution infrastructure has also matured. The HubSpot App Marketplace now li
 
 ## Recommended MVP
 
-## Core Feature 1: Multi-Platform Question Ingestion
+### Core Feature 1: Multi-Platform Question Ingestion
 
 Ingest public posts from LinkedIn, Reddit, Bluesky, and X (Twitter) simultaneously using each platform's available API tier. This directly addresses InboxQ's fatal single-platform dependency—Twitter's 2012–2013 API restrictions likely contributed to its closure. The MVP should use X's Basic API ($100/month), Reddit's Data API (pricing varies; exact current tier costs should be confirmed before building), LinkedIn's Marketing API (requires partner approval), and Bluesky's open AT Protocol. No single platform shutdown kills the product.
 

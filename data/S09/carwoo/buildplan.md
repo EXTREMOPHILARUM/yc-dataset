@@ -46,7 +46,7 @@ The U.S. new car market generated approximately $600 billion in retail sales in 
 
 ## Core Features:
 
-## AI-Powered Anonymous Buyer Intake (Claude 3.5 Sonnet or equivalent, 2024)
+### AI-Powered Anonymous Buyer Intake (Claude 3.5 Sonnet or equivalent, 2024)
 
 A conversational AI agent collects buyer preferences, budget, trade-in details, and timeline through a chat interface, then generates a structured dealer brief — without ever exposing the buyer's contact information. This replaces CarWoo's manual intake form and eliminates the consumer education burden that made the original product confusing. Unlike CarWoo's static form, the AI can handle ambiguous inputs ("something like a RAV4 but bigger") and resolve them into actionable vehicle configurations.
 
@@ -80,7 +80,7 @@ The buyer fee is not charged as a standalone transaction cost. Instead, the serv
 
 ## Go-to-Market Strategy
 
-## Target Customer Segment:
+### Target Customer Segment:
 
 Primary: Credit union members aged 28–50 with household income above $75,000 who are actively in-market for a new vehicle within 90 days. This segment is narrow by design. Credit union members already have a trust relationship with a financial institution, are accustomed to member benefits, and skew toward considered purchases. They are not the casual browser CarWoo's free tier attracted — they are the high-intent buyer CarWoo's $49 fee was trying to filter for, delivered pre-qualified through the distribution partner.
 

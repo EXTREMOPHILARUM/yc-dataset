@@ -39,7 +39,7 @@ Finally, open-source vector infrastructure — Pinecone, Weaviate, and pgvector 
 
 ## Recommended MVP
 
-## Feature 1 — Pre-Publication Packaging Scorer
+### Feature 1 — Pre-Publication Packaging Scorer
 
 A creator inputs a proposed title and uploads a thumbnail; the system returns a predicted click-through rate range and a view-trajectory estimate for the first 28 days, calibrated against the creator's own historical channel data. This is the core CreatorML capability, rebuilt using GPT-4o's multimodal API (May 2024) and channel-level fine-tuning via the YouTube Analytics API, at a fraction of the original infrastructure cost. Unlike CreatorML's original model, which required custom training per channel, this version uses few-shot prompting against historical performance embeddings stored in pgvector — deployable by a two-person team.
 

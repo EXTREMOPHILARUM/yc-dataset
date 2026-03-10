@@ -18,7 +18,7 @@ After the Credit Karma acquisition, Lee went on to co-found Arc, a fintech compa
 
 ## Founding Story
 
-## Timeline
+### Timeline
 
 - **2015** — Mitchell Lee and Alex Quach build Penny prototype at a one-week hackathon as a side project between jobs; company incorporated as Friendly Finances, Inc. <sup>[[12]](https://springwise.com/wise-words-mitchell-lee-emoji-fintech/)</sup>
 

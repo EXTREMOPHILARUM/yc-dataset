@@ -43,7 +43,7 @@ The market Marft attempted to pioneer in 2012 — ML tooling for application dev
 
 ## Core Features:
 
-## Bring-Your-Own-Data Training Pipeline
+### Bring-Your-Own-Data Training Pipeline
 
 Developers upload labeled datasets (CSV, JSON, or via API) through a web interface or CLI; the platform automatically selects and fine-tunes an appropriate base model from a curated set of open-weight options (Llama 3, Mistral 7B, or task-specific models from Hugging Face). This directly executes Marft's original vision — "Users submit data by we..." — but with 2026 infrastructure making it technically and economically viable. Unlike SageMaker, no cloud configuration is required; unlike Hugging Face Endpoints, the developer does not choose the model architecture.
 
@@ -79,7 +79,7 @@ A simple web dashboard showing model accuracy metrics on held-out test data, plu
 
 ## Go-to-Market Strategy
 
-## Target Customer Segment:
+### Target Customer Segment:
 
 Full-stack developers and small engineering teams (2–8 engineers) at B2B SaaS companies with $500K–$10M ARR, building products that require classification, ranking, or prediction features (e.g., lead scoring, content moderation, churn prediction, anomaly detection) but lack a dedicated ML engineer. These teams have budget, a clear use case, and active frustration with the complexity of SageMaker and the runtime dependency of pure API solutions. They are not data scientists and do not want to become one.
 

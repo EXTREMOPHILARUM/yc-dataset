@@ -18,7 +18,7 @@ The original vision was to be the infrastructure layer for business phone calls 
 
 ## Founding Story
 
-## Timeline
+### Timeline
 
 - **2014** — VOIQ founded by Ricardo Garcia-Amaya and Jessica Taggart in San Francisco/Redwood City, CA. <sup>[[8]](https://techstartups.com/2019/11/05/ycombinator-backed-startup-voiq-secures-5m-funding-build-future-ai-voice/)</sup>
 - **2014** — VOIQ graduates from TechStars accelerator. <sup>[[6]](https://www.foundertherapy.co/clients/voiq)</sup>

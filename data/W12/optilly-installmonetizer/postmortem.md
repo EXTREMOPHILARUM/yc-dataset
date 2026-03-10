@@ -18,7 +18,7 @@ The company's initial vision was narrow and specific: solve the monetization pro
 
 ## Founding Story
 
-## Timeline
+### Timeline
 
 - **2011** — InstallMonetizer founded by Vince Mundy and Lloyd Jacob in San Jose, CA; product launches quietly as a Windows software bundling ad network.<sup>[[1]](https://www.ycombinator.com/companies/optilly-installmonetizer)</sup>
 

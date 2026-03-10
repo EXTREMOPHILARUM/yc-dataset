@@ -10,7 +10,7 @@ We win by being the only product that lives inside the HR workflow, not a separa
 
 ## Why Now?
 
-## The single most important change: 401(k) data infrastructure has gone from a bespoke engineering problem to a commodity API layer.
+### The single most important change: 401(k) data infrastructure has gone from a bespoke engineering problem to a commodity API layer.
 
 When FutureAdvisor built its 401(k) optimization feature in 2010–2012, aggregating fund menu data across thousands of employer plans required building proprietary data pipelines from scratch. That was a genuine technical moat — and also a genuine cost center. Today, Finicity (acquired by Mastercard, 2020), Plaid (launched investment data APIs, 2021), and Vestwell (launched recordkeeper API integrations, 2022) collectively provide real-time 401(k) account aggregation, fund menu data, and in some cases trade execution within plan limits. The infrastructure FutureAdvisor spent years and millions building is now available on a per-call pricing model. This collapses the time-to-MVP from 18+ months to roughly 90 days for the core data layer.
 
@@ -44,7 +44,7 @@ When FutureAdvisor built its 401(k) optimization feature in 2010–2012, aggrega
 
 ## Core Features:
 
-## 401(k) Fund Menu Optimizer
+### 401(k) Fund Menu Optimizer
 
 Connects to a participant's existing 401(k) via Plaid or Vestwell APIs, maps the specific fund menu available in their plan, and identifies the lowest-cost index fund equivalent for every holding. This is FutureAdvisor's original killer feature, rebuilt on commodity infrastructure in a fraction of the original development time. Unlike the original, it does not require the user to transfer assets anywhere — it works entirely within the existing plan.
 

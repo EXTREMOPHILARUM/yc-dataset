@@ -26,7 +26,7 @@ Distribution channels now include the Aramark and Compass Group vendor programs,
 
 ## Current Market Analysis
 
-## Market Size
+### Market Size
 
 The U.S. quick-service restaurant industry exceeded $200 billion in annual revenue when Bistrobot operated in 2015, with labor representing approximately 30% of costs — the structural pressure that made automation attractive in theory. Specific 2026 market size figures for food robotics are not available in the research provided. What is documented: Chowbotics raised over $11 million, was acquired by DoorDash in 2021, and was shut down in 2022 — confirming the category remained commercially difficult even with resources that dwarfed Bistrobot's. That failure is instructive, not disqualifying; Chowbotics' salad robot struggled with menu complexity and operator adoption, not the core reliability problem a UR-arm-based rebuild would address.
 
@@ -49,7 +49,7 @@ Sweetgreen's Infinite Kitchen rollout and Reef Technology's ghost kitchen expans
 
 ## Core Features
 
-## Off-the-shelf robot arm integration with food-safe end effectors.
+### Off-the-shelf robot arm integration with food-safe end effectors.
 
 The MVP is built on a Universal Robots UR5e or equivalent collaborative arm — not custom mechanical hardware — with food-grade end effectors sourced from established suppliers. This directly addresses Bistrobot's core failure: the machine broke because the founders built and maintained every mechanical component themselves. Using a platform with a certified uptime SLA and an existing integrator network means field service does not require the founders to drive to the deployment site. The original Bistrobot had no such fallback.
 
@@ -83,7 +83,7 @@ The MVP is not sold outright. Operators pay a monthly lease ($800–$1,500/month
 
 ## Go-to-Market Strategy
 
-## Target Customer Segment
+### Target Customer Segment
 
 The primary customer is the corporate campus food-service operator — specifically, Aramark, Compass Group, or Sodexo location managers responsible for 500–2,000-person office or healthcare campuses that have reduced staffed food stations post-pandemic but face employee pressure to restore fresh food options. This segment is narrow by design: these operators have established vendor evaluation processes, multi-unit purchasing authority, and existing relationships with food robotics vendors (including Chowbotics, whose shutdown left an active gap in their vendor rosters). They are not novelty-seekers; they evaluate on uptime, labor displacement, and margin contribution — exactly the criteria the rebuild is designed to meet.
 

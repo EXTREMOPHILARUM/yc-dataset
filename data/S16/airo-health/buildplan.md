@@ -42,7 +42,7 @@ Contract manufacturing platforms including Fictiv, PCBWay, and Jabil's startup p
 
 ## Core Features:
 
-## Continuous HRV Stress Monitoring via Validated Armband Hardware
+### Continuous HRV Stress Monitoring via Validated Armband Hardware
 
 The device samples HRV using optical photoplethysmography at medically meaningful resolution, leveraging reference designs for BLE biosensor wearables now available through contract manufacturers. This directly inherits Airo's 2016 product architecture but ships on validated, manufacturable hardware rather than a prototype — the specific execution failure that ended the original company. Unlike Whoop, the form factor and UX are designed for office wear, not gym wear.
 

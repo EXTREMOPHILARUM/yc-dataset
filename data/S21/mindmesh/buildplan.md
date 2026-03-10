@@ -40,7 +40,7 @@ The gap that remains unoccupied: a lightweight, write-capable AI layer that work
 
 ## Core Features:
 
-## Daily Briefing Agent
+### Daily Briefing Agent
 
 Each morning, an AI agent synthesizes the user's Gmail inbox, Slack mentions, Jira assignments, and Google Calendar for the day into a single prioritized briefing delivered inside Slack or email. It surfaces what needs a decision, what is blocked, and what meetings require preparation. This directly addresses Mindmesh's original "big picture" value proposition but delivers it as a push notification rather than requiring the user to open a new application — eliminating the behavior-change barrier that killed the original product. Unlike Mindmesh's 2022 implementation, this is powered by GPT-4o function calling and MCP connectors, not brittle custom integrations.
 

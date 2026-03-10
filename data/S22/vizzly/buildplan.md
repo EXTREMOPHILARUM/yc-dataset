@@ -12,7 +12,7 @@ By 2026, the capability gap has closed materially. GPT-4o and Claude 3.5 Sonnet 
 
 ## Why Now?
 
-## The single most important change: LLM-native text-to-SQL is now a shippable core feature, not a two-engineer research project.
+### The single most important change: LLM-native text-to-SQL is now a shippable core feature, not a two-engineer research project.
 
 *Well-capitalized incumbents:*
 - **Looker (Google):** Dominant in enterprise, but the embedding experience is iFrame-based, requires LookML expertise, and minimum contract sizes effectively exclude mid-market SaaS teams. Weakness: too expensive and too complex for a 10–50 person SaaS company shipping its first analytics feature.
@@ -48,7 +48,7 @@ By 2026, the capability gap has closed materially. GPT-4o and Claude 3.5 Sonnet 
 
 ## Competition map and gaps:
 
-## Defensibility analysis — why won't Google, Salesforce, or Microsoft simply add this feature?
+### Defensibility analysis — why won't Google, Salesforce, or Microsoft simply add this feature?
 
 This is the honest answer: platform incumbents are a real threat, and there is no structural moat that makes the rebuild categorically safe from them. Google already owns Looker. Microsoft has Power BI Embedded. The defensible position is not "platforms can't do this" — they can and do. The defensible position is **speed-to-value for the mid-market SaaS team that cannot afford Looker's minimum contract and cannot wait six months for a Power BI Embedded integration.** The moat is go-to-market focus and onboarding speed, not technology. This is a real but narrow moat, and the rebuild must be honest about it: if the product does not achieve significant distribution within 18–24 months, platform commoditization is a genuine kill risk.
 
@@ -58,7 +58,7 @@ This is the honest answer: platform incumbents are a real threat, and there is n
 
 ## Core Features:
 
-## AI-native query interface (NL-to-chart)
+### AI-native query interface (NL-to-chart)
 
 The user types a question in plain English ("Show me revenue by customer segment for the last 90 days") and receives a rendered chart within the embedded dashboard. Built on GPT-4o structured outputs with a schema-constrained prompt layer that prevents SQL injection and validates queries against the host application's defined semantic model before execution. This differs from Vizzly's original approach in that it ships on day one as a core feature, not an alpha — and it is the primary reason a SaaS team chooses the rebuild over a drag-and-drop competitor.
 

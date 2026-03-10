@@ -42,7 +42,7 @@ Primary distribution channel: the Shopify App Store, which serves 2 million+ act
 
 ## Recommended MVP
 
-## Core Feature 1: AI Listing Generator
+### Core Feature 1: AI Listing Generator
 
 Upload a photo or enter a SKU; the system generates a platform-optimized title, description, condition notes, category selection, and pricing suggestion for each target marketplace simultaneously. This matters because listing creation is the single highest-friction task in the reseller workflow — sellers on r/Flipping routinely report spending 10–20 minutes per item. The original Auctomatic would have required rule-based templates; GPT-4o's vision capabilities (May 2024) make photo-to-listing generation feasible with a single API call.
 

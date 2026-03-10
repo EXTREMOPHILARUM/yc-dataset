@@ -42,7 +42,7 @@ Finally, COVID-19 permanently normalized remote learning. Zoom, Google Meet, and
 
 ## Recommended MVP
 
-## Feature 1: Video-First Tutor Profiles
+### Feature 1: Video-First Tutor Profiles
 
 Every tutor profile requires a 60–90 second teaching demonstration video, recorded and hosted via Mux or Cloudflare Stream. The video shows the tutor explaining a concept in their primary subject — not a talking-head introduction. This directly solves the trust problem that forced Tutorspree's costly agency pivot: parents can evaluate teaching style, communication clarity, and personality before booking, without requiring human consultants. Unlike Wyzant's optional video feature, video is mandatory for profile activation.
 

@@ -28,7 +28,7 @@ Distribution channels unavailable in 2012 include the Chrome Web Store (3B+ Chro
 
 ## Current Market Analysis
 
-## Market Size
+### Market Size
 
 The daily deals market Dealupa targeted peaked at several billion dollars in gross merchandise value in 2011–2012 before collapsing. The adjacent market the rebuild targets — local commerce discovery, encompassing cashback, coupons, browser extensions, and local offer aggregation — is substantially larger and more durable. Honey alone processed enough transaction volume to justify a $4B acquisition in 2019. Specific 2026 total addressable market figures for this category are not available in the research report and should be sourced independently before fundraising.
 
@@ -54,7 +54,7 @@ Honey's acquisition price, Capital One Shopping's continued investment, and the 
 
 ## Core Features
 
-## LLM-Powered Local Deal Aggregation Engine
+### LLM-Powered Local Deal Aggregation Engine
 
 Crawls and extracts structured deal data from Google Maps, Yelp, DoorDash, Uber Eats, and top affiliate networks (Rakuten, Impact, CJ Affiliate) using GPT-4o or equivalent LLM APIs to parse unstructured offer pages into normalized records: merchant name, discount type, percentage, expiration, category, and location. This replaces Dealupa's brittle PhantomJS/Solr stack with a maintainable, low-cost extraction layer. Unlike the original, it does not depend on deal publishers running affiliate programs — it indexes offers from platforms that will exist regardless of deal market health.
 
@@ -85,7 +85,7 @@ Uses pre-trained sentence transformer embeddings to match users to relevant offe
 
 ## Go-to-Market Strategy
 
-## Target Customer Segment
+### Target Customer Segment
 
 Primary: Urban millennials and Gen Z consumers (ages 25–38) in the top 10 U.S. metro areas who already use at least one of: DoorDash, Uber Eats, Yelp, or a cashback browser extension. These users have demonstrated willingness to use discovery tools for local commerce and are already in the habit of checking offers before purchasing. They are not deal-obsessed coupon clippers — they are convenience-oriented consumers who will use a ranked, personalized feed if it requires no behavioral change beyond installing a browser extension.
 

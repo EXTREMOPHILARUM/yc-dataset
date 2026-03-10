@@ -22,7 +22,7 @@ Finally, LLM-powered local intent inference — specifically GPT-4 (March 2023) 
 
 ## Current Market Analysis
 
-## Market Size
+### Market Size
 
 The location-based services market Loopt attempted to create in 2006 was effectively zero in addressable revenue terms. The US location-based advertising market alone reached approximately $74 billion in 2022 (source: research report). The broader "ambient social coordination" market — encompassing safety apps, friend-finding tools, and local commerce — does not have a single published TAM figure this report can cite with confidence, but adjacent signals are strong: Life360 reported 61 million monthly active users as of 2023 (per Life360 SEC filings), and Snap Map has over 350 million users engaging with location features monthly (per Snap Inc. investor materials, 2023).
 
@@ -47,7 +47,7 @@ Life360's 61M MAU growth and the viral adoption of Apple AirTags for informal lo
 
 ## Core Features
 
-## Ambient Friend Map with Granular Presence Controls
+### Ambient Friend Map with Granular Presence Controls
 
 A persistent background map showing opted-in friends' approximate locations — not precise GPS pins, but neighborhood-level "zones" (e.g., "Near Williamsburg," "Downtown") that convey social availability without surveillance-level precision. This matters because it resolves the exact trust failure that destroyed Loopt's early reputation: users share presence, not coordinates. Unlike Loopt's always-exact passive tracking, zone-based presence is psychologically closer to "online status" than "surveillance feed," dramatically lowering consent friction.
 
@@ -79,7 +79,7 @@ No public discovery feed. No badges, leaderboards, or gamification. No brand adv
 
 ## Go-to-Market Strategy
 
-## Target Customer Segment
+### Target Customer Segment
 
 Urban adults aged 22–32 in high-density US cities (New York, Chicago, Los Angeles, Austin) who coordinate spontaneous social plans with a stable friend group of 5–20 people. Specifically: young professionals who have aged out of Snapchat's aesthetic but find group chats insufficient for real-time coordination. This segment is narrow enough to achieve density in a single neighborhood before expanding — density is the product's core value driver.
 

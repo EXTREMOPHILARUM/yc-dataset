@@ -39,7 +39,7 @@ Market data on the social listening segment specifically is limited in public so
 
 ## Recommended MVP
 
-## Feature 1: One-Click Listen-Along Sessions
+### Feature 1: One-Click Listen-Along Sessions
 
 A user authenticates with Spotify OAuth, shares a URL (via iMessage, Discord, or any messaging app), and a friend joins a synchronized listening session in the browser — no installation required. The host's playback state (track, position, queue) is mirrored to all guests in real time using WebRTC for synchronization signals and Spotify's playback API for actual audio. This differs from Reble's original in that audio comes from Spotify's licensed catalog, not a friend's hard drive, eliminating both the bilateral installation requirement and the legal exposure. The cold-start problem is addressed directly: a session has value with exactly two people, and the second person requires no prior account.
 

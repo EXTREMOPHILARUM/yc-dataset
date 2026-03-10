@@ -12,7 +12,7 @@ The global business messaging market was valued at approximately $62 billion in 
 
 ## Why Now?
 
-## Current Market Analysis
+### Current Market Analysis
 
 **Market size today:** The global business messaging market was valued at approximately $62 billion in 2023 (Grand View Research, 2024), growing at a reported CAGR of roughly 12%. The consumer cross-platform messaging segment does not have a clean standalone valuation in available sources, but the scale of the underlying platforms is instructive: WhatsApp has 2 billion+ monthly active users (Meta, 2024), Telegram has 900 million (Telegram, 2024), Signal has approximately 40 million (Signal Foundation, 2023 estimate — exact figures not publicly disclosed), and iMessage is active on roughly 1.3 billion Apple devices (Apple, 2023). The re-fragmentation of messaging across these platforms has recreated the exact interoperability problem Heysan tried to solve in 2007, at a scale orders of magnitude larger.
 
@@ -31,7 +31,7 @@ The global business messaging market was valued at approximately $62 billion in 
 
 ## Recommended MVP
 
-## Feature 1: DMA-Compliant Unified Inbox (Mobile-First)
+### Feature 1: DMA-Compliant Unified Inbox (Mobile-First)
 
 A single inbox aggregating WhatsApp, Telegram, Signal, and iMessage via DMA-mandated interoperability APIs and Matrix bridges, with read/write capability across all four. This is Heysan's original core feature, rebuilt on a legally defensible access model rather than permissive third-party tolerance. Unlike Beeper, the MVP does not use reverse-engineered bridges for any network; it operates only within officially published or DMA-mandated APIs, accepting that iMessage access outside the EU is not available at launch.
 

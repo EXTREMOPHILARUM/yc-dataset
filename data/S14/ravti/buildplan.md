@@ -28,7 +28,7 @@ The Vertical SaaS market has also matured as a proof point: Procore's $10B+ mark
 
 ## Current Market Analysis
 
-## Market Size
+### Market Size
 
 Ravti framed its addressable market at $1 billion in August 2014, representing approximately 32% of commercial real estate operating spend attributable to HVAC. The commercial real estate operations software market has grown substantially since then — the global proptech market was valued at approximately $18.2 billion in 2023 and is projected to reach $86.5 billion by 2032 (Grand View Research, 2023). The specific HVAC software sub-segment size in 2026 is not independently verified in the research report, and this plan will not fabricate a precise figure. What is documented: the regulatory and IRA incentive shifts described above have expanded the buyer universe beyond operational efficiency buyers to include compliance buyers — a structurally different and typically less price-sensitive customer category.
 
@@ -57,7 +57,7 @@ The honest answer to platform commoditization risk is: partial. Yardi and MRI co
 
 ## Core Features
 
-## Photo-First Equipment Inventory (Computer Vision Onboarding)
+### Photo-First Equipment Inventory (Computer Vision Onboarding)
 
 A mobile app that allows a building technician to photograph any HVAC unit and receive an auto-populated equipment record — make, model, estimated age, and condition flag — within seconds, using Google Cloud Vision API or AWS Rekognition. This directly eliminates Ravti's most expensive onboarding step: the manual barcode-tagging workflow that required field technicians and drove up customer acquisition cost. The original Ravti required physical site visits with barcode equipment; the rebuild requires only a smartphone already in every technician's pocket. Success threshold: onboarding a 500,000 square foot portfolio should require no more than one day of field time.
 
@@ -94,7 +94,7 @@ This product does not depend on local density or network effects in the traditio
 
 ## Go-to-Market Strategy
 
-## Target Customer Segment
+### Target Customer Segment
 
 Publicly traded REITs and institutional asset managers managing commercial portfolios of 2–20 million square feet, with a primary focus on retail and industrial property types where HVAC represents 30% of operating budgets and triple-net lease structures create tenant compliance complexity. These buyers are subject to SEC climate disclosure requirements, making HVAC data a compliance obligation rather than a discretionary purchase. Secondary target: mid-market property management firms (500K–2M sq ft) that manage portfolios on behalf of institutional owners who are imposing ESG reporting requirements downstream.
 

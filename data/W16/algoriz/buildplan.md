@@ -38,7 +38,7 @@ The global algorithmic trading market was valued at approximately $2.19 billion 
 
 ## Recommended MVP
 
-## Core Feature 1 — LLM-Powered Strategy Parser
+### Core Feature 1 — LLM-Powered Strategy Parser
 
 A user types a trading rule in plain English ("If BTC drops 5% in 24 hours and RSI is below 30, buy $500 of BTC"); GPT-4o (May 2024) or Claude 3.5 Sonnet parses the instruction, extracts structured logic (asset, trigger condition, indicator parameters, action, position size), and displays it back to the user as a human-readable rule card for confirmation before any execution. This differs from Algoriz's original NLP engine in that accuracy is dramatically higher out of the box, ambiguous inputs trigger a clarifying dialogue rather than a silent misparse, and the system can handle genuinely complex multi-condition strategies without custom training.
 

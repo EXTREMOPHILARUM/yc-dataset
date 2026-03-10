@@ -41,7 +41,7 @@ The rebuild thesis is not to fight Rad AI for health system contracts — it is 
 
 ## Recommended MVP
 
-## Core Feature 1: Voice-to-Report in One Click
+### Core Feature 1: Voice-to-Report in One Click
 
 A radiologist dictates findings in natural speech — abbreviated, informal, non-linear — and the system produces a formatted, proofread report in the radiologist's personal template within seconds, using GPT-4o or Claude 3.5 Sonnet as the structuring engine over Whisper transcription. This differs from the original RadMate AI in one critical way: it is delivered as a browser-based or lightweight desktop tool that requires zero EHR integration to start — a radiologist can paste the output into their existing reporting system. The original required integration to deliver value; this version delivers value on day one, before any integration is built.
 

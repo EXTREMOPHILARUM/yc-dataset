@@ -10,7 +10,7 @@ What has changed is the entire cost structure of the core technical problem: LLM
 
 ## Why Now?
 
-## The single most important change since Palifer's failure is that the core technical capability now costs weeks to build instead of years.
+### The single most important change since Palifer's failure is that the core technical capability now costs weeks to build instead of years.
 
 In 2019, Palifer's deep-learning NLP model was a genuine research-and-engineering achievement. Training a domain-specific model to handle the abbreviations, misspellings, and jargon of industrial maintenance language — "brk pad worn lft frnt," "hyd lk nr pump stn" — required large labeled datasets, significant compute, and months of iteration. That work consumed most of Palifer's runway and produced a patented algorithm that was the company's primary asset. In 2026, GPT-4o (released May 2024) and Claude 3.5 Sonnet (released June 2024) handle this class of unstructured domain text with high accuracy out of the box, requiring no labeled training data to bootstrap. A retrieval-augmented generation (RAG) pipeline built on Pinecone or Weaviate can ingest a customer's entire historical work order archive and make it semantically queryable within days. The technical moat Palifer spent three years building can now be prototyped in a sprint.
 
@@ -48,7 +48,7 @@ This changes the business math fundamentally. Palifer needed to conserve runway 
 
 ## Core Features:
 
-## Work Order Semantic Ingestion Engine
+### Work Order Semantic Ingestion Engine
 
 Connects to a customer's existing CMMS via API (IBM Maximo, SAP PM, Fiix, or UpKeep — all offer documented REST APIs) and ingests the full historical work order archive. A RAG pipeline built on a vector database (Pinecone or Weaviate) indexes every work order as a semantic embedding, making the entire maintenance history queryable by meaning rather than keyword. Unlike Palifer's original custom NLP model, this requires no labeled training data and can be operational within 48 hours of API credentialing. This is the foundational capability; every other feature depends on it.
 

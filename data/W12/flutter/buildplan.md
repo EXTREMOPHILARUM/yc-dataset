@@ -39,7 +39,7 @@ On the demand side, the accessibility technology market has matured into a procu
 
 ## Recommended MVP
 
-## Feature 1: Browser-embedded gesture SDK (JavaScript/WebAssembly)
+### Feature 1: Browser-embedded gesture SDK (JavaScript/WebAssembly)
 
 A single-script-tag JavaScript library that runs MediaPipe Hands inference entirely in-browser, exposes a clean event API (`onGesture`, `onLandmark`), and requires no backend calls or native install. This is the core distribution unlock Flutter never had — any SaaS product can add gesture input in an afternoon. Unlike Flutter's Mac-only native app, this works on any device with a webcam and a modern browser, including Windows, ChromeOS, and Linux.
 

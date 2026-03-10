@@ -24,7 +24,7 @@ The initial vision was to become a comprehensive financial platform for tech emp
 
 ## Founding Story
 
-## Timeline
+### Timeline
 
 - **2019** — Compound founded by Jordan Gonen and Jacob Schein in San Francisco, motivated by seeing friends harmed by startup equity decisions; founders had previously conducted 1,300+ consultations <sup>[[7]](https://techcrunch.com/2022/01/27/compound-aims-to-be-a-one-stop-shop-for-tech-employees-to-manage-their-finances/)</sup>
 

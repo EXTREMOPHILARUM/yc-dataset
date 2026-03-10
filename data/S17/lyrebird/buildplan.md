@@ -43,7 +43,7 @@ Three additional structural shifts make 2026 the right moment for a focused rebu
 
 ## Recommended MVP
 
-## Core Feature 1: Consent-First Voice Enrollment (30-second protocol)
+### Core Feature 1: Consent-First Voice Enrollment (30-second protocol)
 
 A guided enrollment flow requiring the voice owner to read a standardized consent script—recorded, timestamped, and cryptographically hashed using C2PA provenance standards—before a voice model is generated. The system accepts 30 seconds of clean audio and produces a deployable voice model within two minutes. Unlike Lyrebird's 2017 beta, which had no consent verification layer, and unlike ElevenLabs' current flow, which lacks EU AI Act-compliant audit trails, this feature makes compliance a product feature rather than a legal afterthought. This directly addresses the enterprise sales friction that blocked Lyrebird and positions the product for institutional buyers.
 

@@ -40,7 +40,7 @@ The online community platform market has grown substantially since Openland oper
 
 ## Recommended MVP
 
-## Core Feature 1: AI Member Onboarding Agent
+### Core Feature 1: AI Member Onboarding Agent
 
 When a new member joins, an AI agent (powered by the Anthropic Claude API or OpenAI GPT-4o) conducts a brief intake conversation, maps the member's interests to existing channels and threads, and makes three specific introductions to existing members. This directly solves the engagement decay that killed Openland's communities — new members who receive a personalized first experience within minutes of joining retain at dramatically higher rates than those dropped into an empty channel. Unlike Openland's static automated onboarding flows, this is conversational and adaptive.
 

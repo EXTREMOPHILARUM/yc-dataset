@@ -26,7 +26,7 @@ The geospatial data supply constraint that limited CrowdAI's early product has a
 
 ## Current Market Analysis
 
-## Market Size
+### Market Size
 
 The AI training data and annotation market was estimated at approximately $1.2 billion in 2020 (per the research report). By 2024, analyst estimates for the broader data labeling market range from $3–5 billion annually (exact 2026 figures are not yet available; treat these as directional). The no-code AI platform market — where CrowdAI pivoted in 2021 — has since been validated as a standalone category: Roboflow's growth to 250,000+ users and its $40M Series A (2023) confirm venture-scale demand exists. The defense AI segment alone reached $1.8B in explicit FY2024 DoD budget allocation, with multi-year growth trajectories tied to CDAO's mandate.
 
@@ -49,7 +49,7 @@ Roboflow's 250,000-user base demonstrates that computer vision practitioners wil
 
 ## Core Features
 
-## SAM-Accelerated Annotation with Synthetic Data Augmentation
+### SAM-Accelerated Annotation with Synthetic Data Augmentation
 
 The annotation workspace uses SAM 2 (August 2024) to pre-label uploaded imagery — satellite, drone, or facility camera feeds — with one-click refinement for edge cases. Users can supplement sparse real-world datasets with synthetically generated variants using integrated pipelines drawing on NVIDIA Omniverse or Rendered.ai APIs. This directly addresses the founding bottleneck CrowdAI was built to solve, but eliminates the human labor cost that constrained its margins. The original CrowdAI required ongoing human workforce management; this version treats human review as an exception handler, not a core workflow.
 
@@ -83,7 +83,7 @@ For customers with recurring satellite or drone feeds (infrastructure monitoring
 
 ## Go-to-Market Strategy
 
-## Target Customer Segment
+### Target Customer Segment
 
 Primary: U.S. defense and intelligence community program offices running geospatial or facility-monitoring computer vision programs — specifically program managers at commands with existing CDAO relationships or active OTA vehicles, who need to move from prototype to deployed model faster than traditional procurement allows. Secondary (months 6–18): commercial property and casualty insurers running aerial imagery analysis for underwriting and claims — a segment CrowdAI identified but underfunded, and one where Roboflow has no presence.
 

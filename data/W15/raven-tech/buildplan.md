@@ -26,7 +26,7 @@ The vision was correct. The decade is now.
 
 ## Current Market Analysis
 
-## Market Size
+### Market Size
 
 The global voice assistant market was estimated at approximately $1.8B in 2017 (Voicebot.ai). By 2024, the broader conversational AI and intelligent assistant market is estimated at $14–20B globally, depending on scope definition — exact 2026 projections are unavailable, but the directional growth is unambiguous. The agentic AI software segment specifically is nascent and not yet cleanly sized by public research firms; this is a genuine data gap.
 
@@ -52,7 +52,7 @@ Current competitors fall into three categories:
 
 ## Core Features
 
-## MCP-Native Cross-App Task Orchestration
+### MCP-Native Cross-App Task Orchestration
 
 The product's engine: an LLM agent (built on Claude 3.5 Sonnet or GPT-4o, with API costs declining monthly) that uses Model Context Protocol connectors to execute multi-step tasks across WeChat Mini Programs, Alipay, DiDi, Meituan, and Dianping through their documented APIs. A user speaks or types a single intent; the agent plans, executes, and confirms across services without the user switching contexts. Unlike Raven Tech's hand-coded integrations and unlike Rabbit's screen-scraping LAM, MCP connectors are maintainable and scalable. This is the core thesis, finally technically executable.
 
@@ -90,7 +90,7 @@ Launch as a smartphone app for iOS and Android (China App Store distribution + d
 
 ## Go-to-Market Strategy
 
-## Target Customer Segment
+### Target Customer Segment
 
 Primary: Urban Chinese professionals aged 25–40 in Tier 1 cities (Beijing, Shanghai, Shenzhen, Hangzhou), earning RMB 20,000+/month, who are heavy users of at least three of the five core integrated services (WeChat, Alipay, DiDi, Meituan, Dianping) and who already use voice input on WeChat. This segment is tech-comfortable, time-constrained, and already habituated to delegating tasks to digital services — they are one step away from delegating the delegation itself. Estimated addressable population: data unavailable at precise segment definition, but China's urban professional class exceeds 100 million people by broad measures.
 

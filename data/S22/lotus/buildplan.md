@@ -38,7 +38,7 @@ The billing and subscription management software market was estimated at approxi
 
 ## Recommended MVP
 
-## Core Feature 1: AI-Native Metric Templates
+### Core Feature 1: AI-Native Metric Templates
 
 Pre-built metering schemas for token consumption, compute-seconds, model tier switching, and context window billing — deployable in under 30 minutes via SDK. This matters because AI companies currently hand-roll metering logic in application code, creating billing debt that compounds as pricing models evolve. The original Lotus required operators to define all metrics from scratch; this version ships with the ten most common AI billing patterns out of the box.
 

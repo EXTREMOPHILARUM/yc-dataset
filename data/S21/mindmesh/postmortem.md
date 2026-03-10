@@ -151,7 +151,7 @@ The absence of any follow-on press coverage, Hacker News discussion, or communit
 
 ## Post-Mortem
 
-## Key Lessons
+### Key Lessons
 
 - **Research validates problems, not solutions.** Mindmesh conducted 700+ pre-launch interviews — an unusually rigorous effort — and confirmed that context-switching was a real pain for knowledge workers. But the interviews validated the problem category, not the specific solution. A product that addresses a broad, diffuse pain without a specific, demonstrable "aha moment" will struggle to drive the behavior change required for adoption and retention. The lesson is not to do less research, but to use research to identify the most acute, specific version of a problem — the one where users say "I need this fixed today," not "yes, that's annoying."
 

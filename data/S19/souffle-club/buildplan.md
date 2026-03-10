@@ -42,7 +42,7 @@ Market data on the specific "verified professional reputation" segment is not pu
 
 ## Recommended MVP
 
-## Feature 1: Structured Peer Recommendation Engine
+### Feature 1: Structured Peer Recommendation Engine
 
 Members request recommendations by selecting a competency domain (e.g., "distributed training infrastructure," "RL from human feedback") and nominating 3–5 peers to respond. Recommenders answer 4 specific situational questions rather than writing free-form praise. This differs from TrustedFor's model — which relied on open community responses — by directing requests to named individuals with domain-specific prompts, producing higher-signal input with less moderation overhead.
 

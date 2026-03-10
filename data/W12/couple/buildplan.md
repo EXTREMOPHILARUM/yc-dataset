@@ -37,7 +37,7 @@ Finally, Between — the Korean couples app that competed directly with Couple �
 
 ## Recommended MVP
 
-## Core Feature 1 — Private Shared Timeline with AI Memory Summaries
+### Core Feature 1 — Private Shared Timeline with AI Memory Summaries
 
 A persistent, scrollable record of everything two people share — photos, messages, voice notes, milestones — identical in concept to Couple's original timeline but augmented by GPT-4o (May 2024) to generate monthly "relationship recaps": a one-paragraph summary of shared moments, inside jokes, and milestones. This differs from the original because the AI layer creates a reason to return to the timeline actively, not just passively scroll. General messaging apps cannot replicate this without exposing private conversation data to AI in ways their broader user bases would reject.
 

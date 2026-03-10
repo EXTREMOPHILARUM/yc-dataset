@@ -10,7 +10,7 @@ The rebuild thesis centers on Brevy Care, the company's final and most structura
 
 ## Why Now?
 
-## The single most important change: LLMs can now reliably parse and reason over state-specific Medicaid regulatory text.
+### The single most important change: LLMs can now reliably parse and reason over state-specific Medicaid regulatory text.
 
 In 2023, when Brevy Care surfaced, GPT-4 (March 2023) had just become available via API, but its ability to handle long, jurisdiction-specific legal documents — Medicaid waiver manuals routinely exceed 200 pages — was inconsistent and required expensive prompt engineering to produce reliable outputs. By 2025, models including GPT-4o (May 2024) and Claude 3.5 Sonnet (June 2024) demonstrated materially improved long-context reasoning, structured output generation, and form-filling accuracy on regulatory documents. This is not a marginal improvement: it is the difference between a product that requires a human caseworker to review every output and one that can produce a defensible eligibility assessment with flagged exceptions for human review.
 
@@ -22,7 +22,7 @@ Distribution channels unavailable to the original Brevy team now exist at scale.
 
 ## Current Market Analysis
 
-## Market Size
+### Market Size
 
 The addressable market for Medicaid caregiver navigation is large but requires careful scoping. Medicaid total expenditure exceeded $800 billion in 2023 (CMS data), with HCBS representing the fastest-growing segment — over $120 billion in 2022, up from $84 billion in 2019 (KFF Health Policy data). The relevant addressable market for a navigation product is not total Medicaid spend but the population of eligible-but-unenrolled family caregivers: AARP estimates that fewer than 15% of eligible caregivers successfully access HCBS reimbursement programs, suggesting a large latent demand pool. Specific TAM figures for caregiver navigation software do not appear in public databases; this is a gap the rebuild team should address through primary research with AAA directors.
 
@@ -47,7 +47,7 @@ The honest answer is that Google, Apple, and Amazon are not structurally positio
 
 ## Core Features
 
-## State-Specific Eligibility Assessment Engine
+### State-Specific Eligibility Assessment Engine
 
 A conversational intake flow (10–15 questions) that ingests caregiver and care-recipient information and produces a plain-language eligibility assessment for the relevant HCBS waiver programs in the user's state. Powered by a retrieval-augmented generation (RAG) pipeline over state waiver manuals, updated quarterly. Unlike Brevy's original undifferentiated chatbot, this is a narrow, high-stakes workflow where accuracy is the product — not a general-purpose assistant. Success requires 90%+ accuracy on eligibility determinations validated against caseworker outcomes; this threshold must be established in closed beta before public launch.
 
@@ -78,7 +78,7 @@ This product does not depend on network effects or local density. Value is deliv
 
 ## Go-to-Market Strategy
 
-## Target Customer Segment
+### Target Customer Segment
 
 Primary: Adult children (ages 40–60) who have recently taken on caregiving responsibility for an aging parent and are navigating Medicaid for the first time. This segment is digitally literate, time-constrained, and motivated by a specific acute event (a parent's health crisis or care transition) — the same trigger that drives TurboTax adoption. They are not professional caregivers and have no existing relationship with Medicaid caseworkers.
 

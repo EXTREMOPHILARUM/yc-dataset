@@ -10,7 +10,7 @@ The rebuild thesis is not that Elpha was wrong about the problem; it was wrong a
 
 ## Why Now?
 
-## The single most important change: LLM-powered moderation has eliminated the cost structure that made Elpha's quality model unscalable.
+### The single most important change: LLM-powered moderation has eliminated the cost structure that made Elpha's quality model unscalable.
 
 Elpha's hand-review of every membership application was the right product decision and the wrong operational model. At 100,000 members, it required either a dedicated moderation team or a quiet abandonment of the standard that made the community worth joining. In 2026, GPT-4o (released May 2024) and Claude 3.5 Sonnet (released June 2024) can perform structured membership screening — evaluating LinkedIn profile consistency, professional role verification, and application language — at near-zero marginal cost per application. This is not a speculative capability: both models demonstrate reliable classification performance on structured intake forms. The linear cost that made Elpha's quality model financially unsustainable has been effectively eliminated.
 
@@ -44,7 +44,7 @@ Elpha's hand-review of every membership application was the right product decisi
 
 ## Recommended MVP
 
-## Core Feature 1: AI-Assisted Gated Membership
+### Core Feature 1: AI-Assisted Gated Membership
 
 Every membership application is screened by a GPT-4o-powered intake pipeline that verifies professional role consistency, flags mismatches between stated identity and LinkedIn profile signals, and routes edge cases to a human reviewer queue. This replicates Elpha's quality standard at near-zero marginal cost per application. Unlike the original, the system scales to 100,000+ applications without a linear headcount increase. Human review is reserved for flagged cases only, estimated at 5–10% of applications based on comparable moderation benchmarks (specific false-positive rates for this use case are not available in published research).
 

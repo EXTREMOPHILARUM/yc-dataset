@@ -10,7 +10,7 @@ The rebuild thesis is not to compete with Wellfound on job listings — it is to
 
 ## Why Now?
 
-## The single most important change: B2B SaaS infrastructure now makes the white-label model Job Alchemist was groping toward in 2009 trivially deployable — and there are hundreds of paying community operators to sell it to.
+### The single most important change: B2B SaaS infrastructure now makes the white-label model Job Alchemist was groping toward in 2009 trivially deployable — and there are hundreds of paying community operators to sell it to.
 
 In 2009, deploying a white-label job board for Reddit required weeks of custom engineering on a three-person team. In 2026, the same deployment can be configured in days using modern API-first infrastructure. Stripe Connect (launched 2012) handles multi-party bounty disbursements without custom payment plumbing. Webflow and headless CMS tooling allow white-label UI customization without engineering sprints. This directly removes the operational bottleneck that made Job Alchemist's B2B pivot too expensive to scale.
 
@@ -45,7 +45,7 @@ Primary distribution channel available now that did not exist in 2008: the Slack
 
 ## Core Features:
 
-## Embeddable Job Board Widget (Community-Native)
+### Embeddable Job Board Widget (Community-Native)
 
 A JavaScript embed and Slack/Discord bot that community operators install in one step, surfacing curated startup jobs directly inside their community without redirecting members to an external site. This matters because job board engagement collapses when users must leave their primary context. The original Startuply required candidates to visit a standalone site; this feature eliminates that friction entirely and makes the community operator the distribution channel rather than a competitor.
 

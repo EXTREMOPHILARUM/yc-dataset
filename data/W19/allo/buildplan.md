@@ -20,7 +20,7 @@ WhatsApp Communities (launched 2022) has additionally normalized small-group fav
 
 ## Current Market Analysis
 
-## Market Size
+### Market Size
 
 There are approximately 35 million families with children under 18 in the United States (U.S. Census Bureau; exact 2025 figure not independently verified here). The informal childcare coordination market — babysitting, carpools, playdates — has no clean TAM figure in the public record. Adjacent proxies: the U.S. childcare market was valued at approximately $60 billion in 2023 (IBISWorld; exact figure not independently verified), though Allo's non-monetary model captures a different slice of this demand. No market size estimates were published by the original company.
 
@@ -44,7 +44,7 @@ There are approximately 35 million families with children under 18 in the United
 
 ## Core Features
 
-## AI-Powered Request Matching
+### AI-Powered Request Matching
 
 Parents post requests in natural language ("need someone to grab my kid from school Tuesday, I can return the favor Friday"). A GPT-4o (May 2024) or equivalent LLM agent parses the request, checks it against neighbors' posted availability and past offer history, and surfaces a ranked match list within 60 seconds. This directly eliminates the manual back-and-forth that made Allo's Karma system feel burdensome. The original Allo required users to browse and respond manually; this version resolves matches proactively.
 
@@ -70,7 +70,7 @@ No paid transaction layer. No advertising. No open neighborhood feed (Nextdoor's
 
 ## Go-to-Market Strategy
 
-## Target Customer Segment
+### Target Customer Segment
 
 Parents of elementary-school-age children (K–5) at private or charter schools in dense urban neighborhoods — specifically schools with 300–600 enrolled families, active parent associations, and no existing digital coordination tool beyond a Facebook Group. This segment is narrow by design: school-anchored density solves Allo's cold-start problem by substituting an existing institutional graph for the organic neighborhood graph that Allo could never build fast enough.
 

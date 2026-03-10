@@ -43,7 +43,7 @@ Distribution channels now available: Roku Channel Store (80M+ active accounts as
 
 ## Core Features:
 
-## FAST Channel on Roku + Amazon Fire TV
+### FAST Channel on Roku + Amazon Fire TV
 
 Launch a branded, curated Black content channel distributed through Roku Channel Store and Amazon Fire TV Channels using their existing ad revenue share infrastructure. This generates revenue from day one without subscriber acquisition costs and builds audience before any paid tier is introduced. Unlike the original BlackOakTV, which launched paid-first and needed a deep library to justify the price, this model inverts the sequence: build audience, then monetize. The original company had no equivalent distribution wedge; this is the structural fix.
 
@@ -76,7 +76,7 @@ Implement AWS Personalize (generally available, usage-based pricing) to deliver 
 
 ## Go-to-Market Strategy
 
-## Target Customer Segment:
+### Target Customer Segment:
 
 Black millennial and Gen Z content creators (ages 22–40) with existing audiences of 10K–500K followers on YouTube or TikTok who lack a dedicated long-form distribution home. This is deliberately narrower than BlackOakTV's original dual focus on viewers and creators simultaneously. Winning creators first solves the content supply problem; their existing audiences solve the initial viewer acquisition problem. The research report identifies this chicken-and-egg trap as the original company's core structural failure—starting with creators who bring their own audiences breaks it.
 

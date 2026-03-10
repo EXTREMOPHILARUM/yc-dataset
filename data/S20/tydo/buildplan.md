@@ -10,7 +10,7 @@ The rebuild thesis is this: the measurement crisis that iOS 14.5 created is now 
 
 ## Why Now?
 
-## The single most important change since Tydo's failure is that LLMs have made the pre-built dashboard a legacy product category.
+### The single most important change since Tydo's failure is that LLMs have made the pre-built dashboard a legacy product category.
 
 Tydo's core vulnerability was its dashboard UI: a static, pre-configured interface that any platform with better distribution could replicate by shipping a few native analytics features. That vulnerability no longer needs to exist. GPT-4 (March 2023) and Claude 3 Opus (March 2024) demonstrated that a non-technical DTC operator can ask "What was my contribution margin by SKU last week compared to the week of my last Klaviyo campaign?" against a structured data model and receive a precise, cited answer in plain English. The dashboard is no longer the product — the data model and the reasoning layer on top of it are. Platforms can copy a chart; they cannot easily replicate a proprietary cross-brand data model trained on thousands of DTC operators.
 
@@ -41,7 +41,7 @@ Tydo's core vulnerability was its dashboard UI: a static, pre-configured interfa
 
 ## Recommended MVP
 
-## Core features:
+### Core features:
 
 **1. First-party data warehouse, not a dashboard.** Connect Shopify, Meta Ads, Klaviyo, TikTok Ads, and Amazon Seller Central via Fivetran pre-built connectors into a customer-owned Motherduck or BigQuery instance. The customer owns their data; the product is the connection, transformation (via dbt), and reasoning layer on top. This differs from Tydo fundamentally: Tydo owned the dashboard and the data lived in Tydo's infrastructure. The rebuild gives the customer data portability, which is both a trust signal and a switching-cost mechanism — migrating a configured warehouse is harder than canceling a SaaS subscription.
 

@@ -18,7 +18,7 @@ No public account of the founding story—no founder interview, no launch blog p
 
 ## Founding Story
 
-## Timeline
+### Timeline
 
 - **November 2022** — Shub Viragi begins his role as founder of Parabolic; company incorporated as Parabolic Intel, Corp. in San Francisco.<sup>[[6]](https://www.crunchbase.com/person/shub-viragi)</sup><sup>[[7]](https://www.crunchbase.com/organization/parabolic-55d5)</sup>
 

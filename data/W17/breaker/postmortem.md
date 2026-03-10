@@ -18,7 +18,7 @@ Breaker entered Y Combinator's Winter 2017 batch, receiving early funding and th
 
 ## Founding Story
 
-## Timeline
+### Timeline
 
 - **2016** — Erik Berlin and Leah Culver found Breaker in San Francisco, building the MVP as a weekend side project without leaving their day jobs.<sup>[[6]](https://www.templarbit.com/blog/2018/07/16/the-engineering-hangout-with-erik-berlin-turning-a-side-project-into-a-social-podcasting-company/)</sup>
 

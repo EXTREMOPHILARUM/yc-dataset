@@ -41,7 +41,7 @@ The 269 surviving Chrome Web Store reviews (4.1/5) represent a free voice-of-cus
 
 ## Core Features:
 
-## Signal-Triggered Blueprint Engine
+### Signal-Triggered Blueprint Engine
 
 Monitors a user-defined prospect list for real-time signals — job changes, funding rounds, LinkedIn post activity — via Proxycurl and Trigify APIs, then automatically queues a Blueprint-matched message draft within minutes of the signal firing. This is the feature CoffeeAI's original Blueprints concept required but lacked the data infrastructure to deliver. Unlike competitors who surface signals separately from message generation, this collapses the research-to-draft workflow into a single action.
 

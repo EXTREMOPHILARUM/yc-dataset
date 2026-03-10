@@ -40,7 +40,7 @@ The cloud managed services market SolidStage entered in 2012 was large but conte
 
 ## Recommended MVP
 
-## Core Features:
+### Core Features:
 
 **1. Natural-Language Infrastructure Provisioning.** A developer describes their stack in plain English ("I need a Node.js API, a Postgres database, and a Redis cache on AWS, auto-scaling up to 10 instances") and the product generates, validates, and applies a Terraform or AWS CDK template. This differs from the original SolidStage pitch because it does not require building a proprietary configuration layer — it orchestrates mature IaC tooling via LLM, reducing build time and increasing reliability. It differs from Heroku and Render because it is not opinionated about runtime or cloud provider.
 

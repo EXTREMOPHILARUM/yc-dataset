@@ -18,7 +18,7 @@ Sands later described YC as "a crazy three month period when you're basically ju
 
 ## Founding Story
 
-## Timeline
+### Timeline
 
 - **2016** — Alex Sands and Ajay Patel begin working on Plasticity as a senior-year side project at Penn's M&T program <sup>[[9]](https://tracxn.com/d/companies/plasticity/__6PDhsM6I3ADrcacSWDcLrXLCumePg6ti7AE1YdmDW-4)</sup>
 - **2016** — GoogolPlex hackathon project at PennApps attracts 25,000 users and coverage in Time, Forbes, and TechCrunch; reveals NLP robustness as a core unsolved problem <sup>[[1]](https://www.34st.com/article/2017/04/penn-10-alex-sands)</sup>

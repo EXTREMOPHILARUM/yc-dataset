@@ -38,7 +38,7 @@ On market size: the global MLaaS market was estimated at $21.1B in 2024 and is p
 
 ## Recommended MVP
 
-## Core Feature 1: Private VPC Deployment with One-Command Setup
+### Core Feature 1: Private VPC Deployment with One-Command Setup
 
 A Helm chart and Terraform module that deploys the embedding and fine-tuning stack entirely within the customer's AWS, Azure, or GCP environment — no data leaves the customer's perimeter. This matters because it is the hard compliance requirement that OpenAI and Cohere cannot satisfy for regulated customers. Unlike Basilica's hosted API, this is an on-premise-first product; the hosted option is secondary.
 

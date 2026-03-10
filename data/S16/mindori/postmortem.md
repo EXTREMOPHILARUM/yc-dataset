@@ -16,7 +16,7 @@ The team remained small throughout its life — approximately three people — w
 
 ## Founding Story
 
-## Timeline
+### Timeline
 
 - **2015** — Mindori founded in Palo Alto, California by Christopher Lengerich and Awni Hannun. <sup>[[9]](https://pitchbook.com/profiles/company/163867-60)</sup>
 - **June 2016** — Mindori enters Y Combinator's Summer 2016 batch. <sup>[[10]](https://www.seed-db.com/companies/view?companyid=4766019549659136)</sup>

@@ -10,7 +10,7 @@ The rebuild thesis is this: LLMs have eliminated the manual pricebook onboarding
 
 ## Why Now?
 
-## The single most important change: LLM-powered catalog ingestion makes the distributor onboarding problem disappear.
+### The single most important change: LLM-powered catalog ingestion makes the distributor onboarding problem disappear.
 
 Onsite Pro's B2B2C model required loading each distributor's pricebook — SKUs, pricing tiers, AHRI certification matchups, availability — before a single contractor could use the tool. In 2022–2023, this was a manual, labor-intensive process that constrained how many distributors could be onboarded and made the unit economics of pursuing long-tail regional distributors unworkable. GPT-4 (March 2023) and its successors can now extract structured product data from unstructured distributor PDFs, Excel exports, and legacy catalog formats with high accuracy. What previously took days of data entry now takes minutes of automated parsing. This is not a marginal improvement — it removes the primary operational bottleneck that made Onsite Pro's model slow to scale.
 
@@ -48,7 +48,7 @@ Onsite Pro's B2B2C model required loading each distributor's pricebook — SKUs,
 
 ## Core features:
 
-## LLM-Powered Pricebook Onboarding
+### LLM-Powered Pricebook Onboarding
 
 A distributor uploads their existing catalog — PDF, Excel, or EDI export — and the system uses GPT-4o (available April 2024) to extract SKUs, pricing tiers, AHRI certification numbers, and system matchup rules into a structured database. This eliminates the manual data entry that made Onsite Pro's onboarding slow and expensive. The original Onsite Pro required human effort to load each pricebook; the rebuild makes onboarding a self-serve, sub-hour process. Target: a distributor can go from upload to live pricebook in under 60 minutes without engineering support.
 

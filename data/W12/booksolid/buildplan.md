@@ -44,7 +44,7 @@ Adjacent demand signal: FareHarbor's reported acquisition price of ~$250M for a 
 
 ## Recommended MVP
 
-## Core Feature 1: Operator Booking & Inventory Management Dashboard
+### Core Feature 1: Operator Booking & Inventory Management Dashboard
 
 A lightweight SaaS dashboard allowing tour operators to manage availability, capacity, pricing tiers, and booking confirmations in one interface. This matters because FareHarbor's dominance proves operators will pay for this functionality, but FareHarbor charges operators while providing no discovery benefit. The 2026 version integrates directly with Google Things to Do API (launched 2021) to push structured inventory data into organic search results automatically—something BookSolid could not have done and FareHarbor does not prioritize.
 

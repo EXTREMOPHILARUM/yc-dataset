@@ -18,7 +18,7 @@ That thesis was technically coherent and grounded in real engineering pain. But 
 
 ## Founding Story
 
-## Timeline
+### Timeline
 
 - **2022** — CodeParrot AI founded by Royal Jain (CEO) and Vedant Agarwala (CTO); legal entity incorporated as Good Engineering, Inc. <sup>[[0]](https://www.ycombinator.com/companies/codeparrot-ai)</sup>
 
