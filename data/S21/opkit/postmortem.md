@@ -2,26 +2,16 @@
 
 ## Overview
 
-1:"$Sreact.fragment"
-2:I[39756,["/_next/static/chunks/ff1a16fafef87110.js?dpl=dpl_GwuwmMc2oZNJkz1tEEADs8shECJt","/_next/static/chunks/803a574de9eda7ae.js?dpl=dpl_GwuwmMc2oZNJkz1tEEADs8shECJt"],"default"]
-3:I[8821,["/_next/static/chunks/0d46db6cf73968fd.js?dpl=dpl_GwuwmMc2oZNJkz1tEEADs8shECJt","/_next/static/chunks/5f4dcbc1da431ca9.js?dpl=dpl_GwuwmMc2oZNJkz1tEEADs8shECJt","/_next/static/chunks/33f7e5a25c4fcd0b.js?dpl=dpl_GwuwmMc2oZNJkz1tEEADs8shECJt"],"default"]
-4:I[37457,["/_next/static/chunks/ff1a16fafef87110.js?dpl=dpl_GwuwmMc2oZNJkz1tEEADs8shECJt","/_next/static/chunks/803a574de9eda7ae.js?dpl=dpl_GwuwmMc2oZNJkz1tEEADs8shECJt"],"default"]
-5:I[22016,["/_next/static/chunks/0d46db6cf73968fd.js?dpl=dpl_GwuwmMc2oZNJkz1tEEADs8shECJt","/_next/static/chunks/39ad7020066b4868.js?dpl=dpl_GwuwmMc2oZNJkz1tEEADs8shECJt","/_next/static/chunks/33f7e5a25c4fcd0b.js?dpl=dpl_GwuwmMc2oZNJkz1tEEADs8shECJt"],""]
-6:I[2355,["/_next/static/chunks/0d46db6cf73968fd.js?dpl=dpl_GwuwmMc2oZNJkz1tEEADs8shECJt"],"Analytics"]
-11:I[68027,["/_next/static/chunks/ff1a16fafef87110.js?dpl=dpl_GwuwmMc2oZNJkz1tEEADs8shECJt","/_next/static/chunks/803a574de9eda7ae.js?dpl=dpl_GwuwmMc2oZNJkz1tEEADs8shECJt"],"default"]
-12:I[97367,["/_next/static/chunks/ff1a16fafef87110.js?dpl=dpl_GwuwmMc2oZNJkz1tEEADs8shECJt","/_next/static/chunks/803a574de9eda7ae.js?dpl=dpl_GwuwmMc2oZNJkz1tEEADs8shECJt"],"OutletBoundary"]
-13:"$Sreact.suspense"
-15:I[93539,["/_next/static/chunks/0d46db6cf73968fd.js?dpl=dpl_GwuwmMc2oZNJkz1tEEADs8shECJt","/_next/static/chunks/39ad7020066b4868.js?dpl=dpl_GwuwmMc2oZNJkz1tEEADs8shECJt","/_next/static/chunks/33f7e5a25c4fcd0b.js?dpl=dpl_GwuwmMc2oZNJkz1tEEADs8shECJt"],"ThemeToggle"]
-23:I[97367,["/_next/static/chunks/ff1a16fafef87110.js?dpl=dpl_GwuwmMc2oZNJkz1tEEADs8shECJt","/_next/static/chunks/803a574de9eda7ae.js?dpl=dpl_GwuwmMc2oZNJkz1tEEADs8shECJt"],"ViewportBoundary"]
-25:I[97367,["/_next/static/chunks/ff1a16fafef87110.js?dpl=dpl_GwuwmMc2oZNJkz1tEEADs8shECJt","/_next/static/chunks/803a574de9eda7ae.js?dpl=dpl_GwuwmMc2oZNJkz1tEEADs8shECJt"],"MetadataBoundary"]
-:HL["/_next/static/chunks/8be82ca8498e7d4a.css?dpl=dpl_GwuwmMc2oZNJkz1tEEADs8shECJt","style"]
-:HL["/_next/static/media/1b99372b3eaef0c8-s.p.758e15a8.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
-:HL["/_next/static/media/23b7a97ae3b5c134-s.p.2902b61f.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
-:HL["/_next/static/media/68d403cf9f2c68c5-s.p.f9f15f61.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
-:HL["/_next/static/media/99e609270109b47d-s.p.64b9304e.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
-:HL["/_next/static/media/a7e15459c1805da0-s.p.ec654d65.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
-:HL["/_next/static/media/ea3421846039b7f3-s.p.093205c5.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
-:HL["/_next/static/media/effe91970fc4db64-s.p.19510058.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+Opkit was a New York-based healthcare technology startup, founded in 2021 and backed by Y Combinator's Summer 2021 batch, that built AI-powered phone call automation for the US healthcare industry.The company began as an insurance verification platform for telehealth companies, then pivoted in August 2024 to a broader generative AI call center for medical practices.
+
+Despite strong technical execution, credible investor backing, and at least one beta customer who called the product existentially necessary, Opkit never raised a Series A.It was acqui-hired by AI digital workers startup 11x in late 2024 for its voice AI technology and engineering talent, with the Opkit platform subsequently wound down.
+
+The core failure was structural: the initial insurance verification product was too narrow to build a venture-scale business independently, and the pivot to a broader AI call center—while technically validated—arrived too late and with too little runway to attract growth-stage capital on its own terms.
+
+<report-gallery>
+<media-image src="https://www.enterprisetimes.co.uk/wp-content/uploads/2024/08/SherwoodCallawayOpkit-e1723026367432.jpeg" alt="SherwoodCallawayOpkit - Enterprise Times" caption="Opkit CEO Sherwood Callaway, photographed around the time of the company's August 2024 pivot to a generative AI call center — a bold last bet that arrived too late to secure a Series A."></media-image>
+<media-image src="https://www.agetech.news/content/images/size/w300/2023/04/opengraph.png" alt="Opkit Raises Over $1M in Funding" caption="Opkit's branding at the time of its March 2023 public launch and $1M+ seed round — the high-water mark of the company's independent life before the pivot and eventual acqui-hire by 11x."></media-image>
+</report-gallery>
 
 ## Founding Story
 

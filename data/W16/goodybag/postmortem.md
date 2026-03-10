@@ -2,26 +2,16 @@
 
 ## Overview
 
-1:"$Sreact.fragment"
-2:I[39756,["/_next/static/chunks/ff1a16fafef87110.js?dpl=dpl_GwuwmMc2oZNJkz1tEEADs8shECJt","/_next/static/chunks/803a574de9eda7ae.js?dpl=dpl_GwuwmMc2oZNJkz1tEEADs8shECJt"],"default"]
-3:I[8821,["/_next/static/chunks/0d46db6cf73968fd.js?dpl=dpl_GwuwmMc2oZNJkz1tEEADs8shECJt","/_next/static/chunks/5f4dcbc1da431ca9.js?dpl=dpl_GwuwmMc2oZNJkz1tEEADs8shECJt","/_next/static/chunks/33f7e5a25c4fcd0b.js?dpl=dpl_GwuwmMc2oZNJkz1tEEADs8shECJt"],"default"]
-4:I[37457,["/_next/static/chunks/ff1a16fafef87110.js?dpl=dpl_GwuwmMc2oZNJkz1tEEADs8shECJt","/_next/static/chunks/803a574de9eda7ae.js?dpl=dpl_GwuwmMc2oZNJkz1tEEADs8shECJt"],"default"]
-5:I[22016,["/_next/static/chunks/0d46db6cf73968fd.js?dpl=dpl_GwuwmMc2oZNJkz1tEEADs8shECJt","/_next/static/chunks/39ad7020066b4868.js?dpl=dpl_GwuwmMc2oZNJkz1tEEADs8shECJt","/_next/static/chunks/33f7e5a25c4fcd0b.js?dpl=dpl_GwuwmMc2oZNJkz1tEEADs8shECJt"],""]
-6:I[2355,["/_next/static/chunks/0d46db6cf73968fd.js?dpl=dpl_GwuwmMc2oZNJkz1tEEADs8shECJt"],"Analytics"]
-11:I[68027,["/_next/static/chunks/ff1a16fafef87110.js?dpl=dpl_GwuwmMc2oZNJkz1tEEADs8shECJt","/_next/static/chunks/803a574de9eda7ae.js?dpl=dpl_GwuwmMc2oZNJkz1tEEADs8shECJt"],"default"]
-12:I[97367,["/_next/static/chunks/ff1a16fafef87110.js?dpl=dpl_GwuwmMc2oZNJkz1tEEADs8shECJt","/_next/static/chunks/803a574de9eda7ae.js?dpl=dpl_GwuwmMc2oZNJkz1tEEADs8shECJt"],"OutletBoundary"]
-13:"$Sreact.suspense"
-15:I[93539,["/_next/static/chunks/0d46db6cf73968fd.js?dpl=dpl_GwuwmMc2oZNJkz1tEEADs8shECJt","/_next/static/chunks/39ad7020066b4868.js?dpl=dpl_GwuwmMc2oZNJkz1tEEADs8shECJt","/_next/static/chunks/33f7e5a25c4fcd0b.js?dpl=dpl_GwuwmMc2oZNJkz1tEEADs8shECJt"],"ThemeToggle"]
-23:I[97367,["/_next/static/chunks/ff1a16fafef87110.js?dpl=dpl_GwuwmMc2oZNJkz1tEEADs8shECJt","/_next/static/chunks/803a574de9eda7ae.js?dpl=dpl_GwuwmMc2oZNJkz1tEEADs8shECJt"],"ViewportBoundary"]
-25:I[97367,["/_next/static/chunks/ff1a16fafef87110.js?dpl=dpl_GwuwmMc2oZNJkz1tEEADs8shECJt","/_next/static/chunks/803a574de9eda7ae.js?dpl=dpl_GwuwmMc2oZNJkz1tEEADs8shECJt"],"MetadataBoundary"]
-:HL["/_next/static/chunks/8be82ca8498e7d4a.css?dpl=dpl_GwuwmMc2oZNJkz1tEEADs8shECJt","style"]
-:HL["/_next/static/media/1b99372b3eaef0c8-s.p.758e15a8.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
-:HL["/_next/static/media/23b7a97ae3b5c134-s.p.2902b61f.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
-:HL["/_next/static/media/68d403cf9f2c68c5-s.p.f9f15f61.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
-:HL["/_next/static/media/99e609270109b47d-s.p.64b9304e.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
-:HL["/_next/static/media/a7e15459c1805da0-s.p.ec654d65.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
-:HL["/_next/static/media/ea3421846039b7f3-s.p.093205c5.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
-:HL["/_next/static/media/effe91970fc4db64-s.p.19510058.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+Goodybag was an Austin-based B2B enterprise catering marketplace that let corporate office managers browse, compare, and book restaurant catering for workplace events — without Goodybag ever touching the food.Founded in 2012, the company spent its first two years as a local loyalty program before pivoting entirely to corporate catering, a move that produced genuine traction: $5.5 million in annualized order volume, 93% customer retention, and a profitable home market by the time it pitched at Y Combinator's Winter 2016 Demo Day.
+
+The company was acquired by Bite Squad later in 2016 as part of a 17-company consolidation sweep.Goodybag's story is less a conventional failure than a capital-constrained exit — the unit economics worked, the product retained customers, and the founders landed senior roles at the acquirer.
+
+What Goodybag could not do was raise enough capital to expand nationally before better-funded competitors made independent survival untenable.
+
+<report-gallery>
+<media-image src="https://bookface-images.s3.amazonaws.com/avatars/d5668884d67e60f66f6ddb565dab793ae2ba0083.jpg" alt="Goodybag: An online tool for companies to order food from restaurants ..." caption="Goodybag's company avatar on Y Combinator's Bookface platform — the startup's public face during its Winter 2016 batch, when Jay Panchal pitched $5.5M in annualized order volume and 93% customer retention to a room full of investors."></media-image>
+<media-image src="https://bookface-images.s3.amazonaws.com/avatars/69aea97c2b4b4196cc1b37ffd40cb70854bfdff0.jpg" alt="Goodybag: An online tool for companies to order food from restaurants ..." caption="A second profile image tied to Goodybag's YC presence — the Austin-born catering marketplace that proved its unit economics worked, only to find that proving it and scaling it nationally were two very different problems."></media-image>
+</report-gallery>
 
 ## Founding Story
 

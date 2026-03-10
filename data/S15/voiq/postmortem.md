@@ -2,26 +2,19 @@
 
 ## Overview
 
-1:"$Sreact.fragment"
-2:I[39756,["/_next/static/chunks/ff1a16fafef87110.js?dpl=dpl_GwuwmMc2oZNJkz1tEEADs8shECJt","/_next/static/chunks/803a574de9eda7ae.js?dpl=dpl_GwuwmMc2oZNJkz1tEEADs8shECJt"],"default"]
-3:I[8821,["/_next/static/chunks/0d46db6cf73968fd.js?dpl=dpl_GwuwmMc2oZNJkz1tEEADs8shECJt","/_next/static/chunks/5f4dcbc1da431ca9.js?dpl=dpl_GwuwmMc2oZNJkz1tEEADs8shECJt","/_next/static/chunks/33f7e5a25c4fcd0b.js?dpl=dpl_GwuwmMc2oZNJkz1tEEADs8shECJt"],"default"]
-4:I[37457,["/_next/static/chunks/ff1a16fafef87110.js?dpl=dpl_GwuwmMc2oZNJkz1tEEADs8shECJt","/_next/static/chunks/803a574de9eda7ae.js?dpl=dpl_GwuwmMc2oZNJkz1tEEADs8shECJt"],"default"]
-5:I[22016,["/_next/static/chunks/0d46db6cf73968fd.js?dpl=dpl_GwuwmMc2oZNJkz1tEEADs8shECJt","/_next/static/chunks/39ad7020066b4868.js?dpl=dpl_GwuwmMc2oZNJkz1tEEADs8shECJt","/_next/static/chunks/33f7e5a25c4fcd0b.js?dpl=dpl_GwuwmMc2oZNJkz1tEEADs8shECJt"],""]
-6:I[2355,["/_next/static/chunks/0d46db6cf73968fd.js?dpl=dpl_GwuwmMc2oZNJkz1tEEADs8shECJt"],"Analytics"]
-11:I[68027,["/_next/static/chunks/ff1a16fafef87110.js?dpl=dpl_GwuwmMc2oZNJkz1tEEADs8shECJt","/_next/static/chunks/803a574de9eda7ae.js?dpl=dpl_GwuwmMc2oZNJkz1tEEADs8shECJt"],"default"]
-12:I[97367,["/_next/static/chunks/ff1a16fafef87110.js?dpl=dpl_GwuwmMc2oZNJkz1tEEADs8shECJt","/_next/static/chunks/803a574de9eda7ae.js?dpl=dpl_GwuwmMc2oZNJkz1tEEADs8shECJt"],"OutletBoundary"]
-13:"$Sreact.suspense"
-15:I[93539,["/_next/static/chunks/0d46db6cf73968fd.js?dpl=dpl_GwuwmMc2oZNJkz1tEEADs8shECJt","/_next/static/chunks/39ad7020066b4868.js?dpl=dpl_GwuwmMc2oZNJkz1tEEADs8shECJt","/_next/static/chunks/33f7e5a25c4fcd0b.js?dpl=dpl_GwuwmMc2oZNJkz1tEEADs8shECJt"],"ThemeToggle"]
-23:I[97367,["/_next/static/chunks/ff1a16fafef87110.js?dpl=dpl_GwuwmMc2oZNJkz1tEEADs8shECJt","/_next/static/chunks/803a574de9eda7ae.js?dpl=dpl_GwuwmMc2oZNJkz1tEEADs8shECJt"],"ViewportBoundary"]
-25:I[97367,["/_next/static/chunks/ff1a16fafef87110.js?dpl=dpl_GwuwmMc2oZNJkz1tEEADs8shECJt","/_next/static/chunks/803a574de9eda7ae.js?dpl=dpl_GwuwmMc2oZNJkz1tEEADs8shECJt"],"MetadataBoundary"]
-:HL["/_next/static/chunks/8be82ca8498e7d4a.css?dpl=dpl_GwuwmMc2oZNJkz1tEEADs8shECJt","style"]
-:HL["/_next/static/media/1b99372b3eaef0c8-s.p.758e15a8.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
-:HL["/_next/static/media/23b7a97ae3b5c134-s.p.2902b61f.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
-:HL["/_next/static/media/68d403cf9f2c68c5-s.p.f9f15f61.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
-:HL["/_next/static/media/99e609270109b47d-s.p.64b9304e.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
-:HL["/_next/static/media/a7e15459c1805da0-s.p.ec654d65.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
-:HL["/_next/static/media/ea3421846039b7f3-s.p.093205c5.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
-:HL["/_next/static/media/effe91970fc4db64-s.p.19510058.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+Ricardo Garcia-Amaya and Jessica Taggart founded VOIQ in 2014 in San Francisco. Their backgrounds were unusual for a company that would eventually stake its identity on cutting-edge AI voice technology.
+
+Garcia-Amaya's path to tech entrepreneurship ran through public policy. Before VOIQ, he worked as an Associate at the NYC Mayor's Office under Michael Bloomberg, where he helped develop the technology blueprint for New York City. He later served as campaign CTO for Angel Taveras, the first Latino mayor of Providence, Rhode Island. He holds an MBA from NYU Stern School of Business and an undergraduate degree in Politics from NYU. <sup><a href="https://www.founderlodge.com/round/ILUMA-raises-1500000-Pre-Seed-2023-09-26-Ricardo-Garcia-Amaya-MTU1NDg">[1]</a></sup> <sup><a href="https://wefunder.com/voiq">[2]</a></sup> Born in New York City but raised on a farm on the outskirts of Bogotá, Colombia, Garcia-Amaya brought a cross-cultural perspective to sales communication — a theme that would shape VOIQ's early product design. <sup><a href="https://contxto.com/en/startups/voiq-lands-us2-million-from-silicon-valley-investors-for-voice-ai-solution/">[3]</a></sup>
+
+Taggart joined as COO. A third co-founder, Dana Spiegel, is listed by Tracxn as CTO, though his tenure, contributions, and departure from the company are entirely undocumented in public records. <sup><a href="https://tracxn.com/d/companies/voiq/__tKo1OmHbWDk2GxbHCcmo1rVql59e_E9-OKWYRymuO1U">[4]</a></sup> This gap matters: the technical leadership of a company building conversational AI is a critical variable, and its absence from the public record is a meaningful signal.
+
+The founding insight was straightforward. Sales and marketing teams were spending enormous resources on outbound phone calls — cold outreach, lead qualification, appointment setting — that were repetitive, expensive, and inconsistent in quality. Garcia-Amaya's experience in political campaigns, where phone banking is a core organizing tool, likely sharpened his view of this problem. The initial solution was not AI at all: it was a labor marketplace that made human call agents available on demand, matched to leads using what the company called "psychoanalytic" trait analysis. <sup><a href="https://www.ycombinator.com/blog/voiq-yc-s15-provides-companies-with-call-center-services-on-demand/">[5]</a></sup>
+
+VOIQ moved through two accelerators in rapid succession. It graduated from TechStars in 2014, then entered Y Combinator's Summer 2015 batch. <sup><a href="https://www.foundertherapy.co/clients/voiq">[6]</a></sup> <sup><a href="https://www.ycombinator.com/companies/voiq">[7]</a></sup> The double-accelerator path demonstrated strong pitch ability and network-building — but also a reliance on institutional validation at a stage when most companies are focused on customer development.
+
+The original vision was to be the infrastructure layer for business phone calls — first with humans, then with AI. The pivot from human agents to AI voicebots was not a sudden strategic shift but a gradual migration that took roughly four years, from 2015 to 2019.
+
+---
 
 ## Founding Story
 

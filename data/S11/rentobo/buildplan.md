@@ -6,7 +6,7 @@ Rentobo was a San Francisco-based rental management platform founded in 2011 and
 
 The rebuild thesis is this: the market Rentobo was right about but too underfunded to win is still structurally intact — 17 million individual landlords, mostly on spreadsheets — but the cost structure has inverted. Commodity APIs for e-signature, ACH, open banking, and LLM-powered document analysis now make it possible to build in months what took Rentobo years, and to monetize through AI-automated tenant underwriting at margins that didn't exist in 2012. **Build the AI-native rental operating system for the 1–10 unit landlord: free to list, free to manage, and monetized through an instant AI underwriting report that replaces the $40 credit bureau pull with a $15 open-banking screen that closes in 90 seconds.**
 
----33:T91d,
+---32:T91d,
 
 ## Why Now?
 

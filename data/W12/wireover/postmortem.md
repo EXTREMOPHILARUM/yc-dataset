@@ -2,27 +2,6 @@
 
 ## Overview
 
-1:"$Sreact.fragment"
-2:I[39756,["/_next/static/chunks/ff1a16fafef87110.js?dpl=dpl_GwuwmMc2oZNJkz1tEEADs8shECJt","/_next/static/chunks/803a574de9eda7ae.js?dpl=dpl_GwuwmMc2oZNJkz1tEEADs8shECJt"],"default"]
-3:I[8821,["/_next/static/chunks/0d46db6cf73968fd.js?dpl=dpl_GwuwmMc2oZNJkz1tEEADs8shECJt","/_next/static/chunks/5f4dcbc1da431ca9.js?dpl=dpl_GwuwmMc2oZNJkz1tEEADs8shECJt","/_next/static/chunks/33f7e5a25c4fcd0b.js?dpl=dpl_GwuwmMc2oZNJkz1tEEADs8shECJt"],"default"]
-4:I[37457,["/_next/static/chunks/ff1a16fafef87110.js?dpl=dpl_GwuwmMc2oZNJkz1tEEADs8shECJt","/_next/static/chunks/803a574de9eda7ae.js?dpl=dpl_GwuwmMc2oZNJkz1tEEADs8shECJt"],"default"]
-5:I[22016,["/_next/static/chunks/0d46db6cf73968fd.js?dpl=dpl_GwuwmMc2oZNJkz1tEEADs8shECJt","/_next/static/chunks/39ad7020066b4868.js?dpl=dpl_GwuwmMc2oZNJkz1tEEADs8shECJt","/_next/static/chunks/33f7e5a25c4fcd0b.js?dpl=dpl_GwuwmMc2oZNJkz1tEEADs8shECJt"],""]
-6:I[2355,["/_next/static/chunks/0d46db6cf73968fd.js?dpl=dpl_GwuwmMc2oZNJkz1tEEADs8shECJt"],"Analytics"]
-11:I[68027,["/_next/static/chunks/ff1a16fafef87110.js?dpl=dpl_GwuwmMc2oZNJkz1tEEADs8shECJt","/_next/static/chunks/803a574de9eda7ae.js?dpl=dpl_GwuwmMc2oZNJkz1tEEADs8shECJt"],"default"]
-12:I[97367,["/_next/static/chunks/ff1a16fafef87110.js?dpl=dpl_GwuwmMc2oZNJkz1tEEADs8shECJt","/_next/static/chunks/803a574de9eda7ae.js?dpl=dpl_GwuwmMc2oZNJkz1tEEADs8shECJt"],"OutletBoundary"]
-13:"$Sreact.suspense"
-15:I[93539,["/_next/static/chunks/0d46db6cf73968fd.js?dpl=dpl_GwuwmMc2oZNJkz1tEEADs8shECJt","/_next/static/chunks/39ad7020066b4868.js?dpl=dpl_GwuwmMc2oZNJkz1tEEADs8shECJt","/_next/static/chunks/33f7e5a25c4fcd0b.js?dpl=dpl_GwuwmMc2oZNJkz1tEEADs8shECJt"],"ThemeToggle"]
-23:I[97367,["/_next/static/chunks/ff1a16fafef87110.js?dpl=dpl_GwuwmMc2oZNJkz1tEEADs8shECJt","/_next/static/chunks/803a574de9eda7ae.js?dpl=dpl_GwuwmMc2oZNJkz1tEEADs8shECJt"],"ViewportBoundary"]
-25:I[97367,["/_next/static/chunks/ff1a16fafef87110.js?dpl=dpl_GwuwmMc2oZNJkz1tEEADs8shECJt","/_next/static/chunks/803a574de9eda7ae.js?dpl=dpl_GwuwmMc2oZNJkz1tEEADs8shECJt"],"MetadataBoundary"]
-:HL["/_next/static/chunks/8be82ca8498e7d4a.css?dpl=dpl_GwuwmMc2oZNJkz1tEEADs8shECJt","style"]
-:HL["/_next/static/media/1b99372b3eaef0c8-s.p.758e15a8.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
-:HL["/_next/static/media/23b7a97ae3b5c134-s.p.2902b61f.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
-:HL["/_next/static/media/68d403cf9f2c68c5-s.p.f9f15f61.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
-:HL["/_next/static/media/99e609270109b47d-s.p.64b9304e.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
-:HL["/_next/static/media/a7e15459c1805da0-s.p.ec654d65.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
-:HL["/_next/static/media/ea3421846039b7f3-s.p.093205c5.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
-:HL["/_next/static/media/effe91970fc4db64-s.p.19510058.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
-
 ## Founding Story
 
 Trenton Ashburn is an unconventional founder for a file-transfer startup. He graduated from Brown University in 2000 with a Bachelor of Science spanning Computer Science, Finance, and Neuroscience — a combination that reflects intellectual range more than domain specialization. <sup><a href="https://clay.earth/profile/trenton-ashburn">[3]</a></sup> After Brown, he spent several years building computational models for quantitative hedge funds, then stepped away from finance entirely to pursue semi-professional cycling before returning to technology. <sup><a href="https://techcrunch.com/2014/01/17/wireover/">[4]</a></sup> Neither chapter of his career gave him direct exposure to enterprise file transfer, media workflows, or security infrastructure — the domains where WireOver would eventually compete.
@@ -199,8 +178,8 @@ The combination of a freemium model with low conversion incentives, a two-sided 
 8. [Tracxn – WireOver company profile](https://tracxn.com/d/companies/wireover/__Uf2AsIrH_SbA5GjQlAD_N5DyFXy1dyLjqNqWEP1p7iA)
 9. [Apollo.io – Trenton Ashburn career profile](https://www.apollo.io/people/Trenton/Ashburn/54a4a27774686938ac724157)
 10. [Malavida – WireOver 110 Beta software review](https://www.malavida.com/en/soft/wireover/)
-11. [FindMySoft – WireOver review (April 2014)](https://wireover.findmysoft.com/)33:T549,By 2026, WireOver is a browser-native file transfer platform for regulated industries—healthcare, legal, and biotech teams that need to move large files securely without installing software or managing infrastructure. The product lives in the browser, works instantly via a shareable link, and encrypts everything client-side before it leaves your machine. For compliance teams, every transfer generates an audit log; for end users, it's frictionless—no accounts, no apps, just send and receive.
+11. [FindMySoft – WireOver review (April 2014)](https://wireover.findmysoft.com/)32:T549,By 2026, WireOver is a browser-native file transfer platform for regulated industries—healthcare, legal, and biotech teams that need to move large files securely without installing software or managing infrastructure. The product lives in the browser, works instantly via a shareable link, and encrypts everything client-side before it leaves your machine. For compliance teams, every transfer generates an audit log; for end users, it's frictionless—no accounts, no apps, just send and receive.
 
 The shift that makes this work now is WebRTC. In 2014, peer-to-peer transfer in the browser was a fantasy. Today it's native across Chrome, Firefox, Safari, and Edge. That means you can build a zero-install, zero-trust file transfer that actually competes with Aspera and enterprise MFT platforms—but without the $50K implementation cost or the IT overhead. The compliance layer (audit logs, SSO, BAA) is what enterprise buyers actually want; the P2P speed is what makes it possible.
 
-Go-to-market is bottom-up through the recipient viral loop—every file transfer creates a new user who can immediately send—paired with direct outbound to IT and compliance buyers in healthcare and legal. You win by being the only product that's simultaneously frictionless for end users and auditable for regulators. Pricing starts free (5 GB transfers, no logs34:T94a,
+Go-to-market is bottom-up through the recipient viral loop—every file transfer creates a new user who can immediately send—paired with direct outbound to IT and compliance buyers in healthcare and legal. You win by being the only product that's simultaneously frictionless for end users and auditable for regulators. Pricing starts free (5 GB transfers, no logs33:T94a,

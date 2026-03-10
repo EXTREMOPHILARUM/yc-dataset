@@ -2,26 +2,25 @@
 
 ## Overview
 
-1:"$Sreact.fragment"
-2:I[39756,["/_next/static/chunks/ff1a16fafef87110.js?dpl=dpl_GwuwmMc2oZNJkz1tEEADs8shECJt","/_next/static/chunks/803a574de9eda7ae.js?dpl=dpl_GwuwmMc2oZNJkz1tEEADs8shECJt"],"default"]
-3:I[8821,["/_next/static/chunks/0d46db6cf73968fd.js?dpl=dpl_GwuwmMc2oZNJkz1tEEADs8shECJt","/_next/static/chunks/5f4dcbc1da431ca9.js?dpl=dpl_GwuwmMc2oZNJkz1tEEADs8shECJt","/_next/static/chunks/33f7e5a25c4fcd0b.js?dpl=dpl_GwuwmMc2oZNJkz1tEEADs8shECJt"],"default"]
-4:I[37457,["/_next/static/chunks/ff1a16fafef87110.js?dpl=dpl_GwuwmMc2oZNJkz1tEEADs8shECJt","/_next/static/chunks/803a574de9eda7ae.js?dpl=dpl_GwuwmMc2oZNJkz1tEEADs8shECJt"],"default"]
-5:I[22016,["/_next/static/chunks/0d46db6cf73968fd.js?dpl=dpl_GwuwmMc2oZNJkz1tEEADs8shECJt","/_next/static/chunks/39ad7020066b4868.js?dpl=dpl_GwuwmMc2oZNJkz1tEEADs8shECJt","/_next/static/chunks/33f7e5a25c4fcd0b.js?dpl=dpl_GwuwmMc2oZNJkz1tEEADs8shECJt"],""]
-6:I[2355,["/_next/static/chunks/0d46db6cf73968fd.js?dpl=dpl_GwuwmMc2oZNJkz1tEEADs8shECJt"],"Analytics"]
-11:I[68027,["/_next/static/chunks/ff1a16fafef87110.js?dpl=dpl_GwuwmMc2oZNJkz1tEEADs8shECJt","/_next/static/chunks/803a574de9eda7ae.js?dpl=dpl_GwuwmMc2oZNJkz1tEEADs8shECJt"],"default"]
-12:I[97367,["/_next/static/chunks/ff1a16fafef87110.js?dpl=dpl_GwuwmMc2oZNJkz1tEEADs8shECJt","/_next/static/chunks/803a574de9eda7ae.js?dpl=dpl_GwuwmMc2oZNJkz1tEEADs8shECJt"],"OutletBoundary"]
-13:"$Sreact.suspense"
-15:I[93539,["/_next/static/chunks/0d46db6cf73968fd.js?dpl=dpl_GwuwmMc2oZNJkz1tEEADs8shECJt","/_next/static/chunks/39ad7020066b4868.js?dpl=dpl_GwuwmMc2oZNJkz1tEEADs8shECJt","/_next/static/chunks/33f7e5a25c4fcd0b.js?dpl=dpl_GwuwmMc2oZNJkz1tEEADs8shECJt"],"ThemeToggle"]
-23:I[97367,["/_next/static/chunks/ff1a16fafef87110.js?dpl=dpl_GwuwmMc2oZNJkz1tEEADs8shECJt","/_next/static/chunks/803a574de9eda7ae.js?dpl=dpl_GwuwmMc2oZNJkz1tEEADs8shECJt"],"ViewportBoundary"]
-25:I[97367,["/_next/static/chunks/ff1a16fafef87110.js?dpl=dpl_GwuwmMc2oZNJkz1tEEADs8shECJt","/_next/static/chunks/803a574de9eda7ae.js?dpl=dpl_GwuwmMc2oZNJkz1tEEADs8shECJt"],"MetadataBoundary"]
-:HL["/_next/static/chunks/8be82ca8498e7d4a.css?dpl=dpl_GwuwmMc2oZNJkz1tEEADs8shECJt","style"]
-:HL["/_next/static/media/1b99372b3eaef0c8-s.p.758e15a8.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
-:HL["/_next/static/media/23b7a97ae3b5c134-s.p.2902b61f.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
-:HL["/_next/static/media/68d403cf9f2c68c5-s.p.f9f15f61.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
-:HL["/_next/static/media/99e609270109b47d-s.p.64b9304e.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
-:HL["/_next/static/media/a7e15459c1805da0-s.p.ec654d65.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
-:HL["/_next/static/media/ea3421846039b7f3-s.p.093205c5.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
-:HL["/_next/static/media/effe91970fc4db64-s.p.19510058.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+Jordan Gonen and Jacob Schein founded Compound in 2019 after experiencing firsthand the financial complexity that comes with working in the tech industry. Both were software engineers who personally held startup equity, cryptocurrency, and other illiquid assets—and both had watched friends make costly mistakes with their equity compensation. <sup><a href="https://techcrunch.com/2022/01/27/compound-aims-to-be-a-one-stop-shop-for-tech-employees-to-manage-their-finances/">[3]</a></sup>
+
+Gonen's background was rooted in the YC ecosystem. He had previously worked at Scaphold (YC W17) and Pluot (YC W16), as well as Inside, RealtyShares, and Cultivation Capital—giving him direct exposure to the startup equity lifecycle before founding Compound. <sup><a href="https://ventureunlocked.substack.com/p/ryan-hoover-of-weekend-fund-and-jordan">[4]</a></sup> He attended Washington University in St. Louis. <sup><a href="https://www.linkedin.com/in/jordangonen/">[5]</a></sup> Schein's background is less documented in public sources, but both founders shared the same core credential: they were insiders who had lived the problem they were trying to solve.
+
+The company did not begin with a product. It began with an essay. Gonen and Schein wrote a piece about equity compensation that circulated widely in the tech community, generating inbound demand from employees who were confused about their options, vesting schedules, and tax implications. Rather than immediately building software, the founders converted that attention into direct conversations.
+
+"The way we started the company was by trying to solve our own problems," Gonen explained. "We wrote an essay about equity compensation that garnered a lot of attention in the technology community, and just started helping people [who reached out to us]." <sup><a href="https://techcrunch.com/2022/01/27/compound-aims-to-be-a-one-stop-shop-for-tech-employees-to-manage-their-finances/">[6]</a></sup>
+
+Before building any formal product, Gonen and Schein personally conducted more than 1,300 consultations with tech employees, founders, and investors. <sup><a href="https://techcrunch.com/2022/01/27/compound-aims-to-be-a-one-stop-shop-for-tech-employees-to-manage-their-finances/">[7]</a></sup> This was an unusually rigorous approach to customer discovery—and it gave the founders a detailed map of the problem space before they wrote a line of production code.
+
+The founding motivation was visceral. As Gonen wrote in the original Hacker News launch post, the company started because the founders had seen friends "get screwed over by startup equity," particularly around the high-stakes decision of whether to exercise stock options. <sup><a href="https://news.ycombinator.com/item?id=20615760">[8]</a></sup>
+
+<media-image src="https://techcrunch.com/wp-content/uploads/2022/01/compound-founders.jpg" alt="Jordan Gonen and Jacob Schein, co-founders of Compound (YC S19)" caption="Jordan Gonen (CEO) and Jacob Schein (CTO), co-founders of Compound, photographed for TechCrunch's January 2022 coverage of the company's $25M Series B and public launch."></media-image>
+
+Compound joined Y Combinator's Summer 2019 batch, which provided early capital, validation, and—critically—direct access to the exact customer segment the founders were targeting. <sup><a href="https://www.ycombinator.com/companies/compound">[9]</a></sup> The YC network of founders, engineers, and investors was a living directory of people with exactly the equity complexity Compound was built to address.
+
+The initial vision was to become a comprehensive financial platform for tech employees—what Gonen would later describe as "the Apple of wealth management." The product evolved from equity education and consultation toward a full-service wealth management platform, but the core customer thesis never changed: tech employees with complex, illiquid assets needed a single place to understand and manage their financial lives.
+
+---
 
 ## Founding Story
 

@@ -2,6 +2,17 @@
 
 ## Overview
 
+Enflux was a Chicago-based smart apparel startup founded in 2012 by Doug Hoang and Elijah Schuldt. The company built motion capture clothing — a shirt and pants embedded with ten IMU sensors — that transmitted real-time 3D body movement data to a smartphone app, rendering a live avatar and providing form coaching. After participating in Y Combinator's Winter 2016 batch and launching a Kickstarter campaign that raised over $86,000 in its first two weeks, Enflux demonstrated genuine consumer interest in a product category that had no affordable equivalent.
+
+The company ultimately failed because it was funded at software-company levels while building hardware of extraordinary complexity. With confirmed external funding of roughly $370,000 — against a competitor, Athos, that had raised $51 million — Enflux could never achieve the manufacturing scale needed to make its unit economics work. Successive pivots toward simpler products eroded the technical differentiation that justified the company's existence.
+
+By late 2020, Doug Hoang had joined FightCamp in a supply chain role, marking the effective end of Enflux. The YC profile lists the company as inactive with a team of two. No acquisition was announced, and no formal shutdown statement was ever made public.
+
+<report-gallery>
+<media-image src="https://www.fitnessgizmos.com/wp-content/uploads/2016/03/08/enflux.jpg" alt="Enflux smart workout clothing with embedded motion sensors" caption="The Enflux shirt and pants system — ten embedded IMU sensors across two garments, the engineering achievement that also became the company's undoing. Photographed around the March 2016 Kickstarter launch."></media-image>
+<media-image src="https://images.crunchbase.com/image/upload/c_thumb,h_256,w_256,f_auto,g_face,z_0.7,q_auto:eco,dpr_1/v1483633833/sz1xmn62cb4yzgqqv7ir.png?ik-sanitizeSvg=true" alt="Pamela Lee, Co-Founder and VP of Soft Goods at Enflux" caption="Pamela Lee, Co-Founder and VP of Soft Goods — her textile expertise was central to integrating sensors into washable athletic fabric, one of the product's most technically demanding challenges."></media-image>
+</report-gallery>
+
 ## Founding Story
 
 Doug Hoang and Elijah Schuldt met as college roommates and stayed in contact as their careers diverged into complementary technical domains. Hoang built a career in precision mechanical engineering: he earned a mechanical engineering degree, worked as a manufacturing engineer at Harley-Davidson, and then served as Chief Engineer at Power Solutions International (PSI), where he designed V8 and V6 engines that generated $500 million in revenue and contributed to PSI's IPO.<sup><a href="https://www.getenflux.com/about-us/">[1]</a></sup> Schuldt's background was in electronics and embedded systems — the pairing that would eventually define Enflux's technical identity.

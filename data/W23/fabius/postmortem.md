@@ -10,26 +10,17 @@ With a two-person team, no publicly documented follow-on funding, and no meaning
 
 ## Founding Story
 
-1:"$Sreact.fragment"
-2:I[39756,["/_next/static/chunks/ff1a16fafef87110.js?dpl=dpl_GwuwmMc2oZNJkz1tEEADs8shECJt","/_next/static/chunks/803a574de9eda7ae.js?dpl=dpl_GwuwmMc2oZNJkz1tEEADs8shECJt"],"default"]
-3:I[8821,["/_next/static/chunks/0d46db6cf73968fd.js?dpl=dpl_GwuwmMc2oZNJkz1tEEADs8shECJt","/_next/static/chunks/5f4dcbc1da431ca9.js?dpl=dpl_GwuwmMc2oZNJkz1tEEADs8shECJt","/_next/static/chunks/33f7e5a25c4fcd0b.js?dpl=dpl_GwuwmMc2oZNJkz1tEEADs8shECJt"],"default"]
-4:I[37457,["/_next/static/chunks/ff1a16fafef87110.js?dpl=dpl_GwuwmMc2oZNJkz1tEEADs8shECJt","/_next/static/chunks/803a574de9eda7ae.js?dpl=dpl_GwuwmMc2oZNJkz1tEEADs8shECJt"],"default"]
-5:I[22016,["/_next/static/chunks/0d46db6cf73968fd.js?dpl=dpl_GwuwmMc2oZNJkz1tEEADs8shECJt","/_next/static/chunks/39ad7020066b4868.js?dpl=dpl_GwuwmMc2oZNJkz1tEEADs8shECJt","/_next/static/chunks/33f7e5a25c4fcd0b.js?dpl=dpl_GwuwmMc2oZNJkz1tEEADs8shECJt"],""]
-6:I[2355,["/_next/static/chunks/0d46db6cf73968fd.js?dpl=dpl_GwuwmMc2oZNJkz1tEEADs8shECJt"],"Analytics"]
-11:I[68027,["/_next/static/chunks/ff1a16fafef87110.js?dpl=dpl_GwuwmMc2oZNJkz1tEEADs8shECJt","/_next/static/chunks/803a574de9eda7ae.js?dpl=dpl_GwuwmMc2oZNJkz1tEEADs8shECJt"],"default"]
-12:I[97367,["/_next/static/chunks/ff1a16fafef87110.js?dpl=dpl_GwuwmMc2oZNJkz1tEEADs8shECJt","/_next/static/chunks/803a574de9eda7ae.js?dpl=dpl_GwuwmMc2oZNJkz1tEEADs8shECJt"],"OutletBoundary"]
-13:"$Sreact.suspense"
-15:I[93539,["/_next/static/chunks/0d46db6cf73968fd.js?dpl=dpl_GwuwmMc2oZNJkz1tEEADs8shECJt","/_next/static/chunks/39ad7020066b4868.js?dpl=dpl_GwuwmMc2oZNJkz1tEEADs8shECJt","/_next/static/chunks/33f7e5a25c4fcd0b.js?dpl=dpl_GwuwmMc2oZNJkz1tEEADs8shECJt"],"ThemeToggle"]
-23:I[97367,["/_next/static/chunks/ff1a16fafef87110.js?dpl=dpl_GwuwmMc2oZNJkz1tEEADs8shECJt","/_next/static/chunks/803a574de9eda7ae.js?dpl=dpl_GwuwmMc2oZNJkz1tEEADs8shECJt"],"ViewportBoundary"]
-25:I[97367,["/_next/static/chunks/ff1a16fafef87110.js?dpl=dpl_GwuwmMc2oZNJkz1tEEADs8shECJt","/_next/static/chunks/803a574de9eda7ae.js?dpl=dpl_GwuwmMc2oZNJkz1tEEADs8shECJt"],"MetadataBoundary"]
-:HL["/_next/static/chunks/8be82ca8498e7d4a.css?dpl=dpl_GwuwmMc2oZNJkz1tEEADs8shECJt","style"]
-:HL["/_next/static/media/1b99372b3eaef0c8-s.p.758e15a8.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
-:HL["/_next/static/media/23b7a97ae3b5c134-s.p.2902b61f.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
-:HL["/_next/static/media/68d403cf9f2c68c5-s.p.f9f15f61.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
-:HL["/_next/static/media/99e609270109b47d-s.p.64b9304e.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
-:HL["/_next/static/media/a7e15459c1805da0-s.p.ec654d65.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
-:HL["/_next/static/media/ea3421846039b7f3-s.p.093205c5.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
-:HL["/_next/static/media/effe91970fc4db64-s.p.19510058.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+Neil Madsen and Andy Day both came out of LiveRamp, the data connectivity company that helps brands and publishers connect customer data across platforms. Their shared background was not incidental to what Fabius became. Madsen served as Head of Technical Services at LiveRamp, overseeing all customer-facing technical teams — Sales Engineering, Implementation, Technical Account Management, and Support.<sup><a href="https://www.ycombinator.com/companies/fabius">[1]</a></sup> Day led the Pixel Serving Engineering team, building the data pipeline infrastructure that powered LiveRamp's core product.<sup><a href="https://www.ycombinator.com/companies/fabius">[2]</a></sup> Together, they had direct exposure to both the go-to-market motion of a complex B2B sale and the engineering required to process large volumes of behavioral data.
+
+Fabius Technologies, Inc. was incorporated on September 14, 2020.<sup><a href="https://www.crunchbase.com/organization/fabius-66e4">[3]</a></sup> The company was headquartered in San Francisco.<sup><a href="https://www.crunchbase.com/organization/fabius-66e4">[4]</a></sup> Madsen holds a BS in Computer Science from The Ohio State University, graduating in 2015.<sup><a href="https://www.crunchbase.com/person/neil-madsen-d773">[5]</a></sup> Day attended Northwestern University, graduating in 2011.<sup><a href="https://www.linkedin.com/in/andrewkday/">[6]</a></sup>
+
+The founding insight appears to have come directly from Madsen's time running customer-facing teams. Sales organizations invest heavily in defining methodologies — frameworks like MEDDPICC that prescribe exactly what information a rep should gather and what steps they should complete before a deal advances. In practice, reps routinely skip steps, misqualify prospects, and report deal health optimistically. Madsen had watched this dynamic play out from the inside. The problem was not that companies lacked a process; it was that they had no reliable way to verify whether the process was being followed.
+
+What is less clear is what the company was doing between its founding in September 2020 and its entry into YC's W23 batch in January 2023 — a gap of more than two years. Crunchbase notes a possible connection to Alchemist Accelerator, which focuses on enterprise startups, though this is unconfirmed.<sup><a href="https://www.crunchbase.com/organization/fabius-66e4">[7]</a></sup> If accurate, it would suggest an earlier product iteration predating the LLM-powered version that launched publicly in early 2023. No milestones, pivots, or funding events from this period have been documented publicly.
+
+The YC experience itself produced at least one memorable moment. Andy Day later recounted on LinkedIn that a YC partner ejected them from office hours for debating whether to add "AI" to the company name: *"I cannot believe you're wasting my office hours on this. Come back when you have something real."* Day described the episode as a turning point that redirected the team toward customers and revenue.<sup><a href="https://www.linkedin.com/in/andrewkday/">[8]</a></sup> The anecdote is revealing — it suggests a team that, at least briefly, was susceptible to branding distractions in a moment when execution was everything.
+
+---
 
 ## Timeline
 

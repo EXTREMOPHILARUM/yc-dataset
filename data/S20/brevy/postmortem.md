@@ -2,26 +2,16 @@
 
 ## Overview
 
-1:"$Sreact.fragment"
-2:I[39756,["/_next/static/chunks/ff1a16fafef87110.js?dpl=dpl_GwuwmMc2oZNJkz1tEEADs8shECJt","/_next/static/chunks/803a574de9eda7ae.js?dpl=dpl_GwuwmMc2oZNJkz1tEEADs8shECJt"],"default"]
-3:I[8821,["/_next/static/chunks/0d46db6cf73968fd.js?dpl=dpl_GwuwmMc2oZNJkz1tEEADs8shECJt","/_next/static/chunks/5f4dcbc1da431ca9.js?dpl=dpl_GwuwmMc2oZNJkz1tEEADs8shECJt","/_next/static/chunks/33f7e5a25c4fcd0b.js?dpl=dpl_GwuwmMc2oZNJkz1tEEADs8shECJt"],"default"]
-4:I[37457,["/_next/static/chunks/ff1a16fafef87110.js?dpl=dpl_GwuwmMc2oZNJkz1tEEADs8shECJt","/_next/static/chunks/803a574de9eda7ae.js?dpl=dpl_GwuwmMc2oZNJkz1tEEADs8shECJt"],"default"]
-5:I[22016,["/_next/static/chunks/0d46db6cf73968fd.js?dpl=dpl_GwuwmMc2oZNJkz1tEEADs8shECJt","/_next/static/chunks/39ad7020066b4868.js?dpl=dpl_GwuwmMc2oZNJkz1tEEADs8shECJt","/_next/static/chunks/33f7e5a25c4fcd0b.js?dpl=dpl_GwuwmMc2oZNJkz1tEEADs8shECJt"],""]
-6:I[2355,["/_next/static/chunks/0d46db6cf73968fd.js?dpl=dpl_GwuwmMc2oZNJkz1tEEADs8shECJt"],"Analytics"]
-11:I[68027,["/_next/static/chunks/ff1a16fafef87110.js?dpl=dpl_GwuwmMc2oZNJkz1tEEADs8shECJt","/_next/static/chunks/803a574de9eda7ae.js?dpl=dpl_GwuwmMc2oZNJkz1tEEADs8shECJt"],"default"]
-12:I[97367,["/_next/static/chunks/ff1a16fafef87110.js?dpl=dpl_GwuwmMc2oZNJkz1tEEADs8shECJt","/_next/static/chunks/803a574de9eda7ae.js?dpl=dpl_GwuwmMc2oZNJkz1tEEADs8shECJt"],"OutletBoundary"]
-13:"$Sreact.suspense"
-15:I[93539,["/_next/static/chunks/0d46db6cf73968fd.js?dpl=dpl_GwuwmMc2oZNJkz1tEEADs8shECJt","/_next/static/chunks/39ad7020066b4868.js?dpl=dpl_GwuwmMc2oZNJkz1tEEADs8shECJt","/_next/static/chunks/33f7e5a25c4fcd0b.js?dpl=dpl_GwuwmMc2oZNJkz1tEEADs8shECJt"],"ThemeToggle"]
-23:I[97367,["/_next/static/chunks/ff1a16fafef87110.js?dpl=dpl_GwuwmMc2oZNJkz1tEEADs8shECJt","/_next/static/chunks/803a574de9eda7ae.js?dpl=dpl_GwuwmMc2oZNJkz1tEEADs8shECJt"],"ViewportBoundary"]
-25:I[97367,["/_next/static/chunks/ff1a16fafef87110.js?dpl=dpl_GwuwmMc2oZNJkz1tEEADs8shECJt","/_next/static/chunks/803a574de9eda7ae.js?dpl=dpl_GwuwmMc2oZNJkz1tEEADs8shECJt"],"MetadataBoundary"]
-:HL["/_next/static/chunks/8be82ca8498e7d4a.css?dpl=dpl_GwuwmMc2oZNJkz1tEEADs8shECJt","style"]
-:HL["/_next/static/media/1b99372b3eaef0c8-s.p.758e15a8.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
-:HL["/_next/static/media/23b7a97ae3b5c134-s.p.2902b61f.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
-:HL["/_next/static/media/68d403cf9f2c68c5-s.p.f9f15f61.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
-:HL["/_next/static/media/99e609270109b47d-s.p.64b9304e.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
-:HL["/_next/static/media/a7e15459c1805da0-s.p.ec654d65.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
-:HL["/_next/static/media/ea3421846039b7f3-s.p.093205c5.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
-:HL["/_next/static/media/effe91970fc4db64-s.p.19510058.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+Brevy was a San Francisco-based B2B software startup founded in July 2020 by Mohamed Abedelmalik, Conder Shou, and Anika Zaman. <sup><a href="https://www.ycombinator.com/companies/brevy">[1]</a></sup> The company entered Y Combinator's Summer 2020 batch — conducted entirely remotely due to COVID-19 — and raised a seed round backed by YC, Madrona Venture, Fuel Capital, and Harvard University, with co-founder Conder Shou later claiming $2.6M in total funding. <sup><a href="https://www.condershou.com/tech">[2]</a></sup> Over four years, Brevy built at least four distinct products: a bug-reporting Chrome extension, B2B customer onboarding software, content marketing services, an AI customer support chatbot for eCommerce, and a late-stage "Brevy Care" Medicaid caregiving tool. <sup><a href="https://www.condershou.com/tech">[3]</a></sup>
+
+Brevy failed primarily because it never found a market willing to pay at scale before runway constraints forced the next pivot. Each product iteration arrived either too late, in a category too crowded, or too disconnected from the team's prior customer relationships to compound into durable traction.
+
+By April 2024, co-founder and COO Anika Zaman had departed to start a new company. <sup><a href="https://contactout.com/Anika-Zaman-30536513">[4]</a></sup> Conder Shou joined ClassDojo, and Mohamed Abedelmalik became Director of AI at Coursedog — a quiet dissolution with no formal shutdown announcement, no acquisition, and no public post-mortem. <sup><a href="https://www.linkedin.com/in/condershou/">[5]</a></sup> <sup><a href="https://www.zoominfo.com/p/Mohamed-Abedelmalik/2693015008">[6]</a></sup>
+
+<report-gallery>
+<media-image src="https://assets-global.website-files.com/62fd1dc0f2e9ac1d23396c28/64f08a0d10e8762ce7b4fa2e_clipboard%201.png" alt="Brevy product screenshot" caption="A screenshot from Brevy's website during its AI customer support era — the last publicly visible product identity before the company went dark."></media-image>
+<media-image src="https://www.brevy.com/_next/image?url=%2Fimages%2Fhero_image.jpg&w=384&q=75&dpl=dpl_F3PZjKD58Ag8JPEsGzM7A2cS3qoz" alt="Brevy Care hero image" caption="The Brevy Care landing page hero — a Medicaid caregiving tool that represented the company's final, most radical departure from its original developer-tools identity."></media-image>
+</report-gallery>
 
 ## Founding Story
 

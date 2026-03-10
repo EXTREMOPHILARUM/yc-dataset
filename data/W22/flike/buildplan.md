@@ -6,7 +6,7 @@ Flike 2026 is a native Excel and Google Sheets plugin that solves the core probl
 
 The timing is different now. LLMs can generate and explain formulas reliably, and finance teams have grown desperate for auditability as spreadsheets drive larger decisions. The market has also matured: generic AI assistants like Copilot for Excel exist, but they create compliance nightmares for regulated finance work. There's a clear gap for purpose-built tooling.
 
-The go-to-market targets FP&A analysts and controllers at Series B–D tech companies—teams large enough to feel spreadsheet pain acutely but still lean enough to adopt new tools quickly. Distribution happens through direct sales to finance ops leaders, paired with product-led onboarding via the plugin itself. The win is simple: reduce audit friction, eliminate version conflicts, and make collaborative finance work traceable. No pivots. No crowded segments. Just the original insight, finally executable.34:T823,
+The go-to-market targets FP&A analysts and controllers at Series B–D tech companies—teams large enough to feel spreadsheet pain acutely but still lean enough to adopt new tools quickly. Distribution happens through direct sales to finance ops leaders, paired with product-led onboarding via the plugin itself. The win is simple: reduce audit friction, eliminate version conflicts, and make collaborative finance work traceable. No pivots. No crowded segments. Just the original insight, finally executable.33:T823,
 
 ## Why Now?
 

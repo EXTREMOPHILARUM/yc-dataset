@@ -2,26 +2,19 @@
 
 ## Overview
 
-1:"$Sreact.fragment"
-2:I[39756,["/_next/static/chunks/ff1a16fafef87110.js?dpl=dpl_GwuwmMc2oZNJkz1tEEADs8shECJt","/_next/static/chunks/803a574de9eda7ae.js?dpl=dpl_GwuwmMc2oZNJkz1tEEADs8shECJt"],"default"]
-3:I[8821,["/_next/static/chunks/0d46db6cf73968fd.js?dpl=dpl_GwuwmMc2oZNJkz1tEEADs8shECJt","/_next/static/chunks/5f4dcbc1da431ca9.js?dpl=dpl_GwuwmMc2oZNJkz1tEEADs8shECJt","/_next/static/chunks/33f7e5a25c4fcd0b.js?dpl=dpl_GwuwmMc2oZNJkz1tEEADs8shECJt"],"default"]
-4:I[37457,["/_next/static/chunks/ff1a16fafef87110.js?dpl=dpl_GwuwmMc2oZNJkz1tEEADs8shECJt","/_next/static/chunks/803a574de9eda7ae.js?dpl=dpl_GwuwmMc2oZNJkz1tEEADs8shECJt"],"default"]
-5:I[22016,["/_next/static/chunks/0d46db6cf73968fd.js?dpl=dpl_GwuwmMc2oZNJkz1tEEADs8shECJt","/_next/static/chunks/39ad7020066b4868.js?dpl=dpl_GwuwmMc2oZNJkz1tEEADs8shECJt","/_next/static/chunks/33f7e5a25c4fcd0b.js?dpl=dpl_GwuwmMc2oZNJkz1tEEADs8shECJt"],""]
-6:I[2355,["/_next/static/chunks/0d46db6cf73968fd.js?dpl=dpl_GwuwmMc2oZNJkz1tEEADs8shECJt"],"Analytics"]
-11:I[68027,["/_next/static/chunks/ff1a16fafef87110.js?dpl=dpl_GwuwmMc2oZNJkz1tEEADs8shECJt","/_next/static/chunks/803a574de9eda7ae.js?dpl=dpl_GwuwmMc2oZNJkz1tEEADs8shECJt"],"default"]
-12:I[97367,["/_next/static/chunks/ff1a16fafef87110.js?dpl=dpl_GwuwmMc2oZNJkz1tEEADs8shECJt","/_next/static/chunks/803a574de9eda7ae.js?dpl=dpl_GwuwmMc2oZNJkz1tEEADs8shECJt"],"OutletBoundary"]
-13:"$Sreact.suspense"
-15:I[93539,["/_next/static/chunks/0d46db6cf73968fd.js?dpl=dpl_GwuwmMc2oZNJkz1tEEADs8shECJt","/_next/static/chunks/39ad7020066b4868.js?dpl=dpl_GwuwmMc2oZNJkz1tEEADs8shECJt","/_next/static/chunks/33f7e5a25c4fcd0b.js?dpl=dpl_GwuwmMc2oZNJkz1tEEADs8shECJt"],"ThemeToggle"]
-23:I[97367,["/_next/static/chunks/ff1a16fafef87110.js?dpl=dpl_GwuwmMc2oZNJkz1tEEADs8shECJt","/_next/static/chunks/803a574de9eda7ae.js?dpl=dpl_GwuwmMc2oZNJkz1tEEADs8shECJt"],"ViewportBoundary"]
-25:I[97367,["/_next/static/chunks/ff1a16fafef87110.js?dpl=dpl_GwuwmMc2oZNJkz1tEEADs8shECJt","/_next/static/chunks/803a574de9eda7ae.js?dpl=dpl_GwuwmMc2oZNJkz1tEEADs8shECJt"],"MetadataBoundary"]
-:HL["/_next/static/chunks/8be82ca8498e7d4a.css?dpl=dpl_GwuwmMc2oZNJkz1tEEADs8shECJt","style"]
-:HL["/_next/static/media/1b99372b3eaef0c8-s.p.758e15a8.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
-:HL["/_next/static/media/23b7a97ae3b5c134-s.p.2902b61f.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
-:HL["/_next/static/media/68d403cf9f2c68c5-s.p.f9f15f61.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
-:HL["/_next/static/media/99e609270109b47d-s.p.64b9304e.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
-:HL["/_next/static/media/a7e15459c1805da0-s.p.ec654d65.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
-:HL["/_next/static/media/ea3421846039b7f3-s.p.093205c5.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
-:HL["/_next/static/media/effe91970fc4db64-s.p.19510058.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+Plasticity began not as a planned startup but as a senior-year side project at the University of Pennsylvania's M&T (Management & Technology) program, a dual-degree program combining Wharton's business school with Penn Engineering. Alex Sands studied Computer Science and Management with a specialization in Entrepreneurship. His co-founder, Ajay Patel, had worked on natural language interfaces at Google; Sands had done the same at Apple, working on Siri. The two met through the M&T program itself.
+
+Their founding insight came from a hackathon. At PennApps, Sands and Patel built GoogolPlex, a project that integrated third-party apps — Venmo, Spotify, Nest, Tesla — into Siri. The project attracted 25,000 users and coverage in Time, Forbes, and TechCrunch. <sup><a href="https://www.34st.com/article/2017/04/penn-10-alex-sands">[1]</a></sup> But the experience exposed a fundamental problem. As Patel later put it: "NLP in general is not robust" for handling complex commands and queries. <sup><a href="https://techcrunch.com/2017/08/11/plasticity-wants-to-help-chatbots-seem-less-robotic/">[2]</a></sup> The existing tools, he noted, "really take a simplistic approach to understanding what a user says." <sup><a href="https://techcrunch.com/2017/08/11/plasticity-wants-to-help-chatbots-seem-less-robotic/">[3]</a></sup> GoogolPlex was a proof-of-concept that the robustness problem was real — and that no one had solved it at the infrastructure level.
+
+Sands described the origin plainly: "During my senior year, a friend and I started working on what was a side project at the time, which focused on a different approach to solving a particular problem in natural language processing." <sup><a href="https://fisher.wharton.upenn.edu/mt-for-life/mt-entrepreneur-feature-alex-sands-mt-class-of-2017/">[4]</a></sup>
+
+The conviction was strong enough that Sands turned down a return offer to Apple as an Engineering Product Manager to pursue Plasticity full-time. <sup><a href="https://fisher.wharton.upenn.edu/mt-for-life/mt-entrepreneur-feature-alex-sands-mt-class-of-2017/">[5]</a></sup> The pair applied to Y Combinator during their senior spring and were accepted into the Summer 2017 batch. Three days after graduating from Penn, both founders moved to San Francisco to begin the program. <sup><a href="https://fisher.wharton.upenn.edu/mt-for-life/mt-entrepreneur-feature-alex-sands-mt-class-of-2017/">[6]</a></sup>
+
+During YC, the team considered building their own consumer personal assistant product — a natural extension of the GoogolPlex work — but explicitly decided against it. <sup><a href="https://fisher.wharton.upenn.edu/mt-for-life/mt-entrepreneur-feature-alex-sands-mt-class-of-2017/">[7]</a></sup> The choice to build infrastructure rather than a consumer product was strategically defensible: infrastructure compounds, consumer products compete on distribution. It was also, as it turned out, commercially harder.
+
+Sands later described YC as "a crazy three month period when you're basically just heads down trying to figure out how to make your startup successful," adding that the biggest benefit was "how much it forces you to get done, and the network and the Demo Day are obviously invaluable." <sup><a href="https://fisher.wharton.upenn.edu/mt-for-life/mt-entrepreneur-feature-alex-sands-mt-class-of-2017/">[8]</a></sup>
+
+---
 
 ## Founding Story
 

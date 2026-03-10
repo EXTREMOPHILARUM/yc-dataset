@@ -6,7 +6,7 @@ The 2026 Hipmob is an AI-first in-app support layer for mobile-first fintech and
 
 The market shift is production LLM inference. In 2012, live chat was the bottleneck. Today, it's the cost of human agents. Fintech apps—where support density is highest and margins are tight—are desperate to reduce per-ticket cost without degrading experience. Intercom owns the enterprise; we own the segment where AI deflection is the primary value prop, not a feature bolt-on.
 
-We go to market through fintech platforms and embedded finance networks (Stripe, Plaid, Treasury Prime), positioning as "support automation for apps that can't afford Intercom." First 50 paying customers in 6 months, targeting $2–5K MRR per app by month 12.34:T7a5,
+We go to market through fintech platforms and embedded finance networks (Stripe, Plaid, Treasury Prime), positioning as "support automation for apps that can't afford Intercom." First 50 paying customers in 6 months, targeting $2–5K MRR per app by month 12.33:T7a5,
 
 ## Why Now?
 

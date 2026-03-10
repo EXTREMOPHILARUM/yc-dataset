@@ -2,26 +2,17 @@
 
 ## Overview
 
-1:"$Sreact.fragment"
-2:I[39756,["/_next/static/chunks/ff1a16fafef87110.js?dpl=dpl_GwuwmMc2oZNJkz1tEEADs8shECJt","/_next/static/chunks/803a574de9eda7ae.js?dpl=dpl_GwuwmMc2oZNJkz1tEEADs8shECJt"],"default"]
-3:I[8821,["/_next/static/chunks/0d46db6cf73968fd.js?dpl=dpl_GwuwmMc2oZNJkz1tEEADs8shECJt","/_next/static/chunks/5f4dcbc1da431ca9.js?dpl=dpl_GwuwmMc2oZNJkz1tEEADs8shECJt","/_next/static/chunks/33f7e5a25c4fcd0b.js?dpl=dpl_GwuwmMc2oZNJkz1tEEADs8shECJt"],"default"]
-4:I[37457,["/_next/static/chunks/ff1a16fafef87110.js?dpl=dpl_GwuwmMc2oZNJkz1tEEADs8shECJt","/_next/static/chunks/803a574de9eda7ae.js?dpl=dpl_GwuwmMc2oZNJkz1tEEADs8shECJt"],"default"]
-5:I[22016,["/_next/static/chunks/0d46db6cf73968fd.js?dpl=dpl_GwuwmMc2oZNJkz1tEEADs8shECJt","/_next/static/chunks/39ad7020066b4868.js?dpl=dpl_GwuwmMc2oZNJkz1tEEADs8shECJt","/_next/static/chunks/33f7e5a25c4fcd0b.js?dpl=dpl_GwuwmMc2oZNJkz1tEEADs8shECJt"],""]
-6:I[2355,["/_next/static/chunks/0d46db6cf73968fd.js?dpl=dpl_GwuwmMc2oZNJkz1tEEADs8shECJt"],"Analytics"]
-11:I[68027,["/_next/static/chunks/ff1a16fafef87110.js?dpl=dpl_GwuwmMc2oZNJkz1tEEADs8shECJt","/_next/static/chunks/803a574de9eda7ae.js?dpl=dpl_GwuwmMc2oZNJkz1tEEADs8shECJt"],"default"]
-12:I[97367,["/_next/static/chunks/ff1a16fafef87110.js?dpl=dpl_GwuwmMc2oZNJkz1tEEADs8shECJt","/_next/static/chunks/803a574de9eda7ae.js?dpl=dpl_GwuwmMc2oZNJkz1tEEADs8shECJt"],"OutletBoundary"]
-13:"$Sreact.suspense"
-15:I[93539,["/_next/static/chunks/0d46db6cf73968fd.js?dpl=dpl_GwuwmMc2oZNJkz1tEEADs8shECJt","/_next/static/chunks/39ad7020066b4868.js?dpl=dpl_GwuwmMc2oZNJkz1tEEADs8shECJt","/_next/static/chunks/33f7e5a25c4fcd0b.js?dpl=dpl_GwuwmMc2oZNJkz1tEEADs8shECJt"],"ThemeToggle"]
-23:I[97367,["/_next/static/chunks/ff1a16fafef87110.js?dpl=dpl_GwuwmMc2oZNJkz1tEEADs8shECJt","/_next/static/chunks/803a574de9eda7ae.js?dpl=dpl_GwuwmMc2oZNJkz1tEEADs8shECJt"],"ViewportBoundary"]
-25:I[97367,["/_next/static/chunks/ff1a16fafef87110.js?dpl=dpl_GwuwmMc2oZNJkz1tEEADs8shECJt","/_next/static/chunks/803a574de9eda7ae.js?dpl=dpl_GwuwmMc2oZNJkz1tEEADs8shECJt"],"MetadataBoundary"]
-:HL["/_next/static/chunks/8be82ca8498e7d4a.css?dpl=dpl_GwuwmMc2oZNJkz1tEEADs8shECJt","style"]
-:HL["/_next/static/media/1b99372b3eaef0c8-s.p.758e15a8.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
-:HL["/_next/static/media/23b7a97ae3b5c134-s.p.2902b61f.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
-:HL["/_next/static/media/68d403cf9f2c68c5-s.p.f9f15f61.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
-:HL["/_next/static/media/99e609270109b47d-s.p.64b9304e.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
-:HL["/_next/static/media/a7e15459c1805da0-s.p.ec654d65.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
-:HL["/_next/static/media/ea3421846039b7f3-s.p.093205c5.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
-:HL["/_next/static/media/effe91970fc4db64-s.p.19510058.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+Mindori was founded in 2015 in Palo Alto, California, at a moment of intense industry excitement around voice interfaces. <sup><a href="https://pitchbook.com/profiles/company/163867-60">[3]</a></sup> Amazon had launched the Echo in late 2014, Google Now was maturing, and Apple's Siri had normalized the idea of speaking to devices. The broader thesis — that voice would become a primary interface for consumer software — was not fringe speculation. It was the consensus view of most major technology investors and operators.
+
+Against that backdrop, Christopher Lengerich and Awni Hannun identified a specific gap: e-commerce companies had no good way to add voice search to their own apps. The dominant voice platforms were consumer-facing and controlled by Big Tech. If a mid-sized retailer wanted to let shoppers say "show me red sneakers under $80," they had no off-the-shelf solution that could be trained on their specific product catalog, handle conversational follow-ups, and be embedded directly into their branded app. Mindori was built to fill that gap. <sup><a href="https://www.ycombinator.com/companies/mindori">[4]</a></sup>
+
+Lengerich and Hannun were technically credentialed for the problem. Lengerich held an MSCS from Stanford's AI program, and Hannun had deep expertise in speech recognition — the kind of research-grade background that made building custom neural network architectures for voice a realistic undertaking for a small team. <sup><a href="https://www.chrislengerich.com/">[5]</a></sup> Their November 2016 NeurIPS workshop paper, co-authored under the Mindori banner, demonstrated that the company's product was not a thin wrapper around existing APIs but was built on original research into end-to-end recurrent neural networks for keyword spotting. <sup><a href="https://arxiv.org/abs/1611.09405">[6]</a></sup>
+
+The company's go-to-market choice — white-label B2B rather than a consumer product — was deliberate. Rather than competing directly with Alexa or Siri for consumer mindshare, Mindori positioned itself as infrastructure: the voice layer that e-commerce companies would embed in their own products. This framing was compelling enough to attract institutional backing from Y Combinator, Pear VC, and Zhenfund. <sup><a href="http://mindori.com/">[7]</a></sup>
+
+The team remained small throughout its life — approximately three people — which meant every product and research decision required the founders to operate simultaneously as engineers, researchers, and salespeople. <sup><a href="https://pitchbook.com/profiles/company/163867-60">[8]</a></sup> No detailed account of how Lengerich and Hannun first met or what specific customer experience triggered the company's founding has been published. What is documented is the outcome: a technically sophisticated product, a small but satisfied customer base, and a market that moved faster than the team could.
+
+---
 
 ## Founding Story
 

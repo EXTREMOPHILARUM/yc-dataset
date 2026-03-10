@@ -2,26 +2,16 @@
 
 ## Overview
 
-1:"$Sreact.fragment"
-2:I[39756,["/_next/static/chunks/ff1a16fafef87110.js?dpl=dpl_GwuwmMc2oZNJkz1tEEADs8shECJt","/_next/static/chunks/803a574de9eda7ae.js?dpl=dpl_GwuwmMc2oZNJkz1tEEADs8shECJt"],"default"]
-3:I[8821,["/_next/static/chunks/0d46db6cf73968fd.js?dpl=dpl_GwuwmMc2oZNJkz1tEEADs8shECJt","/_next/static/chunks/5f4dcbc1da431ca9.js?dpl=dpl_GwuwmMc2oZNJkz1tEEADs8shECJt","/_next/static/chunks/33f7e5a25c4fcd0b.js?dpl=dpl_GwuwmMc2oZNJkz1tEEADs8shECJt"],"default"]
-4:I[37457,["/_next/static/chunks/ff1a16fafef87110.js?dpl=dpl_GwuwmMc2oZNJkz1tEEADs8shECJt","/_next/static/chunks/803a574de9eda7ae.js?dpl=dpl_GwuwmMc2oZNJkz1tEEADs8shECJt"],"default"]
-5:I[22016,["/_next/static/chunks/0d46db6cf73968fd.js?dpl=dpl_GwuwmMc2oZNJkz1tEEADs8shECJt","/_next/static/chunks/39ad7020066b4868.js?dpl=dpl_GwuwmMc2oZNJkz1tEEADs8shECJt","/_next/static/chunks/33f7e5a25c4fcd0b.js?dpl=dpl_GwuwmMc2oZNJkz1tEEADs8shECJt"],""]
-6:I[2355,["/_next/static/chunks/0d46db6cf73968fd.js?dpl=dpl_GwuwmMc2oZNJkz1tEEADs8shECJt"],"Analytics"]
-11:I[68027,["/_next/static/chunks/ff1a16fafef87110.js?dpl=dpl_GwuwmMc2oZNJkz1tEEADs8shECJt","/_next/static/chunks/803a574de9eda7ae.js?dpl=dpl_GwuwmMc2oZNJkz1tEEADs8shECJt"],"default"]
-12:I[97367,["/_next/static/chunks/ff1a16fafef87110.js?dpl=dpl_GwuwmMc2oZNJkz1tEEADs8shECJt","/_next/static/chunks/803a574de9eda7ae.js?dpl=dpl_GwuwmMc2oZNJkz1tEEADs8shECJt"],"OutletBoundary"]
-13:"$Sreact.suspense"
-15:I[93539,["/_next/static/chunks/0d46db6cf73968fd.js?dpl=dpl_GwuwmMc2oZNJkz1tEEADs8shECJt","/_next/static/chunks/39ad7020066b4868.js?dpl=dpl_GwuwmMc2oZNJkz1tEEADs8shECJt","/_next/static/chunks/33f7e5a25c4fcd0b.js?dpl=dpl_GwuwmMc2oZNJkz1tEEADs8shECJt"],"ThemeToggle"]
-23:I[97367,["/_next/static/chunks/ff1a16fafef87110.js?dpl=dpl_GwuwmMc2oZNJkz1tEEADs8shECJt","/_next/static/chunks/803a574de9eda7ae.js?dpl=dpl_GwuwmMc2oZNJkz1tEEADs8shECJt"],"ViewportBoundary"]
-25:I[97367,["/_next/static/chunks/ff1a16fafef87110.js?dpl=dpl_GwuwmMc2oZNJkz1tEEADs8shECJt","/_next/static/chunks/803a574de9eda7ae.js?dpl=dpl_GwuwmMc2oZNJkz1tEEADs8shECJt"],"MetadataBoundary"]
-:HL["/_next/static/chunks/8be82ca8498e7d4a.css?dpl=dpl_GwuwmMc2oZNJkz1tEEADs8shECJt","style"]
-:HL["/_next/static/media/1b99372b3eaef0c8-s.p.758e15a8.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
-:HL["/_next/static/media/23b7a97ae3b5c134-s.p.2902b61f.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
-:HL["/_next/static/media/68d403cf9f2c68c5-s.p.f9f15f61.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
-:HL["/_next/static/media/99e609270109b47d-s.p.64b9304e.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
-:HL["/_next/static/media/a7e15459c1805da0-s.p.ec654d65.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
-:HL["/_next/static/media/ea3421846039b7f3-s.p.093205c5.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
-:HL["/_next/static/media/effe91970fc4db64-s.p.19510058.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+Aisle50 was a Chicago-based digital grocery promotions platform that let CPG manufacturers fund deep discounts — often 50% or more — on their products, which consumers purchased online and redeemed in-store via their grocery loyalty card.Founded in 2010 and backed by Y Combinator, August Capital, Ron Conway, and Yuri Milner, the company raised approximately $6 million across two rounds and built a genuinely differentiated product with strong per-transaction metrics.
+
+Its core thesis — that CPG promotional spending would migrate from print newspaper inserts to digital channels — was directionally correct.But Aisle50 was ultimately constrained by the grocery industry's structural resistance to adopting new technology at scale.
+
+The company never landed a national retail partner, leaving it dependent on a patchwork of regional chains that could not generate the consumer density needed to attract major CPG budgets.Eighteen months after its Series A, Aisle50 was acqui-hired by Groupon in February 2015 — the very company it had spent years differentiating itself from — and the product did not survive the transition.
+
+<report-gallery>
+<media-image src="https://techcrunch.com/wp-content/uploads/2012/01/aisle50.jpg?w=640" alt="TechCrunch article: Aisle50 Lands $2.6M To Save You 50% On Organic Batter Blaster (And Other Fine Foods) — January 5, 2012" caption="A live Aisle50 deal page captured in TechCrunch's January 2012 coverage of the company's $2.6M seed round — Organic Batter Blaster at $2.49, redeemable via loyalty card. The screenshot captured the product at its most promising: a clean, manufacturer-funded discount that bore no resemblance to the Groupon comparison that had followed the company since Demo Day."></media-image>
+<media-image src="https://bookface-images.s3.amazonaws.com/avatars/c2f76a666e1e628590585aec4fa7174cc4b91e3a.jpg" alt="Aisle50: Grocery deals. | Y Combinator" caption="Aisle50's profile on Y Combinator's Bookface platform — a quiet remnant of the company's S11 batch, where Christopher Steiner and Riley Scott first pitched the idea of replacing Sunday newspaper coupon inserts with targeted digital deals. The accelerator's stamp of approval, alongside backing from Ron Conway and Yuri Milner, gave the Chicago startup a credibility that its regional retail footprint would struggle to match."></media-image>
+</report-gallery>
 
 ## Founding Story
 

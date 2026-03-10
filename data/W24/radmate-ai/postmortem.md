@@ -2,26 +2,16 @@
 
 ## Overview
 
-1:"$Sreact.fragment"
-2:I[39756,["/_next/static/chunks/ff1a16fafef87110.js?dpl=dpl_GwuwmMc2oZNJkz1tEEADs8shECJt","/_next/static/chunks/803a574de9eda7ae.js?dpl=dpl_GwuwmMc2oZNJkz1tEEADs8shECJt"],"default"]
-3:I[8821,["/_next/static/chunks/0d46db6cf73968fd.js?dpl=dpl_GwuwmMc2oZNJkz1tEEADs8shECJt","/_next/static/chunks/5f4dcbc1da431ca9.js?dpl=dpl_GwuwmMc2oZNJkz1tEEADs8shECJt","/_next/static/chunks/33f7e5a25c4fcd0b.js?dpl=dpl_GwuwmMc2oZNJkz1tEEADs8shECJt"],"default"]
-4:I[37457,["/_next/static/chunks/ff1a16fafef87110.js?dpl=dpl_GwuwmMc2oZNJkz1tEEADs8shECJt","/_next/static/chunks/803a574de9eda7ae.js?dpl=dpl_GwuwmMc2oZNJkz1tEEADs8shECJt"],"default"]
-5:I[22016,["/_next/static/chunks/0d46db6cf73968fd.js?dpl=dpl_GwuwmMc2oZNJkz1tEEADs8shECJt","/_next/static/chunks/39ad7020066b4868.js?dpl=dpl_GwuwmMc2oZNJkz1tEEADs8shECJt","/_next/static/chunks/33f7e5a25c4fcd0b.js?dpl=dpl_GwuwmMc2oZNJkz1tEEADs8shECJt"],""]
-6:I[2355,["/_next/static/chunks/0d46db6cf73968fd.js?dpl=dpl_GwuwmMc2oZNJkz1tEEADs8shECJt"],"Analytics"]
-11:I[68027,["/_next/static/chunks/ff1a16fafef87110.js?dpl=dpl_GwuwmMc2oZNJkz1tEEADs8shECJt","/_next/static/chunks/803a574de9eda7ae.js?dpl=dpl_GwuwmMc2oZNJkz1tEEADs8shECJt"],"default"]
-12:I[97367,["/_next/static/chunks/ff1a16fafef87110.js?dpl=dpl_GwuwmMc2oZNJkz1tEEADs8shECJt","/_next/static/chunks/803a574de9eda7ae.js?dpl=dpl_GwuwmMc2oZNJkz1tEEADs8shECJt"],"OutletBoundary"]
-13:"$Sreact.suspense"
-15:I[93539,["/_next/static/chunks/0d46db6cf73968fd.js?dpl=dpl_GwuwmMc2oZNJkz1tEEADs8shECJt","/_next/static/chunks/39ad7020066b4868.js?dpl=dpl_GwuwmMc2oZNJkz1tEEADs8shECJt","/_next/static/chunks/33f7e5a25c4fcd0b.js?dpl=dpl_GwuwmMc2oZNJkz1tEEADs8shECJt"],"ThemeToggle"]
-23:I[97367,["/_next/static/chunks/ff1a16fafef87110.js?dpl=dpl_GwuwmMc2oZNJkz1tEEADs8shECJt","/_next/static/chunks/803a574de9eda7ae.js?dpl=dpl_GwuwmMc2oZNJkz1tEEADs8shECJt"],"ViewportBoundary"]
-25:I[97367,["/_next/static/chunks/ff1a16fafef87110.js?dpl=dpl_GwuwmMc2oZNJkz1tEEADs8shECJt","/_next/static/chunks/803a574de9eda7ae.js?dpl=dpl_GwuwmMc2oZNJkz1tEEADs8shECJt"],"MetadataBoundary"]
-:HL["/_next/static/chunks/8be82ca8498e7d4a.css?dpl=dpl_GwuwmMc2oZNJkz1tEEADs8shECJt","style"]
-:HL["/_next/static/media/1b99372b3eaef0c8-s.p.758e15a8.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
-:HL["/_next/static/media/23b7a97ae3b5c134-s.p.2902b61f.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
-:HL["/_next/static/media/68d403cf9f2c68c5-s.p.f9f15f61.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
-:HL["/_next/static/media/99e609270109b47d-s.p.64b9304e.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
-:HL["/_next/static/media/a7e15459c1805da0-s.p.ec654d65.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
-:HL["/_next/static/media/ea3421846039b7f3-s.p.093205c5.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
-:HL["/_next/static/media/effe91970fc4db64-s.p.19510058.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+RadMate AI was a San Francisco-based healthcare AI startup founded in 2023 by Mohamed Khalifa and Adam Skrocki, two Cornell Computer Science alumni accepted into Y Combinator's Winter 2024 batch.<sup><a href="https://www.ycombinator.com/companies/radmate-ai">[1]</a></sup> The company built an AI copilot for radiologists — a workflow tool that listened to dictated findings and used large language models to generate structured, proofread radiology reports, reducing the volume of words radiologists needed to speak and the number of clicks required to produce a final report.<sup><a href="https://www.ycombinator.com/launches/KIh-radmate-ai-the-ai-copilot-for-radiologists">[2]</a></sup>
+
+RadMate AI failed because it entered a capital-intensive, compliance-heavy enterprise market with $500K in pre-seed funding and a two-person team — a structural mismatch that made it nearly impossible to survive the 12–24 month sales cycles required to reach paying hospital customers.<sup><a href="https://pitchbook.com/profiles/company/593104-15">[3]</a></sup> A direct competitor, Rad AI, had already locked up distribution across a third of all U.S. health systems before RadMate AI presented at Demo Day.<sup><a href="https://www.radai.com/news/rad-ai-closes-50-million-to-empower-physicians-with-ai">[4]</a></sup>
+
+No formal shutdown announcement has been made. By 2025, the company's website returned no content, its LinkedIn page had accumulated only 250 followers, and CEO Mohamed Khalifa's LinkedIn title had shifted to "Operator & Advisor | Y Combinator" — indirect signals that active operations had ceased.<sup><a href="https://www.linkedin.com/in/mohamed-taha-khalifa">[5]</a></sup><sup><a href="https://www.linkedin.com/company/radmate-ai">[6]</a></sup> No seed round was ever announced following YC Demo Day, and no acquirer or acqui-hire has been publicly documented.
+
+<report-gallery>
+<media-image src="https://bookface-images.s3.amazonaws.com/avatars/68ede46af83132984c874b91c6bccbe6bf6cb2c7.jpg" alt="Mohamed Khalifa, co-founder and CEO of RadMate AI" caption="Mohamed Khalifa, CEO of RadMate AI — his prior work building workflow tools for pathologists at PathAI directly shaped the product's design philosophy."></media-image>
+<media-image src="https://bookface-images.s3.amazonaws.com/avatars/7cb3d76f50eede7d0fd64d4ac3e17ca53366eeb1.jpg" alt="Adam Skrocki, co-founder and CTO of RadMate AI" caption="Adam Skrocki, CTO of RadMate AI — his father's career as a radiologist gave the team firsthand access to the workflow pain points they set out to solve."></media-image>
+</report-gallery>
 
 ## Founding Story
 

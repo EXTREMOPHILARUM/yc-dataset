@@ -10,26 +10,19 @@ The company closed in approximately June 2013.Its core failure was structural: i
 
 ## Founding Story
 
-1:"$Sreact.fragment"
-2:I[39756,["/_next/static/chunks/ff1a16fafef87110.js?dpl=dpl_GwuwmMc2oZNJkz1tEEADs8shECJt","/_next/static/chunks/803a574de9eda7ae.js?dpl=dpl_GwuwmMc2oZNJkz1tEEADs8shECJt"],"default"]
-3:I[8821,["/_next/static/chunks/0d46db6cf73968fd.js?dpl=dpl_GwuwmMc2oZNJkz1tEEADs8shECJt","/_next/static/chunks/5f4dcbc1da431ca9.js?dpl=dpl_GwuwmMc2oZNJkz1tEEADs8shECJt","/_next/static/chunks/33f7e5a25c4fcd0b.js?dpl=dpl_GwuwmMc2oZNJkz1tEEADs8shECJt"],"default"]
-4:I[37457,["/_next/static/chunks/ff1a16fafef87110.js?dpl=dpl_GwuwmMc2oZNJkz1tEEADs8shECJt","/_next/static/chunks/803a574de9eda7ae.js?dpl=dpl_GwuwmMc2oZNJkz1tEEADs8shECJt"],"default"]
-5:I[22016,["/_next/static/chunks/0d46db6cf73968fd.js?dpl=dpl_GwuwmMc2oZNJkz1tEEADs8shECJt","/_next/static/chunks/39ad7020066b4868.js?dpl=dpl_GwuwmMc2oZNJkz1tEEADs8shECJt","/_next/static/chunks/33f7e5a25c4fcd0b.js?dpl=dpl_GwuwmMc2oZNJkz1tEEADs8shECJt"],""]
-6:I[2355,["/_next/static/chunks/0d46db6cf73968fd.js?dpl=dpl_GwuwmMc2oZNJkz1tEEADs8shECJt"],"Analytics"]
-11:I[68027,["/_next/static/chunks/ff1a16fafef87110.js?dpl=dpl_GwuwmMc2oZNJkz1tEEADs8shECJt","/_next/static/chunks/803a574de9eda7ae.js?dpl=dpl_GwuwmMc2oZNJkz1tEEADs8shECJt"],"default"]
-12:I[97367,["/_next/static/chunks/ff1a16fafef87110.js?dpl=dpl_GwuwmMc2oZNJkz1tEEADs8shECJt","/_next/static/chunks/803a574de9eda7ae.js?dpl=dpl_GwuwmMc2oZNJkz1tEEADs8shECJt"],"OutletBoundary"]
-13:"$Sreact.suspense"
-15:I[93539,["/_next/static/chunks/0d46db6cf73968fd.js?dpl=dpl_GwuwmMc2oZNJkz1tEEADs8shECJt","/_next/static/chunks/39ad7020066b4868.js?dpl=dpl_GwuwmMc2oZNJkz1tEEADs8shECJt","/_next/static/chunks/33f7e5a25c4fcd0b.js?dpl=dpl_GwuwmMc2oZNJkz1tEEADs8shECJt"],"ThemeToggle"]
-23:I[97367,["/_next/static/chunks/ff1a16fafef87110.js?dpl=dpl_GwuwmMc2oZNJkz1tEEADs8shECJt","/_next/static/chunks/803a574de9eda7ae.js?dpl=dpl_GwuwmMc2oZNJkz1tEEADs8shECJt"],"ViewportBoundary"]
-25:I[97367,["/_next/static/chunks/ff1a16fafef87110.js?dpl=dpl_GwuwmMc2oZNJkz1tEEADs8shECJt","/_next/static/chunks/803a574de9eda7ae.js?dpl=dpl_GwuwmMc2oZNJkz1tEEADs8shECJt"],"MetadataBoundary"]
-:HL["/_next/static/chunks/8be82ca8498e7d4a.css?dpl=dpl_GwuwmMc2oZNJkz1tEEADs8shECJt","style"]
-:HL["/_next/static/media/1b99372b3eaef0c8-s.p.758e15a8.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
-:HL["/_next/static/media/23b7a97ae3b5c134-s.p.2902b61f.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
-:HL["/_next/static/media/68d403cf9f2c68c5-s.p.f9f15f61.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
-:HL["/_next/static/media/99e609270109b47d-s.p.64b9304e.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
-:HL["/_next/static/media/a7e15459c1805da0-s.p.ec654d65.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
-:HL["/_next/static/media/ea3421846039b7f3-s.p.093205c5.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
-:HL["/_next/static/media/effe91970fc4db64-s.p.19510058.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+Joe Fahrner and Jason Konrad founded the company in November 2009 under the name Answerly.<sup><a href="https://www.crunchbase.com/organization/answerly">[1]</a></sup> Fahrner served as CEO and Konrad as CTO—a lean two-person technical founding team that would eventually grow to approximately eleven people.<sup><a href="https://www.ycombinator.com/companies/answerly">[2]</a></sup> No public record documents how the two met or their prior working relationship.
+
+The original concept was a Q&A search engine built on top of Google. Answerly applied natural language processing to search results to surface real questions—the premise being that search engines were good at finding documents but poor at identifying genuine human questions buried within them.<sup><a href="https://techcrunch.com/2011/02/17/inboxq/">[3]</a></sup> The company was accepted into Y Combinator's Winter 2010 batch, providing early validation, seed capital, and network access.<sup><a href="https://www.ycombinator.com/companies/answerly">[2]</a></sup>
+
+The original Answerly product was quietly abandoned—no public explanation was ever given for why—and the team spent roughly twelve months between YC Demo Day and their public relaunch rethinking the problem. The insight that drove the pivot was about human intent. Twitter questions, Fahrner argued, were fundamentally different from questions scraped from search results because the asker expected a human to read them. As he explained at the time: "We find that questions on Twitter seem to be way richer and have more context because there is the expectation from the asker that real people are reading the question in their Tweet and not machines."<sup><a href="https://techcrunch.com/2011/02/17/inboxq/">[3]</a></sup>
+
+The business framing was equally clear. Fahrner observed a structural mismatch in the Twitter ecosystem: "There are tons of questions being asked by Tweeters, but we realized very few get helpful answers, or even a response. At the same time, you've got businesses looking to talk to customers on Twitter, but not knowing what to say."<sup><a href="https://www.youngupstarts.com/2011/04/19/inboxq-com-a-twitter-stream-of-consciousness/">[4]</a></sup> CTO Jason Konrad framed the commercial opportunity directly: "Companies are already spending money to engage with people through social media. We can help them make more actionable connections in much less time."<sup><a href="https://www.youngupstarts.com/2011/04/19/inboxq-com-a-twitter-stream-of-consciousness/">[4]</a></sup>
+
+The company rebranded publicly as InboxQ in February 2011 and launched its Chrome plugin the same month. The founding thesis—that businesses needed a systematic way to find and answer customer questions on Twitter—was coherent and the early press reception was enthusiastic. What remained unsolved was how to charge for it.
+
+<media-image src="https://techcrunch.com/wp-content/uploads/2011/02/inboxq.png" alt="InboxQ Chrome browser plugin interface showing Twitter question stream" caption="TechCrunch's coverage of InboxQ's February 2011 launch — the pivot from Answerly to a Twitter Q&A browser plugin for brands"></media-image>
+
+---
 
 ## Timeline
 

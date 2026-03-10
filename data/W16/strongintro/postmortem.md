@@ -10,26 +10,17 @@ The core failure was structural: the product required human labor to function at
 
 ## Founding Story
 
-1:"$Sreact.fragment"
-2:I[39756,["/_next/static/chunks/ff1a16fafef87110.js?dpl=dpl_GwuwmMc2oZNJkz1tEEADs8shECJt","/_next/static/chunks/803a574de9eda7ae.js?dpl=dpl_GwuwmMc2oZNJkz1tEEADs8shECJt"],"default"]
-3:I[8821,["/_next/static/chunks/0d46db6cf73968fd.js?dpl=dpl_GwuwmMc2oZNJkz1tEEADs8shECJt","/_next/static/chunks/5f4dcbc1da431ca9.js?dpl=dpl_GwuwmMc2oZNJkz1tEEADs8shECJt","/_next/static/chunks/33f7e5a25c4fcd0b.js?dpl=dpl_GwuwmMc2oZNJkz1tEEADs8shECJt"],"default"]
-4:I[37457,["/_next/static/chunks/ff1a16fafef87110.js?dpl=dpl_GwuwmMc2oZNJkz1tEEADs8shECJt","/_next/static/chunks/803a574de9eda7ae.js?dpl=dpl_GwuwmMc2oZNJkz1tEEADs8shECJt"],"default"]
-5:I[22016,["/_next/static/chunks/0d46db6cf73968fd.js?dpl=dpl_GwuwmMc2oZNJkz1tEEADs8shECJt","/_next/static/chunks/39ad7020066b4868.js?dpl=dpl_GwuwmMc2oZNJkz1tEEADs8shECJt","/_next/static/chunks/33f7e5a25c4fcd0b.js?dpl=dpl_GwuwmMc2oZNJkz1tEEADs8shECJt"],""]
-6:I[2355,["/_next/static/chunks/0d46db6cf73968fd.js?dpl=dpl_GwuwmMc2oZNJkz1tEEADs8shECJt"],"Analytics"]
-11:I[68027,["/_next/static/chunks/ff1a16fafef87110.js?dpl=dpl_GwuwmMc2oZNJkz1tEEADs8shECJt","/_next/static/chunks/803a574de9eda7ae.js?dpl=dpl_GwuwmMc2oZNJkz1tEEADs8shECJt"],"default"]
-12:I[97367,["/_next/static/chunks/ff1a16fafef87110.js?dpl=dpl_GwuwmMc2oZNJkz1tEEADs8shECJt","/_next/static/chunks/803a574de9eda7ae.js?dpl=dpl_GwuwmMc2oZNJkz1tEEADs8shECJt"],"OutletBoundary"]
-13:"$Sreact.suspense"
-15:I[93539,["/_next/static/chunks/0d46db6cf73968fd.js?dpl=dpl_GwuwmMc2oZNJkz1tEEADs8shECJt","/_next/static/chunks/39ad7020066b4868.js?dpl=dpl_GwuwmMc2oZNJkz1tEEADs8shECJt","/_next/static/chunks/33f7e5a25c4fcd0b.js?dpl=dpl_GwuwmMc2oZNJkz1tEEADs8shECJt"],"ThemeToggle"]
-23:I[97367,["/_next/static/chunks/ff1a16fafef87110.js?dpl=dpl_GwuwmMc2oZNJkz1tEEADs8shECJt","/_next/static/chunks/803a574de9eda7ae.js?dpl=dpl_GwuwmMc2oZNJkz1tEEADs8shECJt"],"ViewportBoundary"]
-25:I[97367,["/_next/static/chunks/ff1a16fafef87110.js?dpl=dpl_GwuwmMc2oZNJkz1tEEADs8shECJt","/_next/static/chunks/803a574de9eda7ae.js?dpl=dpl_GwuwmMc2oZNJkz1tEEADs8shECJt"],"MetadataBoundary"]
-:HL["/_next/static/chunks/8be82ca8498e7d4a.css?dpl=dpl_GwuwmMc2oZNJkz1tEEADs8shECJt","style"]
-:HL["/_next/static/media/1b99372b3eaef0c8-s.p.758e15a8.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
-:HL["/_next/static/media/23b7a97ae3b5c134-s.p.2902b61f.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
-:HL["/_next/static/media/68d403cf9f2c68c5-s.p.f9f15f61.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
-:HL["/_next/static/media/99e609270109b47d-s.p.64b9304e.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
-:HL["/_next/static/media/a7e15459c1805da0-s.p.ec654d65.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
-:HL["/_next/static/media/ea3421846039b7f3-s.p.093205c5.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
-:HL["/_next/static/media/effe91970fc4db64-s.p.19510058.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+StrongIntro emerged from an unusually young and credentialed founding team. Tieshun Roquerre, who would become known years later as "Pacman" in the NFT and crypto space, dropped out of high school in 2015 at age 17 to co-found the company.<sup><a href="https://vip.globalfromasia.com/network/tieshun-roquerre/">[1]</a></sup> His co-founder, Fouad Matin, was a Thiel Fellow—a prestigious two-year fellowship funded by Peter Thiel that pays young entrepreneurs $100,000 to skip or leave college and build a company—who had been working on the StrongIntro concept since December 2014.<sup><a href="https://fouad.org/about">[2]</a></sup><sup><a href="https://contactout.com/Fouad-Matin-36549429">[3]</a></sup>
+
+Before StrongIntro, Roquerre had worked as a software engineer at Teespring, the custom merchandise platform.<sup><a href="https://decrypt.co/121950/blur-founder-pacman-high-school-mit-dropout">[4]</a></sup> That experience likely seeded both the product insight and the company's first customer relationship: Teespring became one of StrongIntro's earliest and most-cited customers. The direct line from Roquerre's prior employer to StrongIntro's customer list is a textbook example of founder-market fit built on personal relationships rather than cold outreach.
+
+The founding insight was genuine and well-documented in recruiting literature: employee referrals consistently produce the highest-quality hires, yet most companies fail to systematically activate their employees' networks. Employees have hundreds of relevant professional connections but rarely take the time to match those connections to open roles without a structured prompt. StrongIntro's thesis was that software could automate the matching and a structured event—the "sourcing party"—could create the social prompt.
+
+The company entered Y Combinator's Winter 2016 batch, where Roquerre, at 17, was the youngest founder among more than 300 entrepreneurs in the cohort.<sup><a href="https://tieshunroquerre.com/blog/yc-learnings">[5]</a></sup> The company had backing from the Thiel Fellowship, YC Fellowship, and YC Core—an unusual triple-funding structure that reflected both founders' individual credentials as much as the company's promise.<sup><a href="https://www.ycombinator.com/blog/strongintro-yc-w16-boosts-employee-referrals-for-finding-and-hiring-engineers">[6]</a></sup>
+
+No detailed founding narrative or "why we built this" post exists in the public record. The division of responsibilities between Roquerre and Matin is undocumented, though Matin's LinkedIn lists him as Co-founder and CEO, suggesting he held the operational lead role while Roquerre likely handled engineering.
+
+---
 
 ## Timeline
 

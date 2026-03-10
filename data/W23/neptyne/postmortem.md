@@ -2,26 +2,19 @@
 
 ## Overview
 
-1:"$Sreact.fragment"
-2:I[39756,["/_next/static/chunks/ff1a16fafef87110.js?dpl=dpl_GwuwmMc2oZNJkz1tEEADs8shECJt","/_next/static/chunks/803a574de9eda7ae.js?dpl=dpl_GwuwmMc2oZNJkz1tEEADs8shECJt"],"default"]
-3:I[8821,["/_next/static/chunks/0d46db6cf73968fd.js?dpl=dpl_GwuwmMc2oZNJkz1tEEADs8shECJt","/_next/static/chunks/5f4dcbc1da431ca9.js?dpl=dpl_GwuwmMc2oZNJkz1tEEADs8shECJt","/_next/static/chunks/33f7e5a25c4fcd0b.js?dpl=dpl_GwuwmMc2oZNJkz1tEEADs8shECJt"],"default"]
-4:I[37457,["/_next/static/chunks/ff1a16fafef87110.js?dpl=dpl_GwuwmMc2oZNJkz1tEEADs8shECJt","/_next/static/chunks/803a574de9eda7ae.js?dpl=dpl_GwuwmMc2oZNJkz1tEEADs8shECJt"],"default"]
-5:I[22016,["/_next/static/chunks/0d46db6cf73968fd.js?dpl=dpl_GwuwmMc2oZNJkz1tEEADs8shECJt","/_next/static/chunks/39ad7020066b4868.js?dpl=dpl_GwuwmMc2oZNJkz1tEEADs8shECJt","/_next/static/chunks/33f7e5a25c4fcd0b.js?dpl=dpl_GwuwmMc2oZNJkz1tEEADs8shECJt"],""]
-6:I[2355,["/_next/static/chunks/0d46db6cf73968fd.js?dpl=dpl_GwuwmMc2oZNJkz1tEEADs8shECJt"],"Analytics"]
-11:I[68027,["/_next/static/chunks/ff1a16fafef87110.js?dpl=dpl_GwuwmMc2oZNJkz1tEEADs8shECJt","/_next/static/chunks/803a574de9eda7ae.js?dpl=dpl_GwuwmMc2oZNJkz1tEEADs8shECJt"],"default"]
-12:I[97367,["/_next/static/chunks/ff1a16fafef87110.js?dpl=dpl_GwuwmMc2oZNJkz1tEEADs8shECJt","/_next/static/chunks/803a574de9eda7ae.js?dpl=dpl_GwuwmMc2oZNJkz1tEEADs8shECJt"],"OutletBoundary"]
-13:"$Sreact.suspense"
-15:I[93539,["/_next/static/chunks/0d46db6cf73968fd.js?dpl=dpl_GwuwmMc2oZNJkz1tEEADs8shECJt","/_next/static/chunks/39ad7020066b4868.js?dpl=dpl_GwuwmMc2oZNJkz1tEEADs8shECJt","/_next/static/chunks/33f7e5a25c4fcd0b.js?dpl=dpl_GwuwmMc2oZNJkz1tEEADs8shECJt"],"ThemeToggle"]
-23:I[97367,["/_next/static/chunks/ff1a16fafef87110.js?dpl=dpl_GwuwmMc2oZNJkz1tEEADs8shECJt","/_next/static/chunks/803a574de9eda7ae.js?dpl=dpl_GwuwmMc2oZNJkz1tEEADs8shECJt"],"ViewportBoundary"]
-25:I[97367,["/_next/static/chunks/ff1a16fafef87110.js?dpl=dpl_GwuwmMc2oZNJkz1tEEADs8shECJt","/_next/static/chunks/803a574de9eda7ae.js?dpl=dpl_GwuwmMc2oZNJkz1tEEADs8shECJt"],"MetadataBoundary"]
-:HL["/_next/static/chunks/8be82ca8498e7d4a.css?dpl=dpl_GwuwmMc2oZNJkz1tEEADs8shECJt","style"]
-:HL["/_next/static/media/1b99372b3eaef0c8-s.p.758e15a8.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
-:HL["/_next/static/media/23b7a97ae3b5c134-s.p.2902b61f.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
-:HL["/_next/static/media/68d403cf9f2c68c5-s.p.f9f15f61.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
-:HL["/_next/static/media/99e609270109b47d-s.p.64b9304e.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
-:HL["/_next/static/media/a7e15459c1805da0-s.p.ec654d65.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
-:HL["/_next/static/media/ea3421846039b7f3-s.p.093205c5.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
-:HL["/_next/static/media/effe91970fc4db64-s.p.19510058.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+Douwe Osinga and Jack Amadeo did not meet at a networking event or through a mutual investor. They worked together at Sidewalk Labs, Alphabet's urban technology venture, where both were senior engineers building data-intensive city planning tools.<sup><a href="https://techcrunch.com/2023/03/27/y-combinator-backed-neptyne-is-building-a-python-powered-spreadsheet-for-data-scientists/">[1]</a></sup> The problem that eventually became Neptyne emerged directly from that work.
+
+At Sidewalk Labs, the team built models in Python and then shared results with stakeholders via spreadsheets. The final step of many analytical pipelines was, as the founders later described it, "write a .csv with the results." Stakeholders received a static file. They could not interact with the underlying model, adjust parameters, or re-run scenarios. The Python world and the spreadsheet world were separated by a one-way export.<sup><a href="https://bestofshowhn.com/yc-w23/neptyne">[2]</a></sup> The founders experimented with bridging that gap using the Google Sheets API, but found the experience clunky enough that they believed a purpose-built product could do it far better.
+
+Osinga brought deep technical credentials to the founding. He is described as a serial founder with four prior companies, a former Google engineer, and a published O'Reilly author.<sup><a href="https://www.crunchbase.com/person/douwe-osinga">[3]</a></sup> Amadeo's background spanned Sidewalk Labs, Compass (where he worked on the real estate platform), and Bloomberg (communication systems).<sup><a href="https://www.ycombinator.com/companies/neptyne">[4]</a></sup> Together, they represented an unusual combination: deep Python and data infrastructure experience alongside familiarity with enterprise workflows where spreadsheets remain dominant.
+
+The founding thesis was direct. As Osinga put it: "Talk to any analyst or financial modeler and they'll tell you that Excel just doesn't cut it anymore. Everybody is aware of the need to move to more powerful solutions and Python is the obvious candidate. Yet collaborating with today's tools is underwhelming."<sup><a href="https://finance.yahoo.com/news/neptyne-building-python-powered-spreadsheet-173015421.html">[5]</a></sup>
+
+The team applied to Y Combinator's Winter 2023 batch and was admitted, providing both institutional validation and initial capital.<sup><a href="https://techcrunch.com/2023/03/27/y-combinator-backed-neptyne-is-building-a-python-powered-spreadsheet-for-data-scientists/">[6]</a></sup> Their angel investor roster — which included Google AI lead Jeff Dean and Google Maps co-founder Lars Rasmussen — signaled that the idea resonated with people who had spent careers thinking about developer tools and data infrastructure at scale.<sup><a href="https://techcrunch.com/2023/03/27/y-combinator-backed-neptyne-is-building-a-python-powered-spreadsheet-for-data-scientists/">[7]</a></sup>
+
+The company was incorporated in 2022 and headquartered in Brooklyn, New York.<sup><a href="https://pitchbook.com/profiles/company/502803-55">[8]</a></sup> No major pivots occurred at the founding stage; the core concept remained consistent from inception through the YC batch.
+
+---
 
 ## Founding Story
 

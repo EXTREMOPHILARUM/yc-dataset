@@ -6,7 +6,7 @@ By 2026, Clever 2.0 is a district-first data integration and analytics platform 
 
 The rebuild wins on speed and insight, not just plumbing. Instead of positioning as "the SSO layer," it leads with a district-pays analytics dashboard that shows usage patterns, teacher adoption, and student engagement across the entire edtech stack. That visibility is what districts will pay for. SSO and AI-powered app recommendations are table stakes—the analytics layer is the revenue engine.
 
-Go-to-market targets IT directors at mid-market multi-academy trusts in the UK first, where fragmentation is acute and budget cycles are predictable. Free tier for adoption, premium tier for analytics depth. The original Clever owned the infrastructure but couldn't monetize it. This version owns the insight.33:Ta0d,
+Go-to-market targets IT directors at mid-market multi-academy trusts in the UK first, where fragmentation is acute and budget cycles are predictable. Free tier for adoption, premium tier for analytics depth. The original Clever owned the infrastructure but couldn't monetize it. This version owns the insight.34:Ta0d,
 
 ## Why Now?
 

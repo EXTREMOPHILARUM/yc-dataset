@@ -2,28 +2,19 @@
 
 ## Overview
 
-1:"$Sreact.fragment"
-2:I[39756,["/_next/static/chunks/ff1a16fafef87110.js?dpl=dpl_GwuwmMc2oZNJkz1tEEADs8shECJt","/_next/static/chunks/803a574de9eda7ae.js?dpl=dpl_GwuwmMc2oZNJkz1tEEADs8shECJt"],"default"]
-3:I[8821,["/_next/static/chunks/0d46db6cf73968fd.js?dpl=dpl_GwuwmMc2oZNJkz1tEEADs8shECJt","/_next/static/chunks/5f4dcbc1da431ca9.js?dpl=dpl_GwuwmMc2oZNJkz1tEEADs8shECJt","/_next/static/chunks/33f7e5a25c4fcd0b.js?dpl=dpl_GwuwmMc2oZNJkz1tEEADs8shECJt"],"default"]
-4:I[37457,["/_next/static/chunks/ff1a16fafef87110.js?dpl=dpl_GwuwmMc2oZNJkz1tEEADs8shECJt","/_next/static/chunks/803a574de9eda7ae.js?dpl=dpl_GwuwmMc2oZNJkz1tEEADs8shECJt"],"default"]
-5:I[22016,["/_next/static/chunks/0d46db6cf73968fd.js?dpl=dpl_GwuwmMc2oZNJkz1tEEADs8shECJt","/_next/static/chunks/39ad7020066b4868.js?dpl=dpl_GwuwmMc2oZNJkz1tEEADs8shECJt","/_next/static/chunks/33f7e5a25c4fcd0b.js?dpl=dpl_GwuwmMc2oZNJkz1tEEADs8shECJt"],""]
-6:I[2355,["/_next/static/chunks/0d46db6cf73968fd.js?dpl=dpl_GwuwmMc2oZNJkz1tEEADs8shECJt"],"Analytics"]
-11:I[68027,["/_next/static/chunks/ff1a16fafef87110.js?dpl=dpl_GwuwmMc2oZNJkz1tEEADs8shECJt","/_next/static/chunks/803a574de9eda7ae.js?dpl=dpl_GwuwmMc2oZNJkz1tEEADs8shECJt"],"default"]
-12:I[97367,["/_next/static/chunks/ff1a16fafef87110.js?dpl=dpl_GwuwmMc2oZNJkz1tEEADs8shECJt","/_next/static/chunks/803a574de9eda7ae.js?dpl=dpl_GwuwmMc2oZNJkz1tEEADs8shECJt"],"OutletBoundary"]
-13:"$Sreact.suspense"
-15:I[93539,["/_next/static/chunks/0d46db6cf73968fd.js?dpl=dpl_GwuwmMc2oZNJkz1tEEADs8shECJt","/_next/static/chunks/39ad7020066b4868.js?dpl=dpl_GwuwmMc2oZNJkz1tEEADs8shECJt","/_next/static/chunks/33f7e5a25c4fcd0b.js?dpl=dpl_GwuwmMc2oZNJkz1tEEADs8shECJt"],"ThemeToggle"]
-23:I[97367,["/_next/static/chunks/ff1a16fafef87110.js?dpl=dpl_GwuwmMc2oZNJkz1tEEADs8shECJt","/_next/static/chunks/803a574de9eda7ae.js?dpl=dpl_GwuwmMc2oZNJkz1tEEADs8shECJt"],"ViewportBoundary"]
-25:I[97367,["/_next/static/chunks/ff1a16fafef87110.js?dpl=dpl_GwuwmMc2oZNJkz1tEEADs8shECJt","/_next/static/chunks/803a574de9eda7ae.js?dpl=dpl_GwuwmMc2oZNJkz1tEEADs8shECJt"],"MetadataBoundary"]
-:HL["/_next/static/chunks/8be82ca8498e7d4a.css?dpl=dpl_GwuwmMc2oZNJkz1tEEADs8shECJt","style"]
-:HL["/_next/static/media/1b99372b3eaef0c8-s.p.758e15a8.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
-:HL["/_next/static/media/23b7a97ae3b5c134-s.p.2902b61f.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
-:HL["/_next/static/media/68d403cf9f2c68c5-s.p.f9f15f61.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
-:HL["/_next/static/media/99e609270109b47d-s.p.64b9304e.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
-:HL["/_next/static/media/a7e15459c1805da0-s.p.ec654d65.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
-:HL["/_next/static/media/ea3421846039b7f3-s.p.093205c5.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
-:HL["/_next/static/media/effe91970fc4db64-s.p.19510058.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
-
 ## Founding Story
+
+Selfycart was founded in June 2015 by Sahle Hashelit and Erick Lee, two operators with unusually direct domain experience for the problem they were attacking. Both had worked at PayPal and eBay — the intersection of payments infrastructure and consumer commerce — before turning their attention to offline retail. As Hashelit put it: "Both Erick and I have domain expertise in payments and mobile commerce. We worked at PayPal and Ebay." <sup><a href="https://blog.ycombinator.com/selfycart/">[1]</a></sup>
+
+Hashelit's background was particularly well-suited to the enterprise side of the business. He had served as Head of Global Technical Service at eBay and PayPal, and had additional stints at Facebook and Symantec — a profile that combined payments operations with enterprise-scale technical management. <sup><a href="https://everipedia.org/wiki/lang_en/sahle-hashelit">[2]</a></sup> Lee brought a different kind of credibility: a whitehat security hacker and serial entrepreneur who had founded three startups before Selfycart, with prior PayPal experience giving him direct exposure to the payment rails the product would depend on. <sup><a href="https://www.zoominfo.com/c/selfycart-inc/373817703">[3]</a></sup>
+
+The founding insight came from a frustration that anyone who has stood in a grocery checkout line will recognize. Lee articulated it bluntly: "The promise of self-checkout and the reality of self-checkout are two totally different things... there's kind of a line there, the machine doesn't really work and people don't know how to make it work." <sup><a href="https://techcrunch.com/2016/08/01/selfycart-launch-y-combinator/">[4]</a></sup> The founders believed that the smartphone — already in nearly every shopper's pocket — was a better self-checkout terminal than the dedicated kiosks retailers had spent billions deploying. The phone already had a camera for scanning, a payment credential on file, and a screen the user already knew how to operate.
+
+The company was accepted into Y Combinator's Summer 2016 batch, <sup><a href="https://www.ycombinator.com/companies/selfycart">[5]</a></sup> which provided the $120,000 seed check and the Demo Day platform that would define the company's fundraising window. The YC batch forced a product and go-to-market focus that culminated in a public launch on August 1, 2016 — the same day as the TechCrunch article that gave the company its widest press exposure.
+
+No public account exists of how Hashelit and Lee first met, and the founding year is listed inconsistently across databases (2015 vs. 2016), though Hashelit's LinkedIn tenure beginning in June 2015 is the most reliable signal. <sup><a href="https://contactout.com/Sahle-Hashelit-2448334">[6]</a></sup> The company was headquartered in the Bay Area, with sources variously citing San Mateo, Santa Clara, and San Jose. <sup><a href="https://www.ycombinator.com/companies/selfycart">[7]</a></sup>
+
+---
 
 ## Timeline
 
@@ -111,7 +102,7 @@ The Demo Day pitch described the model slightly differently, framing the 2% as a
 
 At $19,800 per store per year, Selfycart needed approximately 100 merchant locations to reach $2M in annual recurring revenue from subscriptions alone — a scale that required a sales and integration team far larger than two people could support.
 
----2f:T66a,
+---2e:T66a,
 
 ## Traction
 

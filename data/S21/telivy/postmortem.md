@@ -2,26 +2,16 @@
 
 ## Overview
 
-1:"$Sreact.fragment"
-2:I[39756,["/_next/static/chunks/ff1a16fafef87110.js?dpl=dpl_GwuwmMc2oZNJkz1tEEADs8shECJt","/_next/static/chunks/803a574de9eda7ae.js?dpl=dpl_GwuwmMc2oZNJkz1tEEADs8shECJt"],"default"]
-3:I[8821,["/_next/static/chunks/0d46db6cf73968fd.js?dpl=dpl_GwuwmMc2oZNJkz1tEEADs8shECJt","/_next/static/chunks/5f4dcbc1da431ca9.js?dpl=dpl_GwuwmMc2oZNJkz1tEEADs8shECJt","/_next/static/chunks/33f7e5a25c4fcd0b.js?dpl=dpl_GwuwmMc2oZNJkz1tEEADs8shECJt"],"default"]
-4:I[37457,["/_next/static/chunks/ff1a16fafef87110.js?dpl=dpl_GwuwmMc2oZNJkz1tEEADs8shECJt","/_next/static/chunks/803a574de9eda7ae.js?dpl=dpl_GwuwmMc2oZNJkz1tEEADs8shECJt"],"default"]
-5:I[22016,["/_next/static/chunks/0d46db6cf73968fd.js?dpl=dpl_GwuwmMc2oZNJkz1tEEADs8shECJt","/_next/static/chunks/39ad7020066b4868.js?dpl=dpl_GwuwmMc2oZNJkz1tEEADs8shECJt","/_next/static/chunks/33f7e5a25c4fcd0b.js?dpl=dpl_GwuwmMc2oZNJkz1tEEADs8shECJt"],""]
-6:I[2355,["/_next/static/chunks/0d46db6cf73968fd.js?dpl=dpl_GwuwmMc2oZNJkz1tEEADs8shECJt"],"Analytics"]
-11:I[68027,["/_next/static/chunks/ff1a16fafef87110.js?dpl=dpl_GwuwmMc2oZNJkz1tEEADs8shECJt","/_next/static/chunks/803a574de9eda7ae.js?dpl=dpl_GwuwmMc2oZNJkz1tEEADs8shECJt"],"default"]
-12:I[97367,["/_next/static/chunks/ff1a16fafef87110.js?dpl=dpl_GwuwmMc2oZNJkz1tEEADs8shECJt","/_next/static/chunks/803a574de9eda7ae.js?dpl=dpl_GwuwmMc2oZNJkz1tEEADs8shECJt"],"OutletBoundary"]
-13:"$Sreact.suspense"
-15:I[93539,["/_next/static/chunks/0d46db6cf73968fd.js?dpl=dpl_GwuwmMc2oZNJkz1tEEADs8shECJt","/_next/static/chunks/39ad7020066b4868.js?dpl=dpl_GwuwmMc2oZNJkz1tEEADs8shECJt","/_next/static/chunks/33f7e5a25c4fcd0b.js?dpl=dpl_GwuwmMc2oZNJkz1tEEADs8shECJt"],"ThemeToggle"]
-23:I[97367,["/_next/static/chunks/ff1a16fafef87110.js?dpl=dpl_GwuwmMc2oZNJkz1tEEADs8shECJt","/_next/static/chunks/803a574de9eda7ae.js?dpl=dpl_GwuwmMc2oZNJkz1tEEADs8shECJt"],"ViewportBoundary"]
-25:I[97367,["/_next/static/chunks/ff1a16fafef87110.js?dpl=dpl_GwuwmMc2oZNJkz1tEEADs8shECJt","/_next/static/chunks/803a574de9eda7ae.js?dpl=dpl_GwuwmMc2oZNJkz1tEEADs8shECJt"],"MetadataBoundary"]
-:HL["/_next/static/chunks/8be82ca8498e7d4a.css?dpl=dpl_GwuwmMc2oZNJkz1tEEADs8shECJt","style"]
-:HL["/_next/static/media/1b99372b3eaef0c8-s.p.758e15a8.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
-:HL["/_next/static/media/23b7a97ae3b5c134-s.p.2902b61f.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
-:HL["/_next/static/media/68d403cf9f2c68c5-s.p.f9f15f61.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
-:HL["/_next/static/media/99e609270109b47d-s.p.64b9304e.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
-:HL["/_next/static/media/a7e15459c1805da0-s.p.ec654d65.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
-:HL["/_next/static/media/ea3421846039b7f3-s.p.093205c5.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
-:HL["/_next/static/media/effe91970fc4db64-s.p.19510058.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+Telivy was a San Francisco-based cybersecurity startup founded in 2021 by Naren Sathiya, Ben Grosser, and Venkata Vijay Ventrapragada. The company participated in Y Combinator's Summer 2021 batch and set out to automate cybersecurity risk assessments for small and medium-sized businesses, initially wrapping that capability inside an embedded cyber insurance distribution platform. It raised approximately $2.6M in total funding across its roughly three-and-a-half-year life.<sup><a href="https://tracxn.com/d/companies/telivy/__KJtsFFEGLamz9xi3ZKov3KFw50u3HVUWP2VPj68909s/funding-and-investors">[1]</a></sup>
+
+Telivy failed to achieve independent scale because its original embedded-insurance wedge required too many partnership layers to generate revenue at SMB scale, and its subsequent pivot to MSP security tooling arrived too late and with too little capital to compete in a market rapidly consolidating around larger platform vendors.
+
+On January 14, 2025, Cytracom — a McKinney, Texas-based MSP infrastructure software provider — acquired Telivy for undisclosed terms.<sup><a href="https://www.cytracom.com/post/cytracom-acquires-telivy-announces-plans-to-deliver-advanced-security-risk-management-capabilities-for-msps">[2]</a></sup> CEO Naren Sathiya joined Cytracom to lead its new Security and Risk Management product category. The fates of co-founders Ben Grosser and Vijay Ventrapragada post-acquisition are unknown, and no financial terms were released — signals consistent with a modest exit.
+
+<report-gallery>
+<media-image src="https://bookface-images.s3.amazonaws.com/avatars/af2fb864fbbb5250ab04f3075019229a9c85eb04.jpg" alt="Telivy company logo on Y Combinator Bookface" caption="Telivy's Y Combinator profile image — the company debuted at YC S21 Demo Day in September 2021 pitching cyber insurance for SMBs, a market it would eventually leave behind."></media-image>
+<media-image src="https://images.crunchbase.com/image/upload/c_thumb,h_256,w_256,f_auto,g_face,z_0.7,q_auto:eco,dpr_1/wu4r9uerlybp0whm28x7?ik-sanitizeSvg=true" alt="Venkata Vijay Ventrapragada, Co-Founder of Telivy" caption="Co-founder Venkata Vijay Ventrapragada, whose post-acquisition status remains unknown — one of several unresolved questions about how Telivy's exit played out for the founding team."></media-image>
+</report-gallery>
 
 ## Founding Story
 

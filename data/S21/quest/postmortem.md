@@ -10,26 +10,19 @@ The expert supply side had weak incentives to contribute content consistently, w
 
 ## Founding Story
 
-1:"$Sreact.fragment"
-2:I[39756,["/_next/static/chunks/ff1a16fafef87110.js?dpl=dpl_GwuwmMc2oZNJkz1tEEADs8shECJt","/_next/static/chunks/803a574de9eda7ae.js?dpl=dpl_GwuwmMc2oZNJkz1tEEADs8shECJt"],"default"]
-3:I[8821,["/_next/static/chunks/0d46db6cf73968fd.js?dpl=dpl_GwuwmMc2oZNJkz1tEEADs8shECJt","/_next/static/chunks/5f4dcbc1da431ca9.js?dpl=dpl_GwuwmMc2oZNJkz1tEEADs8shECJt","/_next/static/chunks/33f7e5a25c4fcd0b.js?dpl=dpl_GwuwmMc2oZNJkz1tEEADs8shECJt"],"default"]
-4:I[37457,["/_next/static/chunks/ff1a16fafef87110.js?dpl=dpl_GwuwmMc2oZNJkz1tEEADs8shECJt","/_next/static/chunks/803a574de9eda7ae.js?dpl=dpl_GwuwmMc2oZNJkz1tEEADs8shECJt"],"default"]
-5:I[22016,["/_next/static/chunks/0d46db6cf73968fd.js?dpl=dpl_GwuwmMc2oZNJkz1tEEADs8shECJt","/_next/static/chunks/39ad7020066b4868.js?dpl=dpl_GwuwmMc2oZNJkz1tEEADs8shECJt","/_next/static/chunks/33f7e5a25c4fcd0b.js?dpl=dpl_GwuwmMc2oZNJkz1tEEADs8shECJt"],""]
-6:I[2355,["/_next/static/chunks/0d46db6cf73968fd.js?dpl=dpl_GwuwmMc2oZNJkz1tEEADs8shECJt"],"Analytics"]
-11:I[68027,["/_next/static/chunks/ff1a16fafef87110.js?dpl=dpl_GwuwmMc2oZNJkz1tEEADs8shECJt","/_next/static/chunks/803a574de9eda7ae.js?dpl=dpl_GwuwmMc2oZNJkz1tEEADs8shECJt"],"default"]
-12:I[97367,["/_next/static/chunks/ff1a16fafef87110.js?dpl=dpl_GwuwmMc2oZNJkz1tEEADs8shECJt","/_next/static/chunks/803a574de9eda7ae.js?dpl=dpl_GwuwmMc2oZNJkz1tEEADs8shECJt"],"OutletBoundary"]
-13:"$Sreact.suspense"
-15:I[93539,["/_next/static/chunks/0d46db6cf73968fd.js?dpl=dpl_GwuwmMc2oZNJkz1tEEADs8shECJt","/_next/static/chunks/39ad7020066b4868.js?dpl=dpl_GwuwmMc2oZNJkz1tEEADs8shECJt","/_next/static/chunks/33f7e5a25c4fcd0b.js?dpl=dpl_GwuwmMc2oZNJkz1tEEADs8shECJt"],"ThemeToggle"]
-23:I[97367,["/_next/static/chunks/ff1a16fafef87110.js?dpl=dpl_GwuwmMc2oZNJkz1tEEADs8shECJt","/_next/static/chunks/803a574de9eda7ae.js?dpl=dpl_GwuwmMc2oZNJkz1tEEADs8shECJt"],"ViewportBoundary"]
-25:I[97367,["/_next/static/chunks/ff1a16fafef87110.js?dpl=dpl_GwuwmMc2oZNJkz1tEEADs8shECJt","/_next/static/chunks/803a574de9eda7ae.js?dpl=dpl_GwuwmMc2oZNJkz1tEEADs8shECJt"],"MetadataBoundary"]
-:HL["/_next/static/chunks/8be82ca8498e7d4a.css?dpl=dpl_GwuwmMc2oZNJkz1tEEADs8shECJt","style"]
-:HL["/_next/static/media/1b99372b3eaef0c8-s.p.758e15a8.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
-:HL["/_next/static/media/23b7a97ae3b5c134-s.p.2902b61f.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
-:HL["/_next/static/media/68d403cf9f2c68c5-s.p.f9f15f61.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
-:HL["/_next/static/media/99e609270109b47d-s.p.64b9304e.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
-:HL["/_next/static/media/a7e15459c1805da0-s.p.ec654d65.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
-:HL["/_next/static/media/ea3421846039b7f3-s.p.093205c5.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
-:HL["/_next/static/media/effe91970fc4db64-s.p.19510058.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+Robert Gaal and Emiel van Liere are Dutch serial entrepreneurs who had already built and exited companies before co-founding Cooper in 2018. <sup><a href="https://techcrunch.com/2020/11/17/cooper-seed-funding/">[1]</a></sup> Gaal had worked at Google, where he helped grow a team serving millions of users daily and launched a Google hub for startups. He was also a member of Atomico's Angel Programme, giving him deep roots in the European venture ecosystem. <sup><a href="https://sifted.eu/articles/quest-audio-app">[2]</a></sup> Van Liere had led the mobile team at Hyves—a Dutch social network with over 10 million members—and had previously exited a startup called Folio. <sup><a href="https://siliconcanals.com/cooper-raises-1-68m/">[3]</a></sup> The two had worked together building Hyves and Wakoopa, a consumer analytics platform later acquired by GfK. <sup><a href="https://siliconcanals.com/cooper-raises-1-68m/">[4]</a></sup>
+
+<media-image src="https://siliconcanals.com/wp-content/uploads/2020/11/Cooper-app.jpg" alt="Cooper app interface and team photo from Silicon Canals coverage of the €1.68M seed round" caption="Silicon Canals' coverage of Cooper's €1.68M seed raise in November 2020, featuring the Amsterdam-based professional network founded by Robert Gaal and Emiel van Liere — the company that would later pivot to become Quest."></media-image>
+
+The founding insight came from personal experience. Both founders had mentored junior professionals and found themselves frustrated by the limitations of LinkedIn as the only real tool for making meaningful professional introductions. <sup><a href="https://sifted.eu/articles/quest-audio-app">[5]</a></sup> Gaal later articulated the demand-side problem clearly: "These are people that are looking to learn the lingo or the mindset of how am I going to grow in this position? [and] often, that sort of etiquette is not always accessible to anyone, which is really why we built Quest. We really wanted to make sure that accessibility to a growing career is for everyone." <sup><a href="https://sifted.eu/articles/quest-audio-app">[6]</a></sup>
+
+Their first answer to this problem was Cooper: a private professional network built around curated, introduction-based connections. The idea was to make warm introductions the default rather than the exception. Cooper raised a $2 million seed round in November 2020 led by Comcast Ventures, with LocalGlobe and 468 Capital participating—a credible syndicate for a European consumer social startup. <sup><a href="https://techcrunch.com/2020/11/17/cooper-seed-funding/">[7]</a></sup>
+
+<media-image src="https://techcrunch.com/wp-content/uploads/2020/11/cooper-app-professional-network.jpg" alt="Cooper app professional network — the predecessor to Quest — founded by Robert Gaal and Emiel van Liere" caption="TechCrunch's November 2020 coverage of Cooper raising $2M in seed funding led by Comcast Ventures. Cooper was the introduction-based professional network that pivoted into Quest's audio career advice product."></media-image>
+
+After approximately two years without product-market fit, the founders abandoned the Cooper model and pivoted to audio. The legal entity remained registered as "Cooper Media," signaling that the audio pivot was a significant strategic departure rather than a feature iteration. <sup><a href="https://pitchbook.com/profiles/company/267245-02">[8]</a></sup> The new product, Quest, launched in 2021 directly into the peak of the Clubhouse-driven social audio wave. The founders applied to Y Combinator with the Quest concept and were accepted into the Summer 2021 batch with a team of five. <sup><a href="https://www.ycombinator.com/companies/quest">[9]</a></sup>
+
+---
 
 ## Timeline
 

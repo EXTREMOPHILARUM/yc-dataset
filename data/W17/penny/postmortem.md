@@ -2,28 +2,21 @@
 
 ## Overview
 
-1:"$Sreact.fragment"
-2:I[39756,["/_next/static/chunks/ff1a16fafef87110.js?dpl=dpl_GwuwmMc2oZNJkz1tEEADs8shECJt","/_next/static/chunks/803a574de9eda7ae.js?dpl=dpl_GwuwmMc2oZNJkz1tEEADs8shECJt"],"default"]
-3:I[8821,["/_next/static/chunks/0d46db6cf73968fd.js?dpl=dpl_GwuwmMc2oZNJkz1tEEADs8shECJt","/_next/static/chunks/5f4dcbc1da431ca9.js?dpl=dpl_GwuwmMc2oZNJkz1tEEADs8shECJt","/_next/static/chunks/33f7e5a25c4fcd0b.js?dpl=dpl_GwuwmMc2oZNJkz1tEEADs8shECJt"],"default"]
-4:I[37457,["/_next/static/chunks/ff1a16fafef87110.js?dpl=dpl_GwuwmMc2oZNJkz1tEEADs8shECJt","/_next/static/chunks/803a574de9eda7ae.js?dpl=dpl_GwuwmMc2oZNJkz1tEEADs8shECJt"],"default"]
-5:I[22016,["/_next/static/chunks/0d46db6cf73968fd.js?dpl=dpl_GwuwmMc2oZNJkz1tEEADs8shECJt","/_next/static/chunks/39ad7020066b4868.js?dpl=dpl_GwuwmMc2oZNJkz1tEEADs8shECJt","/_next/static/chunks/33f7e5a25c4fcd0b.js?dpl=dpl_GwuwmMc2oZNJkz1tEEADs8shECJt"],""]
-6:I[2355,["/_next/static/chunks/0d46db6cf73968fd.js?dpl=dpl_GwuwmMc2oZNJkz1tEEADs8shECJt"],"Analytics"]
-11:I[68027,["/_next/static/chunks/ff1a16fafef87110.js?dpl=dpl_GwuwmMc2oZNJkz1tEEADs8shECJt","/_next/static/chunks/803a574de9eda7ae.js?dpl=dpl_GwuwmMc2oZNJkz1tEEADs8shECJt"],"default"]
-12:I[97367,["/_next/static/chunks/ff1a16fafef87110.js?dpl=dpl_GwuwmMc2oZNJkz1tEEADs8shECJt","/_next/static/chunks/803a574de9eda7ae.js?dpl=dpl_GwuwmMc2oZNJkz1tEEADs8shECJt"],"OutletBoundary"]
-13:"$Sreact.suspense"
-15:I[93539,["/_next/static/chunks/0d46db6cf73968fd.js?dpl=dpl_GwuwmMc2oZNJkz1tEEADs8shECJt","/_next/static/chunks/39ad7020066b4868.js?dpl=dpl_GwuwmMc2oZNJkz1tEEADs8shECJt","/_next/static/chunks/33f7e5a25c4fcd0b.js?dpl=dpl_GwuwmMc2oZNJkz1tEEADs8shECJt"],"ThemeToggle"]
-23:I[97367,["/_next/static/chunks/ff1a16fafef87110.js?dpl=dpl_GwuwmMc2oZNJkz1tEEADs8shECJt","/_next/static/chunks/803a574de9eda7ae.js?dpl=dpl_GwuwmMc2oZNJkz1tEEADs8shECJt"],"ViewportBoundary"]
-25:I[97367,["/_next/static/chunks/ff1a16fafef87110.js?dpl=dpl_GwuwmMc2oZNJkz1tEEADs8shECJt","/_next/static/chunks/803a574de9eda7ae.js?dpl=dpl_GwuwmMc2oZNJkz1tEEADs8shECJt"],"MetadataBoundary"]
-:HL["/_next/static/chunks/8be82ca8498e7d4a.css?dpl=dpl_GwuwmMc2oZNJkz1tEEADs8shECJt","style"]
-:HL["/_next/static/media/1b99372b3eaef0c8-s.p.758e15a8.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
-:HL["/_next/static/media/23b7a97ae3b5c134-s.p.2902b61f.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
-:HL["/_next/static/media/68d403cf9f2c68c5-s.p.f9f15f61.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
-:HL["/_next/static/media/99e609270109b47d-s.p.64b9304e.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
-:HL["/_next/static/media/a7e15459c1805da0-s.p.ec654d65.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
-:HL["/_next/static/media/ea3421846039b7f3-s.p.093205c5.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
-:HL["/_next/static/media/effe91970fc4db64-s.p.19510058.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
-
 ## Founding Story
+
+Penny did not begin as a formal startup. In 2015, Mitchell Lee and Alex Quach built the first prototype during a one-week hackathon as a side project between jobs. <sup><a href="https://springwise.com/wise-words-mitchell-lee-emoji-fintech/">[1]</a></sup> <sup><a href="https://news.ycombinator.com/item?id=13812878">[2]</a></sup> Lee later described the origin plainly: "Alex and I spent a couple weeks putting together a prototype of the app as a fun side project in between jobs." <sup><a href="https://news.ycombinator.com/item?id=13812878">[3]</a></sup> The company was incorporated as Friendly Finances, Inc. — a name that telegraphed the founders' positioning from the start: approachable, human-centered finance, in deliberate contrast to the clinical dashboards of incumbents like Mint and Personal Capital. <sup><a href="https://www.crunchbase.com/organization/penny-2">[4]</a></sup>
+
+The founding insight was a critique of the existing market. Lee articulated it directly: "Most personal finance apps are built by technical people, for technical people. They have tons of graphs and tables and budgets, which can be overwhelming to people who are just starting out or don't care to get a degree in finance." <sup><a href="https://venturebeat.com/2017/03/15/penny-takes-on-mint-with-a-bot-to-manage-your-money/">[5]</a></sup> The solution was to replace the dashboard paradigm with a conversation — a financial coach that spoke to users in plain language rather than presenting raw data and expecting users to interpret it.
+
+The company followed a methodical public validation arc over roughly two years. Penny's first appearance was a Show HN post in 2015 — the original prototype, before any institutional funding. <sup><a href="https://news.ycombinator.com/item?id=13812878">[6]</a></sup> That post generated enough signal to attract Social Capital, which led the $1.2 million seed round in May 2016. A second Show HN post followed in January 2016, several months after the seed closed. <sup><a href="https://news.ycombinator.com/item?id=13812878">[7]</a></sup> Y Combinator accepted Penny into the Winter 2017 batch, investing $120,000 and providing the network and press infrastructure of the YC ecosystem. <sup><a href="https://www.crunchbase.com/organization/penny-2/signals_and_news">[8]</a></sup>
+
+The team was based in San Francisco, embedded in the fintech and YC community. <sup><a href="https://www.cbinsights.com/company/cbinsights.com/company/penny-app">[9]</a></sup> Lee later reflected that one thing he would have done differently was learn press strategy earlier — suggesting that even with the YC platform, the team underinvested in distribution relative to product development. <sup><a href="https://springwise.com/wise-words-mitchell-lee-emoji-fintech/">[10]</a></sup>
+
+After the Credit Karma acquisition, Lee went on to co-found Arc, a fintech company offering revenue-based financing for SaaS startups — confirming that his interest in financial infrastructure for underserved users extended well beyond Penny. <sup><a href="https://blog.mitchjlee.com/">[11]</a></sup>
+
+<media-hn url="https://news.ycombinator.com/item?id=13812878" title="Launch HN: Penny (YC W17) – a personal finance coach" points="" comments=""></media-hn>
+
+---
 
 ## Timeline
 
@@ -113,7 +106,7 @@ Penny had no active monetization model at the time of its $1.2 million seed roun
 
 The most logical monetization path for Penny, given its user base and data access, would have been financial product referrals: recommending credit cards, personal loans, savings accounts, or insurance products to users based on their spending patterns, and earning a commission on conversions. This is precisely the model that made Credit Karma a multi-billion-dollar business. Penny's conversational interface was arguably better suited to this model than a dashboard — a chat message saying "based on your spending, you might qualify for a better rewards card" is more actionable than a static banner ad. But Penny never built this model before the acquisition. Whether the team had a concrete monetization roadmap, or was still exploring options, is not documented in available sources.
 
----2f:T8ce,
+---2e:T8ce,
 
 ## Traction
 

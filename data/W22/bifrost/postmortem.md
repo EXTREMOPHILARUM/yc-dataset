@@ -2,6 +2,12 @@
 
 ## Overview
 
+Bifrost was a San Francisco-based startup founded in 2021 that built crypto estate planning tools — specifically, smart contracts designed to automatically transfer digital assets upon a holder's death. The company participated in Y Combinator's Winter 2022 batch, receiving the standard $500,000 YC investment, and operated under the tagline "Make sure your crypto outlives you." <sup><a href="https://www.ycombinator.com/companies/bifrost">[1]</a></sup> <sup><a href="https://www.ycombinator.com/companies/bifrost/jobs">[2]</a></sup>
+
+Bifrost failed for reasons that were partly structural and partly catastrophic timing. The company launched a low-urgency product — estate planning — into a high-volatility asset class, then watched its entire addressable market contract as crypto prices collapsed through 2022. The product also imposed a double trust burden on users: trust a four-person startup with irreplaceable digital assets, and simultaneously maintain long-term conviction in crypto as a store of value worth planning around.
+
+The company is now listed as inactive on the YC platform. <sup><a href="https://www.ycombinator.com/companies/bifrost/jobs">[3]</a></sup> Both founders have moved on — one to a GP role at Families Fund, the other to the CEO seat at Ion Design — suggesting a clean wind-down rather than an ongoing restructuring. <sup><a href="https://www.ycombinator.com/companies/bifrost">[4]</a></sup> No acquisition, acqui-hire, or public shutdown announcement has been recorded.
+
 ## Founding Story
 
 Bifrost was founded in 2021, during one of the most euphoric periods in crypto market history. Bitcoin had surpassed $60,000, NFT trading volumes were breaking records monthly, and the aggregate value of crypto assets held by retail investors had reached the trillions. In that environment, a genuine and largely ignored problem came into focus: what happens to your crypto when you die?

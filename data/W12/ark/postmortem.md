@@ -10,6 +10,20 @@ The core thesis of failure is platform dependency: Ark's product was built on Fa
 
 ## Founding Story
 
+Patrick Riley came to Ark through a winding path that combined design, economics, and engineering. Before founding the company, he studied user interface design and economics as a graduate student at UC Berkeley's School of Information.<sup><a href="https://ideamensch.com/patrick-riley/">[1]</a></sup> He had previously worked as a UX Director at AOL, Symantec, and Lithium—roles that gave him a practitioner's view of how social platforms handled identity and discovery.<sup><a href="https://www.ycombinator.com/companies/ark">[2]</a></sup> His co-founder Yiming Liu brought complementary technical depth, with experience at Google and Yahoo! Research.<sup><a href="https://www.ycombinator.com/companies/ark">[3]</a></sup>
+
+<media-image src="https://techcrunch.com/wp-content/uploads/2012/04/ark-seed-round.jpg" alt="Patrick Riley, CEO and co-founder of Ark, photographed for TechCrunch's seed round coverage in April 2012" caption="Patrick Riley, co-founder and CEO of Ark, featured in TechCrunch's April 2012 coverage of the company's record-breaking $4.2 million seed round — described as one of the largest publicly disclosed seed rounds in YC history at the time."></media-image>
+
+A third co-founder, Don McChesney, is listed in company records, though his specific role and contributions are not documented in available sources.<sup><a href="https://tracxn.com/d/companies/ark/__pIx4j4I38afxbht65lDwoj-vfaZ20l0mA1BO330DJnM">[4]</a></sup> The founding CTO was Jonas Templestein—later known as Jonas Huckestein—whose subsequent co-founding of Monzo, the UK digital bank, retrospectively signals just how technically capable the early team was.<sup><a href="https://www.crunchbase.com/person/jonas-huckestein">[5]</a></sup>
+
+The founding insight was rooted in a specific competitive observation. Riley and Liu noticed that Google and Facebook were locked in a rivalry that left a meaningful product gap: neither company would surface the other's data in search results, which meant cross-network people search was effectively broken. As Riley and Liu described it: "We imagined what would Google and Facebook build together if they weren't at war. Someone needed to be Switzerland and build a search engine on top of all the social networks that's completely remodeled for people looking for each other."<sup><a href="https://techcrunch.com/2012/03/25/ark-people-search/">[6]</a></sup> Riley was more direct about the commercial opportunity: "Politics have left open this enormous opportunity."<sup><a href="https://allthingsd.com/20120425/people-search-engine-ark-raises-biggest-y-combinator-seed-round-in-memory/">[7]</a></sup>
+
+The company was formally founded in March 2012 and accepted into Y Combinator's Winter 2012 cohort, which provided the initial $250,000 seed from YC, Yuri Milner, SV Angel, and Andreessen Horowitz.<sup><a href="https://techcrunch.com/2012/03/25/ark-people-search/">[8]</a></sup> The YC program gave the team a forcing function: they launched into private beta on March 26, 2012—the same week as their first press coverage—at ark.com.
+
+One founding-era detail worth noting is a conflicting record on the company's start date. Wikipedia and contemporaneous press sources place founding in March 2012, consistent with the YC W12 cohort. Crunchbase and Tracxn suggest 2010. The March 2012 date aligns with the beta launch and is treated as authoritative here, though the discrepancy is unresolved.
+
+---
+
 ## Timeline
 
 - **January 2012** — Ark participates in Y Combinator Winter 2012 cohort; receives $250K seed from YC, Yuri Milner, SV Angel, and Andreessen Horowitz.<sup>[[8]](https://techcrunch.com/2012/03/25/ark-people-search/)</sup>
@@ -98,7 +112,7 @@ The September 2013 pivot introduced the first clearly articulated revenue model:
 
 Riley's fundraising rationale in April 2012 acknowledged the capital intensity of the business: "It's a really big space, our competition is pretty well funded, and we have larger ambitions. To market something like this you need substantial funds."<sup><a href="https://techcrunch.com/2012/04/25/ark-seed-round/">[23]</a></sup> This suggests the team understood they were in a capital-intensive race, though the absence of a Series A after December 2012 indicates the runway from the $5.32M total raise was finite and not replenished.
 
----2d:T98a,
+---2e:T98a,
 
 ## Traction
 

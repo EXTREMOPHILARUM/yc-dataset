@@ -2,26 +2,16 @@
 
 ## Overview
 
-1:"$Sreact.fragment"
-2:I[39756,["/_next/static/chunks/ff1a16fafef87110.js?dpl=dpl_GwuwmMc2oZNJkz1tEEADs8shECJt","/_next/static/chunks/803a574de9eda7ae.js?dpl=dpl_GwuwmMc2oZNJkz1tEEADs8shECJt"],"default"]
-3:I[8821,["/_next/static/chunks/0d46db6cf73968fd.js?dpl=dpl_GwuwmMc2oZNJkz1tEEADs8shECJt","/_next/static/chunks/5f4dcbc1da431ca9.js?dpl=dpl_GwuwmMc2oZNJkz1tEEADs8shECJt","/_next/static/chunks/33f7e5a25c4fcd0b.js?dpl=dpl_GwuwmMc2oZNJkz1tEEADs8shECJt"],"default"]
-4:I[37457,["/_next/static/chunks/ff1a16fafef87110.js?dpl=dpl_GwuwmMc2oZNJkz1tEEADs8shECJt","/_next/static/chunks/803a574de9eda7ae.js?dpl=dpl_GwuwmMc2oZNJkz1tEEADs8shECJt"],"default"]
-5:I[22016,["/_next/static/chunks/0d46db6cf73968fd.js?dpl=dpl_GwuwmMc2oZNJkz1tEEADs8shECJt","/_next/static/chunks/39ad7020066b4868.js?dpl=dpl_GwuwmMc2oZNJkz1tEEADs8shECJt","/_next/static/chunks/33f7e5a25c4fcd0b.js?dpl=dpl_GwuwmMc2oZNJkz1tEEADs8shECJt"],""]
-6:I[2355,["/_next/static/chunks/0d46db6cf73968fd.js?dpl=dpl_GwuwmMc2oZNJkz1tEEADs8shECJt"],"Analytics"]
-11:I[68027,["/_next/static/chunks/ff1a16fafef87110.js?dpl=dpl_GwuwmMc2oZNJkz1tEEADs8shECJt","/_next/static/chunks/803a574de9eda7ae.js?dpl=dpl_GwuwmMc2oZNJkz1tEEADs8shECJt"],"default"]
-12:I[97367,["/_next/static/chunks/ff1a16fafef87110.js?dpl=dpl_GwuwmMc2oZNJkz1tEEADs8shECJt","/_next/static/chunks/803a574de9eda7ae.js?dpl=dpl_GwuwmMc2oZNJkz1tEEADs8shECJt"],"OutletBoundary"]
-13:"$Sreact.suspense"
-15:I[93539,["/_next/static/chunks/0d46db6cf73968fd.js?dpl=dpl_GwuwmMc2oZNJkz1tEEADs8shECJt","/_next/static/chunks/39ad7020066b4868.js?dpl=dpl_GwuwmMc2oZNJkz1tEEADs8shECJt","/_next/static/chunks/33f7e5a25c4fcd0b.js?dpl=dpl_GwuwmMc2oZNJkz1tEEADs8shECJt"],"ThemeToggle"]
-23:I[97367,["/_next/static/chunks/ff1a16fafef87110.js?dpl=dpl_GwuwmMc2oZNJkz1tEEADs8shECJt","/_next/static/chunks/803a574de9eda7ae.js?dpl=dpl_GwuwmMc2oZNJkz1tEEADs8shECJt"],"ViewportBoundary"]
-25:I[97367,["/_next/static/chunks/ff1a16fafef87110.js?dpl=dpl_GwuwmMc2oZNJkz1tEEADs8shECJt","/_next/static/chunks/803a574de9eda7ae.js?dpl=dpl_GwuwmMc2oZNJkz1tEEADs8shECJt"],"MetadataBoundary"]
-:HL["/_next/static/chunks/8be82ca8498e7d4a.css?dpl=dpl_GwuwmMc2oZNJkz1tEEADs8shECJt","style"]
-:HL["/_next/static/media/1b99372b3eaef0c8-s.p.758e15a8.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
-:HL["/_next/static/media/23b7a97ae3b5c134-s.p.2902b61f.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
-:HL["/_next/static/media/68d403cf9f2c68c5-s.p.f9f15f61.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
-:HL["/_next/static/media/99e609270109b47d-s.p.64b9304e.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
-:HL["/_next/static/media/a7e15459c1805da0-s.p.ec654d65.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
-:HL["/_next/static/media/ea3421846039b7f3-s.p.093205c5.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
-:HL["/_next/static/media/effe91970fc4db64-s.p.19510058.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+Buzzle (legally q&ai Technologies, Inc.) was a New York-based B2B SaaS company that participated in Y Combinator's Summer 2021 batch. <sup><a href="https://www.ycombinator.com/companies/buzzle">[1]</a></sup> The company built an NLP-powered platform that automatically analyzed libraries of recorded sales and customer success calls to surface voice-of-customer trends, competitive signals, and feature request patterns — targeted specifically at product marketing and marketing teams rather than the sales organizations that were the primary buyers for incumbent platforms. <sup><a href="https://www.ycombinator.com/companies/buzzle">[9]</a></sup>
+
+Buzzle failed because it built a narrow analytics layer on top of platforms — Gong, Chorus, and Zoom — that were simultaneously its data sources and its most credible competitive threat. <sup><a href="https://www.buzzle.ai/">[10]</a></sup> As those incumbents expanded their own analytics roadmaps, Buzzle's differentiated value proposition became increasingly vulnerable to absorption, while a three-person team and limited runway left no margin to outrun the platform roadmaps. <sup><a href="https://pitchbook.com/profiles/company/489076-39">[24]</a></sup>
+
+Both co-founders ended their Buzzle tenures in early 2023, approximately two years after founding, with no public shutdown announcement. <sup><a href="https://contactout.com/Adithya-Ramanathan-50625665">[21]</a></sup><sup><a href="https://clay.earth/profile/bhairav-mehta">[22]</a></sup> CEO Bhairav Mehta went on to co-found two subsequent startups, with his most recent venture — CharacterQuilt, an AI marketing platform using first-party data — representing a thematic continuation of Buzzle's core thesis applied to a different layer of the stack. <sup><a href="https://contactout.com/Bhairav-Mehta-36426">[27]</a></sup>
+
+<report-gallery>
+<media-image src="https://avatars.githubusercontent.com/u/5765812?v=4" alt="Bhairav Mehta, Co-Founder & CEO of Buzzle" caption="Bhairav Mehta, Co-Founder & CEO of Buzzle (YC S21). An MIT PhD dropout who had previously published deep learning research at NVIDIA Research and NASA's Jet Propulsion Laboratory, Mehta left academia to build what he described as 'a YC-backed platform to help strategic teams get more out of their call recording libraries.'"></media-image>
+<media-image src="https://bookface-images.s3.amazonaws.com/avatars/b592e10814e8b373a6b761d7362c02dfc6b0d987.jpg" alt="Buzzle YC profile avatar" caption="Buzzle's Y Combinator profile image — the company's primary public identity during its two-year run from 2021 to 2023."></media-image>
+</report-gallery>
 
 ## Founding Story
 

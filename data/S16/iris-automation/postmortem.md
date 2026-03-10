@@ -2,26 +2,17 @@
 
 ## Overview
 
-1:"$Sreact.fragment"
-2:I[39756,["/_next/static/chunks/ff1a16fafef87110.js?dpl=dpl_GwuwmMc2oZNJkz1tEEADs8shECJt","/_next/static/chunks/803a574de9eda7ae.js?dpl=dpl_GwuwmMc2oZNJkz1tEEADs8shECJt"],"default"]
-3:I[8821,["/_next/static/chunks/0d46db6cf73968fd.js?dpl=dpl_GwuwmMc2oZNJkz1tEEADs8shECJt","/_next/static/chunks/5f4dcbc1da431ca9.js?dpl=dpl_GwuwmMc2oZNJkz1tEEADs8shECJt","/_next/static/chunks/33f7e5a25c4fcd0b.js?dpl=dpl_GwuwmMc2oZNJkz1tEEADs8shECJt"],"default"]
-4:I[37457,["/_next/static/chunks/ff1a16fafef87110.js?dpl=dpl_GwuwmMc2oZNJkz1tEEADs8shECJt","/_next/static/chunks/803a574de9eda7ae.js?dpl=dpl_GwuwmMc2oZNJkz1tEEADs8shECJt"],"default"]
-5:I[22016,["/_next/static/chunks/0d46db6cf73968fd.js?dpl=dpl_GwuwmMc2oZNJkz1tEEADs8shECJt","/_next/static/chunks/39ad7020066b4868.js?dpl=dpl_GwuwmMc2oZNJkz1tEEADs8shECJt","/_next/static/chunks/33f7e5a25c4fcd0b.js?dpl=dpl_GwuwmMc2oZNJkz1tEEADs8shECJt"],""]
-6:I[2355,["/_next/static/chunks/0d46db6cf73968fd.js?dpl=dpl_GwuwmMc2oZNJkz1tEEADs8shECJt"],"Analytics"]
-11:I[68027,["/_next/static/chunks/ff1a16fafef87110.js?dpl=dpl_GwuwmMc2oZNJkz1tEEADs8shECJt","/_next/static/chunks/803a574de9eda7ae.js?dpl=dpl_GwuwmMc2oZNJkz1tEEADs8shECJt"],"default"]
-12:I[97367,["/_next/static/chunks/ff1a16fafef87110.js?dpl=dpl_GwuwmMc2oZNJkz1tEEADs8shECJt","/_next/static/chunks/803a574de9eda7ae.js?dpl=dpl_GwuwmMc2oZNJkz1tEEADs8shECJt"],"OutletBoundary"]
-13:"$Sreact.suspense"
-15:I[93539,["/_next/static/chunks/0d46db6cf73968fd.js?dpl=dpl_GwuwmMc2oZNJkz1tEEADs8shECJt","/_next/static/chunks/39ad7020066b4868.js?dpl=dpl_GwuwmMc2oZNJkz1tEEADs8shECJt","/_next/static/chunks/33f7e5a25c4fcd0b.js?dpl=dpl_GwuwmMc2oZNJkz1tEEADs8shECJt"],"ThemeToggle"]
-23:I[97367,["/_next/static/chunks/ff1a16fafef87110.js?dpl=dpl_GwuwmMc2oZNJkz1tEEADs8shECJt","/_next/static/chunks/803a574de9eda7ae.js?dpl=dpl_GwuwmMc2oZNJkz1tEEADs8shECJt"],"ViewportBoundary"]
-25:I[97367,["/_next/static/chunks/ff1a16fafef87110.js?dpl=dpl_GwuwmMc2oZNJkz1tEEADs8shECJt","/_next/static/chunks/803a574de9eda7ae.js?dpl=dpl_GwuwmMc2oZNJkz1tEEADs8shECJt"],"MetadataBoundary"]
-:HL["/_next/static/chunks/8be82ca8498e7d4a.css?dpl=dpl_GwuwmMc2oZNJkz1tEEADs8shECJt","style"]
-:HL["/_next/static/media/1b99372b3eaef0c8-s.p.758e15a8.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
-:HL["/_next/static/media/23b7a97ae3b5c134-s.p.2902b61f.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
-:HL["/_next/static/media/68d403cf9f2c68c5-s.p.f9f15f61.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
-:HL["/_next/static/media/99e609270109b47d-s.p.64b9304e.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
-:HL["/_next/static/media/a7e15459c1805da0-s.p.ec654d65.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
-:HL["/_next/static/media/ea3421846039b7f3-s.p.093205c5.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
-:HL["/_next/static/media/effe91970fc4db64-s.p.19510058.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+Iris Automation was a drone safety software company founded in 2015 by Alexander Harmsen and James Howard in Vancouver, Canada. The company built Casia, a computer vision-based detect-and-avoid (DAA) system that allowed drones to sense and evade non-cooperative aircraft — the critical missing piece for commercial beyond visual line of sight (BVLOS) drone operations. Backed by Bessemer Venture Partners, Sony Innovation Fund, Verizon Ventures, and Y Combinator, Iris raised between $23M and $35M across five rounds and achieved regulatory approvals in nine countries before being acquired by uAvionix in October 2023.<sup><a href="https://www.prnewswire.com/news-releases/iris-automation-closes-13-million-in-series-b-venture-capital-financing-301193235.html">[1]</a></sup>
+
+The company built genuinely superior technology and accumulated more regulatory credibility than almost any peer in the drone safety space. It failed not because the product didn't work, but because the FAA's BVLOS rulemaking process moved far slower than the market required — keeping the addressable commercial market artificially small for the entirety of Iris Automation's independent life. When the 2023 venture capital contraction closed off the Series C runway, the company had no path to profitability at its constrained scale.
+
+The October 2023 acquisition by uAvionix — at an undisclosed price, following a ~46% headcount reduction — was a strategic soft landing rather than a venture-scale exit.<sup><a href="https://uavionix.com/press/a-new-era-for-aviation-safety-and-efficiency-uavionix-acquires-iris-automation/">[2]</a></sup> CEO Jon Damush became CEO of the combined entity, and Casia's non-cooperative detection capability was absorbed into uAvionix's broader airspace safety stack — validating the technology while confirming it was worth more as a feature than as a standalone company.
+
+<report-gallery>
+<media-image src="https://www.aopa.org/-/media/Images/AOPA-Main/News-and-Media/2019/April/drones/0426_iris_founders/0426_iris_founders_1x1.jpg?h=420&w=420&hash=1C6A0ED205CAB8979B20E29CC908560A" alt="Iris Automation founders Alexander Harmsen and James Howard" caption="Co-founders Alexander Harmsen and James Howard, photographed in 2019 around the commercial launch of Casia — the product they had spent four years building toward a regulatory window that would never fully open."></media-image>
+<media-image src="https://i0.wp.com/www.suasnews.com/wp-content/uploads/2018/05/iris-founders-sm.jpg?resize=300%2C210&ssl=1" alt="Iris Automation founders at early company stage" caption="Harmsen and Howard in 2018, the year Bessemer led the Series A — the high-water mark of investor confidence in the BVLOS market's near-term arrival."></media-image>
+<media-image src="https://www.irisonboard.com/wp-content/uploads/2023/05/DroneUp-x-Iris-Automation-1-400x250.png" alt="Iris Automation Casia system deployed on a drone in partnership with DroneUp" caption="A Casia-equipped drone in a DroneUp partnership deployment — one of the commercial integrations that validated the technology but could not scale fast enough to sustain an independent company."></media-image>
+</report-gallery>
 
 ## Founding Story
 

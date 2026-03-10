@@ -2,26 +2,15 @@
 
 ## Overview
 
-1:"$Sreact.fragment"
-2:I[39756,["/_next/static/chunks/ff1a16fafef87110.js?dpl=dpl_GwuwmMc2oZNJkz1tEEADs8shECJt","/_next/static/chunks/803a574de9eda7ae.js?dpl=dpl_GwuwmMc2oZNJkz1tEEADs8shECJt"],"default"]
-3:I[8821,["/_next/static/chunks/0d46db6cf73968fd.js?dpl=dpl_GwuwmMc2oZNJkz1tEEADs8shECJt","/_next/static/chunks/5f4dcbc1da431ca9.js?dpl=dpl_GwuwmMc2oZNJkz1tEEADs8shECJt","/_next/static/chunks/33f7e5a25c4fcd0b.js?dpl=dpl_GwuwmMc2oZNJkz1tEEADs8shECJt"],"default"]
-4:I[37457,["/_next/static/chunks/ff1a16fafef87110.js?dpl=dpl_GwuwmMc2oZNJkz1tEEADs8shECJt","/_next/static/chunks/803a574de9eda7ae.js?dpl=dpl_GwuwmMc2oZNJkz1tEEADs8shECJt"],"default"]
-5:I[22016,["/_next/static/chunks/0d46db6cf73968fd.js?dpl=dpl_GwuwmMc2oZNJkz1tEEADs8shECJt","/_next/static/chunks/39ad7020066b4868.js?dpl=dpl_GwuwmMc2oZNJkz1tEEADs8shECJt","/_next/static/chunks/33f7e5a25c4fcd0b.js?dpl=dpl_GwuwmMc2oZNJkz1tEEADs8shECJt"],""]
-6:I[2355,["/_next/static/chunks/0d46db6cf73968fd.js?dpl=dpl_GwuwmMc2oZNJkz1tEEADs8shECJt"],"Analytics"]
-11:I[68027,["/_next/static/chunks/ff1a16fafef87110.js?dpl=dpl_GwuwmMc2oZNJkz1tEEADs8shECJt","/_next/static/chunks/803a574de9eda7ae.js?dpl=dpl_GwuwmMc2oZNJkz1tEEADs8shECJt"],"default"]
-12:I[97367,["/_next/static/chunks/ff1a16fafef87110.js?dpl=dpl_GwuwmMc2oZNJkz1tEEADs8shECJt","/_next/static/chunks/803a574de9eda7ae.js?dpl=dpl_GwuwmMc2oZNJkz1tEEADs8shECJt"],"OutletBoundary"]
-13:"$Sreact.suspense"
-15:I[93539,["/_next/static/chunks/0d46db6cf73968fd.js?dpl=dpl_GwuwmMc2oZNJkz1tEEADs8shECJt","/_next/static/chunks/39ad7020066b4868.js?dpl=dpl_GwuwmMc2oZNJkz1tEEADs8shECJt","/_next/static/chunks/33f7e5a25c4fcd0b.js?dpl=dpl_GwuwmMc2oZNJkz1tEEADs8shECJt"],"ThemeToggle"]
-23:I[97367,["/_next/static/chunks/ff1a16fafef87110.js?dpl=dpl_GwuwmMc2oZNJkz1tEEADs8shECJt","/_next/static/chunks/803a574de9eda7ae.js?dpl=dpl_GwuwmMc2oZNJkz1tEEADs8shECJt"],"ViewportBoundary"]
-25:I[97367,["/_next/static/chunks/ff1a16fafef87110.js?dpl=dpl_GwuwmMc2oZNJkz1tEEADs8shECJt","/_next/static/chunks/803a574de9eda7ae.js?dpl=dpl_GwuwmMc2oZNJkz1tEEADs8shECJt"],"MetadataBoundary"]
-:HL["/_next/static/chunks/8be82ca8498e7d4a.css?dpl=dpl_GwuwmMc2oZNJkz1tEEADs8shECJt","style"]
-:HL["/_next/static/media/1b99372b3eaef0c8-s.p.758e15a8.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
-:HL["/_next/static/media/23b7a97ae3b5c134-s.p.2902b61f.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
-:HL["/_next/static/media/68d403cf9f2c68c5-s.p.f9f15f61.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
-:HL["/_next/static/media/99e609270109b47d-s.p.64b9304e.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
-:HL["/_next/static/media/a7e15459c1805da0-s.p.ec654d65.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
-:HL["/_next/static/media/ea3421846039b7f3-s.p.093205c5.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
-:HL["/_next/static/media/effe91970fc4db64-s.p.19510058.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+BarSense was founded in Toronto, Canada, by three co-founders: Renat Gataullin (CEO), Martin Drashkov, and Boris Vaisman. Drashkov was 29 years old at the time of the company's public launch in June 2012.<sup><a href="https://archive.canadianbusiness.com/business-news/canadian-made-app-kytephone-makes-phones-and-tablets-kid-proof/">[3]</a></sup> The team relocated to Mountain View, California to participate in Y Combinator's Winter 2012 batch—a common pattern for Canadian startups accepted into YC during that era.<sup><a href="https://www.ycombinator.com/companies/barsense">[1]</a></sup> Boris Vaisman is listed as a co-founder in YC's directory but does not appear in press coverage of the company; his specific role—technical, design, or business—is not documented in available sources.<sup><a href="https://www.ycombinator.com/companies/barsense">[4]</a></sup>
+
+The founding insight did not originate in the children's market. The team initially set out to build a simplified smartphone interface for technophobe seniors—people overwhelmed by the complexity of modern touchscreen devices.<sup><a href="https://archive.canadianbusiness.com/business-news/canadian-made-app-kytephone-makes-phones-and-tablets-kid-proof/">[5]</a></sup> The core technical problem they were solving—how to lock down an Android device so that a non-expert user could not accidentally break it or access unwanted content—turned out to be equally applicable to children. The pivot from seniors to kids appears to have been driven by market timing rather than a personal connection to the problem. As Drashkov explained: "We thought it was pretty obvious that it was only a matter of time until kids started using smartphones."<sup><a href="https://archive.canadianbusiness.com/business-news/canadian-made-app-kytephone-makes-phones-and-tablets-kid-proof/">[6]</a></sup>
+
+Gataullin framed the children's market in terms of the device's appeal to kids rather than parental anxiety: "This is the main motivator as to why kids want a smartphone—it's a big, shiny touchscreen that has lots of games."<sup><a href="https://techcrunch.com/2012/06/12/kytephone-officially-launches-app-to-turn-android-phones-into-kid-proof-devices/">[7]</a></sup> This framing—positioning Kytephone as enabling children's smartphone use rather than restricting it—was a subtle but important product philosophy. The app was not designed to keep children off smartphones; it was designed to make smartphones safe enough that parents would hand one to a child in the first place.
+
+The team entered YC with this pivot already in progress, revealed the product at the W12 Demo Day in early 2012, and moved into beta before the official public launch in June 2012.<sup><a href="https://techcrunch.com/2012/06/12/kytephone-officially-launches-app-to-turn-android-phones-into-kid-proof-devices/">[8]</a></sup> How the three founders met, what professional backgrounds they brought to the company, and whether any of them had children of their own are not documented in available sources.
+
+---
 
 ## Founding Story
 

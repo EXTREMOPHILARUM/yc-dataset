@@ -2,26 +2,25 @@
 
 ## Overview
 
-1:"$Sreact.fragment"
-2:I[39756,["/_next/static/chunks/ff1a16fafef87110.js?dpl=dpl_GwuwmMc2oZNJkz1tEEADs8shECJt","/_next/static/chunks/803a574de9eda7ae.js?dpl=dpl_GwuwmMc2oZNJkz1tEEADs8shECJt"],"default"]
-3:I[8821,["/_next/static/chunks/0d46db6cf73968fd.js?dpl=dpl_GwuwmMc2oZNJkz1tEEADs8shECJt","/_next/static/chunks/5f4dcbc1da431ca9.js?dpl=dpl_GwuwmMc2oZNJkz1tEEADs8shECJt","/_next/static/chunks/33f7e5a25c4fcd0b.js?dpl=dpl_GwuwmMc2oZNJkz1tEEADs8shECJt"],"default"]
-4:I[37457,["/_next/static/chunks/ff1a16fafef87110.js?dpl=dpl_GwuwmMc2oZNJkz1tEEADs8shECJt","/_next/static/chunks/803a574de9eda7ae.js?dpl=dpl_GwuwmMc2oZNJkz1tEEADs8shECJt"],"default"]
-5:I[22016,["/_next/static/chunks/0d46db6cf73968fd.js?dpl=dpl_GwuwmMc2oZNJkz1tEEADs8shECJt","/_next/static/chunks/39ad7020066b4868.js?dpl=dpl_GwuwmMc2oZNJkz1tEEADs8shECJt","/_next/static/chunks/33f7e5a25c4fcd0b.js?dpl=dpl_GwuwmMc2oZNJkz1tEEADs8shECJt"],""]
-6:I[2355,["/_next/static/chunks/0d46db6cf73968fd.js?dpl=dpl_GwuwmMc2oZNJkz1tEEADs8shECJt"],"Analytics"]
-11:I[68027,["/_next/static/chunks/ff1a16fafef87110.js?dpl=dpl_GwuwmMc2oZNJkz1tEEADs8shECJt","/_next/static/chunks/803a574de9eda7ae.js?dpl=dpl_GwuwmMc2oZNJkz1tEEADs8shECJt"],"default"]
-12:I[97367,["/_next/static/chunks/ff1a16fafef87110.js?dpl=dpl_GwuwmMc2oZNJkz1tEEADs8shECJt","/_next/static/chunks/803a574de9eda7ae.js?dpl=dpl_GwuwmMc2oZNJkz1tEEADs8shECJt"],"OutletBoundary"]
-13:"$Sreact.suspense"
-15:I[93539,["/_next/static/chunks/0d46db6cf73968fd.js?dpl=dpl_GwuwmMc2oZNJkz1tEEADs8shECJt","/_next/static/chunks/39ad7020066b4868.js?dpl=dpl_GwuwmMc2oZNJkz1tEEADs8shECJt","/_next/static/chunks/33f7e5a25c4fcd0b.js?dpl=dpl_GwuwmMc2oZNJkz1tEEADs8shECJt"],"ThemeToggle"]
-23:I[97367,["/_next/static/chunks/ff1a16fafef87110.js?dpl=dpl_GwuwmMc2oZNJkz1tEEADs8shECJt","/_next/static/chunks/803a574de9eda7ae.js?dpl=dpl_GwuwmMc2oZNJkz1tEEADs8shECJt"],"ViewportBoundary"]
-25:I[97367,["/_next/static/chunks/ff1a16fafef87110.js?dpl=dpl_GwuwmMc2oZNJkz1tEEADs8shECJt","/_next/static/chunks/803a574de9eda7ae.js?dpl=dpl_GwuwmMc2oZNJkz1tEEADs8shECJt"],"MetadataBoundary"]
-:HL["/_next/static/chunks/8be82ca8498e7d4a.css?dpl=dpl_GwuwmMc2oZNJkz1tEEADs8shECJt","style"]
-:HL["/_next/static/media/1b99372b3eaef0c8-s.p.758e15a8.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
-:HL["/_next/static/media/23b7a97ae3b5c134-s.p.2902b61f.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
-:HL["/_next/static/media/68d403cf9f2c68c5-s.p.f9f15f61.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
-:HL["/_next/static/media/99e609270109b47d-s.p.64b9304e.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
-:HL["/_next/static/media/a7e15459c1805da0-s.p.ec654d65.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
-:HL["/_next/static/media/ea3421846039b7f3-s.p.093205c5.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
-:HL["/_next/static/media/effe91970fc4db64-s.p.19510058.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+Jeremy Rossmann and Ashutosh (Ashu) Desai met as students at Menlo School in Atherton, California, where they bonded over computer science. Both went on to elite universities—Rossmann to MIT, Desai to UCLA—before dropping out to pursue their startup. The decision to leave school was not impulsive. It was contingent on a specific external validation. <sup><a href="https://www.huffpost.com/entry/makeschool-cofounder-ashu_b_6284692">[1]</a></sup>
+
+"We only made the decision to drop out once we got into YC," Desai said. "YC acted as this credential that gave us access to this Silicon Valley network." <sup><a href="https://www.huffpost.com/entry/makeschool-cofounder-ashu_b_6284692">[2]</a></sup>
+
+The founding irony is hard to miss: two founders who needed an institutional credential to justify leaving an institution would spend the next decade arguing that institutional credentials were overrated.
+
+<media-image src="https://inmenlo.com/wp-content/uploads/2014/04/MakeGamesWithUs-founders.jpg" alt="Ashutosh Desai (left) and Jeremy Rossmann, co-founders of MakeGamesWithUs / Make School, photographed together" caption="Co-founders Ashu Desai (left) and Jeremy Rossmann, who met in computer science class at Menlo School, photographed for InMenlo in 2014 when they launched the MakeGamesWithUs Summer Academy. Both dropped out of UCLA and MIT respectively to build the company after getting into YC W12."></media-image>
+
+In 2012, the company they built through YC was modest in scope. MakeGamesWithUs offered CS summer camps for high school and college students and operated as an iOS game publishing platform, helping young developers build and ship games to the App Store. <sup><a href="https://blog.ycombinator.com/makegameswithus-yc-w12-is-turning-high-school/">[3]</a></sup> The product was real, the market was small, and the mission was narrow.
+
+<media-image src="https://techcrunch.com/wp-content/uploads/2012/08/makegameswithus.png" alt="MakeGamesWithUs early product screenshot showing the iOS game publishing platform for student developers" caption="Early product screenshot of MakeGamesWithUs (YC W12), the iOS game publishing platform that helped high school and college students build and publish games to the App Store. The company would later pivot to become Make School."></media-image>
+
+The 2014 pivot changed everything. The company rebranded as Make School and launched a gap year program, signaling a fundamental shift in ambition: from a game-publishing platform to a full alternative to higher education. <sup><a href="https://en.wikipedia.org/wiki/Make_School">[4]</a></sup> The scope expansion was dramatic. Building a summer camp requires a curriculum and some instructors. Building an accredited degree-granting institution requires navigating state licensing, federal financial aid rules, regional accreditation bodies, and consumer protection law—a regulatory surface area the founders appear to have underestimated.
+
+The mission that animated the pivot was explicitly equity-driven. "Our purpose is to create avenues of upward mobility for students of all backgrounds interested in science and technology," Desai said. <sup><a href="https://www.diverseeducation.com/latest-news/article/15103863/diversity-in-tech-make-school-bachelors-program-with-dominican-accredited">[5]</a></sup> Rossmann framed the product vision in terms of student agency: "We founded Make School to empower students to build and ship products. Creating a product that improves the lives of others is a thrilling and fulfilling experience that opens the door to a successful career in tech." <sup><a href="https://www.elitereaders.com/make-school-jeremy-rossman/">[6]</a></sup>
+
+Both statements reflect genuine conviction. Neither anticipated the regulatory collision course the company was already on.
+
+---
 
 ## Founding Story
 

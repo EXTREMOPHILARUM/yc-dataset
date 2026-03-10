@@ -2,27 +2,6 @@
 
 ## Overview
 
-1:"$Sreact.fragment"
-2:I[39756,["/_next/static/chunks/ff1a16fafef87110.js?dpl=dpl_GwuwmMc2oZNJkz1tEEADs8shECJt","/_next/static/chunks/803a574de9eda7ae.js?dpl=dpl_GwuwmMc2oZNJkz1tEEADs8shECJt"],"default"]
-3:I[8821,["/_next/static/chunks/0d46db6cf73968fd.js?dpl=dpl_GwuwmMc2oZNJkz1tEEADs8shECJt","/_next/static/chunks/5f4dcbc1da431ca9.js?dpl=dpl_GwuwmMc2oZNJkz1tEEADs8shECJt","/_next/static/chunks/33f7e5a25c4fcd0b.js?dpl=dpl_GwuwmMc2oZNJkz1tEEADs8shECJt"],"default"]
-4:I[37457,["/_next/static/chunks/ff1a16fafef87110.js?dpl=dpl_GwuwmMc2oZNJkz1tEEADs8shECJt","/_next/static/chunks/803a574de9eda7ae.js?dpl=dpl_GwuwmMc2oZNJkz1tEEADs8shECJt"],"default"]
-5:I[22016,["/_next/static/chunks/0d46db6cf73968fd.js?dpl=dpl_GwuwmMc2oZNJkz1tEEADs8shECJt","/_next/static/chunks/39ad7020066b4868.js?dpl=dpl_GwuwmMc2oZNJkz1tEEADs8shECJt","/_next/static/chunks/33f7e5a25c4fcd0b.js?dpl=dpl_GwuwmMc2oZNJkz1tEEADs8shECJt"],""]
-6:I[2355,["/_next/static/chunks/0d46db6cf73968fd.js?dpl=dpl_GwuwmMc2oZNJkz1tEEADs8shECJt"],"Analytics"]
-11:I[68027,["/_next/static/chunks/ff1a16fafef87110.js?dpl=dpl_GwuwmMc2oZNJkz1tEEADs8shECJt","/_next/static/chunks/803a574de9eda7ae.js?dpl=dpl_GwuwmMc2oZNJkz1tEEADs8shECJt"],"default"]
-12:I[97367,["/_next/static/chunks/ff1a16fafef87110.js?dpl=dpl_GwuwmMc2oZNJkz1tEEADs8shECJt","/_next/static/chunks/803a574de9eda7ae.js?dpl=dpl_GwuwmMc2oZNJkz1tEEADs8shECJt"],"OutletBoundary"]
-13:"$Sreact.suspense"
-15:I[93539,["/_next/static/chunks/0d46db6cf73968fd.js?dpl=dpl_GwuwmMc2oZNJkz1tEEADs8shECJt","/_next/static/chunks/39ad7020066b4868.js?dpl=dpl_GwuwmMc2oZNJkz1tEEADs8shECJt","/_next/static/chunks/33f7e5a25c4fcd0b.js?dpl=dpl_GwuwmMc2oZNJkz1tEEADs8shECJt"],"ThemeToggle"]
-23:I[97367,["/_next/static/chunks/ff1a16fafef87110.js?dpl=dpl_GwuwmMc2oZNJkz1tEEADs8shECJt","/_next/static/chunks/803a574de9eda7ae.js?dpl=dpl_GwuwmMc2oZNJkz1tEEADs8shECJt"],"ViewportBoundary"]
-25:I[97367,["/_next/static/chunks/ff1a16fafef87110.js?dpl=dpl_GwuwmMc2oZNJkz1tEEADs8shECJt","/_next/static/chunks/803a574de9eda7ae.js?dpl=dpl_GwuwmMc2oZNJkz1tEEADs8shECJt"],"MetadataBoundary"]
-:HL["/_next/static/chunks/8be82ca8498e7d4a.css?dpl=dpl_GwuwmMc2oZNJkz1tEEADs8shECJt","style"]
-:HL["/_next/static/media/1b99372b3eaef0c8-s.p.758e15a8.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
-:HL["/_next/static/media/23b7a97ae3b5c134-s.p.2902b61f.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
-:HL["/_next/static/media/68d403cf9f2c68c5-s.p.f9f15f61.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
-:HL["/_next/static/media/99e609270109b47d-s.p.64b9304e.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
-:HL["/_next/static/media/a7e15459c1805da0-s.p.ec654d65.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
-:HL["/_next/static/media/ea3421846039b7f3-s.p.093205c5.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
-:HL["/_next/static/media/effe91970fc4db64-s.p.19510058.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
-
 ## Founding Story
 
 Nik Kotov's path to Atomized began with a different company entirely. In 2019, he started building Frontline, a compliance infrastructure tool designed to help enterprises deploy secure, compliant cloud environments on AWS. <sup><a href="https://nkotov.com/works/atomized">[1]</a></sup> Kotov entered Y Combinator's Summer 2020 batch as a solo founder with Frontline — an unusual position in a program that typically favors co-founding teams. <sup><a href="https://techcrunch.com/2021/05/12/atomized-lands-500k-pre-seed-to-help-developers-deploy-infrastructure-faster/">[2]</a></sup>
@@ -105,7 +84,7 @@ At the time of the pre-seed announcement in May 2021, Atomized had 60 beta custo
 
 The figure is modest but real — 60 teams had connected their GitHub repositories and AWS accounts and were actively using the product. However, the announcement did not specify how many of these were paying customers versus free-tier users, what the conversion rate from beta signup to active deployment was, or what retention looked like. For a PaaS product, the critical metric is not signups but active deployments and monthly active infrastructure — neither of which was disclosed.
 
-The gap between the May 2021 launch and the January 2022 shutdown — eight months — with no further traction announcements suggests the 60 beta customers did not compound into a growth story that could support a seed round. Companies that are growing in this space typically announce milestones publicly; Atomized's silence after the pre-seed announcement is consistent with stagnation, though it cannot be confirmed from public data alone.30:T176f,
+The gap between the May 2021 launch and the January 2022 shutdown — eight months — with no further traction announcements suggests the 60 beta customers did not compound into a growth story that could support a seed round. Companies that are growing in this space typically announce milestones publicly; Atomized's silence after the pre-seed announcement is consistent with stagnation, though it cannot be confirmed from public data alone.2f:T176f,
 
 ## Post-Mortem
 
@@ -133,8 +112,8 @@ The gap between the May 2021 launch and the January 2022 shutdown — eight mont
 8. [YC Twitter: Congratulations to Atomized on launch (April 13, 2021)](https://x.com/ycombinator/status/1382037003894669312)
 9. [RocketReach: Eddie Herbert profile](https://rocketreach.co/eddie-herbert-email_104454844)
 10. [Silicon Florist: Hello Portland — Nik Kotov (November 9, 2023)](https://siliconflorist.com/2023/11/09/hello-portland-startup-community-im-nik-kotov/)
-11. [Medium: Nik Kotov author page](https://medium.com/@nkotov)33:T41e,Atomized was a PaaS startup that operated from 2019 to January 2022, built to let developers deploy application infrastructure on AWS without cloud expertise — it shut down after accumulating seven million lines of custom code on a $500K pre-seed budget, a textbook case of over-engineering consuming runway before the product could find its market.
+11. [Medium: Nik Kotov author page](https://medium.com/@nkotov)32:T41e,Atomized was a PaaS startup that operated from 2019 to January 2022, built to let developers deploy application infrastructure on AWS without cloud expertise — it shut down after accumulating seven million lines of custom code on a $500K pre-seed budget, a textbook case of over-engineering consuming runway before the product could find its market.
 
 The rebuild thesis is simple: everything Atomized tried to build from scratch now exists as composable primitives. AWS CDK, Pulumi, and OpenTofu have matured into reliable infrastructure abstraction layers; LLMs can translate natural language app descriptions into production-ready deployment configurations; and the "bring your own cloud account" architecture Atomized pioneered has become a recognized enterprise requirement rather than a niche differentiator. The new Atomized is a thin, LLM-powered orchestration layer on top of existing IaC tooling — a product that ships in weeks, not years, and targets the compliance-sensitive mid-market segment that AWS's own tools still serve poorly.
 
----34:Ta60,
+---33:Ta60,

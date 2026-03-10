@@ -2,26 +2,19 @@
 
 ## Overview
 
-1:"$Sreact.fragment"
-2:I[39756,["/_next/static/chunks/ff1a16fafef87110.js?dpl=dpl_GwuwmMc2oZNJkz1tEEADs8shECJt","/_next/static/chunks/803a574de9eda7ae.js?dpl=dpl_GwuwmMc2oZNJkz1tEEADs8shECJt"],"default"]
-3:I[8821,["/_next/static/chunks/0d46db6cf73968fd.js?dpl=dpl_GwuwmMc2oZNJkz1tEEADs8shECJt","/_next/static/chunks/5f4dcbc1da431ca9.js?dpl=dpl_GwuwmMc2oZNJkz1tEEADs8shECJt","/_next/static/chunks/33f7e5a25c4fcd0b.js?dpl=dpl_GwuwmMc2oZNJkz1tEEADs8shECJt"],"default"]
-4:I[37457,["/_next/static/chunks/ff1a16fafef87110.js?dpl=dpl_GwuwmMc2oZNJkz1tEEADs8shECJt","/_next/static/chunks/803a574de9eda7ae.js?dpl=dpl_GwuwmMc2oZNJkz1tEEADs8shECJt"],"default"]
-5:I[22016,["/_next/static/chunks/0d46db6cf73968fd.js?dpl=dpl_GwuwmMc2oZNJkz1tEEADs8shECJt","/_next/static/chunks/39ad7020066b4868.js?dpl=dpl_GwuwmMc2oZNJkz1tEEADs8shECJt","/_next/static/chunks/33f7e5a25c4fcd0b.js?dpl=dpl_GwuwmMc2oZNJkz1tEEADs8shECJt"],""]
-6:I[2355,["/_next/static/chunks/0d46db6cf73968fd.js?dpl=dpl_GwuwmMc2oZNJkz1tEEADs8shECJt"],"Analytics"]
-11:I[68027,["/_next/static/chunks/ff1a16fafef87110.js?dpl=dpl_GwuwmMc2oZNJkz1tEEADs8shECJt","/_next/static/chunks/803a574de9eda7ae.js?dpl=dpl_GwuwmMc2oZNJkz1tEEADs8shECJt"],"default"]
-12:I[97367,["/_next/static/chunks/ff1a16fafef87110.js?dpl=dpl_GwuwmMc2oZNJkz1tEEADs8shECJt","/_next/static/chunks/803a574de9eda7ae.js?dpl=dpl_GwuwmMc2oZNJkz1tEEADs8shECJt"],"OutletBoundary"]
-13:"$Sreact.suspense"
-15:I[93539,["/_next/static/chunks/0d46db6cf73968fd.js?dpl=dpl_GwuwmMc2oZNJkz1tEEADs8shECJt","/_next/static/chunks/39ad7020066b4868.js?dpl=dpl_GwuwmMc2oZNJkz1tEEADs8shECJt","/_next/static/chunks/33f7e5a25c4fcd0b.js?dpl=dpl_GwuwmMc2oZNJkz1tEEADs8shECJt"],"ThemeToggle"]
-23:I[97367,["/_next/static/chunks/ff1a16fafef87110.js?dpl=dpl_GwuwmMc2oZNJkz1tEEADs8shECJt","/_next/static/chunks/803a574de9eda7ae.js?dpl=dpl_GwuwmMc2oZNJkz1tEEADs8shECJt"],"ViewportBoundary"]
-25:I[97367,["/_next/static/chunks/ff1a16fafef87110.js?dpl=dpl_GwuwmMc2oZNJkz1tEEADs8shECJt","/_next/static/chunks/803a574de9eda7ae.js?dpl=dpl_GwuwmMc2oZNJkz1tEEADs8shECJt"],"MetadataBoundary"]
-:HL["/_next/static/chunks/8be82ca8498e7d4a.css?dpl=dpl_GwuwmMc2oZNJkz1tEEADs8shECJt","style"]
-:HL["/_next/static/media/1b99372b3eaef0c8-s.p.758e15a8.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
-:HL["/_next/static/media/23b7a97ae3b5c134-s.p.2902b61f.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
-:HL["/_next/static/media/68d403cf9f2c68c5-s.p.f9f15f61.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
-:HL["/_next/static/media/99e609270109b47d-s.p.64b9304e.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
-:HL["/_next/static/media/a7e15459c1805da0-s.p.ec654d65.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
-:HL["/_next/static/media/ea3421846039b7f3-s.p.093205c5.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
-:HL["/_next/static/media/effe91970fc4db64-s.p.19510058.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+Mercator's founding team brought credentials that were, by any measure, unusually strong for an early-stage startup.
+
+Andrew Duberstein spent six years at Uber, accumulating experience across three distinct roles. He began as a data scientist detecting fraud in Uber's China business, then moved into engineering management on the self-driving cars program, and ultimately built pydeck—a geospatial data visualization library that went on to accumulate over 12 million downloads. <sup><a href="https://www.ycombinator.com/companies/mercator">[1]</a></sup> <sup><a href="https://cfp.jupytercon.com/2020/speaker/profile/145/andrew-duberstein/">[2]</a></sup> That combination of applied ML, autonomous vehicle engineering, and open-source geospatial tooling gave Duberstein a rare vantage point on the intersection of location data and developer infrastructure.
+
+Dayton Thorpe arrived from a different direction. He earned a Physics PhD at UC Berkeley, then moved through a sequence of data science roles: Kabbage (2017–2018), Valor Equity Partners (2018–2020), and Instacart (2020–2022). <sup><a href="https://signal.nfx.com/investors/dayton-thorpe">[3]</a></sup> He also holds a patent for optimizing insulin dosing for type 1 diabetics with automated insulin pumps—an indicator of applied quantitative range well beyond typical data science backgrounds. <sup><a href="https://www.mercator.tech/">[4]</a></sup>
+
+The two met on the Instacart data science team, where the shared experience of working with messy location and logistics data appears to have planted the seed for Mercator. <sup><a href="https://www.ycombinator.com/companies/mercator">[5]</a></sup> The company was accepted into Y Combinator's Summer 2022 batch, though it entered the program under a prior name—"Quincy's"—suggesting the founding thesis was still being refined even as the batch began. <sup><a href="https://usefind.ai/companies/mercator">[6]</a></sup>
+
+At the conclusion of the S22 batch, Duberstein announced the company publicly on LinkedIn: *"Excited to announce Mercator with my co-founder Dayton Thorpe as we finish up the Y Combinator S22 batch."* <sup><a href="https://ca.linkedin.com/posts/andrew-duberstein-89633037_deciding-where-to-put-an-ev-charger-or-open-activity-7056375586264403968-2b3i">[7]</a></sup> The initial product was described as a suite of mapping tools for vehicle fleets—real-time tracking, custom geofencing, and a GPS reliability developer API. The framing drew directly on Duberstein's pydeck experience and Thorpe's logistics data background.
+
+What the founding story does not explain is why the company was called "Quincy's" before rebranding, what that earlier concept entailed, or precisely when the decision was made to build for fleet operators specifically. The pivot from "Quincy's" to "Mercator" to "Dubo" traces a company that was searching for its identity from the very beginning.
+
+---
 
 ## Founding Story
 

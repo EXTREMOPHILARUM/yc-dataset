@@ -2,26 +2,16 @@
 
 ## Overview
 
-1:"$Sreact.fragment"
-2:I[39756,["/_next/static/chunks/ff1a16fafef87110.js?dpl=dpl_GwuwmMc2oZNJkz1tEEADs8shECJt","/_next/static/chunks/803a574de9eda7ae.js?dpl=dpl_GwuwmMc2oZNJkz1tEEADs8shECJt"],"default"]
-3:I[8821,["/_next/static/chunks/0d46db6cf73968fd.js?dpl=dpl_GwuwmMc2oZNJkz1tEEADs8shECJt","/_next/static/chunks/5f4dcbc1da431ca9.js?dpl=dpl_GwuwmMc2oZNJkz1tEEADs8shECJt","/_next/static/chunks/33f7e5a25c4fcd0b.js?dpl=dpl_GwuwmMc2oZNJkz1tEEADs8shECJt"],"default"]
-4:I[37457,["/_next/static/chunks/ff1a16fafef87110.js?dpl=dpl_GwuwmMc2oZNJkz1tEEADs8shECJt","/_next/static/chunks/803a574de9eda7ae.js?dpl=dpl_GwuwmMc2oZNJkz1tEEADs8shECJt"],"default"]
-5:I[22016,["/_next/static/chunks/0d46db6cf73968fd.js?dpl=dpl_GwuwmMc2oZNJkz1tEEADs8shECJt","/_next/static/chunks/39ad7020066b4868.js?dpl=dpl_GwuwmMc2oZNJkz1tEEADs8shECJt","/_next/static/chunks/33f7e5a25c4fcd0b.js?dpl=dpl_GwuwmMc2oZNJkz1tEEADs8shECJt"],""]
-6:I[2355,["/_next/static/chunks/0d46db6cf73968fd.js?dpl=dpl_GwuwmMc2oZNJkz1tEEADs8shECJt"],"Analytics"]
-11:I[68027,["/_next/static/chunks/ff1a16fafef87110.js?dpl=dpl_GwuwmMc2oZNJkz1tEEADs8shECJt","/_next/static/chunks/803a574de9eda7ae.js?dpl=dpl_GwuwmMc2oZNJkz1tEEADs8shECJt"],"default"]
-12:I[97367,["/_next/static/chunks/ff1a16fafef87110.js?dpl=dpl_GwuwmMc2oZNJkz1tEEADs8shECJt","/_next/static/chunks/803a574de9eda7ae.js?dpl=dpl_GwuwmMc2oZNJkz1tEEADs8shECJt"],"OutletBoundary"]
-13:"$Sreact.suspense"
-15:I[93539,["/_next/static/chunks/0d46db6cf73968fd.js?dpl=dpl_GwuwmMc2oZNJkz1tEEADs8shECJt","/_next/static/chunks/39ad7020066b4868.js?dpl=dpl_GwuwmMc2oZNJkz1tEEADs8shECJt","/_next/static/chunks/33f7e5a25c4fcd0b.js?dpl=dpl_GwuwmMc2oZNJkz1tEEADs8shECJt"],"ThemeToggle"]
-23:I[97367,["/_next/static/chunks/ff1a16fafef87110.js?dpl=dpl_GwuwmMc2oZNJkz1tEEADs8shECJt","/_next/static/chunks/803a574de9eda7ae.js?dpl=dpl_GwuwmMc2oZNJkz1tEEADs8shECJt"],"ViewportBoundary"]
-25:I[97367,["/_next/static/chunks/ff1a16fafef87110.js?dpl=dpl_GwuwmMc2oZNJkz1tEEADs8shECJt","/_next/static/chunks/803a574de9eda7ae.js?dpl=dpl_GwuwmMc2oZNJkz1tEEADs8shECJt"],"MetadataBoundary"]
-:HL["/_next/static/chunks/8be82ca8498e7d4a.css?dpl=dpl_GwuwmMc2oZNJkz1tEEADs8shECJt","style"]
-:HL["/_next/static/media/1b99372b3eaef0c8-s.p.758e15a8.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
-:HL["/_next/static/media/23b7a97ae3b5c134-s.p.2902b61f.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
-:HL["/_next/static/media/68d403cf9f2c68c5-s.p.f9f15f61.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
-:HL["/_next/static/media/99e609270109b47d-s.p.64b9304e.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
-:HL["/_next/static/media/a7e15459c1805da0-s.p.ec654d65.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
-:HL["/_next/static/media/ea3421846039b7f3-s.p.093205c5.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
-:HL["/_next/static/media/effe91970fc4db64-s.p.19510058.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+Jasmine Energy was a Washington, DC-based climate tech startup founded in 2022 and accepted into Y Combinator's Summer 2022 batch. The company set out to modernize the Renewable Energy Certificate (REC) market — a $5–10 billion segment of the clean energy economy where solar owners earn tradeable credits for the electricity they generate. Over three years, Jasmine executed two distinct product pivots: first building a blockchain-based DeFi marketplace for RECs, then rebuilding as an AI-powered compliance automation platform targeting residential and commercial solar owners who were missing out on REC income due to manual, utility-centric registration processes.
+
+Jasmine failed to achieve product-market fit across either iteration. The blockchain product attracted crypto-native partners rather than energy-industry customers; the AI pivot addressed a genuine pain point but targeted a fragmented, low-urgency customer base that had never been successfully aggregated at scale. The company likely exhausted its ~$2.5–3M in seed funding before the AI product could generate meaningful commercial traction.
+
+YC lists Jasmine as "Inactive" with no acquisition, shutdown announcement, or founder post-mortem on record. The website remained live as of mid-2025, and the founders launched on both Hacker News and Product Hunt in April 2025 — suggesting a gradual wind-down rather than a clean shutdown event. No follow-on funding was found beyond the 2022 seed round.
+
+<report-gallery>
+<media-image src="https://media.licdn.com/dms/image/v2/D5603AQELBfVAk_Ua7w/profile-displayphoto-shrink_200_200/profile-displayphoto-shrink_200_200/0/1694884977419?e=2147483647&v=beta&t=cRCVpbMhVhMm2LuPZ8id5OmjGzW3qwdHh_rHy3PQW7k" alt="Nathalie Capati, Co-Founder and CEO of Jasmine Energy" caption="Nathalie Capati, Co-Founder and CEO — a Forbes 30 Under 30 Energy awardee and former Apple engineer whose hardware background shaped Jasmine's early vision of a globally-coordinated renewable energy market."></media-image>
+<media-image src="https://www.earthbot.io/content/images/jasmine.jpg" alt="Jasmine Energy product interface" caption="Jasmine Energy's platform interface — the company's final AI-powered iteration promised to automate REC registration and compliance filings that had historically required weeks of manual work."></media-image>
+</report-gallery>
 
 ## Founding Story
 

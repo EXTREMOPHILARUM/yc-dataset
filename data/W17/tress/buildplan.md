@@ -6,7 +6,7 @@ Tress 2026 is a stylist-first booking and discovery platform for Black women see
 
 The market shift is simple: creator platforms now monetize through transactions, not scale. TikTok proved short-form video discovery works; Shopify proved embedded commerce works; and the natural hair market has matured into a $9B+ category with established demand. Tress can win by being the only platform that combines all three—discovery feed, verified stylist booking, and product commerce—in one place built specifically for this community.
 
-Go-to-market is stylist-led, not consumer-led. Recruit 50 anchor stylists per city (Atlanta, Houston, DC) before launch, give them free verified profiles and first-mover advantage, and let them bring their clients. Stylists pay 12% commission on bookings. No ads. No scale requirement. Just transaction revenue from day one.34:T93b,
+Go-to-market is stylist-led, not consumer-led. Recruit 50 anchor stylists per city (Atlanta, Houston, DC) before launch, give them free verified profiles and first-mover advantage, and let them bring their clients. Stylists pay 12% commission on bookings. No ads. No scale requirement. Just transaction revenue from day one.35:T93b,
 
 ## Why Now?
 

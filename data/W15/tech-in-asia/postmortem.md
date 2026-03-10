@@ -2,26 +2,16 @@
 
 ## Overview
 
-1:"$Sreact.fragment"
-2:I[39756,["/_next/static/chunks/ff1a16fafef87110.js?dpl=dpl_GwuwmMc2oZNJkz1tEEADs8shECJt","/_next/static/chunks/803a574de9eda7ae.js?dpl=dpl_GwuwmMc2oZNJkz1tEEADs8shECJt"],"default"]
-3:I[8821,["/_next/static/chunks/0d46db6cf73968fd.js?dpl=dpl_GwuwmMc2oZNJkz1tEEADs8shECJt","/_next/static/chunks/5f4dcbc1da431ca9.js?dpl=dpl_GwuwmMc2oZNJkz1tEEADs8shECJt","/_next/static/chunks/33f7e5a25c4fcd0b.js?dpl=dpl_GwuwmMc2oZNJkz1tEEADs8shECJt"],"default"]
-4:I[37457,["/_next/static/chunks/ff1a16fafef87110.js?dpl=dpl_GwuwmMc2oZNJkz1tEEADs8shECJt","/_next/static/chunks/803a574de9eda7ae.js?dpl=dpl_GwuwmMc2oZNJkz1tEEADs8shECJt"],"default"]
-5:I[22016,["/_next/static/chunks/0d46db6cf73968fd.js?dpl=dpl_GwuwmMc2oZNJkz1tEEADs8shECJt","/_next/static/chunks/39ad7020066b4868.js?dpl=dpl_GwuwmMc2oZNJkz1tEEADs8shECJt","/_next/static/chunks/33f7e5a25c4fcd0b.js?dpl=dpl_GwuwmMc2oZNJkz1tEEADs8shECJt"],""]
-6:I[2355,["/_next/static/chunks/0d46db6cf73968fd.js?dpl=dpl_GwuwmMc2oZNJkz1tEEADs8shECJt"],"Analytics"]
-11:I[68027,["/_next/static/chunks/ff1a16fafef87110.js?dpl=dpl_GwuwmMc2oZNJkz1tEEADs8shECJt","/_next/static/chunks/803a574de9eda7ae.js?dpl=dpl_GwuwmMc2oZNJkz1tEEADs8shECJt"],"default"]
-12:I[97367,["/_next/static/chunks/ff1a16fafef87110.js?dpl=dpl_GwuwmMc2oZNJkz1tEEADs8shECJt","/_next/static/chunks/803a574de9eda7ae.js?dpl=dpl_GwuwmMc2oZNJkz1tEEADs8shECJt"],"OutletBoundary"]
-13:"$Sreact.suspense"
-15:I[93539,["/_next/static/chunks/0d46db6cf73968fd.js?dpl=dpl_GwuwmMc2oZNJkz1tEEADs8shECJt","/_next/static/chunks/39ad7020066b4868.js?dpl=dpl_GwuwmMc2oZNJkz1tEEADs8shECJt","/_next/static/chunks/33f7e5a25c4fcd0b.js?dpl=dpl_GwuwmMc2oZNJkz1tEEADs8shECJt"],"ThemeToggle"]
-23:I[97367,["/_next/static/chunks/ff1a16fafef87110.js?dpl=dpl_GwuwmMc2oZNJkz1tEEADs8shECJt","/_next/static/chunks/803a574de9eda7ae.js?dpl=dpl_GwuwmMc2oZNJkz1tEEADs8shECJt"],"ViewportBoundary"]
-25:I[97367,["/_next/static/chunks/ff1a16fafef87110.js?dpl=dpl_GwuwmMc2oZNJkz1tEEADs8shECJt","/_next/static/chunks/803a574de9eda7ae.js?dpl=dpl_GwuwmMc2oZNJkz1tEEADs8shECJt"],"MetadataBoundary"]
-:HL["/_next/static/chunks/8be82ca8498e7d4a.css?dpl=dpl_GwuwmMc2oZNJkz1tEEADs8shECJt","style"]
-:HL["/_next/static/media/1b99372b3eaef0c8-s.p.758e15a8.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
-:HL["/_next/static/media/23b7a97ae3b5c134-s.p.2902b61f.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
-:HL["/_next/static/media/68d403cf9f2c68c5-s.p.f9f15f61.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
-:HL["/_next/static/media/99e609270109b47d-s.p.64b9304e.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
-:HL["/_next/static/media/a7e15459c1805da0-s.p.ec654d65.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
-:HL["/_next/static/media/ea3421846039b7f3-s.p.093205c5.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
-:HL["/_next/static/media/effe91970fc4db64-s.p.19510058.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+Tech in Asia began in 2010 as a student blog called Penn Olson, founded by Willis Wee during his third year at Singapore Management University. Over the following decade, it grew into the dominant English-language technology media brand for Southeast Asia, operating a news platform, a startup data product (Techlist), annual conferences (Startup Asia), a recruitment business, and eventually a subscription paywall. At its peak, the company employed roughly 90 people across Singapore, Indonesia, and other APAC markets and had raised approximately $13 million from investors including SoftBank, Eduardo Saverin, East Ventures, and Hanwha.<sup><a href="https://www.asiatechreview.com/p/tech-in-asia-gets-the-exit-and-acquirer">[1]</a></sup>
+
+The company failed to achieve venture-scale returns not because the editorial product was bad — it was genuinely valuable and eventually profitable — but because media businesses in emerging markets generate revenue at a scale structurally incompatible with VC return expectations. Every pivot Tech in Asia attempted over thirteen years (Techlist, recruitment, ICO, paywall) was an effort to escape that ceiling, and none achieved the growth rate needed to justify the capital raised.
+
+In January 2024, SPH Media — the legacy print incumbent behind The Straits Times and The Business Times — completed its acquisition of Tech in Asia for a reported $30 million.<sup><a href="https://www.asiatechreview.com/p/tech-in-asia-gets-the-exit-and-acquirer">[2]</a></sup> All investors were reported to be above water on a roughly $13 million total raise, making the outcome technically positive but modest for a thirteen-year-old VC-backed company. Willis Wee's announcement emphasized "stability" and "liquidity for shareholders" — the language of relief, not triumph.<sup><a href="https://mothership.sg/2023/11/sph-media-acquires-tech-in-asia/">[3]</a></sup>
+
+<report-gallery>
+<media-image src="https://techcrunch.com/wp-content/uploads/2018/09/tech-in-asia.jpg" alt="Tech in Asia logo and branding from TechCrunch's 2018 article" caption="Tech in Asia's brand as featured in TechCrunch's September 2018 exposé — the moment the company's canceled ICO, mass layoffs, and desperate pivot to subscriptions became public knowledge."></media-image>
+<media-image src="https://cdn-microsites.techinasia.com/rfm.techinasia.com/uploads/2024/03/1.jpg" alt="Tech in Asia's Regional Founders Meetup" caption="Tech in Asia's Regional Founders Meetup — the events business was one of the company's most durable revenue streams, surviving long after Techlist and the recruitment pivot had faded."></media-image>
+</report-gallery>
 
 ## Founding Story
 

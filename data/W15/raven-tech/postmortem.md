@@ -2,26 +2,19 @@
 
 ## Overview
 
-1:"$Sreact.fragment"
-2:I[39756,["/_next/static/chunks/ff1a16fafef87110.js?dpl=dpl_GwuwmMc2oZNJkz1tEEADs8shECJt","/_next/static/chunks/803a574de9eda7ae.js?dpl=dpl_GwuwmMc2oZNJkz1tEEADs8shECJt"],"default"]
-3:I[8821,["/_next/static/chunks/0d46db6cf73968fd.js?dpl=dpl_GwuwmMc2oZNJkz1tEEADs8shECJt","/_next/static/chunks/5f4dcbc1da431ca9.js?dpl=dpl_GwuwmMc2oZNJkz1tEEADs8shECJt","/_next/static/chunks/33f7e5a25c4fcd0b.js?dpl=dpl_GwuwmMc2oZNJkz1tEEADs8shECJt"],"default"]
-4:I[37457,["/_next/static/chunks/ff1a16fafef87110.js?dpl=dpl_GwuwmMc2oZNJkz1tEEADs8shECJt","/_next/static/chunks/803a574de9eda7ae.js?dpl=dpl_GwuwmMc2oZNJkz1tEEADs8shECJt"],"default"]
-5:I[22016,["/_next/static/chunks/0d46db6cf73968fd.js?dpl=dpl_GwuwmMc2oZNJkz1tEEADs8shECJt","/_next/static/chunks/39ad7020066b4868.js?dpl=dpl_GwuwmMc2oZNJkz1tEEADs8shECJt","/_next/static/chunks/33f7e5a25c4fcd0b.js?dpl=dpl_GwuwmMc2oZNJkz1tEEADs8shECJt"],""]
-6:I[2355,["/_next/static/chunks/0d46db6cf73968fd.js?dpl=dpl_GwuwmMc2oZNJkz1tEEADs8shECJt"],"Analytics"]
-11:I[68027,["/_next/static/chunks/ff1a16fafef87110.js?dpl=dpl_GwuwmMc2oZNJkz1tEEADs8shECJt","/_next/static/chunks/803a574de9eda7ae.js?dpl=dpl_GwuwmMc2oZNJkz1tEEADs8shECJt"],"default"]
-12:I[97367,["/_next/static/chunks/ff1a16fafef87110.js?dpl=dpl_GwuwmMc2oZNJkz1tEEADs8shECJt","/_next/static/chunks/803a574de9eda7ae.js?dpl=dpl_GwuwmMc2oZNJkz1tEEADs8shECJt"],"OutletBoundary"]
-13:"$Sreact.suspense"
-15:I[93539,["/_next/static/chunks/0d46db6cf73968fd.js?dpl=dpl_GwuwmMc2oZNJkz1tEEADs8shECJt","/_next/static/chunks/39ad7020066b4868.js?dpl=dpl_GwuwmMc2oZNJkz1tEEADs8shECJt","/_next/static/chunks/33f7e5a25c4fcd0b.js?dpl=dpl_GwuwmMc2oZNJkz1tEEADs8shECJt"],"ThemeToggle"]
-23:I[97367,["/_next/static/chunks/ff1a16fafef87110.js?dpl=dpl_GwuwmMc2oZNJkz1tEEADs8shECJt","/_next/static/chunks/803a574de9eda7ae.js?dpl=dpl_GwuwmMc2oZNJkz1tEEADs8shECJt"],"ViewportBoundary"]
-25:I[97367,["/_next/static/chunks/ff1a16fafef87110.js?dpl=dpl_GwuwmMc2oZNJkz1tEEADs8shECJt","/_next/static/chunks/803a574de9eda7ae.js?dpl=dpl_GwuwmMc2oZNJkz1tEEADs8shECJt"],"MetadataBoundary"]
-:HL["/_next/static/chunks/8be82ca8498e7d4a.css?dpl=dpl_GwuwmMc2oZNJkz1tEEADs8shECJt","style"]
-:HL["/_next/static/media/1b99372b3eaef0c8-s.p.758e15a8.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
-:HL["/_next/static/media/23b7a97ae3b5c134-s.p.2902b61f.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
-:HL["/_next/static/media/68d403cf9f2c68c5-s.p.f9f15f61.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
-:HL["/_next/static/media/99e609270109b47d-s.p.64b9304e.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
-:HL["/_next/static/media/a7e15459c1805da0-s.p.ec654d65.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
-:HL["/_next/static/media/ea3421846039b7f3-s.p.093205c5.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
-:HL["/_next/static/media/effe91970fc4db64-s.p.19510058.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+Jesse Lyu (Lyu Cheng) founded Raven Tech in Beijing in May 2014.<sup><a href="https://www.linkedin.com/company/%E6%B8%A1%E9%B8%A6%E7%A7%91%E6%8A%80">[1]</a></sup> Lyu was in his mid-twenties at the time, and would go on to be recognized on both Forbes China's and Forbes Asia's 30 Under 30 lists for Consumer Tech in 2015 and 2016 respectively.<sup><a href="https://kitrum.com/blog/the-inspiring-journey-of-jesse-lyu-ceo-and-founder-of-rabbit-inc/">[2]</a></sup> The public record does not identify co-founders; Raven Tech appears to have been built around Lyu as the singular driving force.
+
+The founding insight was straightforward but radical: the smartphone's app-grid model was fundamentally broken for complex tasks. If a user wanted to book a restaurant, get a taxi there, and buy movie tickets afterward, they had to switch between three or four apps, re-entering context at each step. Lyu's thesis was that a natural language interface could collapse this into a single conversational exchange—what the company called a "shell-free architecture," where the OS surfaces answers and actions directly rather than launching individual apps.<sup><a href="https://www.linkedin.com/company/%E6%B8%A1%E9%B8%A6%E7%A7%91%E6%8A%80">[3]</a></sup>
+
+The company's early momentum was exceptional. Within one month of founding, Raven Tech was selected as the fifth alumni of the Microsoft Venture Accelerator in June 2014.<sup><a href="https://m.huxiu.com/article/106102.html">[4]</a></sup> By January 2015, Lyu had secured a $3M angel investment following a one-minute pitch on 36Kr's WISE TALK television program—a story that circulated widely in Chinese tech media and signaled both the ambient hype around voice AI and Lyu's considerable salesmanship.<sup><a href="https://m.huxiu.com/article/106102.html">[5]</a></sup>
+
+The company's most prestigious validation came in March 2015, when Raven Tech presented at Y Combinator's Winter 2015 Demo Day—as the only startup from mainland China in the entire batch.<sup><a href="https://www.ycombinator.com/companies/raven-tech">[6]</a></sup> The dual-accelerator pedigree (Microsoft and YC) was unusual for any startup, let alone a seed-stage Chinese company. By the time of its acquisition, Raven Tech had raised approximately $18M in total from a syndicate that included Y Combinator, Matrix Partners China, ZhenFund, DCM Ventures, and MSA Capital.<sup><a href="https://www.chinadaily.com.cn/business/tech/2017-02/16/content_28227530.htm">[7]</a></sup> <sup><a href="https://www.cbinsights.com/company/chenglv">[8]</a></sup>
+
+<media-image src="https://www.fastcompany.com/wp-content/uploads/2024/01/p-1-90994498-rabbit-r1-design.jpg" alt="Fast Company feature on Jesse Lyu and Rabbit R1, with background on his Raven Tech founding story" caption="Fast Company's deep-dive feature on Jesse Lyu traces his journey from founding Raven Tech in 2014 through the Baidu acquisition to Rabbit Inc. The article notes that 'few people knew' Lyu had 'founded an early AI company called Raven Tech that sold to the Chinese giant Baidu in 2017.'"></media-image>
+
+Lyu's vision was explicitly maximalist. He described the market for next-generation operating systems as dominated by two entrenched platforms that would force any challenger into "infinite loops of competition."<sup><a href="https://www.cbinsights.com/company/chenglv">[9]</a></sup> His answer was not to build a better app, but to eliminate the app layer entirely. That ambition would define both the company's appeal to investors and its eventual undoing inside Baidu.
+
+---
 
 ## Founding Story
 

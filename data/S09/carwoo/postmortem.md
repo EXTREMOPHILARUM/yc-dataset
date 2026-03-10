@@ -10,26 +10,19 @@ Its better-capitalized rival TrueCar converged on a structurally simpler model �
 
 ## Founding Story
 
-1:"$Sreact.fragment"
-2:I[39756,["/_next/static/chunks/ff1a16fafef87110.js?dpl=dpl_GwuwmMc2oZNJkz1tEEADs8shECJt","/_next/static/chunks/803a574de9eda7ae.js?dpl=dpl_GwuwmMc2oZNJkz1tEEADs8shECJt"],"default"]
-3:I[8821,["/_next/static/chunks/0d46db6cf73968fd.js?dpl=dpl_GwuwmMc2oZNJkz1tEEADs8shECJt","/_next/static/chunks/5f4dcbc1da431ca9.js?dpl=dpl_GwuwmMc2oZNJkz1tEEADs8shECJt","/_next/static/chunks/33f7e5a25c4fcd0b.js?dpl=dpl_GwuwmMc2oZNJkz1tEEADs8shECJt"],"default"]
-4:I[37457,["/_next/static/chunks/ff1a16fafef87110.js?dpl=dpl_GwuwmMc2oZNJkz1tEEADs8shECJt","/_next/static/chunks/803a574de9eda7ae.js?dpl=dpl_GwuwmMc2oZNJkz1tEEADs8shECJt"],"default"]
-5:I[22016,["/_next/static/chunks/0d46db6cf73968fd.js?dpl=dpl_GwuwmMc2oZNJkz1tEEADs8shECJt","/_next/static/chunks/39ad7020066b4868.js?dpl=dpl_GwuwmMc2oZNJkz1tEEADs8shECJt","/_next/static/chunks/33f7e5a25c4fcd0b.js?dpl=dpl_GwuwmMc2oZNJkz1tEEADs8shECJt"],""]
-6:I[2355,["/_next/static/chunks/0d46db6cf73968fd.js?dpl=dpl_GwuwmMc2oZNJkz1tEEADs8shECJt"],"Analytics"]
-11:I[68027,["/_next/static/chunks/ff1a16fafef87110.js?dpl=dpl_GwuwmMc2oZNJkz1tEEADs8shECJt","/_next/static/chunks/803a574de9eda7ae.js?dpl=dpl_GwuwmMc2oZNJkz1tEEADs8shECJt"],"default"]
-12:I[97367,["/_next/static/chunks/ff1a16fafef87110.js?dpl=dpl_GwuwmMc2oZNJkz1tEEADs8shECJt","/_next/static/chunks/803a574de9eda7ae.js?dpl=dpl_GwuwmMc2oZNJkz1tEEADs8shECJt"],"OutletBoundary"]
-13:"$Sreact.suspense"
-15:I[93539,["/_next/static/chunks/0d46db6cf73968fd.js?dpl=dpl_GwuwmMc2oZNJkz1tEEADs8shECJt","/_next/static/chunks/39ad7020066b4868.js?dpl=dpl_GwuwmMc2oZNJkz1tEEADs8shECJt","/_next/static/chunks/33f7e5a25c4fcd0b.js?dpl=dpl_GwuwmMc2oZNJkz1tEEADs8shECJt"],"ThemeToggle"]
-23:I[97367,["/_next/static/chunks/ff1a16fafef87110.js?dpl=dpl_GwuwmMc2oZNJkz1tEEADs8shECJt","/_next/static/chunks/803a574de9eda7ae.js?dpl=dpl_GwuwmMc2oZNJkz1tEEADs8shECJt"],"ViewportBoundary"]
-25:I[97367,["/_next/static/chunks/ff1a16fafef87110.js?dpl=dpl_GwuwmMc2oZNJkz1tEEADs8shECJt","/_next/static/chunks/803a574de9eda7ae.js?dpl=dpl_GwuwmMc2oZNJkz1tEEADs8shECJt"],"MetadataBoundary"]
-:HL["/_next/static/chunks/8be82ca8498e7d4a.css?dpl=dpl_GwuwmMc2oZNJkz1tEEADs8shECJt","style"]
-:HL["/_next/static/media/1b99372b3eaef0c8-s.p.758e15a8.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
-:HL["/_next/static/media/23b7a97ae3b5c134-s.p.2902b61f.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
-:HL["/_next/static/media/68d403cf9f2c68c5-s.p.f9f15f61.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
-:HL["/_next/static/media/99e609270109b47d-s.p.64b9304e.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
-:HL["/_next/static/media/a7e15459c1805da0-s.p.ec654d65.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
-:HL["/_next/static/media/ea3421846039b7f3-s.p.093205c5.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
-:HL["/_next/static/media/effe91970fc4db64-s.p.19510058.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+Tommy McClung, Erik Landerholm, and Michael Young founded CarWoo in 2008 in Burlingame, California. <sup><a href="https://www.prnewswire.com/news-releases/carwoo-new-service-to-transform-car-buying-closes-series-a-funding-104863194.html">[1]</a></sup> McClung, who served as President and CEO, was a serial entrepreneur who had previously co-founded IMSafer, a teen driver safety platform. <sup><a href="https://en.wikipedia.org/wiki/CarWoo">[2]</a></sup> Landerholm served as CTO. <sup><a href="https://www.prnewswire.com/news-releases/carwoocom-transforms-car-buying-the-best-way-to-buy-a-new-car-online-104863139.html">[3]</a></sup> By their own admission, the founding team had no prior experience in the automotive industry when they started the company. <sup><a href="https://techcrunch.com/2011/12/14/carwoo-raises-6-million-to-spare-you-the-car-dealership-blues/">[4]</a></sup>
+
+The founding insight was personal. McClung's own car-buying experience had generated spam and harassment rather than competitive offers — a frustration familiar to nearly every American who has shopped for a vehicle. As McClung described it at launch: *"when I bought my last car, the experience was horrible. I did my research online...but when it came time to actually locate and buy the car all I got was spam email and phone calls from dealers."* <sup><a href="https://www.prnewswire.com/news-releases/carwoocom-transforms-car-buying-the-best-way-to-buy-a-new-car-online-104863139.html">[5]</a></sup>
+
+Landerholm contributed a complementary insight from the dealer side. He recognized that dealers were equally frustrated with the status quo: *"We found that dealers were frustrated too. They are burdened with outdated systems that don't work any better for them than they do for the buyers."* <sup><a href="https://www.prnewswire.com/news-releases/carwoocom-transforms-car-buying-the-best-way-to-buy-a-new-car-online-104863139.html">[6]</a></sup> This bilateral framing — that the problem was genuinely two-sided — shaped the product architecture from the start.
+
+<media-image src="https://www.inc.com/uploaded_files/image/1940x900/carwoo_47393.jpg" alt="CarWoo founders Tommy McClung and team, as featured in Inc. Magazine post-mortem article" caption="Image from Inc. Magazine's post-mortem feature 'How CarWoo's Business Stalled' — covering CEO Tommy McClung's account of the decision to shut down and the asset acquisition by TrueCar."></media-image>
+
+CarWoo joined Y Combinator's Summer 2009 batch, receiving seed capital and mentorship that provided early validation and access to the Bay Area startup network. <sup><a href="https://techcrunch.com/2011/12/14/carwoo-raises-6-million-to-spare-you-the-car-dealership-blues/">[4]</a></sup> The company assembled an unusually credentialed advisory board for a pre-launch startup: Rob Chesney (former VP/GM of eBay Motors), Dillon McDonald (former COO of Jumpstart Automotive), Tom Taira (CEO of Honk.com and co-founder of TrueCar), Jeff Fluhr (founder and former CEO of StubHub), and Michael Yang (former VP/GM of Yahoo Autos). <sup><a href="https://www.prnewswire.com/news-releases/carwoocom-transforms-car-buying-the-best-way-to-buy-a-new-car-online-104863139.html">[7]</a></sup> The presence of a TrueCar co-founder on CarWoo's advisory board is a notable irony given how the story ended. Early employees were recruited from automotive internet companies including CarsDirect. <sup><a href="https://www.carbuyingtips.com/articles/blog/carwoo-runs-out-of-investment-cash.htm">[8]</a></sup>
+
+The company spent approximately two years in development before its public launch in October 2010, though no detail has surfaced about what was built or tested during that pre-launch period.
+
+---
 
 ## Timeline
 

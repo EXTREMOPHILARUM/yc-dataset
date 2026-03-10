@@ -16,7 +16,7 @@ The global design software market was valued at approximately $15.1 billion in 2
 - **Abstract** (pivoted 2022): Originally Git-backed version control for Sketch files. Pivoted away from version control toward design system management. Weakness: effectively abandoned the version control use case; Sketch's market share has declined sharply since Figma's rise.
 - **Zeplin** (acquired by InVision, which filed for bankruptcy in 2023): Focused on design-to-development handoff, not version history. Weakness: parent company instability; no active version control development.
 - **Loom / Notion integrations**: Used informally for design review but offer no structured version tracking or diff capability.
-- **GitHub + LFS**: Used by technically sophisticated design teams for binary file storage. Weakness: no visual rendering, no semantic diff, requires command-line proficiency — the same gap Pixelapse identified in 2013 remains unaddressed here.35:T8e5,
+- **GitHub + LFS**: Used by technically sophisticated design teams for binary file storage. Weakness: no visual rendering, no semantic diff, requires command-line proficiency — the same gap Pixelapse identified in 2013 remains unaddressed here.36:T8e5,
 
 ## Demand Signals from Adjacent Products
 

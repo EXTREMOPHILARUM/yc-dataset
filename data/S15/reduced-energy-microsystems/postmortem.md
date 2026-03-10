@@ -2,26 +2,17 @@
 
 ## Overview
 
-1:"$Sreact.fragment"
-2:I[39756,["/_next/static/chunks/ff1a16fafef87110.js?dpl=dpl_GwuwmMc2oZNJkz1tEEADs8shECJt","/_next/static/chunks/803a574de9eda7ae.js?dpl=dpl_GwuwmMc2oZNJkz1tEEADs8shECJt"],"default"]
-3:I[8821,["/_next/static/chunks/0d46db6cf73968fd.js?dpl=dpl_GwuwmMc2oZNJkz1tEEADs8shECJt","/_next/static/chunks/5f4dcbc1da431ca9.js?dpl=dpl_GwuwmMc2oZNJkz1tEEADs8shECJt","/_next/static/chunks/33f7e5a25c4fcd0b.js?dpl=dpl_GwuwmMc2oZNJkz1tEEADs8shECJt"],"default"]
-4:I[37457,["/_next/static/chunks/ff1a16fafef87110.js?dpl=dpl_GwuwmMc2oZNJkz1tEEADs8shECJt","/_next/static/chunks/803a574de9eda7ae.js?dpl=dpl_GwuwmMc2oZNJkz1tEEADs8shECJt"],"default"]
-5:I[22016,["/_next/static/chunks/0d46db6cf73968fd.js?dpl=dpl_GwuwmMc2oZNJkz1tEEADs8shECJt","/_next/static/chunks/39ad7020066b4868.js?dpl=dpl_GwuwmMc2oZNJkz1tEEADs8shECJt","/_next/static/chunks/33f7e5a25c4fcd0b.js?dpl=dpl_GwuwmMc2oZNJkz1tEEADs8shECJt"],""]
-6:I[2355,["/_next/static/chunks/0d46db6cf73968fd.js?dpl=dpl_GwuwmMc2oZNJkz1tEEADs8shECJt"],"Analytics"]
-11:I[68027,["/_next/static/chunks/ff1a16fafef87110.js?dpl=dpl_GwuwmMc2oZNJkz1tEEADs8shECJt","/_next/static/chunks/803a574de9eda7ae.js?dpl=dpl_GwuwmMc2oZNJkz1tEEADs8shECJt"],"default"]
-12:I[97367,["/_next/static/chunks/ff1a16fafef87110.js?dpl=dpl_GwuwmMc2oZNJkz1tEEADs8shECJt","/_next/static/chunks/803a574de9eda7ae.js?dpl=dpl_GwuwmMc2oZNJkz1tEEADs8shECJt"],"OutletBoundary"]
-13:"$Sreact.suspense"
-15:I[93539,["/_next/static/chunks/0d46db6cf73968fd.js?dpl=dpl_GwuwmMc2oZNJkz1tEEADs8shECJt","/_next/static/chunks/39ad7020066b4868.js?dpl=dpl_GwuwmMc2oZNJkz1tEEADs8shECJt","/_next/static/chunks/33f7e5a25c4fcd0b.js?dpl=dpl_GwuwmMc2oZNJkz1tEEADs8shECJt"],"ThemeToggle"]
-23:I[97367,["/_next/static/chunks/ff1a16fafef87110.js?dpl=dpl_GwuwmMc2oZNJkz1tEEADs8shECJt","/_next/static/chunks/803a574de9eda7ae.js?dpl=dpl_GwuwmMc2oZNJkz1tEEADs8shECJt"],"ViewportBoundary"]
-25:I[97367,["/_next/static/chunks/ff1a16fafef87110.js?dpl=dpl_GwuwmMc2oZNJkz1tEEADs8shECJt","/_next/static/chunks/803a574de9eda7ae.js?dpl=dpl_GwuwmMc2oZNJkz1tEEADs8shECJt"],"MetadataBoundary"]
-:HL["/_next/static/chunks/8be82ca8498e7d4a.css?dpl=dpl_GwuwmMc2oZNJkz1tEEADs8shECJt","style"]
-:HL["/_next/static/media/1b99372b3eaef0c8-s.p.758e15a8.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
-:HL["/_next/static/media/23b7a97ae3b5c134-s.p.2902b61f.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
-:HL["/_next/static/media/68d403cf9f2c68c5-s.p.f9f15f61.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
-:HL["/_next/static/media/99e609270109b47d-s.p.64b9304e.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
-:HL["/_next/static/media/a7e15459c1805da0-s.p.ec654d65.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
-:HL["/_next/static/media/ea3421846039b7f3-s.p.093205c5.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
-:HL["/_next/static/media/effe91970fc4db64-s.p.19510058.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+Reduced Energy Microsystems (REM) was a San Francisco-based fabless semiconductor startup founded in 2014 by William Koven, Eleazar Vega-Gonzalez, and Dylan Hand. <sup><a href="https://www.crunchbase.com/organization/reduced-energy-microsystems">[1]</a></sup> The company built ultra-low-power chips for embedded machine learning inference at the edge — targeting applications like police body cameras, security systems, drones, and augmented reality devices — using asynchronous circuit design, a decades-old academic approach that eliminates the master clock governing conventional chips. <sup><a href="https://www.ycombinator.com/companies/reduced-energy-microsystems">[2]</a></sup> REM entered Y Combinator's Summer 2015 batch as the accelerator's first chip startup. <sup><a href="https://techcrunch.com/2017/03/16/reduced-energy-microsystems-pits-startup-chip-chops-against-industry-giants/">[3]</a></sup>
+
+REM failed because asynchronous chip development — despite genuine technical merit — requires capital-intensive, multi-year development cycles that a $2M seed-funded startup could not sustain long enough to reach commercial scale. The edge AI inference market it was targeting simultaneously attracted well-funded incumbents and specialists who commoditized the space before REM could ship at volume.
+
+Crunchbase lists REM as permanently closed as of August 21, 2020 — roughly six years after founding and approximately three years after its last documented public activity. <sup><a href="https://www.crunchbase.com/organization/reduced-energy-microsystems/financial_details">[4]</a></sup> No acquisition, acqui-hire, or public post-mortem was announced. Koven subsequently joined Galois, Inc. as a research engineer before becoming a chip lead at Meta; Vega-Gonzalez went on to found Coil, a builder AI startup that entered YC's Winter 2023 batch. <sup><a href="https://nanohub.org/resources/39001">[5]</a></sup> <sup><a href="https://www.ycombinator.com/companies/reduced-energy-microsystems">[6]</a></sup>
+
+<report-gallery>
+<media-image src="https://bookface-images.s3.amazonaws.com/avatars/3096e649e78c1335e8de3616e5778e91a14eb9c1.jpg" alt="REM co-founder profile photo" caption="One of REM's three co-founders, as listed on Y Combinator's Bookface platform — the team entered YC S15 as the accelerator's first-ever chip startup, a distinction that signaled both novelty and the absence of any institutional playbook for semiconductor companies at YC."></media-image>
+<media-image src="https://bookface-images.s3.amazonaws.com/avatars/a99b8b509bb1822dcd6629f0a9486bf442c52e91.jpg" alt="REM co-founder profile photo" caption="A second REM co-founder on Bookface. The three-person founding team combined Intel industry experience, USC Viterbi PhD research, and CMU engineering credentials — an unusually deep technical pedigree for a seed-stage hardware startup."></media-image>
+<media-image src="https://bookface-images.s3.amazonaws.com/avatars/5401d5115e826c546f57903b2fe503d968226c2d.jpg" alt="REM co-founder profile photo" caption="The third REM co-founder. After the company closed in 2020, the team dispersed to Meta's chip division and a second YC startup — suggesting the wind-down was orderly rather than catastrophic, and that the underlying talent was validated even as the company was not."></media-image>
+</report-gallery>
 
 ## Founding Story
 

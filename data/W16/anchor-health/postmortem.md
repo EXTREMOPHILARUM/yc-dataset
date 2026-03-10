@@ -2,26 +2,15 @@
 
 ## Overview
 
-1:"$Sreact.fragment"
-2:I[39756,["/_next/static/chunks/ff1a16fafef87110.js?dpl=dpl_GwuwmMc2oZNJkz1tEEADs8shECJt","/_next/static/chunks/803a574de9eda7ae.js?dpl=dpl_GwuwmMc2oZNJkz1tEEADs8shECJt"],"default"]
-3:I[8821,["/_next/static/chunks/0d46db6cf73968fd.js?dpl=dpl_GwuwmMc2oZNJkz1tEEADs8shECJt","/_next/static/chunks/5f4dcbc1da431ca9.js?dpl=dpl_GwuwmMc2oZNJkz1tEEADs8shECJt","/_next/static/chunks/33f7e5a25c4fcd0b.js?dpl=dpl_GwuwmMc2oZNJkz1tEEADs8shECJt"],"default"]
-4:I[37457,["/_next/static/chunks/ff1a16fafef87110.js?dpl=dpl_GwuwmMc2oZNJkz1tEEADs8shECJt","/_next/static/chunks/803a574de9eda7ae.js?dpl=dpl_GwuwmMc2oZNJkz1tEEADs8shECJt"],"default"]
-5:I[22016,["/_next/static/chunks/0d46db6cf73968fd.js?dpl=dpl_GwuwmMc2oZNJkz1tEEADs8shECJt","/_next/static/chunks/39ad7020066b4868.js?dpl=dpl_GwuwmMc2oZNJkz1tEEADs8shECJt","/_next/static/chunks/33f7e5a25c4fcd0b.js?dpl=dpl_GwuwmMc2oZNJkz1tEEADs8shECJt"],""]
-6:I[2355,["/_next/static/chunks/0d46db6cf73968fd.js?dpl=dpl_GwuwmMc2oZNJkz1tEEADs8shECJt"],"Analytics"]
-11:I[68027,["/_next/static/chunks/ff1a16fafef87110.js?dpl=dpl_GwuwmMc2oZNJkz1tEEADs8shECJt","/_next/static/chunks/803a574de9eda7ae.js?dpl=dpl_GwuwmMc2oZNJkz1tEEADs8shECJt"],"default"]
-12:I[97367,["/_next/static/chunks/ff1a16fafef87110.js?dpl=dpl_GwuwmMc2oZNJkz1tEEADs8shECJt","/_next/static/chunks/803a574de9eda7ae.js?dpl=dpl_GwuwmMc2oZNJkz1tEEADs8shECJt"],"OutletBoundary"]
-13:"$Sreact.suspense"
-15:I[93539,["/_next/static/chunks/0d46db6cf73968fd.js?dpl=dpl_GwuwmMc2oZNJkz1tEEADs8shECJt","/_next/static/chunks/39ad7020066b4868.js?dpl=dpl_GwuwmMc2oZNJkz1tEEADs8shECJt","/_next/static/chunks/33f7e5a25c4fcd0b.js?dpl=dpl_GwuwmMc2oZNJkz1tEEADs8shECJt"],"ThemeToggle"]
-23:I[97367,["/_next/static/chunks/ff1a16fafef87110.js?dpl=dpl_GwuwmMc2oZNJkz1tEEADs8shECJt","/_next/static/chunks/803a574de9eda7ae.js?dpl=dpl_GwuwmMc2oZNJkz1tEEADs8shECJt"],"ViewportBoundary"]
-25:I[97367,["/_next/static/chunks/ff1a16fafef87110.js?dpl=dpl_GwuwmMc2oZNJkz1tEEADs8shECJt","/_next/static/chunks/803a574de9eda7ae.js?dpl=dpl_GwuwmMc2oZNJkz1tEEADs8shECJt"],"MetadataBoundary"]
-:HL["/_next/static/chunks/8be82ca8498e7d4a.css?dpl=dpl_GwuwmMc2oZNJkz1tEEADs8shECJt","style"]
-:HL["/_next/static/media/1b99372b3eaef0c8-s.p.758e15a8.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
-:HL["/_next/static/media/23b7a97ae3b5c134-s.p.2902b61f.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
-:HL["/_next/static/media/68d403cf9f2c68c5-s.p.f9f15f61.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
-:HL["/_next/static/media/99e609270109b47d-s.p.64b9304e.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
-:HL["/_next/static/media/a7e15459c1805da0-s.p.ec654d65.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
-:HL["/_next/static/media/ea3421846039b7f3-s.p.093205c5.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
-:HL["/_next/static/media/effe91970fc4db64-s.p.19510058.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+Anchor Health was founded by Jennifer Ma and Ryan Martin and entered Y Combinator's Winter 2016 cohort.<sup><a href="https://www.ycombinator.com/companies/anchor-health">[1]</a></sup> Beyond these basic facts, the founding story is largely opaque. No interviews, press profiles, or public statements from either founder about the company's origins have surfaced in available records.
+
+Ryan Martin served as Chief Technology Officer.<sup><a href="https://www.cbinsights.com/company/anchor-health/people">[2]</a></sup> His background is notable for its unconventionality in a hardware-software startup context: he holds a JD from Duke University School of Law, where he studied from 2006 to 2009.<sup><a href="https://rocketreach.co/ryan-martin-email_756200635">[3]</a></sup> A legal background is not without value in healthcare — a sector defined by compliance requirements, reimbursement rules, and liability exposure — but it also raises questions about the team's capacity for deep technical execution on a product that reportedly combined custom hardware with enterprise software. Jennifer Ma's background, domain expertise, and specific role within the company are entirely unknown from available sources, representing a significant gap in understanding the team's qualifications.
+
+The company's stated mission was to modernize home health care agencies — the businesses that coordinate and deliver in-home medical and personal care services to elderly and disabled patients.<sup><a href="https://www.ycombinator.com/companies/anchor-health">[4]</a></sup> This is a sector characterized by paper-based workflows, fragmented ownership structures, thin operating margins, and a workforce that is often geographically dispersed and difficult to manage. The founders appear to have identified the operational dysfunction of these agencies as a technology opportunity: if you could give a home health agency better tools to schedule caregivers, track patient visits, manage compliance documentation, and coordinate care, you could meaningfully improve both their economics and patient outcomes.
+
+What specific experience or insight led Ma and Martin to this market is unknown. No founding story, no "aha moment," and no early customer anecdotes have been documented publicly. The company was headquartered in San Francisco according to the YC directory,<sup><a href="https://www.ycombinator.com/companies/anchor-health">[5]</a></sup> though PitchBook lists Palo Alto as the location — a minor discrepancy that may reflect a move during the YC program or a data entry error, and cannot be resolved with available information.<sup><a href="https://pitchbook.com/profiles/company/226130-14">[6]</a></sup>
+
+No information is available on how Ma and Martin met, whether they had prior startup experience together, or whether the company underwent any significant pivot from its original concept. The YC description — "software, hardware, and operating solutions for distributed health care networks and providers" — appears to represent the company's positioning throughout its existence, with no evidence of a major strategic shift.
 
 ## Founding Story
 

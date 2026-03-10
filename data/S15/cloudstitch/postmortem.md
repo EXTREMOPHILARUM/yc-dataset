@@ -2,28 +2,23 @@
 
 ## Overview
 
-1:"$Sreact.fragment"
-2:I[39756,["/_next/static/chunks/ff1a16fafef87110.js?dpl=dpl_GwuwmMc2oZNJkz1tEEADs8shECJt","/_next/static/chunks/803a574de9eda7ae.js?dpl=dpl_GwuwmMc2oZNJkz1tEEADs8shECJt"],"default"]
-3:I[8821,["/_next/static/chunks/0d46db6cf73968fd.js?dpl=dpl_GwuwmMc2oZNJkz1tEEADs8shECJt","/_next/static/chunks/5f4dcbc1da431ca9.js?dpl=dpl_GwuwmMc2oZNJkz1tEEADs8shECJt","/_next/static/chunks/33f7e5a25c4fcd0b.js?dpl=dpl_GwuwmMc2oZNJkz1tEEADs8shECJt"],"default"]
-4:I[37457,["/_next/static/chunks/ff1a16fafef87110.js?dpl=dpl_GwuwmMc2oZNJkz1tEEADs8shECJt","/_next/static/chunks/803a574de9eda7ae.js?dpl=dpl_GwuwmMc2oZNJkz1tEEADs8shECJt"],"default"]
-5:I[22016,["/_next/static/chunks/0d46db6cf73968fd.js?dpl=dpl_GwuwmMc2oZNJkz1tEEADs8shECJt","/_next/static/chunks/39ad7020066b4868.js?dpl=dpl_GwuwmMc2oZNJkz1tEEADs8shECJt","/_next/static/chunks/33f7e5a25c4fcd0b.js?dpl=dpl_GwuwmMc2oZNJkz1tEEADs8shECJt"],""]
-6:I[2355,["/_next/static/chunks/0d46db6cf73968fd.js?dpl=dpl_GwuwmMc2oZNJkz1tEEADs8shECJt"],"Analytics"]
-11:I[68027,["/_next/static/chunks/ff1a16fafef87110.js?dpl=dpl_GwuwmMc2oZNJkz1tEEADs8shECJt","/_next/static/chunks/803a574de9eda7ae.js?dpl=dpl_GwuwmMc2oZNJkz1tEEADs8shECJt"],"default"]
-12:I[97367,["/_next/static/chunks/ff1a16fafef87110.js?dpl=dpl_GwuwmMc2oZNJkz1tEEADs8shECJt","/_next/static/chunks/803a574de9eda7ae.js?dpl=dpl_GwuwmMc2oZNJkz1tEEADs8shECJt"],"OutletBoundary"]
-13:"$Sreact.suspense"
-15:I[93539,["/_next/static/chunks/0d46db6cf73968fd.js?dpl=dpl_GwuwmMc2oZNJkz1tEEADs8shECJt","/_next/static/chunks/39ad7020066b4868.js?dpl=dpl_GwuwmMc2oZNJkz1tEEADs8shECJt","/_next/static/chunks/33f7e5a25c4fcd0b.js?dpl=dpl_GwuwmMc2oZNJkz1tEEADs8shECJt"],"ThemeToggle"]
-23:I[97367,["/_next/static/chunks/ff1a16fafef87110.js?dpl=dpl_GwuwmMc2oZNJkz1tEEADs8shECJt","/_next/static/chunks/803a574de9eda7ae.js?dpl=dpl_GwuwmMc2oZNJkz1tEEADs8shECJt"],"ViewportBoundary"]
-25:I[97367,["/_next/static/chunks/ff1a16fafef87110.js?dpl=dpl_GwuwmMc2oZNJkz1tEEADs8shECJt","/_next/static/chunks/803a574de9eda7ae.js?dpl=dpl_GwuwmMc2oZNJkz1tEEADs8shECJt"],"MetadataBoundary"]
-:HL["/_next/static/chunks/8be82ca8498e7d4a.css?dpl=dpl_GwuwmMc2oZNJkz1tEEADs8shECJt","style"]
-:HL["/_next/static/media/1b99372b3eaef0c8-s.p.758e15a8.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
-:HL["/_next/static/media/23b7a97ae3b5c134-s.p.2902b61f.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
-:HL["/_next/static/media/68d403cf9f2c68c5-s.p.f9f15f61.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
-:HL["/_next/static/media/99e609270109b47d-s.p.64b9304e.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
-:HL["/_next/static/media/a7e15459c1805da0-s.p.ec654d65.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
-:HL["/_next/static/media/ea3421846039b7f3-s.p.093205c5.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
-:HL["/_next/static/media/effe91970fc4db64-s.p.19510058.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
-
 ## Founding Story
+
+Ted Benson spent four years at MIT earning a PhD in Computer Science under advisor David Karger, one of the leading researchers in human-computer interaction and information systems at MIT CSAIL.<sup><a href="https://people.csail.mit.edu/karger/alumni.html">[1]</a></sup> The Cloudstitch concept did not emerge from a market gap analysis or a customer discovery sprint—it emerged from Benson's thesis research itself, making it one of the relatively rare YC companies with a direct academic lineage.<sup><a href="https://medium.com/rough-draft-ventures/cloudstitch-beautiful-apps-without-the-programming-hassle-9adc7ce01b8d">[2]</a></sup>
+
+The insight Benson developed during his PhD was precise: designers could create beautiful application mockups but typically knew only basic HTML and CSS, making it difficult to actually program the application they had designed. Meanwhile, small businesses without any programming knowledge faced a double cost—hiring both a designer and a programmer for initial builds, then paying again for even minor updates.<sup><a href="https://medium.com/rough-draft-ventures/cloudstitch-beautiful-apps-without-the-programming-hassle-9adc7ce01b8d">[3]</a></sup> The solution Benson proposed was to replace the server-side infrastructure—the databases, APIs, and backend logic—with tools these users already understood: spreadsheets.
+
+Benson's research validated the approach empirically. In controlled studies, it took an average of only 15 minutes for a designer to learn the Cloudstitch programming model.<sup><a href="https://medium.com/rough-draft-ventures/cloudstitch-beautiful-apps-without-the-programming-hassle-9adc7ce01b8d">[4]</a></sup> That figure became a central part of the company's pitch.
+
+Benson framed the ambition in expansive terms: *"Cloudstitch started with an audacious goal: replace server-side web infrastructure with consumer-friendly applications."*<sup><a href="https://edwardbenson.com/2018/02/cloudstitch-acquired-by-instabase">[5]</a></sup>
+
+Cloudstitch LLC was officially founded in September 2014, immediately following Benson's PhD completion, with co-founder Jake Lau.<sup><a href="https://www.crunchbase.com/organization/cloudstitch">[6]</a></sup> The company was incorporated in San Francisco but maintained ties to Cambridge, Massachusetts—a dual identity that reflected its transitional state between academic research project and commercial venture.<sup><a href="https://www.crunchbase.com/organization/cloudstitch">[7]</a></sup> Instabase would later describe Cloudstitch at the time of acquisition as "a research project at MIT which explored new ways to think about the composition of web applications"<sup><a href="https://blogs.instabase.com/instabase-acquires-cloudstitch-c78a272ec660">[8]</a></sup>—a framing that, while reductive, captured something real about the company's origins and identity.
+
+Jake Lau's background, specific role within the company, and post-Cloudstitch trajectory are not documented in any available public source. This is a significant gap in the founding story: the composition and balance of the founding team—whether Lau was technical, commercial, or operational—cannot be assessed from the available record.
+
+The company applied to and was accepted into Y Combinator's Summer 2015 batch, roughly nine months after founding.<sup><a href="https://www.ycombinator.com/companies/cloudstitch">[9]</a></sup> YC provided both capital and the structured pressure of Demo Day, which would become Cloudstitch's most visible public moment.
+
+---
 
 ## Timeline
 
@@ -123,7 +118,7 @@ No public information exists on Cloudstitch's pricing structure, revenue model, 
 
 This is consistent with the funding profile: a company that raised only $120,000–$145,000 total<sup><a href="https://tracxn.com/d/companies/cloudstitch/__HkjTTJt1Va5GOcxSZPiC87dc7mnZla1Asvq7o-_4G2g">[12]</a></sup> and operated for over three years either had extremely low burn (consistent with a 1–2 person team) or was not generating meaningful revenue to extend its runway. The YC company profile's description of Cloudstitch as serving "thousands of web developers"<sup><a href="https://www.ycombinator.com/companies/cloudstitch">[25]</a></sup> without any mention of revenue or customers suggests the company measured success in users rather than dollars—a common pattern in developer tools that prioritizes adoption over monetization, often fatally.
 
----2f:T8fd,
+---2e:T8fd,
 
 ## Traction
 

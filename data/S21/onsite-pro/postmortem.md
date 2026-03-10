@@ -2,26 +2,16 @@
 
 ## Overview
 
-1:"$Sreact.fragment"
-2:I[39756,["/_next/static/chunks/ff1a16fafef87110.js?dpl=dpl_GwuwmMc2oZNJkz1tEEADs8shECJt","/_next/static/chunks/803a574de9eda7ae.js?dpl=dpl_GwuwmMc2oZNJkz1tEEADs8shECJt"],"default"]
-3:I[8821,["/_next/static/chunks/0d46db6cf73968fd.js?dpl=dpl_GwuwmMc2oZNJkz1tEEADs8shECJt","/_next/static/chunks/5f4dcbc1da431ca9.js?dpl=dpl_GwuwmMc2oZNJkz1tEEADs8shECJt","/_next/static/chunks/33f7e5a25c4fcd0b.js?dpl=dpl_GwuwmMc2oZNJkz1tEEADs8shECJt"],"default"]
-4:I[37457,["/_next/static/chunks/ff1a16fafef87110.js?dpl=dpl_GwuwmMc2oZNJkz1tEEADs8shECJt","/_next/static/chunks/803a574de9eda7ae.js?dpl=dpl_GwuwmMc2oZNJkz1tEEADs8shECJt"],"default"]
-5:I[22016,["/_next/static/chunks/0d46db6cf73968fd.js?dpl=dpl_GwuwmMc2oZNJkz1tEEADs8shECJt","/_next/static/chunks/39ad7020066b4868.js?dpl=dpl_GwuwmMc2oZNJkz1tEEADs8shECJt","/_next/static/chunks/33f7e5a25c4fcd0b.js?dpl=dpl_GwuwmMc2oZNJkz1tEEADs8shECJt"],""]
-6:I[2355,["/_next/static/chunks/0d46db6cf73968fd.js?dpl=dpl_GwuwmMc2oZNJkz1tEEADs8shECJt"],"Analytics"]
-11:I[68027,["/_next/static/chunks/ff1a16fafef87110.js?dpl=dpl_GwuwmMc2oZNJkz1tEEADs8shECJt","/_next/static/chunks/803a574de9eda7ae.js?dpl=dpl_GwuwmMc2oZNJkz1tEEADs8shECJt"],"default"]
-12:I[97367,["/_next/static/chunks/ff1a16fafef87110.js?dpl=dpl_GwuwmMc2oZNJkz1tEEADs8shECJt","/_next/static/chunks/803a574de9eda7ae.js?dpl=dpl_GwuwmMc2oZNJkz1tEEADs8shECJt"],"OutletBoundary"]
-13:"$Sreact.suspense"
-15:I[93539,["/_next/static/chunks/0d46db6cf73968fd.js?dpl=dpl_GwuwmMc2oZNJkz1tEEADs8shECJt","/_next/static/chunks/39ad7020066b4868.js?dpl=dpl_GwuwmMc2oZNJkz1tEEADs8shECJt","/_next/static/chunks/33f7e5a25c4fcd0b.js?dpl=dpl_GwuwmMc2oZNJkz1tEEADs8shECJt"],"ThemeToggle"]
-23:I[97367,["/_next/static/chunks/ff1a16fafef87110.js?dpl=dpl_GwuwmMc2oZNJkz1tEEADs8shECJt","/_next/static/chunks/803a574de9eda7ae.js?dpl=dpl_GwuwmMc2oZNJkz1tEEADs8shECJt"],"ViewportBoundary"]
-25:I[97367,["/_next/static/chunks/ff1a16fafef87110.js?dpl=dpl_GwuwmMc2oZNJkz1tEEADs8shECJt","/_next/static/chunks/803a574de9eda7ae.js?dpl=dpl_GwuwmMc2oZNJkz1tEEADs8shECJt"],"MetadataBoundary"]
-:HL["/_next/static/chunks/8be82ca8498e7d4a.css?dpl=dpl_GwuwmMc2oZNJkz1tEEADs8shECJt","style"]
-:HL["/_next/static/media/1b99372b3eaef0c8-s.p.758e15a8.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
-:HL["/_next/static/media/23b7a97ae3b5c134-s.p.2902b61f.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
-:HL["/_next/static/media/68d403cf9f2c68c5-s.p.f9f15f61.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
-:HL["/_next/static/media/99e609270109b47d-s.p.64b9304e.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
-:HL["/_next/static/media/a7e15459c1805da0-s.p.ec654d65.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
-:HL["/_next/static/media/ea3421846039b7f3-s.p.093205c5.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
-:HL["/_next/static/media/effe91970fc4db64-s.p.19510058.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+Onsite Pro, incorporated as Greenwork Inc. in March 2021, was a San Francisco-based startup that passed through Y Combinator's Summer 2021 batch.<sup><a href="https://www.crunchbase.com/organization/greenwork/company_financials">[1]</a></sup><sup><a href="https://www.ycombinator.com/companies/onsite-pro">[2]</a></sup> Over roughly three years, the company executed two full pivots: first from a clean energy workforce training platform ("a Coursera for solar") to a hiring marketplace connecting trade schools with clean energy employers, then from that marketplace to HVAC digital proposal and pricebook software sold under the Onsite Pro brand.<sup><a href="https://www.hbs.edu/environment/blog/post/climate-stories-Steyer">[3]</a></sup> The company raised approximately $2.4 million in pre-seed funding from GV, YC, Kleiner Perkins Scout Fund, and Global Founders Capital — all of it before November 2021.<sup><a href="https://www.onsitepro.co/about">[4]</a></sup>
+
+The company failed to achieve durable product-market fit across either pivot before exhausting its runway. Two pivots in under three years on $2.4 million left insufficient time and capital to validate each thesis; the final HVAC software bet was still in early stages when co-founder and CEO Sam Steyer stepped down citing personal fatigue in November 2023.
+
+YC now lists Onsite Pro as "Inactive" with a team of four.<sup><a href="https://www.ycombinator.com/companies/onsite-pro">[5]</a></sup> No acquisition or formal shutdown announcement has been published. Steyer returned to climate tech at Halcyon; Gautam Jayaraman, who became CEO at the end, has not publicly commented on the outcome.
+
+<report-gallery>
+<media-image src="https://images.crunchbase.com/image/upload/c_thumb,h_256,w_256,f_auto,g_face,z_0.7,q_auto:eco,dpr_1/xk9ishiezw6zeqtbifwl" alt="Sam Steyer, Co-Founder and CEO of Onsite Pro (Greenwork)" caption="Sam Steyer, who co-founded Greenwork in 2021 fresh from Tom Steyer's presidential campaign and Station A — and stepped down as CEO in November 2023 citing exhaustion after three years of pivots."></media-image>
+<media-image src="https://images.crunchbase.com/image/upload/c_thumb,h_256,w_256,f_auto,g_face,z_0.7,q_auto:eco,dpr_1/v1397181695/717059cde6efd612b607edfe03b7c6ab.jpg" alt="Gautam Jayaraman, Co-Founder and CTO (later CEO) of Onsite Pro" caption="Gautam Jayaraman, the MIT-trained engineer who had worked exclusively at YC-backed companies since 2006 — including DoorDash, Dropbox, and two prior YC startups — and inherited the CEO role as the HVAC pivot was still unproven."></media-image>
+</report-gallery>
 
 ## Founding Story
 

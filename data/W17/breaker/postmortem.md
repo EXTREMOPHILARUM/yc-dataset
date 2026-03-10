@@ -2,26 +2,19 @@
 
 ## Overview
 
-1:"$Sreact.fragment"
-2:I[39756,["/_next/static/chunks/ff1a16fafef87110.js?dpl=dpl_GwuwmMc2oZNJkz1tEEADs8shECJt","/_next/static/chunks/803a574de9eda7ae.js?dpl=dpl_GwuwmMc2oZNJkz1tEEADs8shECJt"],"default"]
-3:I[8821,["/_next/static/chunks/0d46db6cf73968fd.js?dpl=dpl_GwuwmMc2oZNJkz1tEEADs8shECJt","/_next/static/chunks/5f4dcbc1da431ca9.js?dpl=dpl_GwuwmMc2oZNJkz1tEEADs8shECJt","/_next/static/chunks/33f7e5a25c4fcd0b.js?dpl=dpl_GwuwmMc2oZNJkz1tEEADs8shECJt"],"default"]
-4:I[37457,["/_next/static/chunks/ff1a16fafef87110.js?dpl=dpl_GwuwmMc2oZNJkz1tEEADs8shECJt","/_next/static/chunks/803a574de9eda7ae.js?dpl=dpl_GwuwmMc2oZNJkz1tEEADs8shECJt"],"default"]
-5:I[22016,["/_next/static/chunks/0d46db6cf73968fd.js?dpl=dpl_GwuwmMc2oZNJkz1tEEADs8shECJt","/_next/static/chunks/39ad7020066b4868.js?dpl=dpl_GwuwmMc2oZNJkz1tEEADs8shECJt","/_next/static/chunks/33f7e5a25c4fcd0b.js?dpl=dpl_GwuwmMc2oZNJkz1tEEADs8shECJt"],""]
-6:I[2355,["/_next/static/chunks/0d46db6cf73968fd.js?dpl=dpl_GwuwmMc2oZNJkz1tEEADs8shECJt"],"Analytics"]
-11:I[68027,["/_next/static/chunks/ff1a16fafef87110.js?dpl=dpl_GwuwmMc2oZNJkz1tEEADs8shECJt","/_next/static/chunks/803a574de9eda7ae.js?dpl=dpl_GwuwmMc2oZNJkz1tEEADs8shECJt"],"default"]
-12:I[97367,["/_next/static/chunks/ff1a16fafef87110.js?dpl=dpl_GwuwmMc2oZNJkz1tEEADs8shECJt","/_next/static/chunks/803a574de9eda7ae.js?dpl=dpl_GwuwmMc2oZNJkz1tEEADs8shECJt"],"OutletBoundary"]
-13:"$Sreact.suspense"
-15:I[93539,["/_next/static/chunks/0d46db6cf73968fd.js?dpl=dpl_GwuwmMc2oZNJkz1tEEADs8shECJt","/_next/static/chunks/39ad7020066b4868.js?dpl=dpl_GwuwmMc2oZNJkz1tEEADs8shECJt","/_next/static/chunks/33f7e5a25c4fcd0b.js?dpl=dpl_GwuwmMc2oZNJkz1tEEADs8shECJt"],"ThemeToggle"]
-23:I[97367,["/_next/static/chunks/ff1a16fafef87110.js?dpl=dpl_GwuwmMc2oZNJkz1tEEADs8shECJt","/_next/static/chunks/803a574de9eda7ae.js?dpl=dpl_GwuwmMc2oZNJkz1tEEADs8shECJt"],"ViewportBoundary"]
-25:I[97367,["/_next/static/chunks/ff1a16fafef87110.js?dpl=dpl_GwuwmMc2oZNJkz1tEEADs8shECJt","/_next/static/chunks/803a574de9eda7ae.js?dpl=dpl_GwuwmMc2oZNJkz1tEEADs8shECJt"],"MetadataBoundary"]
-:HL["/_next/static/chunks/8be82ca8498e7d4a.css?dpl=dpl_GwuwmMc2oZNJkz1tEEADs8shECJt","style"]
-:HL["/_next/static/media/1b99372b3eaef0c8-s.p.758e15a8.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
-:HL["/_next/static/media/23b7a97ae3b5c134-s.p.2902b61f.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
-:HL["/_next/static/media/68d403cf9f2c68c5-s.p.f9f15f61.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
-:HL["/_next/static/media/99e609270109b47d-s.p.64b9304e.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
-:HL["/_next/static/media/a7e15459c1805da0-s.p.ec654d65.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
-:HL["/_next/static/media/ea3421846039b7f3-s.p.093205c5.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
-:HL["/_next/static/media/effe91970fc4db64-s.p.19510058.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+Breaker's founding team was unusually credentialed for a consumer app startup. Erik Berlin had co-founded 140 Proof, a social advertising company that was later acquired by Acuity, and had worked at SoundCloud—a platform that had already demonstrated how social layers could transform audio consumption.<sup><a href="https://techcrunch.com/2021/01/04/twitter-acquires-social-podcasting-app-breaker-team-to-help-build-twitter-spaces/">[1]</a></sup> Leah Culver brought an equally relevant background: she had founded Pownce and Grove, co-authored the OAuth and oEmbed web standards, and had worked at both Dropbox and Twitter.<sup><a href="https://techcrunch.com/2021/01/04/twitter-acquires-social-podcasting-app-breaker-team-to-help-build-twitter-spaces/">[2]</a></sup> These were not first-time founders experimenting with a new medium—they were operators who had built social products and understood audio platforms from the inside.
+
+The founding insight came from two directions converging. Berlin, during his time at SoundCloud, had become convinced that podcasting had significant room to grow and was underexploited as a social medium.<sup><a href="https://www.templarbit.com/blog/2018/07/16/the-engineering-hangout-with-erik-berlin-turning-a-side-project-into-a-social-podcasting-company/">[3]</a></sup> Culver arrived at the problem from a listener's frustration. As she described it: "I started listening to podcasts when I was running. I was kind of happy with the existing players but I was having a hard time with discovery. I didn't find the existing directories of podcast to be particularly relevant to me."<sup><a href="https://www.ycombinator.com/blog/founder-stories-leah-culver-of-breaker">[4]</a></sup> When Culver reached out to Berlin about building a podcasting app, the two founders' complementary perspectives—platform growth and listener experience—aligned naturally.
+
+The founders made one significant and correct pivot before launch. Their original plan was to build tools for podcasters—a creator-side product. Customer discovery killed that thesis quickly. As Culver explained: "Our initial direction wasn't the direction we ended up going in. I was interested in building tools for podcasters. Then when we started talking to podcasters we realized that podcasters just want listeners and data about those listeners. Just providing good tools didn't really solve that problem."<sup><a href="https://www.ycombinator.com/blog/founder-stories-leah-culver-of-breaker">[5]</a></sup> The team redirected toward the listener side of the market—a pivot that demonstrated genuine customer discovery discipline before the product was built.
+
+Execution was deliberately capital-light from the start. The founders built the MVP as a weekend side project without leaving their day jobs. Berlin later described the approach: "if you do it the way Leah and I did we didn't even quit our day jobs... it basically cost us nothing, just our time to build that first version of the product."<sup><a href="https://www.templarbit.com/blog/2018/07/16/the-engineering-hangout-with-erik-berlin-turning-a-side-project-into-a-social-podcasting-company/">[6]</a></sup> Culver echoed the philosophy: "Build things on the side. Honestly mostly build Breaker on Sundays. We iterated on the product for months before leaving our jobs. You don't have to quit your job to do a startup."<sup><a href="https://www.ycombinator.com/blog/founder-stories-leah-culver-of-breaker">[7]</a></sup>
+
+Breaker entered Y Combinator's Winter 2017 batch, receiving early funding and the YC network's validation.<sup><a href="https://www.ycombinator.com/companies/breaker">[8]</a></sup> The company launched publicly in March 2017.
+
+<media-hn url="https://news.ycombinator.com/item?id=13925418" title="Founder Stories: Leah Culver of Breaker (YC W17)" points="" comments=""></media-hn>
+
+---
 
 ## Founding Story
 

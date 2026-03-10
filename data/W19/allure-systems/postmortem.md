@@ -2,28 +2,17 @@
 
 ## Overview
 
-1:"$Sreact.fragment"
-2:I[39756,["/_next/static/chunks/ff1a16fafef87110.js?dpl=dpl_GwuwmMc2oZNJkz1tEEADs8shECJt","/_next/static/chunks/803a574de9eda7ae.js?dpl=dpl_GwuwmMc2oZNJkz1tEEADs8shECJt"],"default"]
-3:I[8821,["/_next/static/chunks/0d46db6cf73968fd.js?dpl=dpl_GwuwmMc2oZNJkz1tEEADs8shECJt","/_next/static/chunks/5f4dcbc1da431ca9.js?dpl=dpl_GwuwmMc2oZNJkz1tEEADs8shECJt","/_next/static/chunks/33f7e5a25c4fcd0b.js?dpl=dpl_GwuwmMc2oZNJkz1tEEADs8shECJt"],"default"]
-4:I[37457,["/_next/static/chunks/ff1a16fafef87110.js?dpl=dpl_GwuwmMc2oZNJkz1tEEADs8shECJt","/_next/static/chunks/803a574de9eda7ae.js?dpl=dpl_GwuwmMc2oZNJkz1tEEADs8shECJt"],"default"]
-5:I[22016,["/_next/static/chunks/0d46db6cf73968fd.js?dpl=dpl_GwuwmMc2oZNJkz1tEEADs8shECJt","/_next/static/chunks/39ad7020066b4868.js?dpl=dpl_GwuwmMc2oZNJkz1tEEADs8shECJt","/_next/static/chunks/33f7e5a25c4fcd0b.js?dpl=dpl_GwuwmMc2oZNJkz1tEEADs8shECJt"],""]
-6:I[2355,["/_next/static/chunks/0d46db6cf73968fd.js?dpl=dpl_GwuwmMc2oZNJkz1tEEADs8shECJt"],"Analytics"]
-11:I[68027,["/_next/static/chunks/ff1a16fafef87110.js?dpl=dpl_GwuwmMc2oZNJkz1tEEADs8shECJt","/_next/static/chunks/803a574de9eda7ae.js?dpl=dpl_GwuwmMc2oZNJkz1tEEADs8shECJt"],"default"]
-12:I[97367,["/_next/static/chunks/ff1a16fafef87110.js?dpl=dpl_GwuwmMc2oZNJkz1tEEADs8shECJt","/_next/static/chunks/803a574de9eda7ae.js?dpl=dpl_GwuwmMc2oZNJkz1tEEADs8shECJt"],"OutletBoundary"]
-13:"$Sreact.suspense"
-15:I[93539,["/_next/static/chunks/0d46db6cf73968fd.js?dpl=dpl_GwuwmMc2oZNJkz1tEEADs8shECJt","/_next/static/chunks/39ad7020066b4868.js?dpl=dpl_GwuwmMc2oZNJkz1tEEADs8shECJt","/_next/static/chunks/33f7e5a25c4fcd0b.js?dpl=dpl_GwuwmMc2oZNJkz1tEEADs8shECJt"],"ThemeToggle"]
-23:I[97367,["/_next/static/chunks/ff1a16fafef87110.js?dpl=dpl_GwuwmMc2oZNJkz1tEEADs8shECJt","/_next/static/chunks/803a574de9eda7ae.js?dpl=dpl_GwuwmMc2oZNJkz1tEEADs8shECJt"],"ViewportBoundary"]
-25:I[97367,["/_next/static/chunks/ff1a16fafef87110.js?dpl=dpl_GwuwmMc2oZNJkz1tEEADs8shECJt","/_next/static/chunks/803a574de9eda7ae.js?dpl=dpl_GwuwmMc2oZNJkz1tEEADs8shECJt"],"MetadataBoundary"]
-:HL["/_next/static/chunks/8be82ca8498e7d4a.css?dpl=dpl_GwuwmMc2oZNJkz1tEEADs8shECJt","style"]
-:HL["/_next/static/media/1b99372b3eaef0c8-s.p.758e15a8.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
-:HL["/_next/static/media/23b7a97ae3b5c134-s.p.2902b61f.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
-:HL["/_next/static/media/68d403cf9f2c68c5-s.p.f9f15f61.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
-:HL["/_next/static/media/99e609270109b47d-s.p.64b9304e.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
-:HL["/_next/static/media/a7e15459c1805da0-s.p.ec654d65.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
-:HL["/_next/static/media/ea3421846039b7f3-s.p.093205c5.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
-:HL["/_next/static/media/effe91970fc4db64-s.p.19510058.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
-
 ## Founding Story
+
+Gabrielle Chou arrived at Allure Systems with a track record that few first-time founders can match. She had already built and sold two companies: ChinaLOOP, a digital marketing platform she sold to Acxiom (NASDAQ: ACXM), and MOOD BY ME, which she exited in 2015.<sup><a href="https://shanghai.nyu.edu/academics/faculty/directory/gabrielle-chou">[1]</a></sup> That background in data-driven marketing and consumer behavior gave her a specific lens on the fashion eCommerce problem: brands were spending enormous sums on photography that still failed to convert shoppers, particularly those outside the narrow size range that traditional model shoots represented.
+
+The market gap Chou identified was both quantifiable and underserved. According to Y Combinator's own batch writeup, 67% of Americans wear a size 12 or above, yet 90% of online fashion catalogs do not represent these women.<sup><a href="https://blog.ycombinator.com/17-companies-from-the-yc-w19-batch-part-4/">[2]</a></sup> This was not merely a social equity observation — it was a commercial inefficiency. Brands were leaving conversion on the table by showing garments only on a single body type, and the cost of fixing that through traditional photography (hiring models across size ranges, booking studios, coordinating shoots) was prohibitive at scale.
+
+To solve the technical side of that problem, Chou partnered with Jeremy Chamoux, a specialist in generative AI, deep learning, and computer vision.<sup><a href="https://www.ycombinator.com/companies/allure-systems">[3]</a></sup> The pairing was classically complementary: a business-oriented serial founder with fashion and retail industry relationships alongside a technical co-founder with the machine learning expertise to build the core product. The two founded Allure Systems in 2017 — the canonical date supported by Y Combinator, PitchBook, and CBInsights, though Tracxn disputes this with a 2015 date that is likely an artifact of Chou's prior venture activity.<sup><a href="https://www.crunchbase.com/organization/allure-systems">[4]</a></sup>
+
+From the start, the company operated across two geographies. Allure Systems Corp was headquartered in Brooklyn, New York, at 37 Greenpoint Avenue, while a fully owned French subsidiary — Allure Systems Research France — handled R&D in Paris.<sup><a href="https://www.cbinsights.com/company/allure-systems">[5]</a></sup><sup><a href="https://www.thefashionlaw.com/farfetch-sheds-light-on-ma-ai-tech-resale-ambitions-in-new-sec-filing/">[6]</a></sup> This dual structure likely reflected Chamoux's technical network and access to European computer vision talent, while the US headquarters positioned the company for enterprise sales to American and global fashion retailers. It also proved strategically useful for accessing French luxury industry relationships — a market where Allure would eventually find its most significant customer validation.
+
+On her personal website, Chou describes the founding mission in direct terms: building "a generative AI solution that produces images for the fashion industry thanks to architectures based on the CNN and GAN algorithms."<sup><a href="https://www.gabriellechou.net/about">[7]</a></sup> The company's selection into Y Combinator's Winter 2019 batch marked a major inflection point, prompting Chou to relocate to the United States for approximately three years to pursue the American enterprise market.<sup><a href="https://shanghai.nyu.edu/academics/faculty/directory/gabrielle-chou">[8]</a></sup>
 
 ## Timeline
 

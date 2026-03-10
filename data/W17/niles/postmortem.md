@@ -2,26 +2,19 @@
 
 ## Overview
 
-1:"$Sreact.fragment"
-2:I[39756,["/_next/static/chunks/ff1a16fafef87110.js?dpl=dpl_GwuwmMc2oZNJkz1tEEADs8shECJt","/_next/static/chunks/803a574de9eda7ae.js?dpl=dpl_GwuwmMc2oZNJkz1tEEADs8shECJt"],"default"]
-3:I[8821,["/_next/static/chunks/0d46db6cf73968fd.js?dpl=dpl_GwuwmMc2oZNJkz1tEEADs8shECJt","/_next/static/chunks/5f4dcbc1da431ca9.js?dpl=dpl_GwuwmMc2oZNJkz1tEEADs8shECJt","/_next/static/chunks/33f7e5a25c4fcd0b.js?dpl=dpl_GwuwmMc2oZNJkz1tEEADs8shECJt"],"default"]
-4:I[37457,["/_next/static/chunks/ff1a16fafef87110.js?dpl=dpl_GwuwmMc2oZNJkz1tEEADs8shECJt","/_next/static/chunks/803a574de9eda7ae.js?dpl=dpl_GwuwmMc2oZNJkz1tEEADs8shECJt"],"default"]
-5:I[22016,["/_next/static/chunks/0d46db6cf73968fd.js?dpl=dpl_GwuwmMc2oZNJkz1tEEADs8shECJt","/_next/static/chunks/39ad7020066b4868.js?dpl=dpl_GwuwmMc2oZNJkz1tEEADs8shECJt","/_next/static/chunks/33f7e5a25c4fcd0b.js?dpl=dpl_GwuwmMc2oZNJkz1tEEADs8shECJt"],""]
-6:I[2355,["/_next/static/chunks/0d46db6cf73968fd.js?dpl=dpl_GwuwmMc2oZNJkz1tEEADs8shECJt"],"Analytics"]
-11:I[68027,["/_next/static/chunks/ff1a16fafef87110.js?dpl=dpl_GwuwmMc2oZNJkz1tEEADs8shECJt","/_next/static/chunks/803a574de9eda7ae.js?dpl=dpl_GwuwmMc2oZNJkz1tEEADs8shECJt"],"default"]
-12:I[97367,["/_next/static/chunks/ff1a16fafef87110.js?dpl=dpl_GwuwmMc2oZNJkz1tEEADs8shECJt","/_next/static/chunks/803a574de9eda7ae.js?dpl=dpl_GwuwmMc2oZNJkz1tEEADs8shECJt"],"OutletBoundary"]
-13:"$Sreact.suspense"
-15:I[93539,["/_next/static/chunks/0d46db6cf73968fd.js?dpl=dpl_GwuwmMc2oZNJkz1tEEADs8shECJt","/_next/static/chunks/39ad7020066b4868.js?dpl=dpl_GwuwmMc2oZNJkz1tEEADs8shECJt","/_next/static/chunks/33f7e5a25c4fcd0b.js?dpl=dpl_GwuwmMc2oZNJkz1tEEADs8shECJt"],"ThemeToggle"]
-23:I[97367,["/_next/static/chunks/ff1a16fafef87110.js?dpl=dpl_GwuwmMc2oZNJkz1tEEADs8shECJt","/_next/static/chunks/803a574de9eda7ae.js?dpl=dpl_GwuwmMc2oZNJkz1tEEADs8shECJt"],"ViewportBoundary"]
-25:I[97367,["/_next/static/chunks/ff1a16fafef87110.js?dpl=dpl_GwuwmMc2oZNJkz1tEEADs8shECJt","/_next/static/chunks/803a574de9eda7ae.js?dpl=dpl_GwuwmMc2oZNJkz1tEEADs8shECJt"],"MetadataBoundary"]
-:HL["/_next/static/chunks/8be82ca8498e7d4a.css?dpl=dpl_GwuwmMc2oZNJkz1tEEADs8shECJt","style"]
-:HL["/_next/static/media/1b99372b3eaef0c8-s.p.758e15a8.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
-:HL["/_next/static/media/23b7a97ae3b5c134-s.p.2902b61f.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
-:HL["/_next/static/media/68d403cf9f2c68c5-s.p.f9f15f61.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
-:HL["/_next/static/media/99e609270109b47d-s.p.64b9304e.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
-:HL["/_next/static/media/a7e15459c1805da0-s.p.ec654d65.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
-:HL["/_next/static/media/ea3421846039b7f3-s.p.093205c5.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
-:HL["/_next/static/media/effe91970fc4db64-s.p.19510058.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+Niles was founded in November 2016 by Mack Lu and Andy Kim, operating out of San Francisco. <sup><a href="https://tracxn.com/d/companies/niles/__koYdQVw8-9MNdjb6j826YxIqXvIbsCYZFDjIyQ1_8U4">[1]</a></sup>
+
+Mack Lu brought a strong product management pedigree to the company. Before Niles, he had completed Google's Associate Product Manager program—one of the most competitive product training pipelines in the industry—and had risen to Director of Product at Apartment List, a venture-backed rental marketplace. He studied Computer Engineering at Columbia University. <sup><a href="https://clay.earth/profile/mack-lu">[2]</a></sup> This background gave Niles immediate credibility in enterprise productivity tooling and likely opened early doors with potential customers.
+
+The founding insight was personal. Lu described the problem in direct terms on Product Hunt: "I've personally felt the pain of creating wikis that nobody used and struggling to find information across multiple tools, and wanted something better." <sup><a href="https://www.producthunt.com/posts/niles">[3]</a></sup> This was not a problem discovered through market research—it was a frustration Lu had lived through at scale, managing product teams at companies where institutional knowledge was constantly being lost to Slack threads, buried Google Docs, and outdated Confluence pages.
+
+The founding insight was also structurally sound. The failure mode of internal wikis is well-documented: they require deliberate, sustained effort to maintain, and that effort competes with the immediate demands of daily work. The result is that most wikis become stale within months of creation. Lu's bet was that a tool embedded directly in Slack—where knowledge was already being created organically through conversation—could capture and surface that knowledge without requiring any additional behavioral change from employees.
+
+Y Combinator accepted Niles into its Winter 2017 batch, providing early institutional validation of the thesis and $120K in seed funding alongside Eudaimonia Capital. <sup><a href="https://www.ycombinator.com/companies/niles">[4]</a></sup> <sup><a href="https://tracxn.com/d/companies/niles/__koYdQVw8-9MNdjb6j826YxIqXvIbsCYZFDjIyQ1_8U4">[5]</a></sup>
+
+Andy Kim's specific background, technical role, and eventual departure from the company are not documented in available sources. The YC company profile lists only Mack Lu as founder, and Lu was the sole public-facing representative of the company across press coverage and Product Hunt. <sup><a href="https://www.ycombinator.com/companies/niles">[6]</a></sup> Whether Kim departed early or remained through the shutdown is unknown.
+
+---
 
 ## Founding Story
 

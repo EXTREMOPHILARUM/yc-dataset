@@ -2,28 +2,21 @@
 
 ## Overview
 
-1:"$Sreact.fragment"
-2:I[39756,["/_next/static/chunks/ff1a16fafef87110.js?dpl=dpl_GwuwmMc2oZNJkz1tEEADs8shECJt","/_next/static/chunks/803a574de9eda7ae.js?dpl=dpl_GwuwmMc2oZNJkz1tEEADs8shECJt"],"default"]
-3:I[8821,["/_next/static/chunks/0d46db6cf73968fd.js?dpl=dpl_GwuwmMc2oZNJkz1tEEADs8shECJt","/_next/static/chunks/5f4dcbc1da431ca9.js?dpl=dpl_GwuwmMc2oZNJkz1tEEADs8shECJt","/_next/static/chunks/33f7e5a25c4fcd0b.js?dpl=dpl_GwuwmMc2oZNJkz1tEEADs8shECJt"],"default"]
-4:I[37457,["/_next/static/chunks/ff1a16fafef87110.js?dpl=dpl_GwuwmMc2oZNJkz1tEEADs8shECJt","/_next/static/chunks/803a574de9eda7ae.js?dpl=dpl_GwuwmMc2oZNJkz1tEEADs8shECJt"],"default"]
-5:I[22016,["/_next/static/chunks/0d46db6cf73968fd.js?dpl=dpl_GwuwmMc2oZNJkz1tEEADs8shECJt","/_next/static/chunks/39ad7020066b4868.js?dpl=dpl_GwuwmMc2oZNJkz1tEEADs8shECJt","/_next/static/chunks/33f7e5a25c4fcd0b.js?dpl=dpl_GwuwmMc2oZNJkz1tEEADs8shECJt"],""]
-6:I[2355,["/_next/static/chunks/0d46db6cf73968fd.js?dpl=dpl_GwuwmMc2oZNJkz1tEEADs8shECJt"],"Analytics"]
-11:I[68027,["/_next/static/chunks/ff1a16fafef87110.js?dpl=dpl_GwuwmMc2oZNJkz1tEEADs8shECJt","/_next/static/chunks/803a574de9eda7ae.js?dpl=dpl_GwuwmMc2oZNJkz1tEEADs8shECJt"],"default"]
-12:I[97367,["/_next/static/chunks/ff1a16fafef87110.js?dpl=dpl_GwuwmMc2oZNJkz1tEEADs8shECJt","/_next/static/chunks/803a574de9eda7ae.js?dpl=dpl_GwuwmMc2oZNJkz1tEEADs8shECJt"],"OutletBoundary"]
-13:"$Sreact.suspense"
-15:I[93539,["/_next/static/chunks/0d46db6cf73968fd.js?dpl=dpl_GwuwmMc2oZNJkz1tEEADs8shECJt","/_next/static/chunks/39ad7020066b4868.js?dpl=dpl_GwuwmMc2oZNJkz1tEEADs8shECJt","/_next/static/chunks/33f7e5a25c4fcd0b.js?dpl=dpl_GwuwmMc2oZNJkz1tEEADs8shECJt"],"ThemeToggle"]
-23:I[97367,["/_next/static/chunks/ff1a16fafef87110.js?dpl=dpl_GwuwmMc2oZNJkz1tEEADs8shECJt","/_next/static/chunks/803a574de9eda7ae.js?dpl=dpl_GwuwmMc2oZNJkz1tEEADs8shECJt"],"ViewportBoundary"]
-25:I[97367,["/_next/static/chunks/ff1a16fafef87110.js?dpl=dpl_GwuwmMc2oZNJkz1tEEADs8shECJt","/_next/static/chunks/803a574de9eda7ae.js?dpl=dpl_GwuwmMc2oZNJkz1tEEADs8shECJt"],"MetadataBoundary"]
-:HL["/_next/static/chunks/8be82ca8498e7d4a.css?dpl=dpl_GwuwmMc2oZNJkz1tEEADs8shECJt","style"]
-:HL["/_next/static/media/1b99372b3eaef0c8-s.p.758e15a8.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
-:HL["/_next/static/media/23b7a97ae3b5c134-s.p.2902b61f.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
-:HL["/_next/static/media/68d403cf9f2c68c5-s.p.f9f15f61.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
-:HL["/_next/static/media/99e609270109b47d-s.p.64b9304e.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
-:HL["/_next/static/media/a7e15459c1805da0-s.p.ec654d65.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
-:HL["/_next/static/media/ea3421846039b7f3-s.p.093205c5.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
-:HL["/_next/static/media/effe91970fc4db64-s.p.19510058.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
-
 ## Founding Story
+
+Cole Krumbholz arrived at Y Combinator's Winter 2012 batch with a specific technical frustration and a track record of shipping consumer products. Before Backlift, he had founded Koduco Games, where he designed and built iOS games that accumulated over one million downloads. <sup><a href="https://clay.earth/profile/cole-k">[3]</a></sup> That experience gave him credibility as a builder but also exposed a recurring pain point: every new project required standing up server infrastructure before writing a single line of product code.
+
+Krumbholz was one of YC's rare solo founders — a structural choice that would define both the company's agility and its eventual ceiling. <sup><a href="https://techcrunch.com/2013/04/10/yc-backlift-launch/">[4]</a></sup> He entered the batch with a product called Backlift, which he later described simply: "In 2012 I launched something called Backlift, which was a platform for single-page apps using Backbone.js." <sup><a href="https://sacra.com/research/cole-krumbholz-formspree-jamstack/">[5]</a></sup>
+
+The insight behind Backlift was that front-end developers — people who wrote HTML, CSS, and JavaScript — were increasingly capable of building sophisticated web applications, but were blocked by the operational overhead of backend infrastructure. Setting up a server, configuring a database, managing deployments: none of this was front-end work, yet all of it was required before a front-end developer could ship anything. Backlift proposed to eliminate that overhead entirely. A Dropbox account and a text editor were all a user needed to get started. <sup><a href="https://techcrunch.com/2013/04/10/yc-backlift-launch/">[6]</a></sup>
+
+The company was incorporated as Sendspree Inc. — a name that suggests an even earlier, undocumented product concept that predated Backlift. No public record explains the Sendspree name or what it was intended to become. By the time the company entered YC, it was operating entirely as Backlift.
+
+After YC, Krumbholz also joined Heavybit, a San Francisco accelerator specifically focused on developer tools companies. <sup><a href="https://www.businesswire.com/news/home/20131212006328/en/Brace-Introduces-Designer-Friendly-Website-Hosting">[7]</a></sup> The dual-accelerator path — YC for capital and network, Heavybit for developer-tools-specific mentorship — suggests Krumbholz was deliberate about positioning Backlift as infrastructure, not just a consumer product.
+
+The initial vision was expansive. By May 2013, Krumbholz was articulating an ambition for Backlift to become "something akin to WordPress, where developers could use the service as a canvas to create new apps and make them available through a built-in repository." <sup><a href="https://techcrunch.com/2013/05/28/backlift-the-yc-backed-back-end-service-for-front-end-developers-launches-ab-testing-service/">[8]</a></sup> That vision never materialized. By late 2013, the company had rebranded to Brace and narrowed its focus significantly — from a platform for developers to a hosting service for designers. Two rebrands in roughly two years signal a founder in active strategic search, not one executing a clear roadmap.
+
+---
 
 ## Timeline
 

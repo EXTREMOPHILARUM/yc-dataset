@@ -2,26 +2,19 @@
 
 ## Overview
 
-1:"$Sreact.fragment"
-2:I[39756,["/_next/static/chunks/ff1a16fafef87110.js?dpl=dpl_GwuwmMc2oZNJkz1tEEADs8shECJt","/_next/static/chunks/803a574de9eda7ae.js?dpl=dpl_GwuwmMc2oZNJkz1tEEADs8shECJt"],"default"]
-3:I[8821,["/_next/static/chunks/0d46db6cf73968fd.js?dpl=dpl_GwuwmMc2oZNJkz1tEEADs8shECJt","/_next/static/chunks/5f4dcbc1da431ca9.js?dpl=dpl_GwuwmMc2oZNJkz1tEEADs8shECJt","/_next/static/chunks/33f7e5a25c4fcd0b.js?dpl=dpl_GwuwmMc2oZNJkz1tEEADs8shECJt"],"default"]
-4:I[37457,["/_next/static/chunks/ff1a16fafef87110.js?dpl=dpl_GwuwmMc2oZNJkz1tEEADs8shECJt","/_next/static/chunks/803a574de9eda7ae.js?dpl=dpl_GwuwmMc2oZNJkz1tEEADs8shECJt"],"default"]
-5:I[22016,["/_next/static/chunks/0d46db6cf73968fd.js?dpl=dpl_GwuwmMc2oZNJkz1tEEADs8shECJt","/_next/static/chunks/39ad7020066b4868.js?dpl=dpl_GwuwmMc2oZNJkz1tEEADs8shECJt","/_next/static/chunks/33f7e5a25c4fcd0b.js?dpl=dpl_GwuwmMc2oZNJkz1tEEADs8shECJt"],""]
-6:I[2355,["/_next/static/chunks/0d46db6cf73968fd.js?dpl=dpl_GwuwmMc2oZNJkz1tEEADs8shECJt"],"Analytics"]
-11:I[68027,["/_next/static/chunks/ff1a16fafef87110.js?dpl=dpl_GwuwmMc2oZNJkz1tEEADs8shECJt","/_next/static/chunks/803a574de9eda7ae.js?dpl=dpl_GwuwmMc2oZNJkz1tEEADs8shECJt"],"default"]
-12:I[97367,["/_next/static/chunks/ff1a16fafef87110.js?dpl=dpl_GwuwmMc2oZNJkz1tEEADs8shECJt","/_next/static/chunks/803a574de9eda7ae.js?dpl=dpl_GwuwmMc2oZNJkz1tEEADs8shECJt"],"OutletBoundary"]
-13:"$Sreact.suspense"
-15:I[93539,["/_next/static/chunks/0d46db6cf73968fd.js?dpl=dpl_GwuwmMc2oZNJkz1tEEADs8shECJt","/_next/static/chunks/39ad7020066b4868.js?dpl=dpl_GwuwmMc2oZNJkz1tEEADs8shECJt","/_next/static/chunks/33f7e5a25c4fcd0b.js?dpl=dpl_GwuwmMc2oZNJkz1tEEADs8shECJt"],"ThemeToggle"]
-23:I[97367,["/_next/static/chunks/ff1a16fafef87110.js?dpl=dpl_GwuwmMc2oZNJkz1tEEADs8shECJt","/_next/static/chunks/803a574de9eda7ae.js?dpl=dpl_GwuwmMc2oZNJkz1tEEADs8shECJt"],"ViewportBoundary"]
-25:I[97367,["/_next/static/chunks/ff1a16fafef87110.js?dpl=dpl_GwuwmMc2oZNJkz1tEEADs8shECJt","/_next/static/chunks/803a574de9eda7ae.js?dpl=dpl_GwuwmMc2oZNJkz1tEEADs8shECJt"],"MetadataBoundary"]
-:HL["/_next/static/chunks/8be82ca8498e7d4a.css?dpl=dpl_GwuwmMc2oZNJkz1tEEADs8shECJt","style"]
-:HL["/_next/static/media/1b99372b3eaef0c8-s.p.758e15a8.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
-:HL["/_next/static/media/23b7a97ae3b5c134-s.p.2902b61f.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
-:HL["/_next/static/media/68d403cf9f2c68c5-s.p.f9f15f61.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
-:HL["/_next/static/media/99e609270109b47d-s.p.64b9304e.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
-:HL["/_next/static/media/a7e15459c1805da0-s.p.ec654d65.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
-:HL["/_next/static/media/ea3421846039b7f3-s.p.093205c5.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
-:HL["/_next/static/media/effe91970fc4db64-s.p.19510058.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+Omniref was founded in August 2013 by Tim Robertson and Montana Low, a two-person team operating out of San Francisco. <sup><a href="https://venturebeat.com/2016/12/29/y-combinator-backed-omniref-is-shutting-down-on-january-31-2017/">[1]</a></sup> Robertson brought an unusual academic pedigree to the startup world: he holds a PhD in Biochemistry and Computational Biology from the University of Washington, and had previously worked at Vayable and justin.tv before turning to developer tooling. <sup><a href="https://rocketreach.co/tim-robertson-email_4023595">[2]</a></sup> Low served as CTO and brought engineering depth to the founding team. She would later go on to co-found PostgresML in April 2022, an open-source machine learning extension for PostgreSQL — suggesting a consistent orientation toward developer infrastructure throughout her career. <sup><a href="https://tracxn.com/d/companies/omniref/__YvbA4krSxxZ9DXZOWmZsa-Y5CjDm8J39zAy4ncXkZbQ">[3]</a></sup>
+
+The founding insight was deceptively simple. Developers spend the majority of their working lives reading and navigating code — not just their own, but the code of libraries, frameworks, and packages they depend on. Yet the knowledge accumulated about that code — why a function works a certain way, what a parameter actually means in practice, what breaks when you upgrade a version — lived in wikis, Slack threads, Stack Overflow answers, and developers' heads. None of it lived where the code itself lived.
+
+Robertson and Low articulated this gap in a mission statement that doubled as a product thesis: "Programmers live in code. Coding knowledge should live there too." <sup><a href="https://www.business2community.com/tech-gadgets/yc-backed-startup-omniref-building-code-reference-tool-01111740">[4]</a></sup>
+
+The company launched publicly on November 22, 2013, initially as a Ruby documentation search tool. The reception was immediate. YC partner Justin Kan publicly endorsed the product just three days after launch, writing that Omniref was "the ultimate Ruby documentation search" and "the beginnings of the product I always want when I am wearing my programmer hat." <sup><a href="https://justinkan.com/feed/omniref">[5]</a></sup> That endorsement, from a sitting YC partner, was a meaningful early signal — and likely contributed to the company's eventual acceptance into the Winter 2015 batch.
+
+The founding team was technically credible but structurally thin. Two engineers with no apparent sales or go-to-market experience were building a product that would ultimately require converting a community of free users into paying customers. That gap between technical execution and commercial strategy would prove fatal.
+
+<media-hn url="https://news.ycombinator.com/item?id=6776168" title="Show HN: Omniref - a better search site for Ruby documentation" points="" comments=""></media-hn>
+
+---
 
 ## Founding Story
 

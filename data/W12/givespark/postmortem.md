@@ -2,26 +2,19 @@
 
 ## Overview
 
-1:"$Sreact.fragment"
-2:I[39756,["/_next/static/chunks/ff1a16fafef87110.js?dpl=dpl_GwuwmMc2oZNJkz1tEEADs8shECJt","/_next/static/chunks/803a574de9eda7ae.js?dpl=dpl_GwuwmMc2oZNJkz1tEEADs8shECJt"],"default"]
-3:I[8821,["/_next/static/chunks/0d46db6cf73968fd.js?dpl=dpl_GwuwmMc2oZNJkz1tEEADs8shECJt","/_next/static/chunks/5f4dcbc1da431ca9.js?dpl=dpl_GwuwmMc2oZNJkz1tEEADs8shECJt","/_next/static/chunks/33f7e5a25c4fcd0b.js?dpl=dpl_GwuwmMc2oZNJkz1tEEADs8shECJt"],"default"]
-4:I[37457,["/_next/static/chunks/ff1a16fafef87110.js?dpl=dpl_GwuwmMc2oZNJkz1tEEADs8shECJt","/_next/static/chunks/803a574de9eda7ae.js?dpl=dpl_GwuwmMc2oZNJkz1tEEADs8shECJt"],"default"]
-5:I[22016,["/_next/static/chunks/0d46db6cf73968fd.js?dpl=dpl_GwuwmMc2oZNJkz1tEEADs8shECJt","/_next/static/chunks/39ad7020066b4868.js?dpl=dpl_GwuwmMc2oZNJkz1tEEADs8shECJt","/_next/static/chunks/33f7e5a25c4fcd0b.js?dpl=dpl_GwuwmMc2oZNJkz1tEEADs8shECJt"],""]
-6:I[2355,["/_next/static/chunks/0d46db6cf73968fd.js?dpl=dpl_GwuwmMc2oZNJkz1tEEADs8shECJt"],"Analytics"]
-11:I[68027,["/_next/static/chunks/ff1a16fafef87110.js?dpl=dpl_GwuwmMc2oZNJkz1tEEADs8shECJt","/_next/static/chunks/803a574de9eda7ae.js?dpl=dpl_GwuwmMc2oZNJkz1tEEADs8shECJt"],"default"]
-12:I[97367,["/_next/static/chunks/ff1a16fafef87110.js?dpl=dpl_GwuwmMc2oZNJkz1tEEADs8shECJt","/_next/static/chunks/803a574de9eda7ae.js?dpl=dpl_GwuwmMc2oZNJkz1tEEADs8shECJt"],"OutletBoundary"]
-13:"$Sreact.suspense"
-15:I[93539,["/_next/static/chunks/0d46db6cf73968fd.js?dpl=dpl_GwuwmMc2oZNJkz1tEEADs8shECJt","/_next/static/chunks/39ad7020066b4868.js?dpl=dpl_GwuwmMc2oZNJkz1tEEADs8shECJt","/_next/static/chunks/33f7e5a25c4fcd0b.js?dpl=dpl_GwuwmMc2oZNJkz1tEEADs8shECJt"],"ThemeToggle"]
-23:I[97367,["/_next/static/chunks/ff1a16fafef87110.js?dpl=dpl_GwuwmMc2oZNJkz1tEEADs8shECJt","/_next/static/chunks/803a574de9eda7ae.js?dpl=dpl_GwuwmMc2oZNJkz1tEEADs8shECJt"],"ViewportBoundary"]
-25:I[97367,["/_next/static/chunks/ff1a16fafef87110.js?dpl=dpl_GwuwmMc2oZNJkz1tEEADs8shECJt","/_next/static/chunks/803a574de9eda7ae.js?dpl=dpl_GwuwmMc2oZNJkz1tEEADs8shECJt"],"MetadataBoundary"]
-:HL["/_next/static/chunks/8be82ca8498e7d4a.css?dpl=dpl_GwuwmMc2oZNJkz1tEEADs8shECJt","style"]
-:HL["/_next/static/media/1b99372b3eaef0c8-s.p.758e15a8.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
-:HL["/_next/static/media/23b7a97ae3b5c134-s.p.2902b61f.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
-:HL["/_next/static/media/68d403cf9f2c68c5-s.p.f9f15f61.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
-:HL["/_next/static/media/99e609270109b47d-s.p.64b9304e.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
-:HL["/_next/static/media/a7e15459c1805da0-s.p.ec654d65.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
-:HL["/_next/static/media/ea3421846039b7f3-s.p.093205c5.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
-:HL["/_next/static/media/effe91970fc4db64-s.p.19510058.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+Joe Teplow — also referred to in press as Josef Teplow — was a pre-med undergraduate at Yeshiva University in New York when his interest in charitable giving first took an organized form. Before GiveSpark, he had published a newsletter called Good St., built around the idea that giving small amounts frequently was more sustainable and impactful than infrequent large donations.<sup><a href="https://ejewishphilanthropy.com/good-today-brings-the-pushke-to-corporate-social-responsibility/">[3]</a></sup> That newsletter would eventually become Good Today, but in 2012 Teplow's attention was focused on a different problem: the gap between celebrity awareness-raising and actual charitable dollars.
+
+The insight was grounded in observable behavior. Celebrities were already using Twitter to amplify causes they cared about — posting about bone marrow registries, disaster relief funds, and advocacy campaigns. Their followers engaged with those posts. But engagement did not translate into donations. There was no mechanism to close that loop. GiveSpark was Teplow's attempt to build that mechanism.<sup><a href="https://techcrunch.com/2012/03/27/yc-demo-day-session-1/">[4]</a></sup>
+
+The company was accepted into Y Combinator's Winter 2012 batch, one of 66 companies in that cohort.<sup><a href="https://techcrunch.com/2012/03/27/yc-demo-day-session-1/">[5]</a></sup> YC's company listing records a team size of one, making Teplow a solo founder — though VentureBeat's Demo Day coverage refers to "Teplow and his team," suggesting possible informal collaborators whose identities are not confirmed in any public record.<sup><a href="https://www.ycombinator.com/companies/givespark">[6]</a></sup> The company was headquartered in Palo Alto, CA, consistent with the YC residency model.
+
+Teplow's pitch at Demo Day distilled the product concept into a single memorable line: "It's Twitter, just with money."<sup><a href="https://venturebeat.com/company/givespark">[7]</a></sup> That framing captured both the product's strength — it was familiar, social, and low-friction for fans — and its structural dependency: without Twitter-scale celebrity participation, the analogy collapsed.
+
+Before Demo Day, Teplow had already run a test campaign with an unnamed celebrity for a bone marrow foundation, raising $87,000 in two weeks.<sup><a href="https://techcrunch.com/2012/03/27/yc-demo-day-session-1/">[8]</a></sup> That result gave the Demo Day pitch credibility and generated coverage from both TechCrunch and VentureBeat. It also set an expectation that the platform could not subsequently meet — at least not in any documented way.
+
+No information is available on how Teplow connected with the celebrity used in the test campaign, what the original YC application contained, or whether any co-founders or employees joined the company after its founding.
+
+---
 
 ## Founding Story
 

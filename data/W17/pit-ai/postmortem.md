@@ -2,26 +2,19 @@
 
 ## Overview
 
-1:"$Sreact.fragment"
-2:I[39756,["/_next/static/chunks/ff1a16fafef87110.js?dpl=dpl_GwuwmMc2oZNJkz1tEEADs8shECJt","/_next/static/chunks/803a574de9eda7ae.js?dpl=dpl_GwuwmMc2oZNJkz1tEEADs8shECJt"],"default"]
-3:I[8821,["/_next/static/chunks/0d46db6cf73968fd.js?dpl=dpl_GwuwmMc2oZNJkz1tEEADs8shECJt","/_next/static/chunks/5f4dcbc1da431ca9.js?dpl=dpl_GwuwmMc2oZNJkz1tEEADs8shECJt","/_next/static/chunks/33f7e5a25c4fcd0b.js?dpl=dpl_GwuwmMc2oZNJkz1tEEADs8shECJt"],"default"]
-4:I[37457,["/_next/static/chunks/ff1a16fafef87110.js?dpl=dpl_GwuwmMc2oZNJkz1tEEADs8shECJt","/_next/static/chunks/803a574de9eda7ae.js?dpl=dpl_GwuwmMc2oZNJkz1tEEADs8shECJt"],"default"]
-5:I[22016,["/_next/static/chunks/0d46db6cf73968fd.js?dpl=dpl_GwuwmMc2oZNJkz1tEEADs8shECJt","/_next/static/chunks/39ad7020066b4868.js?dpl=dpl_GwuwmMc2oZNJkz1tEEADs8shECJt","/_next/static/chunks/33f7e5a25c4fcd0b.js?dpl=dpl_GwuwmMc2oZNJkz1tEEADs8shECJt"],""]
-6:I[2355,["/_next/static/chunks/0d46db6cf73968fd.js?dpl=dpl_GwuwmMc2oZNJkz1tEEADs8shECJt"],"Analytics"]
-11:I[68027,["/_next/static/chunks/ff1a16fafef87110.js?dpl=dpl_GwuwmMc2oZNJkz1tEEADs8shECJt","/_next/static/chunks/803a574de9eda7ae.js?dpl=dpl_GwuwmMc2oZNJkz1tEEADs8shECJt"],"default"]
-12:I[97367,["/_next/static/chunks/ff1a16fafef87110.js?dpl=dpl_GwuwmMc2oZNJkz1tEEADs8shECJt","/_next/static/chunks/803a574de9eda7ae.js?dpl=dpl_GwuwmMc2oZNJkz1tEEADs8shECJt"],"OutletBoundary"]
-13:"$Sreact.suspense"
-15:I[93539,["/_next/static/chunks/0d46db6cf73968fd.js?dpl=dpl_GwuwmMc2oZNJkz1tEEADs8shECJt","/_next/static/chunks/39ad7020066b4868.js?dpl=dpl_GwuwmMc2oZNJkz1tEEADs8shECJt","/_next/static/chunks/33f7e5a25c4fcd0b.js?dpl=dpl_GwuwmMc2oZNJkz1tEEADs8shECJt"],"ThemeToggle"]
-23:I[97367,["/_next/static/chunks/ff1a16fafef87110.js?dpl=dpl_GwuwmMc2oZNJkz1tEEADs8shECJt","/_next/static/chunks/803a574de9eda7ae.js?dpl=dpl_GwuwmMc2oZNJkz1tEEADs8shECJt"],"ViewportBoundary"]
-25:I[97367,["/_next/static/chunks/ff1a16fafef87110.js?dpl=dpl_GwuwmMc2oZNJkz1tEEADs8shECJt","/_next/static/chunks/803a574de9eda7ae.js?dpl=dpl_GwuwmMc2oZNJkz1tEEADs8shECJt"],"MetadataBoundary"]
-:HL["/_next/static/chunks/8be82ca8498e7d4a.css?dpl=dpl_GwuwmMc2oZNJkz1tEEADs8shECJt","style"]
-:HL["/_next/static/media/1b99372b3eaef0c8-s.p.758e15a8.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
-:HL["/_next/static/media/23b7a97ae3b5c134-s.p.2902b61f.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
-:HL["/_next/static/media/68d403cf9f2c68c5-s.p.f9f15f61.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
-:HL["/_next/static/media/99e609270109b47d-s.p.64b9304e.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
-:HL["/_next/static/media/a7e15459c1805da0-s.p.ec654d65.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
-:HL["/_next/static/media/ea3421846039b7f3-s.p.093205c5.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
-:HL["/_next/static/media/effe91970fc4db64-s.p.19510058.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+Yves-Laurent Kom Samo arrived at Pit.AI with credentials that were unusual even by YC standards. He spent two years at Goldman Sachs as an Equities Algorithmic Trading Strategist beginning in 2010, then moved to JPMorgan Chase as an FX Quant Trader in 2012. <sup><a href="https://contactout.com/Yves-Laurent-SAMO-83532239">[1]</a></sup> In 2013, he left finance to pursue a PhD in Machine Learning at the University of Oxford, where he was a Google Fellow in Machine Learning and affiliated with the Oxford-Man Institute of Quantitative Finance—an academic center specifically focused on applying quantitative methods to financial markets. <sup><a href="https://www.robots.ox.ac.uk/Ylks/">[2]</a></sup>
+
+That combination—practitioner experience at two of the world's largest investment banks, followed by three years of frontier ML research at an institution purpose-built for quantitative finance—gave Kom Samo a specific and pointed view of what was broken in the industry. Traditional quant funds, in his framing, required a human to first postulate a trading hypothesis before machine learning could be applied to test it. The hypothesis-generation step was the bottleneck: it was slow, biased, and limited by human intuition. His insight was to eliminate it entirely.
+
+Kom Samo completed his PhD in 2016 and participated in Entrepreneur First's Batch 7 before joining Y Combinator's Winter 2017 cohort. <sup><a href="https://golden.com/wiki/Pit.AI_Technologies-NMGKGN9">[3]</a></sup> The dual accelerator path—EF followed by YC—suggests he was actively seeking institutional validation and network before launch, a pattern consistent with someone building toward a regulated financial product rather than a consumer app.
+
+Pit.AI Technologies was formally incorporated on December 12, 2016. <sup><a href="https://golden.com/wiki/Pit.AI_Technologies-NMGKGN9">[4]</a></sup> The founding vision was explicit: use AI to build what Kom Samo called "AI-Quants"—systems that generate trading hypotheses directly from data—and charge limited partners no management fees, collecting only carry on performance. <sup><a href="https://www.ycombinator.com/companies/pit-ai">[5]</a></sup> As he described it: "I am the Founder and CEO of Pit.AI Technologies, a Silicon Valley AI startup (hedge fund) backed by Y Combinator aiming at solving intelligence for investment management, and getting rid of hedge fund management fees." <sup><a href="https://www.robots.ox.ac.uk/Ylks/">[6]</a></sup>
+
+The ambition was structural, not incremental. Pit.AI was not trying to build a better quant tool for existing funds. It was trying to replace the human judgment layer of the entire asset management industry.
+
+<media-tweet url="https://x.com/Dr_YLKS" author="@Dr_YLKS" date="2017-06-11" text="Founder & CEO @kxytechnologies | Prev: PhD Fellow in ML @GoogleAI | @ycombinator alumn | PhD in ML @UniofOxford | Quant @GoldmanSachs"></media-tweet>
+
+---
 
 ## Founding Story
 

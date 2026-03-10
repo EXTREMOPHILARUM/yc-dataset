@@ -10,6 +10,18 @@ LVL6 closed in 2016, sold its IP to R2 Games, and left no public post-mortem.The
 
 ## Founding Story
 
+Alex Lin left Babson College in 2011 after two years, at age 19, to found LVL6. <sup><a href="https://rocketreach.co/alex-lin-email_2551969">[1]</a></sup> He would later be described as the youngest founder in Y Combinator's history at the time of the W12 batch. <sup><a href="https://medium.com/@cripco/nft-project-research-valhalla-a1d13fc930fb">[2]</a></sup> Lin brought on Conrad Chan as co-founder and CTO — a Stanford-trained computer scientist who would later work at Google, Palantir, and Flexport. <sup><a href="https://www.weekday.works/people/conrad-chan-conradchan">[3]</a></sup> A third co-founder, Calvin Tuong, is listed on YC's company directory but has no documented public profile or known role within the company. <sup><a href="https://www.ycombinator.com/companies/lvl6">[4]</a></sup>
+
+The founding thesis was straightforward: mobile gaming was exploding, and the MMO genre — persistent worlds, social mechanics, continuous content — had not yet been fully translated to smartphones. LVL6 set out to build exactly that. The company incorporated in June 2011 in Palo Alto and shipped its first title, Mercenary Inc., within five months of founding. <sup><a href="https://www.crunchbase.com/organization/lvl6">[5]</a></sup>
+
+Lin's decision to leave Babson and build a mobile game studio at 19 reflected a broader pattern of young founders betting on the App Store's growth trajectory. The timing was credible: the iOS App Store had launched in 2008, and by 2011 the free-to-play model was proving itself through titles like Zynga's mobile portfolio. What Lin and Chan were attempting — building a live-service game with persistent world mechanics on a two-person team — was technically ambitious relative to their headcount.
+
+By January 2012, LVL6 had been accepted into YC's Winter 2012 cohort, the largest batch in YC's history at 65 companies. <sup><a href="https://www.ycombinator.com/companies/lvl6">[6]</a></sup> The company presented at Demo Day at the Computer History Museum in Mountain View, receiving seed funding from Y Combinator and Great Oaks Venture Capital — the only disclosed funding round in the company's history. <sup><a href="https://www.crunchbase.com/organization/lvl6">[7]</a></sup>
+
+No public record exists of Lin explaining what specifically drew him to mobile gaming over other sectors, or why he left Babson when he did. The connection between his academic background and the decision to build MMOs is undocumented.
+
+---
+
 ## Timeline
 
 - **June 2011** — LVL6 founded by Alex Lin, Conrad Chan, and Calvin Tuong in Palo Alto, CA. <sup>[[1]](https://www.crunchbase.com/organization/lvl6)</sup>
@@ -77,7 +89,7 @@ LVL6 operated on the standard free-to-play mobile game model. Both Mercenary Inc
 
 The company received seed funding from Y Combinator and Great Oaks Venture Capital, with no disclosed follow-on rounds. <sup><a href="https://www.crunchbase.com/organization/lvl6">[1]</a></sup> This means LVL6 was either sustaining operations on game revenue after the seed round or running on a very lean burn rate for five years. No revenue figures were ever disclosed publicly. The eventual sale of the company's titles to R2 Games suggests the IP had residual commercial value, but the terms of that transaction — price, structure, timing — are not publicly known. <sup><a href="https://medium.com/@cripco/nft-project-research-valhalla-a1d13fc930fb">[2]</a></sup>
 
----2d:T621,
+---2e:T621,
 
 ## Traction
 

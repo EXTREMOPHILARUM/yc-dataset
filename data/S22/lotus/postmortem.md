@@ -10,26 +10,15 @@ With only $500K raised and a two-person team, the company ran out of runway befo
 
 ## Founding Story
 
-1:"$Sreact.fragment"
-2:I[39756,["/_next/static/chunks/ff1a16fafef87110.js?dpl=dpl_GwuwmMc2oZNJkz1tEEADs8shECJt","/_next/static/chunks/803a574de9eda7ae.js?dpl=dpl_GwuwmMc2oZNJkz1tEEADs8shECJt"],"default"]
-3:I[8821,["/_next/static/chunks/0d46db6cf73968fd.js?dpl=dpl_GwuwmMc2oZNJkz1tEEADs8shECJt","/_next/static/chunks/5f4dcbc1da431ca9.js?dpl=dpl_GwuwmMc2oZNJkz1tEEADs8shECJt","/_next/static/chunks/33f7e5a25c4fcd0b.js?dpl=dpl_GwuwmMc2oZNJkz1tEEADs8shECJt"],"default"]
-4:I[37457,["/_next/static/chunks/ff1a16fafef87110.js?dpl=dpl_GwuwmMc2oZNJkz1tEEADs8shECJt","/_next/static/chunks/803a574de9eda7ae.js?dpl=dpl_GwuwmMc2oZNJkz1tEEADs8shECJt"],"default"]
-5:I[22016,["/_next/static/chunks/0d46db6cf73968fd.js?dpl=dpl_GwuwmMc2oZNJkz1tEEADs8shECJt","/_next/static/chunks/39ad7020066b4868.js?dpl=dpl_GwuwmMc2oZNJkz1tEEADs8shECJt","/_next/static/chunks/33f7e5a25c4fcd0b.js?dpl=dpl_GwuwmMc2oZNJkz1tEEADs8shECJt"],""]
-6:I[2355,["/_next/static/chunks/0d46db6cf73968fd.js?dpl=dpl_GwuwmMc2oZNJkz1tEEADs8shECJt"],"Analytics"]
-11:I[68027,["/_next/static/chunks/ff1a16fafef87110.js?dpl=dpl_GwuwmMc2oZNJkz1tEEADs8shECJt","/_next/static/chunks/803a574de9eda7ae.js?dpl=dpl_GwuwmMc2oZNJkz1tEEADs8shECJt"],"default"]
-12:I[97367,["/_next/static/chunks/ff1a16fafef87110.js?dpl=dpl_GwuwmMc2oZNJkz1tEEADs8shECJt","/_next/static/chunks/803a574de9eda7ae.js?dpl=dpl_GwuwmMc2oZNJkz1tEEADs8shECJt"],"OutletBoundary"]
-13:"$Sreact.suspense"
-15:I[93539,["/_next/static/chunks/0d46db6cf73968fd.js?dpl=dpl_GwuwmMc2oZNJkz1tEEADs8shECJt","/_next/static/chunks/39ad7020066b4868.js?dpl=dpl_GwuwmMc2oZNJkz1tEEADs8shECJt","/_next/static/chunks/33f7e5a25c4fcd0b.js?dpl=dpl_GwuwmMc2oZNJkz1tEEADs8shECJt"],"ThemeToggle"]
-23:I[97367,["/_next/static/chunks/ff1a16fafef87110.js?dpl=dpl_GwuwmMc2oZNJkz1tEEADs8shECJt","/_next/static/chunks/803a574de9eda7ae.js?dpl=dpl_GwuwmMc2oZNJkz1tEEADs8shECJt"],"ViewportBoundary"]
-25:I[97367,["/_next/static/chunks/ff1a16fafef87110.js?dpl=dpl_GwuwmMc2oZNJkz1tEEADs8shECJt","/_next/static/chunks/803a574de9eda7ae.js?dpl=dpl_GwuwmMc2oZNJkz1tEEADs8shECJt"],"MetadataBoundary"]
-:HL["/_next/static/chunks/8be82ca8498e7d4a.css?dpl=dpl_GwuwmMc2oZNJkz1tEEADs8shECJt","style"]
-:HL["/_next/static/media/1b99372b3eaef0c8-s.p.758e15a8.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
-:HL["/_next/static/media/23b7a97ae3b5c134-s.p.2902b61f.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
-:HL["/_next/static/media/68d403cf9f2c68c5-s.p.f9f15f61.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
-:HL["/_next/static/media/99e609270109b47d-s.p.64b9304e.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
-:HL["/_next/static/media/a7e15459c1805da0-s.p.ec654d65.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
-:HL["/_next/static/media/ea3421846039b7f3-s.p.093205c5.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
-:HL["/_next/static/media/effe91970fc4db64-s.p.19510058.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+Lotus originated in an MIT dorm room, where Mikael Nida began building the initial product before co-founding the company with Diego Escobedo in 2022.<sup><a href="https://www.linkedin.com/posts/uselotusio_saas-lotus-ycombinator-activity-6963178155788423168-_d8Z">[1]</a></sup> Nida brought a technically rigorous background to the venture: he graduated from MIT with dual degrees in Computer Science and Physics, then worked at D.E. Shaw — one of the most quantitatively demanding hedge funds in the world — before moving to Lyft, where he gained exposure to the operational complexity of platform-scale billing and pricing systems.<sup><a href="https://www.ycombinator.com/companies/lotus">[2]</a></sup> Escobedo joined as co-founder and CTO, though his prior background and professional history remain largely undocumented in public sources.<sup><a href="https://nocap.blog/founder/diego-escobedo/">[3]</a></sup>
+
+The founding insight came from a frustration Nida observed across SaaS companies: pricing decisions are consequential, but the systems that execute on pricing — billing engines, payment processors, feature-flag tools, metering infrastructure, and CRM platforms — operate in silos and rarely communicate with one another. The result is that companies cannot experiment with pricing without touching multiple codebases and vendor contracts simultaneously. As the founders later articulated on Hacker News: "We strongly believe pricing is the largest untapped growth lever for SaaS, primarily because pricing affects so many critical systems that don't talk to each other (billing, payments, feature limits, metering, and CRM)."<sup><a href="https://news.ycombinator.com/item?id=33494284">[4]</a></sup>
+
+Lotus was accepted into Y Combinator's Summer 2022 batch, receiving the standard YC deal and access to a network of group partners including Dalton Caldwell, Diana Hu, Richard Aberman, and Nicolas Dessaigne.<sup><a href="https://www.linkedin.com/posts/uselotusio_saas-lotus-ycombinator-activity-6963178155788423168-_d8Z">[5]</a></sup> The YC announcement was made publicly on LinkedIn on August 10, 2022, framing the company as a COSS business — a model Nida himself later acknowledged is "especially confusing and sometimes counterintuitive for open source."<sup><a href="https://www.linkedin.com/posts/mikaelnida_excited-to-share-what-ill-be-doing-for-a-activity-6963183893348843521-3ItI">[6]</a></sup>
+
+The team remained at exactly two people throughout its known operating life — a headcount that would prove to be a structural constraint as the company tried to simultaneously maintain an open-source repository, build enterprise sales relationships, and iterate on product positioning.
+
+---
 
 ## Timeline
 

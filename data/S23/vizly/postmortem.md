@@ -2,27 +2,6 @@
 
 ## Overview
 
-1:"$Sreact.fragment"
-2:I[39756,["/_next/static/chunks/ff1a16fafef87110.js?dpl=dpl_GwuwmMc2oZNJkz1tEEADs8shECJt","/_next/static/chunks/803a574de9eda7ae.js?dpl=dpl_GwuwmMc2oZNJkz1tEEADs8shECJt"],"default"]
-3:I[8821,["/_next/static/chunks/0d46db6cf73968fd.js?dpl=dpl_GwuwmMc2oZNJkz1tEEADs8shECJt","/_next/static/chunks/5f4dcbc1da431ca9.js?dpl=dpl_GwuwmMc2oZNJkz1tEEADs8shECJt","/_next/static/chunks/33f7e5a25c4fcd0b.js?dpl=dpl_GwuwmMc2oZNJkz1tEEADs8shECJt"],"default"]
-4:I[37457,["/_next/static/chunks/ff1a16fafef87110.js?dpl=dpl_GwuwmMc2oZNJkz1tEEADs8shECJt","/_next/static/chunks/803a574de9eda7ae.js?dpl=dpl_GwuwmMc2oZNJkz1tEEADs8shECJt"],"default"]
-5:I[22016,["/_next/static/chunks/0d46db6cf73968fd.js?dpl=dpl_GwuwmMc2oZNJkz1tEEADs8shECJt","/_next/static/chunks/39ad7020066b4868.js?dpl=dpl_GwuwmMc2oZNJkz1tEEADs8shECJt","/_next/static/chunks/33f7e5a25c4fcd0b.js?dpl=dpl_GwuwmMc2oZNJkz1tEEADs8shECJt"],""]
-6:I[2355,["/_next/static/chunks/0d46db6cf73968fd.js?dpl=dpl_GwuwmMc2oZNJkz1tEEADs8shECJt"],"Analytics"]
-11:I[68027,["/_next/static/chunks/ff1a16fafef87110.js?dpl=dpl_GwuwmMc2oZNJkz1tEEADs8shECJt","/_next/static/chunks/803a574de9eda7ae.js?dpl=dpl_GwuwmMc2oZNJkz1tEEADs8shECJt"],"default"]
-12:I[97367,["/_next/static/chunks/ff1a16fafef87110.js?dpl=dpl_GwuwmMc2oZNJkz1tEEADs8shECJt","/_next/static/chunks/803a574de9eda7ae.js?dpl=dpl_GwuwmMc2oZNJkz1tEEADs8shECJt"],"OutletBoundary"]
-13:"$Sreact.suspense"
-15:I[93539,["/_next/static/chunks/0d46db6cf73968fd.js?dpl=dpl_GwuwmMc2oZNJkz1tEEADs8shECJt","/_next/static/chunks/39ad7020066b4868.js?dpl=dpl_GwuwmMc2oZNJkz1tEEADs8shECJt","/_next/static/chunks/33f7e5a25c4fcd0b.js?dpl=dpl_GwuwmMc2oZNJkz1tEEADs8shECJt"],"ThemeToggle"]
-23:I[97367,["/_next/static/chunks/ff1a16fafef87110.js?dpl=dpl_GwuwmMc2oZNJkz1tEEADs8shECJt","/_next/static/chunks/803a574de9eda7ae.js?dpl=dpl_GwuwmMc2oZNJkz1tEEADs8shECJt"],"ViewportBoundary"]
-25:I[97367,["/_next/static/chunks/ff1a16fafef87110.js?dpl=dpl_GwuwmMc2oZNJkz1tEEADs8shECJt","/_next/static/chunks/803a574de9eda7ae.js?dpl=dpl_GwuwmMc2oZNJkz1tEEADs8shECJt"],"MetadataBoundary"]
-:HL["/_next/static/chunks/8be82ca8498e7d4a.css?dpl=dpl_GwuwmMc2oZNJkz1tEEADs8shECJt","style"]
-:HL["/_next/static/media/1b99372b3eaef0c8-s.p.758e15a8.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
-:HL["/_next/static/media/23b7a97ae3b5c134-s.p.2902b61f.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
-:HL["/_next/static/media/68d403cf9f2c68c5-s.p.f9f15f61.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
-:HL["/_next/static/media/99e609270109b47d-s.p.64b9304e.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
-:HL["/_next/static/media/a7e15459c1805da0-s.p.ec654d65.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
-:HL["/_next/static/media/ea3421846039b7f3-s.p.093205c5.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
-:HL["/_next/static/media/effe91970fc4db64-s.p.19510058.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
-
 ## Founding Story
 
 Ali Shobeiri and Sami Sahnoune had known each other for nearly a decade before founding Vizly. <sup><a href="https://www.fondo.com/blog/vizly-launches">[1]</a></sup> Both graduated from McGill University and had already co-built a product together: YouTube Party, a Chrome extension that synchronized YouTube video playback across multiple users and reached over 300,000 weekly active users before being sold. <sup><a href="https://www.ycombinator.com/companies/vizly">[2]</a></sup> That prior collaboration gave them a working template for how to build and ship together quickly.
@@ -117,7 +96,7 @@ Vizly operated on a freemium SaaS subscription model with three tiers. <sup><a h
 
 This pricing structure was designed for individual users and small teams, not enterprise procurement. Enterprise BI software typically sells on annual contracts with per-seat pricing, volume discounts, and dedicated customer success resources — none of which were evident in Vizly's public-facing model. The gap between the product's enterprise-grade architecture (on-premises deployment, Snowflake and Redshift connectors) and its consumer-grade pricing ($29.99/month maximum) suggests the team had not yet resolved which customer segment to commit to, or was using the consumer tier as a top-of-funnel while pursuing enterprise deals through direct outreach. No revenue figures were disclosed publicly.
 
----2f:T1966,
+---2e:T1966,
 
 ## Post-Mortem
 
@@ -148,8 +127,8 @@ This pricing structure was designed for individual users and small teams, not en
 11. [Vizly.ai (now Aggregate Intelligence)](https://vizly.ai/about-us)
 12. [Crunchbase: Vizly](https://www.crunchbase.com/organization/vizly)
 13. [X/Twitter: @VizlyHQ](https://x.com/VizlyHQ)
-14. [X/Twitter: @Ali_Shobeiri](https://twitter.com/Ali_Shobeiri)32:T4d8,By 2026, Vizly returns as a compliance-first natural language query tool for regulated industries—healthcare clinics, financial services, and legal firms—where data never leaves the building. The product is a lightweight on-premises agent that connects to a single data source (PostgreSQL, Google Sheets) and translates plain English questions into SQL, with every query logged for audit. It ships as a Google Workspace add-on, so adoption is frictionless for teams already in Sheets.
+14. [X/Twitter: @Ali_Shobeiri](https://twitter.com/Ali_Shobeiri)31:T4d8,By 2026, Vizly returns as a compliance-first natural language query tool for regulated industries—healthcare clinics, financial services, and legal firms—where data never leaves the building. The product is a lightweight on-premises agent that connects to a single data source (PostgreSQL, Google Sheets) and translates plain English questions into SQL, with every query logged for audit. It ships as a Google Workspace add-on, so adoption is frictionless for teams already in Sheets.
 
 The market shift is local LLM inference maturity. In 2023, running reliable inference on-premises was a liability; by 2026, it's table stakes for any enterprise handling sensitive data. HIPAA, SOC 2, and data residency requirements are no longer edge cases—they're deal-breakers. Incumbents like Microsoft and Google own the horizontal BI market, but they can't promise data stays local. Vizly owns that wedge.
 
-Go-to-market targets IT managers at mid-market healthcare and financial services firms. The pitch: eliminate analyst bottlenecks without compliance risk. Distribution through Google Workspace Marketplace means no sales engineering required at launch. Land in one vertical, prove audit-log rigor, expand to adjacent regulated industries.33:T883,
+Go-to-market targets IT managers at mid-market healthcare and financial services firms. The pitch: eliminate analyst bottlenecks without compliance risk. Distribution through Google Workspace Marketplace means no sales engineering required at launch. Land in one vertical, prove audit-log rigor, expand to adjacent regulated industries.32:T883,

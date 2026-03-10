@@ -2,26 +2,19 @@
 
 ## Overview
 
-1:"$Sreact.fragment"
-2:I[39756,["/_next/static/chunks/ff1a16fafef87110.js?dpl=dpl_GwuwmMc2oZNJkz1tEEADs8shECJt","/_next/static/chunks/803a574de9eda7ae.js?dpl=dpl_GwuwmMc2oZNJkz1tEEADs8shECJt"],"default"]
-3:I[8821,["/_next/static/chunks/0d46db6cf73968fd.js?dpl=dpl_GwuwmMc2oZNJkz1tEEADs8shECJt","/_next/static/chunks/5f4dcbc1da431ca9.js?dpl=dpl_GwuwmMc2oZNJkz1tEEADs8shECJt","/_next/static/chunks/33f7e5a25c4fcd0b.js?dpl=dpl_GwuwmMc2oZNJkz1tEEADs8shECJt"],"default"]
-4:I[37457,["/_next/static/chunks/ff1a16fafef87110.js?dpl=dpl_GwuwmMc2oZNJkz1tEEADs8shECJt","/_next/static/chunks/803a574de9eda7ae.js?dpl=dpl_GwuwmMc2oZNJkz1tEEADs8shECJt"],"default"]
-5:I[22016,["/_next/static/chunks/0d46db6cf73968fd.js?dpl=dpl_GwuwmMc2oZNJkz1tEEADs8shECJt","/_next/static/chunks/39ad7020066b4868.js?dpl=dpl_GwuwmMc2oZNJkz1tEEADs8shECJt","/_next/static/chunks/33f7e5a25c4fcd0b.js?dpl=dpl_GwuwmMc2oZNJkz1tEEADs8shECJt"],""]
-6:I[2355,["/_next/static/chunks/0d46db6cf73968fd.js?dpl=dpl_GwuwmMc2oZNJkz1tEEADs8shECJt"],"Analytics"]
-11:I[68027,["/_next/static/chunks/ff1a16fafef87110.js?dpl=dpl_GwuwmMc2oZNJkz1tEEADs8shECJt","/_next/static/chunks/803a574de9eda7ae.js?dpl=dpl_GwuwmMc2oZNJkz1tEEADs8shECJt"],"default"]
-12:I[97367,["/_next/static/chunks/ff1a16fafef87110.js?dpl=dpl_GwuwmMc2oZNJkz1tEEADs8shECJt","/_next/static/chunks/803a574de9eda7ae.js?dpl=dpl_GwuwmMc2oZNJkz1tEEADs8shECJt"],"OutletBoundary"]
-13:"$Sreact.suspense"
-15:I[93539,["/_next/static/chunks/0d46db6cf73968fd.js?dpl=dpl_GwuwmMc2oZNJkz1tEEADs8shECJt","/_next/static/chunks/39ad7020066b4868.js?dpl=dpl_GwuwmMc2oZNJkz1tEEADs8shECJt","/_next/static/chunks/33f7e5a25c4fcd0b.js?dpl=dpl_GwuwmMc2oZNJkz1tEEADs8shECJt"],"ThemeToggle"]
-23:I[97367,["/_next/static/chunks/ff1a16fafef87110.js?dpl=dpl_GwuwmMc2oZNJkz1tEEADs8shECJt","/_next/static/chunks/803a574de9eda7ae.js?dpl=dpl_GwuwmMc2oZNJkz1tEEADs8shECJt"],"ViewportBoundary"]
-25:I[97367,["/_next/static/chunks/ff1a16fafef87110.js?dpl=dpl_GwuwmMc2oZNJkz1tEEADs8shECJt","/_next/static/chunks/803a574de9eda7ae.js?dpl=dpl_GwuwmMc2oZNJkz1tEEADs8shECJt"],"MetadataBoundary"]
-:HL["/_next/static/chunks/8be82ca8498e7d4a.css?dpl=dpl_GwuwmMc2oZNJkz1tEEADs8shECJt","style"]
-:HL["/_next/static/media/1b99372b3eaef0c8-s.p.758e15a8.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
-:HL["/_next/static/media/23b7a97ae3b5c134-s.p.2902b61f.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
-:HL["/_next/static/media/68d403cf9f2c68c5-s.p.f9f15f61.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
-:HL["/_next/static/media/99e609270109b47d-s.p.64b9304e.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
-:HL["/_next/static/media/a7e15459c1805da0-s.p.ec654d65.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
-:HL["/_next/static/media/ea3421846039b7f3-s.p.093205c5.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
-:HL["/_next/static/media/effe91970fc4db64-s.p.19510058.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+Documents.Me was incorporated as Nouvou, Inc. in 2011 in Santa Clara, California, by two co-founders with complementary but unusual backgrounds for a consumer security startup.<sup><a href="https://contactout.com/company/Nouvou-Inc-61191">[2]</a></sup>
+
+Sai Kumar Thumuluru brought academic depth that was rare at the seed stage. He held a Bachelor of Technology in Aerospace Engineering from the Indian Institute of Technology, Madras — one of India's most selective technical universities — and went on to earn both a PhD and an MBA from Georgia Institute of Technology.<sup><a href="https://theorg.com/org/directshifts/org-chart/sai-kumar-thumuluru-ph-d">[3]</a></sup> That combination of engineering rigor and business training positioned him as the operational and strategic lead. He is listed as CEO of Nouvou.
+
+Anirudh Ramachandran served as the technical co-founder. His subsequent career — Production Engineer at Yahoo Finance, then tech lead in systems and networks security at Facebook — confirms genuine depth in infrastructure and security engineering.<sup><a href="https://www.linkedin.com/in/anirudhvr/">[4]</a></sup> His GitHub repositories, including projects named `hipaarails` and `keyserve`, show active work on HIPAA compliance tooling and encryption key management, the exact technical problems the company was trying to solve.<sup><a href="https://github.com/anirudhvr">[5]</a></sup>
+
+The precise founding story is not documented in any public source. No founder interviews, blog posts, or press profiles exist in the public record. What can be inferred from the product and timing is that the founders identified a structural gap in the cloud storage market: services like Dropbox and Google Drive were storing user files in plaintext on their own servers, meaning the provider — and by extension, any government with a subpoena — could read user data. Client-side encryption, where files are encrypted on the user's device before upload, would close that gap. The company entered Y Combinator's Winter 2012 batch with this thesis.<sup><a href="https://www.ycombinator.com/companies/documents-me">[6]</a></sup>
+
+The company received YC's standard seed funding plus additional angel investment, though the specific amounts and investor identities were never disclosed.<sup><a href="https://theorg.com/org/directshifts/org-chart/sai-kumar-thumuluru-ph-d">[7]</a></sup>
+
+What is notable — and telling — is the proliferation of brand names. The legal entity was Nouvou, Inc. The consumer product was Documents.Me, operating at the documents.me domain. A third identity, CloudClear, emerged around HIPAA compliance for mobile healthcare applications.<sup><a href="https://theorg.com/org/directshifts/org-chart/sai-kumar-thumuluru-ph-d">[8]</a></sup> Whether these represented sequential pivots or simultaneous product lines targeting different buyers is not confirmed by any public source. The pattern, however, is consistent with a founding team that had strong technical conviction but was actively searching for the right market to apply it to.
+
+---
 
 ## Founding Story
 

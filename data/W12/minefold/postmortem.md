@@ -10,26 +10,19 @@ Those who did pay churned to competitors making implausible "unlimited RAM" prom
 
 ## Founding Story
 
-1:"$Sreact.fragment"
-2:I[39756,["/_next/static/chunks/ff1a16fafef87110.js?dpl=dpl_GwuwmMc2oZNJkz1tEEADs8shECJt","/_next/static/chunks/803a574de9eda7ae.js?dpl=dpl_GwuwmMc2oZNJkz1tEEADs8shECJt"],"default"]
-3:I[8821,["/_next/static/chunks/0d46db6cf73968fd.js?dpl=dpl_GwuwmMc2oZNJkz1tEEADs8shECJt","/_next/static/chunks/5f4dcbc1da431ca9.js?dpl=dpl_GwuwmMc2oZNJkz1tEEADs8shECJt","/_next/static/chunks/33f7e5a25c4fcd0b.js?dpl=dpl_GwuwmMc2oZNJkz1tEEADs8shECJt"],"default"]
-4:I[37457,["/_next/static/chunks/ff1a16fafef87110.js?dpl=dpl_GwuwmMc2oZNJkz1tEEADs8shECJt","/_next/static/chunks/803a574de9eda7ae.js?dpl=dpl_GwuwmMc2oZNJkz1tEEADs8shECJt"],"default"]
-5:I[22016,["/_next/static/chunks/0d46db6cf73968fd.js?dpl=dpl_GwuwmMc2oZNJkz1tEEADs8shECJt","/_next/static/chunks/39ad7020066b4868.js?dpl=dpl_GwuwmMc2oZNJkz1tEEADs8shECJt","/_next/static/chunks/33f7e5a25c4fcd0b.js?dpl=dpl_GwuwmMc2oZNJkz1tEEADs8shECJt"],""]
-6:I[2355,["/_next/static/chunks/0d46db6cf73968fd.js?dpl=dpl_GwuwmMc2oZNJkz1tEEADs8shECJt"],"Analytics"]
-11:I[68027,["/_next/static/chunks/ff1a16fafef87110.js?dpl=dpl_GwuwmMc2oZNJkz1tEEADs8shECJt","/_next/static/chunks/803a574de9eda7ae.js?dpl=dpl_GwuwmMc2oZNJkz1tEEADs8shECJt"],"default"]
-12:I[97367,["/_next/static/chunks/ff1a16fafef87110.js?dpl=dpl_GwuwmMc2oZNJkz1tEEADs8shECJt","/_next/static/chunks/803a574de9eda7ae.js?dpl=dpl_GwuwmMc2oZNJkz1tEEADs8shECJt"],"OutletBoundary"]
-13:"$Sreact.suspense"
-15:I[93539,["/_next/static/chunks/0d46db6cf73968fd.js?dpl=dpl_GwuwmMc2oZNJkz1tEEADs8shECJt","/_next/static/chunks/39ad7020066b4868.js?dpl=dpl_GwuwmMc2oZNJkz1tEEADs8shECJt","/_next/static/chunks/33f7e5a25c4fcd0b.js?dpl=dpl_GwuwmMc2oZNJkz1tEEADs8shECJt"],"ThemeToggle"]
-23:I[97367,["/_next/static/chunks/ff1a16fafef87110.js?dpl=dpl_GwuwmMc2oZNJkz1tEEADs8shECJt","/_next/static/chunks/803a574de9eda7ae.js?dpl=dpl_GwuwmMc2oZNJkz1tEEADs8shECJt"],"ViewportBoundary"]
-25:I[97367,["/_next/static/chunks/ff1a16fafef87110.js?dpl=dpl_GwuwmMc2oZNJkz1tEEADs8shECJt","/_next/static/chunks/803a574de9eda7ae.js?dpl=dpl_GwuwmMc2oZNJkz1tEEADs8shECJt"],"MetadataBoundary"]
-:HL["/_next/static/chunks/8be82ca8498e7d4a.css?dpl=dpl_GwuwmMc2oZNJkz1tEEADs8shECJt","style"]
-:HL["/_next/static/media/1b99372b3eaef0c8-s.p.758e15a8.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
-:HL["/_next/static/media/23b7a97ae3b5c134-s.p.2902b61f.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
-:HL["/_next/static/media/68d403cf9f2c68c5-s.p.f9f15f61.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
-:HL["/_next/static/media/99e609270109b47d-s.p.64b9304e.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
-:HL["/_next/static/media/a7e15459c1805da0-s.p.ec654d65.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
-:HL["/_next/static/media/ea3421846039b7f3-s.p.093205c5.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
-:HL["/_next/static/media/effe91970fc4db64-s.p.19510058.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+Christopher Lloyd and David Newman were avid gamers and mobile game developers based in Sydney, Australia when they identified the Minecraft server problem firsthand.<sup><a href="https://techcrunch.com/2012/03/12/minefold-launch/">[1]</a></sup> Both founders had backgrounds in building games for mobile platforms, giving them fluency in game mechanics and player behavior — but also, crucially, experience with the economics of consumer software, where monetization is notoriously difficult.<sup><a href="https://techcrunch.com/2012/03/12/minefold-launch/">[2]</a></sup>
+
+The insight was straightforward: Minecraft's multiplayer mode required a persistent server to keep a shared world alive. Self-hosting that server meant configuring Java runtimes, managing ports, maintaining uptime, and paying for compute — a significant technical and financial burden for a player who just wanted to build things with friends. The problem was real and widespread. Minecraft had sold millions of copies by 2011, and its multiplayer community was growing rapidly.
+
+The conceptual anchor for the business was Heroku, the platform-as-a-service that had made deploying web applications trivially easy for developers. Lloyd and Newman asked: what if you could do the same thing for game servers? Spin one up in seconds, pay only for what you use, and never think about the underlying infrastructure. The analogy was clean and compelling enough to attract Y Combinator's attention.
+
+The founders applied to YC's Winter 2012 batch and were accepted, prompting them to relocate from Sydney to Silicon Valley in January 2012.<sup><a href="https://techcrunch.com/2012/03/12/minefold-launch/">[3]</a></sup> The move signaled serious institutional validation and gave the company access to YC's network, mentorship, and seed capital. Minefold had been founded in July 2011<sup><a href="https://www.crunchbase.com/organization/minefold">[4]</a></sup> and soft-launched in December 2011, meaning the founders arrived at YC with a working product and early usage data — a stronger position than most entering companies.
+
+The team was deliberately lean: just two people throughout the company's life.<sup><a href="https://www.ycombinator.com/companies/minefold">[5]</a></sup> That kept burn low and preserved runway, but it also meant Lloyd and Newman had to cover product development, infrastructure operations, customer support, and business development simultaneously. The ambition was large — the founders stated plans to expand beyond Minecraft to desktop, mobile, and console games broadly<sup><a href="https://techcrunch.com/2012/03/12/minefold-launch/">[6]</a></sup> — but the execution capacity was constrained from the start.
+
+No public record documents how Lloyd and Newman divided responsibilities between them, what specific mobile games they had previously shipped, or whether those products succeeded commercially. David Newman's background and post-Minefold trajectory remain entirely undocumented in public sources.
+
+---
 
 ## Timeline
 

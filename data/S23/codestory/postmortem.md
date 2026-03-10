@@ -10,26 +10,19 @@ The core thesis of failure: CodeStory repeatedly made correct technical bets but
 
 ## Founding Story
 
-1:"$Sreact.fragment"
-2:I[39756,["/_next/static/chunks/ff1a16fafef87110.js?dpl=dpl_GwuwmMc2oZNJkz1tEEADs8shECJt","/_next/static/chunks/803a574de9eda7ae.js?dpl=dpl_GwuwmMc2oZNJkz1tEEADs8shECJt"],"default"]
-3:I[8821,["/_next/static/chunks/0d46db6cf73968fd.js?dpl=dpl_GwuwmMc2oZNJkz1tEEADs8shECJt","/_next/static/chunks/5f4dcbc1da431ca9.js?dpl=dpl_GwuwmMc2oZNJkz1tEEADs8shECJt","/_next/static/chunks/33f7e5a25c4fcd0b.js?dpl=dpl_GwuwmMc2oZNJkz1tEEADs8shECJt"],"default"]
-4:I[37457,["/_next/static/chunks/ff1a16fafef87110.js?dpl=dpl_GwuwmMc2oZNJkz1tEEADs8shECJt","/_next/static/chunks/803a574de9eda7ae.js?dpl=dpl_GwuwmMc2oZNJkz1tEEADs8shECJt"],"default"]
-5:I[22016,["/_next/static/chunks/0d46db6cf73968fd.js?dpl=dpl_GwuwmMc2oZNJkz1tEEADs8shECJt","/_next/static/chunks/39ad7020066b4868.js?dpl=dpl_GwuwmMc2oZNJkz1tEEADs8shECJt","/_next/static/chunks/33f7e5a25c4fcd0b.js?dpl=dpl_GwuwmMc2oZNJkz1tEEADs8shECJt"],""]
-6:I[2355,["/_next/static/chunks/0d46db6cf73968fd.js?dpl=dpl_GwuwmMc2oZNJkz1tEEADs8shECJt"],"Analytics"]
-11:I[68027,["/_next/static/chunks/ff1a16fafef87110.js?dpl=dpl_GwuwmMc2oZNJkz1tEEADs8shECJt","/_next/static/chunks/803a574de9eda7ae.js?dpl=dpl_GwuwmMc2oZNJkz1tEEADs8shECJt"],"default"]
-12:I[97367,["/_next/static/chunks/ff1a16fafef87110.js?dpl=dpl_GwuwmMc2oZNJkz1tEEADs8shECJt","/_next/static/chunks/803a574de9eda7ae.js?dpl=dpl_GwuwmMc2oZNJkz1tEEADs8shECJt"],"OutletBoundary"]
-13:"$Sreact.suspense"
-15:I[93539,["/_next/static/chunks/0d46db6cf73968fd.js?dpl=dpl_GwuwmMc2oZNJkz1tEEADs8shECJt","/_next/static/chunks/39ad7020066b4868.js?dpl=dpl_GwuwmMc2oZNJkz1tEEADs8shECJt","/_next/static/chunks/33f7e5a25c4fcd0b.js?dpl=dpl_GwuwmMc2oZNJkz1tEEADs8shECJt"],"ThemeToggle"]
-23:I[97367,["/_next/static/chunks/ff1a16fafef87110.js?dpl=dpl_GwuwmMc2oZNJkz1tEEADs8shECJt","/_next/static/chunks/803a574de9eda7ae.js?dpl=dpl_GwuwmMc2oZNJkz1tEEADs8shECJt"],"ViewportBoundary"]
-25:I[97367,["/_next/static/chunks/ff1a16fafef87110.js?dpl=dpl_GwuwmMc2oZNJkz1tEEADs8shECJt","/_next/static/chunks/803a574de9eda7ae.js?dpl=dpl_GwuwmMc2oZNJkz1tEEADs8shECJt"],"MetadataBoundary"]
-:HL["/_next/static/chunks/8be82ca8498e7d4a.css?dpl=dpl_GwuwmMc2oZNJkz1tEEADs8shECJt","style"]
-:HL["/_next/static/media/1b99372b3eaef0c8-s.p.758e15a8.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
-:HL["/_next/static/media/23b7a97ae3b5c134-s.p.2902b61f.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
-:HL["/_next/static/media/68d403cf9f2c68c5-s.p.f9f15f61.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
-:HL["/_next/static/media/99e609270109b47d-s.p.64b9304e.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
-:HL["/_next/static/media/a7e15459c1805da0-s.p.ec654d65.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
-:HL["/_next/static/media/ea3421846039b7f3-s.p.093205c5.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
-:HL["/_next/static/media/effe91970fc4db64-s.p.19510058.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+Sandeep Pani and Naresh Ramesh met during their freshman year at university and remained close friends for over a decade before co-founding CodeStory.<sup><a href="https://www.ycombinator.com/launches/JCn-codestory-is-an-ai-powered-mod-of-vscode">[1]</a></sup> That long-standing relationship reduced one of the most common early-stage risks: co-founder conflict. When they decided to build together, they were not strangers stress-testing a new partnership—they were longtime collaborators who already understood each other's working styles.
+
+Both founders brought substantial technical credentials. Pani had served as a tech lead for testing infrastructure at Meta and as a founding engineer at Findly.ai, a YC S22 company.<sup><a href="https://www.ycombinator.com/companies/codestory">[2]</a></sup> Ramesh had built payments infrastructure supporting 150,000 merchants and scaled an engineering team from 5 to 35 people at an Indian fintech startup. He was also an ACM ICPC world finalist—one of the most competitive programming competitions globally—and an open-source contributor to gRPC and the Bazel build system.<sup><a href="https://www.ycombinator.com/companies/codestory">[3]</a></sup> On paper, this was a team with the depth to build something technically ambitious.
+
+The motivation was direct and personal. CodeStory was, in the founders' own framing, built to scratch their own itch as working developers.<sup><a href="https://www.linkedin.com/posts/y-combinator_launch-yc-codestory-an-ai-first-ide-re-imagined-activity-7094437067505487872-LZwD">[4]</a></sup> They were frustrated by the limitations of existing AI coding tools and believed the dominant paradigm—chat interfaces and line-by-line autocomplete—was underselling what large language models could actually do.
+
+Their initial vision was straightforward: build the best AI-augmented coding experience inside VSCode. In their first YC launch post, they described a future where "AI agents fix bugs and write tests autonomously," and included a demo of CodeStory resolving a race condition bug without manual intervention.
+
+<media-hn url="https://www.ycombinator.com/launches/JCn-codestory-is-an-ai-powered-mod-of-vscode" title="Launch YC: CodeStory ✨ is an AI-powered mod of VSCode" points="" comments=""></media-hn>
+
+That initial vision would not survive contact with the market. Within six months, the founders concluded that chat and autocomplete were the wrong abstraction entirely—and began a series of pivots that would define, and ultimately doom, the company.
+
+---
 
 ## Timeline
 

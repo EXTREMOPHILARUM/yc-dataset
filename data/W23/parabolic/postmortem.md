@@ -2,26 +2,19 @@
 
 ## Overview
 
-1:"$Sreact.fragment"
-2:I[39756,["/_next/static/chunks/ff1a16fafef87110.js?dpl=dpl_GwuwmMc2oZNJkz1tEEADs8shECJt","/_next/static/chunks/803a574de9eda7ae.js?dpl=dpl_GwuwmMc2oZNJkz1tEEADs8shECJt"],"default"]
-3:I[8821,["/_next/static/chunks/0d46db6cf73968fd.js?dpl=dpl_GwuwmMc2oZNJkz1tEEADs8shECJt","/_next/static/chunks/5f4dcbc1da431ca9.js?dpl=dpl_GwuwmMc2oZNJkz1tEEADs8shECJt","/_next/static/chunks/33f7e5a25c4fcd0b.js?dpl=dpl_GwuwmMc2oZNJkz1tEEADs8shECJt"],"default"]
-4:I[37457,["/_next/static/chunks/ff1a16fafef87110.js?dpl=dpl_GwuwmMc2oZNJkz1tEEADs8shECJt","/_next/static/chunks/803a574de9eda7ae.js?dpl=dpl_GwuwmMc2oZNJkz1tEEADs8shECJt"],"default"]
-5:I[22016,["/_next/static/chunks/0d46db6cf73968fd.js?dpl=dpl_GwuwmMc2oZNJkz1tEEADs8shECJt","/_next/static/chunks/39ad7020066b4868.js?dpl=dpl_GwuwmMc2oZNJkz1tEEADs8shECJt","/_next/static/chunks/33f7e5a25c4fcd0b.js?dpl=dpl_GwuwmMc2oZNJkz1tEEADs8shECJt"],""]
-6:I[2355,["/_next/static/chunks/0d46db6cf73968fd.js?dpl=dpl_GwuwmMc2oZNJkz1tEEADs8shECJt"],"Analytics"]
-11:I[68027,["/_next/static/chunks/ff1a16fafef87110.js?dpl=dpl_GwuwmMc2oZNJkz1tEEADs8shECJt","/_next/static/chunks/803a574de9eda7ae.js?dpl=dpl_GwuwmMc2oZNJkz1tEEADs8shECJt"],"default"]
-12:I[97367,["/_next/static/chunks/ff1a16fafef87110.js?dpl=dpl_GwuwmMc2oZNJkz1tEEADs8shECJt","/_next/static/chunks/803a574de9eda7ae.js?dpl=dpl_GwuwmMc2oZNJkz1tEEADs8shECJt"],"OutletBoundary"]
-13:"$Sreact.suspense"
-15:I[93539,["/_next/static/chunks/0d46db6cf73968fd.js?dpl=dpl_GwuwmMc2oZNJkz1tEEADs8shECJt","/_next/static/chunks/39ad7020066b4868.js?dpl=dpl_GwuwmMc2oZNJkz1tEEADs8shECJt","/_next/static/chunks/33f7e5a25c4fcd0b.js?dpl=dpl_GwuwmMc2oZNJkz1tEEADs8shECJt"],"ThemeToggle"]
-23:I[97367,["/_next/static/chunks/ff1a16fafef87110.js?dpl=dpl_GwuwmMc2oZNJkz1tEEADs8shECJt","/_next/static/chunks/803a574de9eda7ae.js?dpl=dpl_GwuwmMc2oZNJkz1tEEADs8shECJt"],"ViewportBoundary"]
-25:I[97367,["/_next/static/chunks/ff1a16fafef87110.js?dpl=dpl_GwuwmMc2oZNJkz1tEEADs8shECJt","/_next/static/chunks/803a574de9eda7ae.js?dpl=dpl_GwuwmMc2oZNJkz1tEEADs8shECJt"],"MetadataBoundary"]
-:HL["/_next/static/chunks/8be82ca8498e7d4a.css?dpl=dpl_GwuwmMc2oZNJkz1tEEADs8shECJt","style"]
-:HL["/_next/static/media/1b99372b3eaef0c8-s.p.758e15a8.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
-:HL["/_next/static/media/23b7a97ae3b5c134-s.p.2902b61f.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
-:HL["/_next/static/media/68d403cf9f2c68c5-s.p.f9f15f61.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
-:HL["/_next/static/media/99e609270109b47d-s.p.64b9304e.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
-:HL["/_next/static/media/a7e15459c1805da0-s.p.ec654d65.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
-:HL["/_next/static/media/ea3421846039b7f3-s.p.093205c5.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
-:HL["/_next/static/media/effe91970fc4db64-s.p.19510058.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+Shub Viragi founded Parabolic in November 2022, drawing on enterprise software experience accumulated at two of the most prominent workplace productivity companies of the prior decade: Salesforce and Slack.<sup><a href="https://rocketreach.co/shubhankar-viragi-email_58576675">[1]</a></sup> Both companies sit at the center of the customer-facing enterprise stack—Salesforce as the dominant CRM and Slack as the connective tissue of internal operations—giving Viragi direct exposure to how support workflows were structured, where they broke down, and what tooling gaps existed for the agents doing the work.
+
+Viragi holds a Bachelor of Science from the University of Maryland.<sup><a href="https://www.crunchbase.com/person/shub-viragi">[2]</a></sup> He founded Parabolic as a solo founder, with the company listing only two employees total at its peak.<sup><a href="https://www.ycombinator.com/companies/parabolic">[3]</a></sup> No co-founder was ever named publicly, and no explanation for the solo structure was offered.
+
+The founding insight was straightforward: customer support agents spend a disproportionate share of their time drafting responses to questions that have already been answered before. The problem was not that answers didn't exist—they existed in past tickets, knowledge bases, and internal documentation—but that retrieving and reformatting them for each new inquiry was manual, slow, and cognitively expensive. Viragi's proposed solution was an AI layer that could surface those answers automatically, draft a response, and hand it to the agent for a final review before sending. The human remained in the loop; the AI handled the retrieval and composition.
+
+The timing was deliberate. The release of ChatGPT in November 2022 had just demonstrated to a mass audience that large language models could produce fluent, contextually appropriate text. Viragi incorporated Parabolic the same month, positioning the company to ride the first wave of enterprise interest in applying that capability to a specific, high-volume workflow.
+
+YC accepted Parabolic into its Winter 2023 batch, with Diana Hu as the primary partner.<sup><a href="https://www.ycombinator.com/companies/parabolic">[4]</a></sup> The W23 cohort included 282 companies, with AI, developer tools, and open source as the dominant themes—making it one of the most AI-dense batches YC had run to that point.<sup><a href="https://www.ycombinator.com/blog/meet-the-yc-winter-2023-batch">[5]</a></sup> Acceptance validated the idea but also placed Parabolic inside a cohort where dozens of peers were pursuing adjacent or identical problems with the same tailwind.
+
+No public account of the founding story—no founder interview, no launch blog post, no press profile—was ever published. The product website and YC company page are the primary surviving artifacts.
+
+---
 
 ## Founding Story
 

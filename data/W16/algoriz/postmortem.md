@@ -2,28 +2,17 @@
 
 ## Overview
 
-1:"$Sreact.fragment"
-2:I[39756,["/_next/static/chunks/ff1a16fafef87110.js?dpl=dpl_GwuwmMc2oZNJkz1tEEADs8shECJt","/_next/static/chunks/803a574de9eda7ae.js?dpl=dpl_GwuwmMc2oZNJkz1tEEADs8shECJt"],"default"]
-3:I[8821,["/_next/static/chunks/0d46db6cf73968fd.js?dpl=dpl_GwuwmMc2oZNJkz1tEEADs8shECJt","/_next/static/chunks/5f4dcbc1da431ca9.js?dpl=dpl_GwuwmMc2oZNJkz1tEEADs8shECJt","/_next/static/chunks/33f7e5a25c4fcd0b.js?dpl=dpl_GwuwmMc2oZNJkz1tEEADs8shECJt"],"default"]
-4:I[37457,["/_next/static/chunks/ff1a16fafef87110.js?dpl=dpl_GwuwmMc2oZNJkz1tEEADs8shECJt","/_next/static/chunks/803a574de9eda7ae.js?dpl=dpl_GwuwmMc2oZNJkz1tEEADs8shECJt"],"default"]
-5:I[22016,["/_next/static/chunks/0d46db6cf73968fd.js?dpl=dpl_GwuwmMc2oZNJkz1tEEADs8shECJt","/_next/static/chunks/39ad7020066b4868.js?dpl=dpl_GwuwmMc2oZNJkz1tEEADs8shECJt","/_next/static/chunks/33f7e5a25c4fcd0b.js?dpl=dpl_GwuwmMc2oZNJkz1tEEADs8shECJt"],""]
-6:I[2355,["/_next/static/chunks/0d46db6cf73968fd.js?dpl=dpl_GwuwmMc2oZNJkz1tEEADs8shECJt"],"Analytics"]
-11:I[68027,["/_next/static/chunks/ff1a16fafef87110.js?dpl=dpl_GwuwmMc2oZNJkz1tEEADs8shECJt","/_next/static/chunks/803a574de9eda7ae.js?dpl=dpl_GwuwmMc2oZNJkz1tEEADs8shECJt"],"default"]
-12:I[97367,["/_next/static/chunks/ff1a16fafef87110.js?dpl=dpl_GwuwmMc2oZNJkz1tEEADs8shECJt","/_next/static/chunks/803a574de9eda7ae.js?dpl=dpl_GwuwmMc2oZNJkz1tEEADs8shECJt"],"OutletBoundary"]
-13:"$Sreact.suspense"
-15:I[93539,["/_next/static/chunks/0d46db6cf73968fd.js?dpl=dpl_GwuwmMc2oZNJkz1tEEADs8shECJt","/_next/static/chunks/39ad7020066b4868.js?dpl=dpl_GwuwmMc2oZNJkz1tEEADs8shECJt","/_next/static/chunks/33f7e5a25c4fcd0b.js?dpl=dpl_GwuwmMc2oZNJkz1tEEADs8shECJt"],"ThemeToggle"]
-23:I[97367,["/_next/static/chunks/ff1a16fafef87110.js?dpl=dpl_GwuwmMc2oZNJkz1tEEADs8shECJt","/_next/static/chunks/803a574de9eda7ae.js?dpl=dpl_GwuwmMc2oZNJkz1tEEADs8shECJt"],"ViewportBoundary"]
-25:I[97367,["/_next/static/chunks/ff1a16fafef87110.js?dpl=dpl_GwuwmMc2oZNJkz1tEEADs8shECJt","/_next/static/chunks/803a574de9eda7ae.js?dpl=dpl_GwuwmMc2oZNJkz1tEEADs8shECJt"],"MetadataBoundary"]
-:HL["/_next/static/chunks/8be82ca8498e7d4a.css?dpl=dpl_GwuwmMc2oZNJkz1tEEADs8shECJt","style"]
-:HL["/_next/static/media/1b99372b3eaef0c8-s.p.758e15a8.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
-:HL["/_next/static/media/23b7a97ae3b5c134-s.p.2902b61f.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
-:HL["/_next/static/media/68d403cf9f2c68c5-s.p.f9f15f61.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
-:HL["/_next/static/media/99e609270109b47d-s.p.64b9304e.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
-:HL["/_next/static/media/a7e15459c1805da0-s.p.ec654d65.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
-:HL["/_next/static/media/ea3421846039b7f3-s.p.093205c5.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
-:HL["/_next/static/media/effe91970fc4db64-s.p.19510058.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
-
 ## Founding Story
+
+Soraya Taghavi spent four years as a Vice President and Strategist at Goldman Sachs from April 2010 to March 2014, working directly on trading floors where she observed a persistent structural problem.<sup><a href="https://contactout.com/Soraya-Taghavi-1990366">[1]</a></sup> Traders with sophisticated market intuitions — people who understood when and why to move on a position — routinely lacked the programming skills to encode those intuitions into automated algorithms. The gap between "I have an idea" and "I have a working algorithm" required either a technical co-pilot or months of learning to code. Neither was practical at the speed of markets.
+
+After Goldman Sachs, Taghavi moved to Millennium Partners, where she served as Head of Energy Commodities Data Analytics from December 2013 to December 2015.<sup><a href="https://contactout.com/Soraya-Taghavi-1990366">[2]</a></sup> The same problem persisted in a different context. Taghavi held a PhD in Electrical Engineering from the University of Southern California, completed between 2006 and 2010, which gave her the technical foundation to actually build the natural language processing engine the solution would require.<sup><a href="https://www.crunchbase.com/person/soraya-taghavi">[3]</a></sup> She was, in other words, one of the few people who had both observed the problem from the inside and possessed the skills to address it.
+
+As TechCrunch reported in March 2017, Taghavi "previously worked in trading at Goldman Sachs, where she noticed a disconnect between traders with ideas and people actually able to code technical trading algorithms."<sup><a href="https://techcrunch.com/2017/03/03/algoriz-lets-you-build-trading-algorithms-with-no-coding-required/">[4]</a></sup> She founded Algoriz in 2015 after departing Millennium Partners, establishing the company in New York City — the natural home for a fintech startup targeting professional traders.<sup><a href="https://app.dealroom.co/companies/algoriz">[5]</a></sup>
+
+The company was built by alumni of Goldman Sachs and Millennium Partners, giving it immediate credibility with its target market.<sup><a href="https://www.crunchbase.com/organization/algoriz">[6]</a></sup> YC's own company page lists a team size of four, though only Taghavi is publicly identified as a founder.<sup><a href="https://www.ycombinator.com/companies/algoriz">[7]</a></sup> The remaining team composition has never been publicly documented.
+
+One data discrepancy is worth noting. Y Combinator's own company page lists Algoriz as a Winter 2016 (W16) batch company, while TechCrunch's March 2017 coverage and the YC W17 Demo Day roundup both describe Algoriz as a W17 participant.<sup><a href="https://techcrunch.com/2017/03/20/yc-demo-day-winter-2017/">[8]</a></sup> The most likely explanation is that Algoriz was accepted into the W16 batch but presented publicly at the W17 Demo Day — or that a data entry error propagated across secondary sources. This report treats the YC W16 acceptance as accurate and the March 2017 Demo Day presentation as the company's primary public milestone.
 
 ## Timeline
 
@@ -87,7 +76,7 @@ The key competitive differentiation Algoriz claimed was the NLP translation laye
 
 Algoriz's intended revenue model had two components. The primary model was a tiered subscription: a free "Lite" plan to drive user acquisition, a "Professional" plan at $29/month, a "Premium" plan at $69/month, and an "Enterprise" plan at custom pricing for institutional clients.<sup><a href="https://captainaltcoin.com/algoriz-review/">[22]</a></sup> The secondary model — planned but apparently never implemented — was brokerage revenue: users who traded through Algoriz as their broker would use the platform for free, with Algoriz earning on order flow or brokerage commissions.
 
-The math on the subscription model was challenging. Even if all 500 professional traders reported at Demo Day converted to the highest retail tier ($69/month), monthly revenue would reach approximately $34,500 — insufficient to sustain a four-person fintech team in New York City without additional funding. Converting the $200 million hedge fund LOI to a paying Enterprise contract would have changed the economics materially, but no evidence exists that this conversion occurred. The institutional sales cycle — compliance review, security audits, legal negotiation — typically runs three to twelve months, a timeline incompatible with a startup operating on a $120,000 seed round.2f:T65e,
+The math on the subscription model was challenging. Even if all 500 professional traders reported at Demo Day converted to the highest retail tier ($69/month), monthly revenue would reach approximately $34,500 — insufficient to sustain a four-person fintech team in New York City without additional funding. Converting the $200 million hedge fund LOI to a paying Enterprise contract would have changed the economics materially, but no evidence exists that this conversion occurred. The institutional sales cycle — compliance review, security audits, legal negotiation — typically runs three to twelve months, a timeline incompatible with a startup operating on a $120,000 seed round.2e:T65e,
 
 ## Traction
 

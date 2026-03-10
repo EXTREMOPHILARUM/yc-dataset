@@ -2,26 +2,16 @@
 
 ## Overview
 
-1:"$Sreact.fragment"
-2:I[39756,["/_next/static/chunks/ff1a16fafef87110.js?dpl=dpl_GwuwmMc2oZNJkz1tEEADs8shECJt","/_next/static/chunks/803a574de9eda7ae.js?dpl=dpl_GwuwmMc2oZNJkz1tEEADs8shECJt"],"default"]
-3:I[8821,["/_next/static/chunks/0d46db6cf73968fd.js?dpl=dpl_GwuwmMc2oZNJkz1tEEADs8shECJt","/_next/static/chunks/5f4dcbc1da431ca9.js?dpl=dpl_GwuwmMc2oZNJkz1tEEADs8shECJt","/_next/static/chunks/33f7e5a25c4fcd0b.js?dpl=dpl_GwuwmMc2oZNJkz1tEEADs8shECJt"],"default"]
-4:I[37457,["/_next/static/chunks/ff1a16fafef87110.js?dpl=dpl_GwuwmMc2oZNJkz1tEEADs8shECJt","/_next/static/chunks/803a574de9eda7ae.js?dpl=dpl_GwuwmMc2oZNJkz1tEEADs8shECJt"],"default"]
-5:I[22016,["/_next/static/chunks/0d46db6cf73968fd.js?dpl=dpl_GwuwmMc2oZNJkz1tEEADs8shECJt","/_next/static/chunks/39ad7020066b4868.js?dpl=dpl_GwuwmMc2oZNJkz1tEEADs8shECJt","/_next/static/chunks/33f7e5a25c4fcd0b.js?dpl=dpl_GwuwmMc2oZNJkz1tEEADs8shECJt"],""]
-6:I[2355,["/_next/static/chunks/0d46db6cf73968fd.js?dpl=dpl_GwuwmMc2oZNJkz1tEEADs8shECJt"],"Analytics"]
-11:I[68027,["/_next/static/chunks/ff1a16fafef87110.js?dpl=dpl_GwuwmMc2oZNJkz1tEEADs8shECJt","/_next/static/chunks/803a574de9eda7ae.js?dpl=dpl_GwuwmMc2oZNJkz1tEEADs8shECJt"],"default"]
-12:I[97367,["/_next/static/chunks/ff1a16fafef87110.js?dpl=dpl_GwuwmMc2oZNJkz1tEEADs8shECJt","/_next/static/chunks/803a574de9eda7ae.js?dpl=dpl_GwuwmMc2oZNJkz1tEEADs8shECJt"],"OutletBoundary"]
-13:"$Sreact.suspense"
-15:I[93539,["/_next/static/chunks/0d46db6cf73968fd.js?dpl=dpl_GwuwmMc2oZNJkz1tEEADs8shECJt","/_next/static/chunks/39ad7020066b4868.js?dpl=dpl_GwuwmMc2oZNJkz1tEEADs8shECJt","/_next/static/chunks/33f7e5a25c4fcd0b.js?dpl=dpl_GwuwmMc2oZNJkz1tEEADs8shECJt"],"ThemeToggle"]
-23:I[97367,["/_next/static/chunks/ff1a16fafef87110.js?dpl=dpl_GwuwmMc2oZNJkz1tEEADs8shECJt","/_next/static/chunks/803a574de9eda7ae.js?dpl=dpl_GwuwmMc2oZNJkz1tEEADs8shECJt"],"ViewportBoundary"]
-25:I[97367,["/_next/static/chunks/ff1a16fafef87110.js?dpl=dpl_GwuwmMc2oZNJkz1tEEADs8shECJt","/_next/static/chunks/803a574de9eda7ae.js?dpl=dpl_GwuwmMc2oZNJkz1tEEADs8shECJt"],"MetadataBoundary"]
-:HL["/_next/static/chunks/8be82ca8498e7d4a.css?dpl=dpl_GwuwmMc2oZNJkz1tEEADs8shECJt","style"]
-:HL["/_next/static/media/1b99372b3eaef0c8-s.p.758e15a8.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
-:HL["/_next/static/media/23b7a97ae3b5c134-s.p.2902b61f.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
-:HL["/_next/static/media/68d403cf9f2c68c5-s.p.f9f15f61.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
-:HL["/_next/static/media/99e609270109b47d-s.p.64b9304e.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
-:HL["/_next/static/media/a7e15459c1805da0-s.p.ec654d65.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
-:HL["/_next/static/media/ea3421846039b7f3-s.p.093205c5.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
-:HL["/_next/static/media/effe91970fc4db64-s.p.19510058.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+Eventjoy was a mobile-first event management platform founded in 2013 by Todd Goldberg and Karl White, both based in Tampa Bay before relocating to San Francisco for Y Combinator's Winter 2014 batch. The company built a bundled suite — ticketing, event websites, native iOS and Android apps, Twitter walls, analytics, and attendee communications — under a single platform aimed at independent event organizers. It launched publicly in February 2014 under the tagline "fee-free ticketing, optimized for mobile," having previously operated in private beta as EXMO.
+
+Eventjoy was not a failure in the conventional sense. It was acquired by Ticketmaster just seven months after public launch, absorbed into a larger consolidation strategy, and ultimately merged into Universe — a Toronto-based DIY ticketing platform Ticketmaster had separately acquired — in September 2015. The company ceased to exist as a standalone product roughly 12 months after acquisition, not because it collapsed, but because a larger platform made it structurally redundant.
+
+The outcome was a soft landing for the founders: Todd Goldberg became VP of Eventjoy at Ticketmaster, and by 2020 had co-founded a $7.3 million angel fund alongside Rahul Vohra of Superhuman. <sup><a href="https://techcrunch.com/2020/02/05/superhuman-and-eventjoy-founders-announce-7-million-angel-fund/">[1]</a></sup> The acquisition price was never disclosed, making it impossible to assess the financial return for YC and early investors. What Eventjoy's story reveals is a recurring dynamic in platform-adjacent startups: building a genuinely useful product that an incumbent needs as a feature is not the same as building a durable, independent business.
+
+<report-gallery>
+<media-image src="https://tctechcrunch2011.files.wordpress.com/2014/02/screen-shot-2014-02-11-at-3-13-16-pm.png?w=738" alt="Eventjoy product screenshot from TechCrunch launch article, February 2014" caption="Eventjoy's platform UI on launch day, February 18, 2014 — the bundled dashboard that promised organizers ticketing, mobile apps, and social tools in a single interface, all for free."></media-image>
+<media-image src="https://bookface-images.s3.amazonaws.com/avatars/9f24e650c4708a1c7d9e384691cb07dfc01547e7.jpg" alt="Eventjoy on Y Combinator" caption="Eventjoy's Y Combinator profile avatar — the company entered the W14 batch as a two-person team, one of the leanest in its cohort."></media-image>
+</report-gallery>
 
 ## Founding Story
 

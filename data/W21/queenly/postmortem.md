@@ -2,26 +2,16 @@
 
 ## Overview
 
-1:"$Sreact.fragment"
-2:I[39756,["/_next/static/chunks/ff1a16fafef87110.js?dpl=dpl_GwuwmMc2oZNJkz1tEEADs8shECJt","/_next/static/chunks/803a574de9eda7ae.js?dpl=dpl_GwuwmMc2oZNJkz1tEEADs8shECJt"],"default"]
-3:I[8821,["/_next/static/chunks/0d46db6cf73968fd.js?dpl=dpl_GwuwmMc2oZNJkz1tEEADs8shECJt","/_next/static/chunks/5f4dcbc1da431ca9.js?dpl=dpl_GwuwmMc2oZNJkz1tEEADs8shECJt","/_next/static/chunks/33f7e5a25c4fcd0b.js?dpl=dpl_GwuwmMc2oZNJkz1tEEADs8shECJt"],"default"]
-4:I[37457,["/_next/static/chunks/ff1a16fafef87110.js?dpl=dpl_GwuwmMc2oZNJkz1tEEADs8shECJt","/_next/static/chunks/803a574de9eda7ae.js?dpl=dpl_GwuwmMc2oZNJkz1tEEADs8shECJt"],"default"]
-5:I[22016,["/_next/static/chunks/0d46db6cf73968fd.js?dpl=dpl_GwuwmMc2oZNJkz1tEEADs8shECJt","/_next/static/chunks/39ad7020066b4868.js?dpl=dpl_GwuwmMc2oZNJkz1tEEADs8shECJt","/_next/static/chunks/33f7e5a25c4fcd0b.js?dpl=dpl_GwuwmMc2oZNJkz1tEEADs8shECJt"],""]
-6:I[2355,["/_next/static/chunks/0d46db6cf73968fd.js?dpl=dpl_GwuwmMc2oZNJkz1tEEADs8shECJt"],"Analytics"]
-11:I[68027,["/_next/static/chunks/ff1a16fafef87110.js?dpl=dpl_GwuwmMc2oZNJkz1tEEADs8shECJt","/_next/static/chunks/803a574de9eda7ae.js?dpl=dpl_GwuwmMc2oZNJkz1tEEADs8shECJt"],"default"]
-12:I[97367,["/_next/static/chunks/ff1a16fafef87110.js?dpl=dpl_GwuwmMc2oZNJkz1tEEADs8shECJt","/_next/static/chunks/803a574de9eda7ae.js?dpl=dpl_GwuwmMc2oZNJkz1tEEADs8shECJt"],"OutletBoundary"]
-13:"$Sreact.suspense"
-15:I[93539,["/_next/static/chunks/0d46db6cf73968fd.js?dpl=dpl_GwuwmMc2oZNJkz1tEEADs8shECJt","/_next/static/chunks/39ad7020066b4868.js?dpl=dpl_GwuwmMc2oZNJkz1tEEADs8shECJt","/_next/static/chunks/33f7e5a25c4fcd0b.js?dpl=dpl_GwuwmMc2oZNJkz1tEEADs8shECJt"],"ThemeToggle"]
-23:I[97367,["/_next/static/chunks/ff1a16fafef87110.js?dpl=dpl_GwuwmMc2oZNJkz1tEEADs8shECJt","/_next/static/chunks/803a574de9eda7ae.js?dpl=dpl_GwuwmMc2oZNJkz1tEEADs8shECJt"],"ViewportBoundary"]
-25:I[97367,["/_next/static/chunks/ff1a16fafef87110.js?dpl=dpl_GwuwmMc2oZNJkz1tEEADs8shECJt","/_next/static/chunks/803a574de9eda7ae.js?dpl=dpl_GwuwmMc2oZNJkz1tEEADs8shECJt"],"MetadataBoundary"]
-:HL["/_next/static/chunks/8be82ca8498e7d4a.css?dpl=dpl_GwuwmMc2oZNJkz1tEEADs8shECJt","style"]
-:HL["/_next/static/media/1b99372b3eaef0c8-s.p.758e15a8.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
-:HL["/_next/static/media/23b7a97ae3b5c134-s.p.2902b61f.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
-:HL["/_next/static/media/68d403cf9f2c68c5-s.p.f9f15f61.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
-:HL["/_next/static/media/99e609270109b47d-s.p.64b9304e.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
-:HL["/_next/static/media/a7e15459c1805da0-s.p.ec654d65.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
-:HL["/_next/static/media/ea3421846039b7f3-s.p.093205c5.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
-:HL["/_next/static/media/effe91970fc4db64-s.p.19510058.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+Queenly was a San Francisco-based vertical marketplace for formalwear, founded in 2019 by Trisha Bantigue and Kathy Zhou-Patel and active through approximately late 2024. The company built a peer-to-peer resale platform for prom, pageant, quinceañera, and wedding dresses, layering in machine learning search, computer vision, augmented reality try-on, and generative AI listing tools — technology depth unusual for a seed-stage consumer marketplace. It participated in Y Combinator's Winter 2021 batch and raised $7.1 million in total institutional funding, including a $6.3 million seed extension led by Andreessen Horowitz.<sup><a href="https://techcrunch.com/2021/07/26/queenly-a16z-seed-extension/">[1]</a></sup>
+
+Queenly failed because it could not reconcile genuine user love with unsustainable unit economics. By late 2023, the company was burning approximately $273,000 per month against $200,799 in annual revenue — a ratio that made Series A fundraising structurally impossible and left the seed capital raised in 2021 on a terminal countdown.<sup><a href="https://kingscrowd.com/queenly-on-wefunder-2023/">[2]</a></sup>
+
+CTO Kathy Zhou-Patel published a post-mortem on February 3, 2025, confirming the shutdown.<sup><a href="https://medium.com/@kaffyzoo/farewell-queenly-the-engineering-and-economics-behind-formal-wear-fashion-c429c9242e03">[3]</a></sup> No acquisition or acqui-hire has been publicly confirmed. The company's YC profile is listed as "Inactive," and CBInsights records it as having ceased operations. For investors, the outcome was a near-total loss on $7.1 million deployed. For the founders — both named to Forbes 30 Under 30 in 2022 — the shutdown closed a six-year chapter that produced genuine technical innovation and a cautionary lesson about the gap between product-market fit and business model viability.
+
+<report-gallery>
+<media-image src="https://images.squarespace-cdn.com/content/v1/5f848ed152c39f697702a59f/1616982143886-T3M3LFRWMUO5Y8VFNJ5R/QueenlyFounders_Cropped.png" alt="Queenly co-founders Trisha Bantigue and Kathy Zhou-Patel" caption="Trisha Bantigue (CEO) and Kathy Zhou-Patel (CTO), the two co-founders who built Queenly from a 2018 side project into an a16z-backed marketplace — and ultimately filed paperwork to shut it down in 2024."></media-image>
+<media-image src="https://ph-files.imgix.net/cb51db7e-4bf8-47a3-aac1-cac01ff7d9bb.jpeg?auto=format&fit=crop" alt="Queenly product listing interface on Product Hunt launch" caption="Queenly's product interface as featured on Product Hunt — the vertical-specific search and listing experience that the team argued could out-compete Poshmark and eBay on buyer intent."></media-image>
+</report-gallery>
 
 ## Founding Story
 

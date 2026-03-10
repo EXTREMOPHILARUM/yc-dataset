@@ -2,26 +2,16 @@
 
 ## Overview
 
-1:"$Sreact.fragment"
-2:I[39756,["/_next/static/chunks/ff1a16fafef87110.js?dpl=dpl_GwuwmMc2oZNJkz1tEEADs8shECJt","/_next/static/chunks/803a574de9eda7ae.js?dpl=dpl_GwuwmMc2oZNJkz1tEEADs8shECJt"],"default"]
-3:I[8821,["/_next/static/chunks/0d46db6cf73968fd.js?dpl=dpl_GwuwmMc2oZNJkz1tEEADs8shECJt","/_next/static/chunks/5f4dcbc1da431ca9.js?dpl=dpl_GwuwmMc2oZNJkz1tEEADs8shECJt","/_next/static/chunks/33f7e5a25c4fcd0b.js?dpl=dpl_GwuwmMc2oZNJkz1tEEADs8shECJt"],"default"]
-4:I[37457,["/_next/static/chunks/ff1a16fafef87110.js?dpl=dpl_GwuwmMc2oZNJkz1tEEADs8shECJt","/_next/static/chunks/803a574de9eda7ae.js?dpl=dpl_GwuwmMc2oZNJkz1tEEADs8shECJt"],"default"]
-5:I[22016,["/_next/static/chunks/0d46db6cf73968fd.js?dpl=dpl_GwuwmMc2oZNJkz1tEEADs8shECJt","/_next/static/chunks/39ad7020066b4868.js?dpl=dpl_GwuwmMc2oZNJkz1tEEADs8shECJt","/_next/static/chunks/33f7e5a25c4fcd0b.js?dpl=dpl_GwuwmMc2oZNJkz1tEEADs8shECJt"],""]
-6:I[2355,["/_next/static/chunks/0d46db6cf73968fd.js?dpl=dpl_GwuwmMc2oZNJkz1tEEADs8shECJt"],"Analytics"]
-11:I[68027,["/_next/static/chunks/ff1a16fafef87110.js?dpl=dpl_GwuwmMc2oZNJkz1tEEADs8shECJt","/_next/static/chunks/803a574de9eda7ae.js?dpl=dpl_GwuwmMc2oZNJkz1tEEADs8shECJt"],"default"]
-12:I[97367,["/_next/static/chunks/ff1a16fafef87110.js?dpl=dpl_GwuwmMc2oZNJkz1tEEADs8shECJt","/_next/static/chunks/803a574de9eda7ae.js?dpl=dpl_GwuwmMc2oZNJkz1tEEADs8shECJt"],"OutletBoundary"]
-13:"$Sreact.suspense"
-15:I[93539,["/_next/static/chunks/0d46db6cf73968fd.js?dpl=dpl_GwuwmMc2oZNJkz1tEEADs8shECJt","/_next/static/chunks/39ad7020066b4868.js?dpl=dpl_GwuwmMc2oZNJkz1tEEADs8shECJt","/_next/static/chunks/33f7e5a25c4fcd0b.js?dpl=dpl_GwuwmMc2oZNJkz1tEEADs8shECJt"],"ThemeToggle"]
-23:I[97367,["/_next/static/chunks/ff1a16fafef87110.js?dpl=dpl_GwuwmMc2oZNJkz1tEEADs8shECJt","/_next/static/chunks/803a574de9eda7ae.js?dpl=dpl_GwuwmMc2oZNJkz1tEEADs8shECJt"],"ViewportBoundary"]
-25:I[97367,["/_next/static/chunks/ff1a16fafef87110.js?dpl=dpl_GwuwmMc2oZNJkz1tEEADs8shECJt","/_next/static/chunks/803a574de9eda7ae.js?dpl=dpl_GwuwmMc2oZNJkz1tEEADs8shECJt"],"MetadataBoundary"]
-:HL["/_next/static/chunks/8be82ca8498e7d4a.css?dpl=dpl_GwuwmMc2oZNJkz1tEEADs8shECJt","style"]
-:HL["/_next/static/media/1b99372b3eaef0c8-s.p.758e15a8.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
-:HL["/_next/static/media/23b7a97ae3b5c134-s.p.2902b61f.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
-:HL["/_next/static/media/68d403cf9f2c68c5-s.p.f9f15f61.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
-:HL["/_next/static/media/99e609270109b47d-s.p.64b9304e.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
-:HL["/_next/static/media/a7e15459c1805da0-s.p.ec654d65.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
-:HL["/_next/static/media/ea3421846039b7f3-s.p.093205c5.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
-:HL["/_next/static/media/effe91970fc4db64-s.p.19510058.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+Triplebyte launched in 2015 with a genuinely contrarian thesis: that the technical hiring process systematically failed engineers by overweighting credentials and underweighting demonstrated skill. Its original product — a blind, resume-free common application to Y Combinator portfolio companies — worked. By 2018, over 300 companies were using it, including Apple, Stripe, and Dropbox, with a claimed on-site-to-hire conversion rate double the industry standard. The company raised nearly $50M across three rounds. It shut down in March 2023.
+
+The core failure was not a bad idea. It was the application of venture-scale growth pressure to a business that was profitable and working at a smaller scale. After the $35M Series B in 2019, Triplebyte abandoned the high-touch, quality-screened candidate pipeline that made its product valuable and chased volume through a series of pivots — Source, Screen, and finally Magnet — each of which diluted the original value proposition further. Two privacy violations destroyed trust with the engineering community. The candidate pool grew large but mismatched. Paying clients stopped finding what they needed. By the time the team recognized the final pivot was failing, the runway was gone.
+
+---
+
+<report-gallery>
+<media-image src="https://media.licdn.com/dms/image/v2/C4E34AQEvfPOU31pK9w/ugc-proxy-shrink_1280_800/ugc-proxy-shrink_1280_800/0/1594232929338?e=2147483647&v=beta&t=MyrfWhJvZ_PZv0JFK188bnnyRa5-VnY4nu0SBx9u7y8" alt="Triplebyte has raised more money for its background blind tech hiring platform" caption="Triplebyte's 'background-blind' pitch in full swing — the Series B era, when $35M in fresh capital and a promise to reinvent technical hiring made the company look unstoppable. Within four years, the money would be gone and the platform shuttered."></media-image>
+<media-image src="https://images.g2crowd.com/uploads/product/image/large_detail/large_detail_e5d69af6226f55632da3e4282353930e/triplebyte-screen.png" alt="Triplebyte Screen product pricing page" caption="The 'Screen' product — one of three pivots Triplebyte made after the Series B as it chased volume over quality. What began as a curated, high-touch candidate pipeline had by this point become a commoditized assessment tool, indistinguishable from a dozen competitors."></media-image>
+</report-gallery>
 
 ## Founding Story
 

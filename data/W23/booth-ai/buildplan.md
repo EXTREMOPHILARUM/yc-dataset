@@ -6,7 +6,7 @@ Booth AI (founded August 2022, YC W23) built a generative AI platform that conve
 
 The rebuild is viable now because the two structural killers — GPU-intensive per-product fine-tuning and the absence of a low-friction distribution channel — have both been resolved: ControlNet/IP-Adapter techniques eliminate the fine-tuning pipeline entirely, inference costs have dropped roughly 10x, and Shopify's App Store provides a direct channel to 2M+ active merchants. The new version is a usage-based, Shopify-native AI product photography engine that turns a single product image into a full library of brand-accurate lifestyle scenes in under 60 seconds, priced per image and billed in arrears.
 
----34:T8e7,
+---33:T8e7,
 
 ## Why Now?
 
@@ -26,11 +26,11 @@ Current direct competitors include:
 - **Adobe Firefly (Generative Fill)**: Excellent quality but requires Creative Cloud subscription, lives inside Photoshop, and demands design literacy. Not accessible to the median Shopify merchant.
 - **Shopify Magic (native)**: Convenient but limited to simple background replacement, not full lifestyle scene generation. Validates demand without satisfying it.
 
-The gap: no current competitor combines Shopify-native distribution, natural-language scene control, batch processing across an entire product catalog, and usage-based pricing with no upfront commitment.36:T497,$0.15 per downloaded image, billed monthly in arrears, with the first 20 images free. A merchant generating 100 images per month pays $15. A merchant running a full catalog refresh of 500 images pays $75 that month and nothing the next month if usage drops.
+The gap: no current competitor combines Shopify-native distribution, natural-language scene control, batch processing across an entire product catalog, and usage-based pricing with no upfront commitment.35:T497,$0.15 per downloaded image, billed monthly in arrears, with the first 20 images free. A merchant generating 100 images per month pays $15. A merchant running a full catalog refresh of 500 images pays $75 that month and nothing the next month if usage drops.
 
 Stress test against free alternatives: Shopify Magic (background removal only, not lifestyle scenes), Canva's AI tools (requires design work, not batch catalog processing), and Stable Diffusion (requires technical setup, no Shopify integration, no product identity preservation). None of these alternatives deliver what a merchant actually needs — a full lifestyle scene library for their catalog, generated in bulk, with their product looking exactly right. The $0.15/image price is justified because the alternative is a $500–$2,000 freelance photography session for the same output. The question is not "why pay vs. free" but "why pay $0.15 vs. $500" — and that answer is obvious to any merchant who has booked a photographer.
 
-For merchants who prefer predictability, offer an optional $49/month plan for 400 images (~$0.12/image) — a modest discount that converts high-volume users to recurring revenue.37:T8a4,
+For merchants who prefer predictability, offer an optional $49/month plan for 400 images (~$0.12/image) — a modest discount that converts high-volume users to recurring revenue.36:T8a4,
 
 ## Defensibility Against Platform Incumbents
 

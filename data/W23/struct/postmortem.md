@@ -2,26 +2,16 @@
 
 ## Overview
 
-1:"$Sreact.fragment"
-2:I[39756,["/_next/static/chunks/ff1a16fafef87110.js?dpl=dpl_GwuwmMc2oZNJkz1tEEADs8shECJt","/_next/static/chunks/803a574de9eda7ae.js?dpl=dpl_GwuwmMc2oZNJkz1tEEADs8shECJt"],"default"]
-3:I[8821,["/_next/static/chunks/0d46db6cf73968fd.js?dpl=dpl_GwuwmMc2oZNJkz1tEEADs8shECJt","/_next/static/chunks/5f4dcbc1da431ca9.js?dpl=dpl_GwuwmMc2oZNJkz1tEEADs8shECJt","/_next/static/chunks/33f7e5a25c4fcd0b.js?dpl=dpl_GwuwmMc2oZNJkz1tEEADs8shECJt"],"default"]
-4:I[37457,["/_next/static/chunks/ff1a16fafef87110.js?dpl=dpl_GwuwmMc2oZNJkz1tEEADs8shECJt","/_next/static/chunks/803a574de9eda7ae.js?dpl=dpl_GwuwmMc2oZNJkz1tEEADs8shECJt"],"default"]
-5:I[22016,["/_next/static/chunks/0d46db6cf73968fd.js?dpl=dpl_GwuwmMc2oZNJkz1tEEADs8shECJt","/_next/static/chunks/39ad7020066b4868.js?dpl=dpl_GwuwmMc2oZNJkz1tEEADs8shECJt","/_next/static/chunks/33f7e5a25c4fcd0b.js?dpl=dpl_GwuwmMc2oZNJkz1tEEADs8shECJt"],""]
-6:I[2355,["/_next/static/chunks/0d46db6cf73968fd.js?dpl=dpl_GwuwmMc2oZNJkz1tEEADs8shECJt"],"Analytics"]
-11:I[68027,["/_next/static/chunks/ff1a16fafef87110.js?dpl=dpl_GwuwmMc2oZNJkz1tEEADs8shECJt","/_next/static/chunks/803a574de9eda7ae.js?dpl=dpl_GwuwmMc2oZNJkz1tEEADs8shECJt"],"default"]
-12:I[97367,["/_next/static/chunks/ff1a16fafef87110.js?dpl=dpl_GwuwmMc2oZNJkz1tEEADs8shECJt","/_next/static/chunks/803a574de9eda7ae.js?dpl=dpl_GwuwmMc2oZNJkz1tEEADs8shECJt"],"OutletBoundary"]
-13:"$Sreact.suspense"
-15:I[93539,["/_next/static/chunks/0d46db6cf73968fd.js?dpl=dpl_GwuwmMc2oZNJkz1tEEADs8shECJt","/_next/static/chunks/39ad7020066b4868.js?dpl=dpl_GwuwmMc2oZNJkz1tEEADs8shECJt","/_next/static/chunks/33f7e5a25c4fcd0b.js?dpl=dpl_GwuwmMc2oZNJkz1tEEADs8shECJt"],"ThemeToggle"]
-23:I[97367,["/_next/static/chunks/ff1a16fafef87110.js?dpl=dpl_GwuwmMc2oZNJkz1tEEADs8shECJt","/_next/static/chunks/803a574de9eda7ae.js?dpl=dpl_GwuwmMc2oZNJkz1tEEADs8shECJt"],"ViewportBoundary"]
-25:I[97367,["/_next/static/chunks/ff1a16fafef87110.js?dpl=dpl_GwuwmMc2oZNJkz1tEEADs8shECJt","/_next/static/chunks/803a574de9eda7ae.js?dpl=dpl_GwuwmMc2oZNJkz1tEEADs8shECJt"],"MetadataBoundary"]
-:HL["/_next/static/chunks/8be82ca8498e7d4a.css?dpl=dpl_GwuwmMc2oZNJkz1tEEADs8shECJt","style"]
-:HL["/_next/static/media/1b99372b3eaef0c8-s.p.758e15a8.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
-:HL["/_next/static/media/23b7a97ae3b5c134-s.p.2902b61f.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
-:HL["/_next/static/media/68d403cf9f2c68c5-s.p.f9f15f61.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
-:HL["/_next/static/media/99e609270109b47d-s.p.64b9304e.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
-:HL["/_next/static/media/a7e15459c1805da0-s.p.ec654d65.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
-:HL["/_next/static/media/ea3421846039b7f3-s.p.093205c5.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
-:HL["/_next/static/media/effe91970fc4db64-s.p.19510058.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+Struct was a Y Combinator-backed startup that built a platform for multi-lingual, real-time AI voice agents capable of handling phone-based tasks across industries including fintech, legaltech, SaaS, and CRM. <sup><a href="https://www.ycombinator.com/companies/struct">[1]</a></sup> Founded in 2023 and accepted into YC's Winter 2023 cohort, the company operated out of a 3-person team with approximately $500,000 in total known funding — the standard YC deal — and positioned itself as infrastructure for businesses that needed AI to conduct or receive calls at scale. <sup><a href="https://www.ycombinator.com/companies/struct">[2]</a></sup>
+
+Struct entered one of the most crowded categories of the 2023 AI boom with minimal capital, a horizontal platform strategy, and no documented vertical focus. The combination proved fatal: better-funded competitors with near-identical positioning — Bland AI, Retell AI, Vapi — emerged in the same window, and the underlying voice AI technology commoditized faster than a 3-person team could build a defensible moat around it.
+
+The company is now listed as "Inactive" on YC's company directory. <sup><a href="https://www.ycombinator.com/companies/struct">[1]</a></sup> No acquisition, acqui-hire, or public post-mortem has been documented. The shutdown appears to have been a quiet wind-down, with no press coverage, no Hacker News launch post, and no public statement from the founding team.
+
+<report-gallery>
+<media-image src="https://media.licdn.com/dms/image/v2/D4E03AQHSoCjqFuP8PQ/profile-displayphoto-shrink_200_200/profile-displayphoto-shrink_200_200/0/1715921303303?e=2147483647&v=beta&t=RaGqFvDDfBnpDoW06Kr2ME6rHTwmEB-oTMg3Q1rCkP0" alt="Manoj Bala Radhakrishna - Founder and CEO of Struct" caption="Manoj Bala Radhakrishna, Struct's founder and CEO — a former Intercom engineering manager who bet on multilingual voice AI before the category became one of 2023's most crowded."></media-image>
+<media-image src="https://framerusercontent.com/images/Lbfqx0KmbS5rW3cEM3ynAvfkvRQ.webp" alt="Struct platform marketing image" caption="Struct's marketing positioned the platform as infrastructure for any phone-based AI task — a horizontal bet that proved difficult to defend with a 3-person team and $500K in runway."></media-image>
+</report-gallery>
 
 ## Founding Story
 

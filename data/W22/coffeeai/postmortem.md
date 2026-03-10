@@ -10,26 +10,19 @@ The company's arc illustrates a recurring pattern in the post-ChatGPT era: a tec
 
 ## Founding Story
 
-1:"$Sreact.fragment"
-2:I[39756,["/_next/static/chunks/ff1a16fafef87110.js?dpl=dpl_GwuwmMc2oZNJkz1tEEADs8shECJt","/_next/static/chunks/803a574de9eda7ae.js?dpl=dpl_GwuwmMc2oZNJkz1tEEADs8shECJt"],"default"]
-3:I[8821,["/_next/static/chunks/0d46db6cf73968fd.js?dpl=dpl_GwuwmMc2oZNJkz1tEEADs8shECJt","/_next/static/chunks/5f4dcbc1da431ca9.js?dpl=dpl_GwuwmMc2oZNJkz1tEEADs8shECJt","/_next/static/chunks/33f7e5a25c4fcd0b.js?dpl=dpl_GwuwmMc2oZNJkz1tEEADs8shECJt"],"default"]
-4:I[37457,["/_next/static/chunks/ff1a16fafef87110.js?dpl=dpl_GwuwmMc2oZNJkz1tEEADs8shECJt","/_next/static/chunks/803a574de9eda7ae.js?dpl=dpl_GwuwmMc2oZNJkz1tEEADs8shECJt"],"default"]
-5:I[22016,["/_next/static/chunks/0d46db6cf73968fd.js?dpl=dpl_GwuwmMc2oZNJkz1tEEADs8shECJt","/_next/static/chunks/39ad7020066b4868.js?dpl=dpl_GwuwmMc2oZNJkz1tEEADs8shECJt","/_next/static/chunks/33f7e5a25c4fcd0b.js?dpl=dpl_GwuwmMc2oZNJkz1tEEADs8shECJt"],""]
-6:I[2355,["/_next/static/chunks/0d46db6cf73968fd.js?dpl=dpl_GwuwmMc2oZNJkz1tEEADs8shECJt"],"Analytics"]
-11:I[68027,["/_next/static/chunks/ff1a16fafef87110.js?dpl=dpl_GwuwmMc2oZNJkz1tEEADs8shECJt","/_next/static/chunks/803a574de9eda7ae.js?dpl=dpl_GwuwmMc2oZNJkz1tEEADs8shECJt"],"default"]
-12:I[97367,["/_next/static/chunks/ff1a16fafef87110.js?dpl=dpl_GwuwmMc2oZNJkz1tEEADs8shECJt","/_next/static/chunks/803a574de9eda7ae.js?dpl=dpl_GwuwmMc2oZNJkz1tEEADs8shECJt"],"OutletBoundary"]
-13:"$Sreact.suspense"
-15:I[93539,["/_next/static/chunks/0d46db6cf73968fd.js?dpl=dpl_GwuwmMc2oZNJkz1tEEADs8shECJt","/_next/static/chunks/39ad7020066b4868.js?dpl=dpl_GwuwmMc2oZNJkz1tEEADs8shECJt","/_next/static/chunks/33f7e5a25c4fcd0b.js?dpl=dpl_GwuwmMc2oZNJkz1tEEADs8shECJt"],"ThemeToggle"]
-23:I[97367,["/_next/static/chunks/ff1a16fafef87110.js?dpl=dpl_GwuwmMc2oZNJkz1tEEADs8shECJt","/_next/static/chunks/803a574de9eda7ae.js?dpl=dpl_GwuwmMc2oZNJkz1tEEADs8shECJt"],"ViewportBoundary"]
-25:I[97367,["/_next/static/chunks/ff1a16fafef87110.js?dpl=dpl_GwuwmMc2oZNJkz1tEEADs8shECJt","/_next/static/chunks/803a574de9eda7ae.js?dpl=dpl_GwuwmMc2oZNJkz1tEEADs8shECJt"],"MetadataBoundary"]
-:HL["/_next/static/chunks/8be82ca8498e7d4a.css?dpl=dpl_GwuwmMc2oZNJkz1tEEADs8shECJt","style"]
-:HL["/_next/static/media/1b99372b3eaef0c8-s.p.758e15a8.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
-:HL["/_next/static/media/23b7a97ae3b5c134-s.p.2902b61f.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
-:HL["/_next/static/media/68d403cf9f2c68c5-s.p.f9f15f61.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
-:HL["/_next/static/media/99e609270109b47d-s.p.64b9304e.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
-:HL["/_next/static/media/a7e15459c1805da0-s.p.ec654d65.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
-:HL["/_next/static/media/ea3421846039b7f3-s.p.093205c5.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
-:HL["/_next/static/media/effe91970fc4db64-s.p.19510058.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+CoffeeAI's origins trace back to 2019 in Auckland, New Zealand, where Will Haringa and Aryan Lobie founded the company under the name Segna. Their backgrounds were unusual for a data startup: both were aerospace engineers by training, products of the University of Auckland's Centre for Innovation and Entrepreneurship (CIE).<sup><a href="https://www.cie.auckland.ac.nz/newsroom/segnas-lightning-speed-data-wrangling-platform-gets-silicon-valley-investment/">[1]</a></sup>
+
+Haringa had co-founded Zenno Astronautics, a space technology company. Lobie had worked on New Zealand's first scientific satellite, launched via Rocket Lab.<sup><a href="https://www.startupdaily.net/topic/accelerator/kiwi-data-wrangling-startup-segna-bags-us125000-seed-round-ahead-of-joining-the-y-combinator-accelerator/">[2]</a></sup> These were not typical SaaS founder credentials. The leap from aerospace engineering to data infrastructure software reflected a pattern common among technically rigorous founders: identifying a painful workflow problem—in this case, the manual, time-consuming process of aggregating and cleaning data from multiple sources—and applying engineering discipline to automate it.
+
+Segna was the second startup for both founders, suggesting prior entrepreneurial experience and a tolerance for risk, but also a willingness to abandon a product when the evidence warranted it.<sup><a href="https://www.cie.auckland.ac.nz/newsroom/segnas-lightning-speed-data-wrangling-platform-gets-silicon-valley-investment/">[3]</a></sup> The CIE program at the University of Auckland gave them access to a local startup ecosystem and early-stage mentorship, though it placed them geographically distant from their eventual US-focused market.
+
+The original Segna product targeted data analysts, data scientists, and business analysts with a platform that could aggregate and clean multiple data sources in under a minute using machine learning.<sup><a href="https://industry.aucklandnz.com/invest/news/hillfarrance-venture-capital-smart-capital-ai-first-tech-startups">[4]</a></sup> The pitch was compelling enough to attract NZ$880,000 (~USD $560K) from three New Zealand venture firms—Hillfarrance VC, Icehouse Ventures, and CP Ventures—before the company applied to Y Combinator.<sup><a href="https://www.startupdaily.net/topic/accelerator/kiwi-data-wrangling-startup-segna-bags-us125000-seed-round-ahead-of-joining-the-y-combinator-accelerator/">[5]</a></sup>
+
+YC accepted Segna into its Winter 2022 batch, a meaningful validation signal. The $125K YC seed investment closed on November 26, 2021, ahead of the batch start.<sup><a href="https://tracxn.com/d/companies/segna/__Qlx65b29DD4ufiZ4T4Y6g5sFYdVBrJNrx989qBIxktY">[6]</a></sup> The team that entered YC was small—five people total, including tech lead Seoyoung Choi.<sup><a href="https://www.f6s.com/company/coffeeai">[7]</a></sup>
+
+What happened inside the YC batch—and what drove the founders to abandon Segna entirely—is not documented in any public record. No founder statement, investor quote, or press article explains the pivot decision. What is clear is that by the time the company emerged from YC, it had a new name, a new product, and a new market.
+
+---
 
 ## Timeline
 

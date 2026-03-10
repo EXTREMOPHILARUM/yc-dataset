@@ -2,26 +2,15 @@
 
 ## Overview
 
-1:"$Sreact.fragment"
-2:I[39756,["/_next/static/chunks/ff1a16fafef87110.js?dpl=dpl_GwuwmMc2oZNJkz1tEEADs8shECJt","/_next/static/chunks/803a574de9eda7ae.js?dpl=dpl_GwuwmMc2oZNJkz1tEEADs8shECJt"],"default"]
-3:I[8821,["/_next/static/chunks/0d46db6cf73968fd.js?dpl=dpl_GwuwmMc2oZNJkz1tEEADs8shECJt","/_next/static/chunks/5f4dcbc1da431ca9.js?dpl=dpl_GwuwmMc2oZNJkz1tEEADs8shECJt","/_next/static/chunks/33f7e5a25c4fcd0b.js?dpl=dpl_GwuwmMc2oZNJkz1tEEADs8shECJt"],"default"]
-4:I[37457,["/_next/static/chunks/ff1a16fafef87110.js?dpl=dpl_GwuwmMc2oZNJkz1tEEADs8shECJt","/_next/static/chunks/803a574de9eda7ae.js?dpl=dpl_GwuwmMc2oZNJkz1tEEADs8shECJt"],"default"]
-5:I[22016,["/_next/static/chunks/0d46db6cf73968fd.js?dpl=dpl_GwuwmMc2oZNJkz1tEEADs8shECJt","/_next/static/chunks/39ad7020066b4868.js?dpl=dpl_GwuwmMc2oZNJkz1tEEADs8shECJt","/_next/static/chunks/33f7e5a25c4fcd0b.js?dpl=dpl_GwuwmMc2oZNJkz1tEEADs8shECJt"],""]
-6:I[2355,["/_next/static/chunks/0d46db6cf73968fd.js?dpl=dpl_GwuwmMc2oZNJkz1tEEADs8shECJt"],"Analytics"]
-11:I[68027,["/_next/static/chunks/ff1a16fafef87110.js?dpl=dpl_GwuwmMc2oZNJkz1tEEADs8shECJt","/_next/static/chunks/803a574de9eda7ae.js?dpl=dpl_GwuwmMc2oZNJkz1tEEADs8shECJt"],"default"]
-12:I[97367,["/_next/static/chunks/ff1a16fafef87110.js?dpl=dpl_GwuwmMc2oZNJkz1tEEADs8shECJt","/_next/static/chunks/803a574de9eda7ae.js?dpl=dpl_GwuwmMc2oZNJkz1tEEADs8shECJt"],"OutletBoundary"]
-13:"$Sreact.suspense"
-15:I[93539,["/_next/static/chunks/0d46db6cf73968fd.js?dpl=dpl_GwuwmMc2oZNJkz1tEEADs8shECJt","/_next/static/chunks/39ad7020066b4868.js?dpl=dpl_GwuwmMc2oZNJkz1tEEADs8shECJt","/_next/static/chunks/33f7e5a25c4fcd0b.js?dpl=dpl_GwuwmMc2oZNJkz1tEEADs8shECJt"],"ThemeToggle"]
-23:I[97367,["/_next/static/chunks/ff1a16fafef87110.js?dpl=dpl_GwuwmMc2oZNJkz1tEEADs8shECJt","/_next/static/chunks/803a574de9eda7ae.js?dpl=dpl_GwuwmMc2oZNJkz1tEEADs8shECJt"],"ViewportBoundary"]
-25:I[97367,["/_next/static/chunks/ff1a16fafef87110.js?dpl=dpl_GwuwmMc2oZNJkz1tEEADs8shECJt","/_next/static/chunks/803a574de9eda7ae.js?dpl=dpl_GwuwmMc2oZNJkz1tEEADs8shECJt"],"MetadataBoundary"]
-:HL["/_next/static/chunks/8be82ca8498e7d4a.css?dpl=dpl_GwuwmMc2oZNJkz1tEEADs8shECJt","style"]
-:HL["/_next/static/media/1b99372b3eaef0c8-s.p.758e15a8.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
-:HL["/_next/static/media/23b7a97ae3b5c134-s.p.2902b61f.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
-:HL["/_next/static/media/68d403cf9f2c68c5-s.p.f9f15f61.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
-:HL["/_next/static/media/99e609270109b47d-s.p.64b9304e.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
-:HL["/_next/static/media/a7e15459c1805da0-s.p.ec654d65.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
-:HL["/_next/static/media/ea3421846039b7f3-s.p.093205c5.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
-:HL["/_next/static/media/effe91970fc4db64-s.p.19510058.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+Aravindh Dorai and Alex Chumbley brought complementary but overlapping credentials to Fable. Dorai had spent his career inside product organizations: Program Manager at Microsoft, Product Manager at Zocdoc, and Senior Product Manager at Teachers Pay Teachers (TpT).<sup><a href="https://clay.earth/profile/aravindh-dorai">[4]</a></sup> Chumbley came from a more technical and strategic background — a Master's and Bachelor's degree in Computer Science from MIT, followed by a stint as an Engagement Manager at McKinsey & Company.<sup><a href="https://theorg.com/org/tryfable/org-chart/alex-chumbley">[5]</a></sup> Together, they described their shared experience: "Alex and I have been PMs at companies of varying sizes and industries — from Microsoft to Budweiser to Zocdoc."<sup><a href="https://news.ycombinator.com/item?id=29980162">[6]</a></sup>
+
+The founding insight was personal and specific. Dorai traced the idea directly to his time at Teachers Pay Teachers: "I was wasting hours copy/pasting from my spec into Jira, time that I could have spent doing more valuable things like talking to users."<sup><a href="https://news.ycombinator.com/item?id=29980162">[7]</a></sup> The pain was real — product managers routinely write specifications in one tool (Google Docs, Confluence, Notion) and then manually recreate that work as tickets in a separate issue tracker. Every edit to the spec requires a corresponding update to the tracker, and vice versa. The two systems drift apart within days.
+
+The founding thesis was that this gap represented a category-level opportunity: a dedicated PM workspace that would sit above the issue tracker layer and keep both in sync automatically. The analogy to Figma and Linear was deliberate positioning — both companies had succeeded by creating purpose-built tools for their respective disciplines (design and engineering) rather than forcing practitioners to use generic productivity software. Fable's bet was that product managers deserved the same treatment.
+
+The company was incorporated in 2020 and entered YC's Winter 2021 batch, which provided initial validation, seed capital, and the YC network.<sup><a href="https://www.ycombinator.com/companies/fable">[8]</a></sup> Notably, Fable remained a two-person team throughout its known operating life — a signal that the company never achieved the traction or funding needed to scale hiring.<sup><a href="https://www.ycombinator.com/companies/fable">[9]</a></sup> How the two founders met and why they chose to work together specifically is not documented in available sources.
+
+The "Figma for PMs" framing was aspirational but set a demanding standard. Figma succeeded by replacing a desktop-native workflow (Sketch, Illustrator) with a browser-native collaborative paradigm — a genuine architectural shift that incumbents could not easily replicate. Fable was not replacing a desktop application; it was adding a sync layer on top of tools that already lived in the browser. The analogy was seductive but structurally misleading.
 
 ## Founding Story
 

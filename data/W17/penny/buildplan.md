@@ -6,7 +6,7 @@ By 2026, Penny is a conversational AI financial coach for the post-Mint generati
 
 The market timing is now viable: Intuit killed Mint in January 2024, orphaning 3.6 million monthly active users with no conversational alternative. Credit Karma owns credit scores but ignores spending coaching. The gap is real and the audience is homeless.
 
-Go-to-market targets Mint refugees directly through Reddit, Twitter, and finance communities where they're actively asking "what's next?" The hook is simple: ask your money questions like you'd text a friend, not a spreadsheet. Launch with 10K MAU in 90 days, hit 25% day-30 retention, and scale through word-of-mouth in underserved communities that never had a financial app that actually talked to them.34:T7a9,
+Go-to-market targets Mint refugees directly through Reddit, Twitter, and finance communities where they're actively asking "what's next?" The hook is simple: ask your money questions like you'd text a friend, not a spreadsheet. Launch with 10K MAU in 90 days, hit 25% day-30 retention, and scale through word-of-mouth in underserved communities that never had a financial app that actually talked to them.33:T7a9,
 
 ## Why Now?
 

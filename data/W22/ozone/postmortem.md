@@ -2,26 +2,19 @@
 
 ## Overview
 
-1:"$Sreact.fragment"
-2:I[39756,["/_next/static/chunks/ff1a16fafef87110.js?dpl=dpl_GwuwmMc2oZNJkz1tEEADs8shECJt","/_next/static/chunks/803a574de9eda7ae.js?dpl=dpl_GwuwmMc2oZNJkz1tEEADs8shECJt"],"default"]
-3:I[8821,["/_next/static/chunks/0d46db6cf73968fd.js?dpl=dpl_GwuwmMc2oZNJkz1tEEADs8shECJt","/_next/static/chunks/5f4dcbc1da431ca9.js?dpl=dpl_GwuwmMc2oZNJkz1tEEADs8shECJt","/_next/static/chunks/33f7e5a25c4fcd0b.js?dpl=dpl_GwuwmMc2oZNJkz1tEEADs8shECJt"],"default"]
-4:I[37457,["/_next/static/chunks/ff1a16fafef87110.js?dpl=dpl_GwuwmMc2oZNJkz1tEEADs8shECJt","/_next/static/chunks/803a574de9eda7ae.js?dpl=dpl_GwuwmMc2oZNJkz1tEEADs8shECJt"],"default"]
-5:I[22016,["/_next/static/chunks/0d46db6cf73968fd.js?dpl=dpl_GwuwmMc2oZNJkz1tEEADs8shECJt","/_next/static/chunks/39ad7020066b4868.js?dpl=dpl_GwuwmMc2oZNJkz1tEEADs8shECJt","/_next/static/chunks/33f7e5a25c4fcd0b.js?dpl=dpl_GwuwmMc2oZNJkz1tEEADs8shECJt"],""]
-6:I[2355,["/_next/static/chunks/0d46db6cf73968fd.js?dpl=dpl_GwuwmMc2oZNJkz1tEEADs8shECJt"],"Analytics"]
-11:I[68027,["/_next/static/chunks/ff1a16fafef87110.js?dpl=dpl_GwuwmMc2oZNJkz1tEEADs8shECJt","/_next/static/chunks/803a574de9eda7ae.js?dpl=dpl_GwuwmMc2oZNJkz1tEEADs8shECJt"],"default"]
-12:I[97367,["/_next/static/chunks/ff1a16fafef87110.js?dpl=dpl_GwuwmMc2oZNJkz1tEEADs8shECJt","/_next/static/chunks/803a574de9eda7ae.js?dpl=dpl_GwuwmMc2oZNJkz1tEEADs8shECJt"],"OutletBoundary"]
-13:"$Sreact.suspense"
-15:I[93539,["/_next/static/chunks/0d46db6cf73968fd.js?dpl=dpl_GwuwmMc2oZNJkz1tEEADs8shECJt","/_next/static/chunks/39ad7020066b4868.js?dpl=dpl_GwuwmMc2oZNJkz1tEEADs8shECJt","/_next/static/chunks/33f7e5a25c4fcd0b.js?dpl=dpl_GwuwmMc2oZNJkz1tEEADs8shECJt"],"ThemeToggle"]
-23:I[97367,["/_next/static/chunks/ff1a16fafef87110.js?dpl=dpl_GwuwmMc2oZNJkz1tEEADs8shECJt","/_next/static/chunks/803a574de9eda7ae.js?dpl=dpl_GwuwmMc2oZNJkz1tEEADs8shECJt"],"ViewportBoundary"]
-25:I[97367,["/_next/static/chunks/ff1a16fafef87110.js?dpl=dpl_GwuwmMc2oZNJkz1tEEADs8shECJt","/_next/static/chunks/803a574de9eda7ae.js?dpl=dpl_GwuwmMc2oZNJkz1tEEADs8shECJt"],"MetadataBoundary"]
-:HL["/_next/static/chunks/8be82ca8498e7d4a.css?dpl=dpl_GwuwmMc2oZNJkz1tEEADs8shECJt","style"]
-:HL["/_next/static/media/1b99372b3eaef0c8-s.p.758e15a8.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
-:HL["/_next/static/media/23b7a97ae3b5c134-s.p.2902b61f.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
-:HL["/_next/static/media/68d403cf9f2c68c5-s.p.f9f15f61.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
-:HL["/_next/static/media/99e609270109b47d-s.p.64b9304e.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
-:HL["/_next/static/media/a7e15459c1805da0-s.p.ec654d65.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
-:HL["/_next/static/media/ea3421846039b7f3-s.p.093205c5.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
-:HL["/_next/static/media/effe91970fc4db64-s.p.19510058.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+Max von Wolff was not a typical startup founder. Born in Germany, he arrived at MIT as an undergraduate studying computer science and economics—a path that, for most international students, carries significant personal and legal risk if abandoned. Von Wolff abandoned it anyway. <sup><a href="https://techcrunch.com/2023/11/08/ozone-raises-7-1m-to-scale-its-ai-powered-collaborative-video-editor/">[1]</a></sup>
+
+"Despite being a sophomore at MIT, and an international student, I decided to drop out and attend Y Combinator," von Wolff said in 2023. <sup><a href="https://techcrunch.com/2023/11/08/ozone-raises-7-1m-to-scale-its-ai-powered-collaborative-video-editor/">[2]</a></sup> The decision to leave MIT mid-degree—with the visa complications that entails for international students—signals a founder with an unusually high tolerance for risk and a strong conviction in the idea.
+
+Von Wolff was not starting from scratch. Before Ozone, he had co-founded Trendify, an AI-powered visual search engine for clothing that built a database of over two million products from 200 brands and retailers. <sup><a href="https://theorg.com/org/ozone/org-chart/max-von-wolff">[3]</a></sup> Trendify established a pattern: von Wolff was drawn to AI-native tools for consumer and creator markets, and he had already shipped a product at scale before arriving at YC.
+
+The insight behind Ozone was straightforward and investor-legible. Von Wolff looked at the video editing landscape and saw a market frozen in time. "If you look at the landscape, there is Adobe, they've been in the game for many decades, but their tools are extremely hard to use. They're also disjointed, they're all offline. You cannot collaborate in them," he said. <sup><a href="https://techcrunch.com/2023/11/08/ozone-raises-7-1m-to-scale-its-ai-powered-collaborative-video-editor/">[4]</a></sup> On the other end of the spectrum, browser-based tools like Canva existed but offered limited editing depth. Von Wolff believed the gap between "too hard" and "too simple" was where a new category could be built.
+
+The "Figma for video" framing was deliberate. Figma had demonstrated that moving a complex creative tool to the browser—and making it natively collaborative—could displace entrenched desktop incumbents. Von Wolff's thesis was that the same transition was inevitable for video. <sup><a href="https://www.ycombinator.com/companies/ozone">[5]</a></sup>
+
+Ozone incorporated as Ozone Technologies Inc. at 1475 Folsom Street in San Francisco and entered Y Combinator's Winter 2022 batch. <sup><a href="https://www.vcaonline.com/news/2023110809/ozone-secures-7-1-million-in-funding-to-transform-video-editing-workflows/">[6]</a></sup> <sup><a href="https://www.ycombinator.com/companies/ozone">[7]</a></sup> A second co-founder is referenced in company records but was not identified by name in any public source, and their role and tenure at the company remain unknown.
+
+---
 
 ## Founding Story
 

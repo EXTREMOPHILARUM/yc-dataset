@@ -2,26 +2,17 @@
 
 ## Overview
 
-1:"$Sreact.fragment"
-2:I[39756,["/_next/static/chunks/ff1a16fafef87110.js?dpl=dpl_GwuwmMc2oZNJkz1tEEADs8shECJt","/_next/static/chunks/803a574de9eda7ae.js?dpl=dpl_GwuwmMc2oZNJkz1tEEADs8shECJt"],"default"]
-3:I[8821,["/_next/static/chunks/0d46db6cf73968fd.js?dpl=dpl_GwuwmMc2oZNJkz1tEEADs8shECJt","/_next/static/chunks/5f4dcbc1da431ca9.js?dpl=dpl_GwuwmMc2oZNJkz1tEEADs8shECJt","/_next/static/chunks/33f7e5a25c4fcd0b.js?dpl=dpl_GwuwmMc2oZNJkz1tEEADs8shECJt"],"default"]
-4:I[37457,["/_next/static/chunks/ff1a16fafef87110.js?dpl=dpl_GwuwmMc2oZNJkz1tEEADs8shECJt","/_next/static/chunks/803a574de9eda7ae.js?dpl=dpl_GwuwmMc2oZNJkz1tEEADs8shECJt"],"default"]
-5:I[22016,["/_next/static/chunks/0d46db6cf73968fd.js?dpl=dpl_GwuwmMc2oZNJkz1tEEADs8shECJt","/_next/static/chunks/39ad7020066b4868.js?dpl=dpl_GwuwmMc2oZNJkz1tEEADs8shECJt","/_next/static/chunks/33f7e5a25c4fcd0b.js?dpl=dpl_GwuwmMc2oZNJkz1tEEADs8shECJt"],""]
-6:I[2355,["/_next/static/chunks/0d46db6cf73968fd.js?dpl=dpl_GwuwmMc2oZNJkz1tEEADs8shECJt"],"Analytics"]
-11:I[68027,["/_next/static/chunks/ff1a16fafef87110.js?dpl=dpl_GwuwmMc2oZNJkz1tEEADs8shECJt","/_next/static/chunks/803a574de9eda7ae.js?dpl=dpl_GwuwmMc2oZNJkz1tEEADs8shECJt"],"default"]
-12:I[97367,["/_next/static/chunks/ff1a16fafef87110.js?dpl=dpl_GwuwmMc2oZNJkz1tEEADs8shECJt","/_next/static/chunks/803a574de9eda7ae.js?dpl=dpl_GwuwmMc2oZNJkz1tEEADs8shECJt"],"OutletBoundary"]
-13:"$Sreact.suspense"
-15:I[93539,["/_next/static/chunks/0d46db6cf73968fd.js?dpl=dpl_GwuwmMc2oZNJkz1tEEADs8shECJt","/_next/static/chunks/39ad7020066b4868.js?dpl=dpl_GwuwmMc2oZNJkz1tEEADs8shECJt","/_next/static/chunks/33f7e5a25c4fcd0b.js?dpl=dpl_GwuwmMc2oZNJkz1tEEADs8shECJt"],"ThemeToggle"]
-23:I[97367,["/_next/static/chunks/ff1a16fafef87110.js?dpl=dpl_GwuwmMc2oZNJkz1tEEADs8shECJt","/_next/static/chunks/803a574de9eda7ae.js?dpl=dpl_GwuwmMc2oZNJkz1tEEADs8shECJt"],"ViewportBoundary"]
-25:I[97367,["/_next/static/chunks/ff1a16fafef87110.js?dpl=dpl_GwuwmMc2oZNJkz1tEEADs8shECJt","/_next/static/chunks/803a574de9eda7ae.js?dpl=dpl_GwuwmMc2oZNJkz1tEEADs8shECJt"],"MetadataBoundary"]
-:HL["/_next/static/chunks/8be82ca8498e7d4a.css?dpl=dpl_GwuwmMc2oZNJkz1tEEADs8shECJt","style"]
-:HL["/_next/static/media/1b99372b3eaef0c8-s.p.758e15a8.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
-:HL["/_next/static/media/23b7a97ae3b5c134-s.p.2902b61f.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
-:HL["/_next/static/media/68d403cf9f2c68c5-s.p.f9f15f61.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
-:HL["/_next/static/media/99e609270109b47d-s.p.64b9304e.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
-:HL["/_next/static/media/a7e15459c1805da0-s.p.ec654d65.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
-:HL["/_next/static/media/ea3421846039b7f3-s.p.093205c5.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
-:HL["/_next/static/media/effe91970fc4db64-s.p.19510058.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+Natero was a B2B SaaS customer success platform founded in May 2012 by Craig Soules and Garth Goodson in Mountain View, California. The company built software that ingested granular product usage data from SaaS vendors, integrated it with CRM, support, and billing systems, and applied machine learning to predict customer churn and identify expansion opportunities. Natero participated in Y Combinator's Summer 2012 batch and raised a total of $3.42 million across two rounds before being acquired by Freshworks in May 2019.<sup><a href="https://www.ycombinator.com/companies/natero">[1]</a></sup>
+
+Natero was not a failure in the conventional sense — it achieved product-market fit, generated enough revenue to fund its own expansion after 2014, and was acquired by a strategic buyer. The constraint was structural: in a winner-take-most category where primary competitor Gainsight raised over $100 million in venture capital, Natero's $3.42 million total raise left it unable to compete on distribution, brand, or integrations at scale. The acquisition by Freshworks was the rational terminal outcome for a technically differentiated product that was more valuable inside a larger CRM suite than as a standalone subscription.
+
+Freshworks acquired Natero on May 21, 2019, rebranding the technology as Freshsuccess and integrating it into the Freshworks 360 suite. Both founders transitioned to Freshworks roles before departing in 2023 to co-found Springtail, a scale-out replicated database startup — returning to the infrastructure roots that preceded Natero.<sup><a href="https://techcrunch.com/2019/05/21/freshworks-acquires-customer-success-service-natero/">[2]</a></sup>
+
+<report-gallery>
+<media-image src="https://bookface-images.s3.amazonaws.com/avatars/f015cf85720ead0fa510cb99c99d24dc92ec0a41.jpg" alt="Natero on Y Combinator" caption="Natero's Y Combinator profile avatar — the company's public face during its S12 batch, when Soules and Goodson were still searching for the right vertical to apply their data infrastructure expertise."></media-image>
+<media-image src="https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/50008918865/original/tYnhdI0Rg88yb3qiZfD1Pn3gYmLIFZAfpA.png?1689667812" alt="Natero platform Slack integration UI" caption="A screenshot of Natero's Slack integration feature, showing how customer success managers received real-time alerts inside their collaboration tools — a workflow layer that made Natero's ML predictions actionable without leaving existing toolchains."></media-image>
+<media-image src="https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/50008918447/original/a3w59V6vrKVol1xiKkZdCliYJIpuoQiyUw.png?1689667453" alt="Natero Infusionsoft integration UI" caption="The Natero-Infusionsoft integration screen, illustrating the platform's strategy of embedding into existing CRM and marketing workflows — the same integration depth that ultimately made Natero more valuable as a Freshworks feature than as a standalone product."></media-image>
+</report-gallery>
 
 ## Founding Story
 

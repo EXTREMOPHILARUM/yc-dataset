@@ -6,7 +6,7 @@ Brace 2026 is a deployment platform for AI-generated websites. You paste HTML/CS
 
 The market shift is real: AI coding tools have made static site generation frictionless, but deployment hasn't caught up. Vercel and Netlify assume Git fluency and React expertise. Brace assumes nothing except "I have working code and need it live." The insight is that AI-native workflows don't fit Git-first platforms—they need Git-optional platforms.
 
-Go-to-market is direct: target Cursor and Claude communities, position as "the deploy button AI forgot," and win through speed and simplicity. Free tier gets you to 500 deployed sites in 60 days. Paid tier ($20/mo) unlocks custom domains, form handling, and analytics. The unit economics work because infrastructure costs are now negligible and the TAM is massive.34:T79f,
+Go-to-market is direct: target Cursor and Claude communities, position as "the deploy button AI forgot," and win through speed and simplicity. Free tier gets you to 500 deployed sites in 60 days. Paid tier ($20/mo) unlocks custom domains, form handling, and analytics. The unit economics work because infrastructure costs are now negligible and the TAM is massive.33:T79f,
 
 ## Why Now?
 

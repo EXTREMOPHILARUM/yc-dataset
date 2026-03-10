@@ -2,26 +2,17 @@
 
 ## Overview
 
-1:"$Sreact.fragment"
-2:I[39756,["/_next/static/chunks/ff1a16fafef87110.js?dpl=dpl_GwuwmMc2oZNJkz1tEEADs8shECJt","/_next/static/chunks/803a574de9eda7ae.js?dpl=dpl_GwuwmMc2oZNJkz1tEEADs8shECJt"],"default"]
-3:I[8821,["/_next/static/chunks/0d46db6cf73968fd.js?dpl=dpl_GwuwmMc2oZNJkz1tEEADs8shECJt","/_next/static/chunks/5f4dcbc1da431ca9.js?dpl=dpl_GwuwmMc2oZNJkz1tEEADs8shECJt","/_next/static/chunks/33f7e5a25c4fcd0b.js?dpl=dpl_GwuwmMc2oZNJkz1tEEADs8shECJt"],"default"]
-4:I[37457,["/_next/static/chunks/ff1a16fafef87110.js?dpl=dpl_GwuwmMc2oZNJkz1tEEADs8shECJt","/_next/static/chunks/803a574de9eda7ae.js?dpl=dpl_GwuwmMc2oZNJkz1tEEADs8shECJt"],"default"]
-5:I[22016,["/_next/static/chunks/0d46db6cf73968fd.js?dpl=dpl_GwuwmMc2oZNJkz1tEEADs8shECJt","/_next/static/chunks/39ad7020066b4868.js?dpl=dpl_GwuwmMc2oZNJkz1tEEADs8shECJt","/_next/static/chunks/33f7e5a25c4fcd0b.js?dpl=dpl_GwuwmMc2oZNJkz1tEEADs8shECJt"],""]
-6:I[2355,["/_next/static/chunks/0d46db6cf73968fd.js?dpl=dpl_GwuwmMc2oZNJkz1tEEADs8shECJt"],"Analytics"]
-11:I[68027,["/_next/static/chunks/ff1a16fafef87110.js?dpl=dpl_GwuwmMc2oZNJkz1tEEADs8shECJt","/_next/static/chunks/803a574de9eda7ae.js?dpl=dpl_GwuwmMc2oZNJkz1tEEADs8shECJt"],"default"]
-12:I[97367,["/_next/static/chunks/ff1a16fafef87110.js?dpl=dpl_GwuwmMc2oZNJkz1tEEADs8shECJt","/_next/static/chunks/803a574de9eda7ae.js?dpl=dpl_GwuwmMc2oZNJkz1tEEADs8shECJt"],"OutletBoundary"]
-13:"$Sreact.suspense"
-15:I[93539,["/_next/static/chunks/0d46db6cf73968fd.js?dpl=dpl_GwuwmMc2oZNJkz1tEEADs8shECJt","/_next/static/chunks/39ad7020066b4868.js?dpl=dpl_GwuwmMc2oZNJkz1tEEADs8shECJt","/_next/static/chunks/33f7e5a25c4fcd0b.js?dpl=dpl_GwuwmMc2oZNJkz1tEEADs8shECJt"],"ThemeToggle"]
-23:I[97367,["/_next/static/chunks/ff1a16fafef87110.js?dpl=dpl_GwuwmMc2oZNJkz1tEEADs8shECJt","/_next/static/chunks/803a574de9eda7ae.js?dpl=dpl_GwuwmMc2oZNJkz1tEEADs8shECJt"],"ViewportBoundary"]
-25:I[97367,["/_next/static/chunks/ff1a16fafef87110.js?dpl=dpl_GwuwmMc2oZNJkz1tEEADs8shECJt","/_next/static/chunks/803a574de9eda7ae.js?dpl=dpl_GwuwmMc2oZNJkz1tEEADs8shECJt"],"MetadataBoundary"]
-:HL["/_next/static/chunks/8be82ca8498e7d4a.css?dpl=dpl_GwuwmMc2oZNJkz1tEEADs8shECJt","style"]
-:HL["/_next/static/media/1b99372b3eaef0c8-s.p.758e15a8.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
-:HL["/_next/static/media/23b7a97ae3b5c134-s.p.2902b61f.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
-:HL["/_next/static/media/68d403cf9f2c68c5-s.p.f9f15f61.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
-:HL["/_next/static/media/99e609270109b47d-s.p.64b9304e.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
-:HL["/_next/static/media/a7e15459c1805da0-s.p.ec654d65.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
-:HL["/_next/static/media/ea3421846039b7f3-s.p.093205c5.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
-:HL["/_next/static/media/effe91970fc4db64-s.p.19510058.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+Vizzly was a London-based B2B SaaS startup that built an embeddable analytics platform for software companies. Founded in December 2021 by Matt Williamson and James Bowers, it participated in Y Combinator's Summer 2022 batch and offered SaaS companies a way to embed customizable, customer-facing dashboards directly into their products — without forcing their engineering teams to build analytics infrastructure from scratch.
+
+Vizzly failed because it entered a structurally crowded market with approximately $500K in total funding — enough to build a product, but not enough to compete for distribution against well-capitalized incumbents or to survive long enough to find a defensible niche. The company never raised a follow-on round, which is the clearest signal that it could not demonstrate sufficient traction to attract additional capital.
+
+In Q4 2024, Vizzly was acquired by Gain Theory, a WPP-owned marketing effectiveness consultancy — an acquirer whose business bore little strategic relationship to an embeddable analytics developer tool. The acquisition appears to have been an acqui-hire. The product was effectively discontinued, with competitors actively soliciting Vizzly's former customers for migration.
+
+<report-gallery>
+<media-image src="https://bookface-images.s3.amazonaws.com/avatars/020be053bd21ed69d336f67e7f4829063555ad3b.jpg" alt="Matt Williamson, Co-Founder and CEO of Vizzly" caption="Matt Williamson, Co-Founder & CEO — the Skyscanner and Duffel veteran who identified the embedded analytics pain point firsthand and brought Vizzly into YC S22."></media-image>
+<media-image src="https://media.licdn.com/dms/image/D4E22AQGqedUG-RiOzQ/feedshare-shrink_800/0/1685972918581?e=2147483647&v=beta&t=FDlI6F8fnIH7HMPPO1uJfcAfslRHZC-TmjArVqPH9t0" alt="Vizzly product tutorial screenshot shared on LinkedIn" caption="A Vizzly tutorial introduction shared on LinkedIn in mid-2023 — one of the few public glimpses of the product in action before the Gain Theory acquisition ended customer access."></media-image>
+<media-image src="https://bookface-images.s3.amazonaws.com/avatars/da0448f402c7d09b0d4981be04d2e1d195f87ba1.jpg" alt="James Bowers, Co-Founder and CTO of Vizzly" caption="James Bowers, Co-Founder & CTO — formerly of Duffel and the BBC, he later joined WPP as a Solutions Architect after the Gain Theory acqui-hire closed in Q4 2024."></media-image>
+</report-gallery>
 
 ## Founding Story
 

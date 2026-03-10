@@ -2,26 +2,17 @@
 
 ## Overview
 
-1:"$Sreact.fragment"
-2:I[39756,["/_next/static/chunks/ff1a16fafef87110.js?dpl=dpl_GwuwmMc2oZNJkz1tEEADs8shECJt","/_next/static/chunks/803a574de9eda7ae.js?dpl=dpl_GwuwmMc2oZNJkz1tEEADs8shECJt"],"default"]
-3:I[8821,["/_next/static/chunks/0d46db6cf73968fd.js?dpl=dpl_GwuwmMc2oZNJkz1tEEADs8shECJt","/_next/static/chunks/5f4dcbc1da431ca9.js?dpl=dpl_GwuwmMc2oZNJkz1tEEADs8shECJt","/_next/static/chunks/33f7e5a25c4fcd0b.js?dpl=dpl_GwuwmMc2oZNJkz1tEEADs8shECJt"],"default"]
-4:I[37457,["/_next/static/chunks/ff1a16fafef87110.js?dpl=dpl_GwuwmMc2oZNJkz1tEEADs8shECJt","/_next/static/chunks/803a574de9eda7ae.js?dpl=dpl_GwuwmMc2oZNJkz1tEEADs8shECJt"],"default"]
-5:I[22016,["/_next/static/chunks/0d46db6cf73968fd.js?dpl=dpl_GwuwmMc2oZNJkz1tEEADs8shECJt","/_next/static/chunks/39ad7020066b4868.js?dpl=dpl_GwuwmMc2oZNJkz1tEEADs8shECJt","/_next/static/chunks/33f7e5a25c4fcd0b.js?dpl=dpl_GwuwmMc2oZNJkz1tEEADs8shECJt"],""]
-6:I[2355,["/_next/static/chunks/0d46db6cf73968fd.js?dpl=dpl_GwuwmMc2oZNJkz1tEEADs8shECJt"],"Analytics"]
-11:I[68027,["/_next/static/chunks/ff1a16fafef87110.js?dpl=dpl_GwuwmMc2oZNJkz1tEEADs8shECJt","/_next/static/chunks/803a574de9eda7ae.js?dpl=dpl_GwuwmMc2oZNJkz1tEEADs8shECJt"],"default"]
-12:I[97367,["/_next/static/chunks/ff1a16fafef87110.js?dpl=dpl_GwuwmMc2oZNJkz1tEEADs8shECJt","/_next/static/chunks/803a574de9eda7ae.js?dpl=dpl_GwuwmMc2oZNJkz1tEEADs8shECJt"],"OutletBoundary"]
-13:"$Sreact.suspense"
-15:I[93539,["/_next/static/chunks/0d46db6cf73968fd.js?dpl=dpl_GwuwmMc2oZNJkz1tEEADs8shECJt","/_next/static/chunks/39ad7020066b4868.js?dpl=dpl_GwuwmMc2oZNJkz1tEEADs8shECJt","/_next/static/chunks/33f7e5a25c4fcd0b.js?dpl=dpl_GwuwmMc2oZNJkz1tEEADs8shECJt"],"ThemeToggle"]
-23:I[97367,["/_next/static/chunks/ff1a16fafef87110.js?dpl=dpl_GwuwmMc2oZNJkz1tEEADs8shECJt","/_next/static/chunks/803a574de9eda7ae.js?dpl=dpl_GwuwmMc2oZNJkz1tEEADs8shECJt"],"ViewportBoundary"]
-25:I[97367,["/_next/static/chunks/ff1a16fafef87110.js?dpl=dpl_GwuwmMc2oZNJkz1tEEADs8shECJt","/_next/static/chunks/803a574de9eda7ae.js?dpl=dpl_GwuwmMc2oZNJkz1tEEADs8shECJt"],"MetadataBoundary"]
-:HL["/_next/static/chunks/8be82ca8498e7d4a.css?dpl=dpl_GwuwmMc2oZNJkz1tEEADs8shECJt","style"]
-:HL["/_next/static/media/1b99372b3eaef0c8-s.p.758e15a8.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
-:HL["/_next/static/media/23b7a97ae3b5c134-s.p.2902b61f.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
-:HL["/_next/static/media/68d403cf9f2c68c5-s.p.f9f15f61.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
-:HL["/_next/static/media/99e609270109b47d-s.p.64b9304e.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
-:HL["/_next/static/media/a7e15459c1805da0-s.p.ec654d65.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
-:HL["/_next/static/media/ea3421846039b7f3-s.p.093205c5.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
-:HL["/_next/static/media/effe91970fc4db64-s.p.19510058.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+Heysan was a mobile instant messaging aggregator founded on January 24, 2007, by Gustaf Alstromer, Marie Brattberg, Pär Lindhe, and Michael Ossareh. <sup><a href="https://app.dealroom.co/companies/heysan">[1]</a></sup> Part of Y Combinator's Winter 2007 batch, the company built a free, ad-supported mobile app that unified MSN, Yahoo Messenger, AIM, ICQ, and Google Talk into a single interface — a technically ambitious bet that SMS and desktop IM could be bridged on the handset. <sup><a href="https://www.ycombinator.com/companies/heysan">[2]</a></sup> It relocated from New York to San Francisco after YC and raised seed capital from Khosla Ventures and Atomico. <sup><a href="https://www.ycombinator.com/companies/heysan">[3]</a></sup>
+
+The company reached over one million users and 100 million monthly pageviews, but never solved the growth problem that would have made its ad-supported model viable. <sup><a href="https://www.ycombinator.com/companies/heysan">[4]</a></sup> Its core product was structurally dependent on the openness of third-party IM networks that were simultaneously building their own mobile clients, eroding Heysan's differentiation from both sides.
+
+Good Technology acquired Heysan in May 2009 for undisclosed terms — almost certainly a modest acqui-hire rather than a product acquisition. <sup><a href="https://pitchbook.com/profiles/company/53870-50">[5]</a></sup> The outcome was a soft landing for the team, but the more consequential legacy was Gustaf Alstromer's transformation into one of the technology industry's most prominent growth practitioners, a career arc that began precisely because Heysan was a product he could not grow.
+
+<report-gallery>
+<media-image src="https://wapreview.com/images/heysan1.png" alt="Heysan mobile IM product screenshot" caption="A captured screenshot of Heysan's mobile interface circa 2008 — the aggregated IM experience that unified MSN, AIM, Yahoo, and Google Talk on a single handset, before each network built its own mobile client and made the aggregation layer redundant."></media-image>
+<media-image src="https://bookface-images.s3.amazonaws.com/avatars/ac3dd9cf7f9b9743182564696d6406ff3af34b61.jpg" alt="Heysan Y Combinator profile" caption="Heysan's listing on Y Combinator's Bookface platform — one of the few surviving digital artifacts of a company that shut down before the era of comprehensive startup documentation."></media-image>
+<media-image src="https://bookface-images.s3.amazonaws.com/avatars/04985c8393e8c390dd5be05bf4a5a658d90ebfb9.jpg" alt="Heysan YC company page" caption="The YC company page entry for Heysan, W07 — the batch that also produced a cohort of founders who would go on to define mobile and social infrastructure for the next decade."></media-image>
+</report-gallery>
 
 ## Founding Story
 

@@ -2,6 +2,17 @@
 
 ## Overview
 
+Pixelapse was a Y Combinator-backed startup (W12) that built version control and collaboration software for designers — internally described as "GitHub for designers." Founded in 2011 by Shravan Reddy and Min Ming Lo in Palo Alto, the company solved a genuine, observed workflow problem: designers had no reliable way to track changes to their files, share feedback visually, or collaborate without resorting to chaotic shared folders.Pixelapse addressed this with an automatic desktop sync tool that captured visual revision history in the cloud, requiring no technical knowledge from its users.
+
+The company grew to tens of thousands of daily active users and reached profitability before being acquired by Dropbox in January 2015.Financial terms were never disclosed.
+
+Rather than a traditional failure, Pixelapse represents an acqui-hire outcome: the technology was validated, the team was absorbed, and the product was integrated into Dropbox before being shut down as a standalone service approximately one year later.The central unanswered question is whether the business could have scaled to venture-scale returns independently — a question the acquisition made permanently moot.
+
+<report-gallery>
+<media-image src="https://www.macitynet.it/wp-content/uploads/2014/10/pixelapse-share-006d7e5e593d7afc935d1353764ef441-480x435.png" alt="Pixelapse collaboration interface showing visual file sharing" caption="Pixelapse's cloud collaboration interface, circa 2014 — the product that convinced Dropbox to write a check. Designers could share visual feedback without touching a command line, the core promise that drew tens of thousands of daily users before the acquisition quietly ended it as a standalone tool."></media-image>
+<media-image src="https://mac-cdn.softpedia.com/screenshots/Pixelapse_2.png" alt="Pixelapse desktop application screenshot on Mac" caption="The Pixelapse Mac desktop client — the 'invisible' sync tool that automatically captured revision history in the background. No Git commands, no technical overhead. Just a timelapse of every pixel changed, which was exactly the point."></media-image>
+</report-gallery>
+
 ## Founding Story
 
 The idea for Pixelapse did not emerge from market research or competitive analysis. It came from direct observation of a broken workflow.
@@ -213,8 +224,8 @@ LayerVault, Pixelapse's most direct competitor, shut down as a standalone produc
 5. [Pixelapse Blog — Pixelapse + Dropbox Announcement (January 26, 2015)](https://blog.pixelapse.com/post/109225261685/pixelapse-dropbox)
 6. [Pear VC — Shravan Reddy Team Page](https://pear.vc/team/shravan-reddy/)
 7. [Pixelapse Blog — Shutdown / Migration Page](https://blog.pixelapse.com/#_=_)
-8. [Hacker News — Pixelapse (YC W12): GitHub-Style Sharing and Version Control For Design Projects](https://news.ycombinator.com/item?id=5215600)32:T4f3,By 2026, Pixelapse returns as a Figma-native version intelligence layer for design teams at B2B SaaS companies. It automatically indexes every design change across Figma workspaces, generates AI-powered semantic diffs that explain *what* changed and *why*, and creates shareable review links that let stakeholders and engineers see exactly which pixels moved. The product lives in the Figma plugin ecosystem—no desktop client, no friction, no learning curve.
+8. [Hacker News — Pixelapse (YC W12): GitHub-Style Sharing and Version Control For Design Projects](https://news.ycombinator.com/item?id=5215600)33:T4f3,By 2026, Pixelapse returns as a Figma-native version intelligence layer for design teams at B2B SaaS companies. It automatically indexes every design change across Figma workspaces, generates AI-powered semantic diffs that explain *what* changed and *why*, and creates shareable review links that let stakeholders and engineers see exactly which pixels moved. The product lives in the Figma plugin ecosystem—no desktop client, no friction, no learning curve.
 
 The viability shift is Figma's public API maturity. In 2013, designers had no standardized file format; today, Figma's REST API and image export capabilities make it possible to build semantic version intelligence as a thin, cloud-native layer. Figma's own changelog feature has 4.2-star ratings with thousands of requests for automatic version naming and structured change summaries—demand Figma itself won't solve.
 
-Distribution is the Figma Plugin Marketplace (10M+ users). The go-to-market is a free plugin that generates one AI summary per week, converting free users to paid teams ($49/month) once they need unlimited diffs and cross-tool Adobe CC integration. Win by being the tool Figma teams install first when they realize their native version history doesn't tell them *why* a design changed.33:Ta37,
+Distribution is the Figma Plugin Marketplace (10M+ users). The go-to-market is a free plugin that generates one AI summary per week, converting free users to paid teams ($49/month) once they need unlimited diffs and cross-tool Adobe CC integration. Win by being the tool Figma teams install first when they realize their native version history doesn't tell them *why* a design changed.34:Ta37,

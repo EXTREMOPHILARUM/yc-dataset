@@ -2,26 +2,14 @@
 
 ## Overview
 
-1:"$Sreact.fragment"
-2:I[39756,["/_next/static/chunks/ff1a16fafef87110.js?dpl=dpl_GwuwmMc2oZNJkz1tEEADs8shECJt","/_next/static/chunks/803a574de9eda7ae.js?dpl=dpl_GwuwmMc2oZNJkz1tEEADs8shECJt"],"default"]
-3:I[8821,["/_next/static/chunks/0d46db6cf73968fd.js?dpl=dpl_GwuwmMc2oZNJkz1tEEADs8shECJt","/_next/static/chunks/5f4dcbc1da431ca9.js?dpl=dpl_GwuwmMc2oZNJkz1tEEADs8shECJt","/_next/static/chunks/33f7e5a25c4fcd0b.js?dpl=dpl_GwuwmMc2oZNJkz1tEEADs8shECJt"],"default"]
-4:I[37457,["/_next/static/chunks/ff1a16fafef87110.js?dpl=dpl_GwuwmMc2oZNJkz1tEEADs8shECJt","/_next/static/chunks/803a574de9eda7ae.js?dpl=dpl_GwuwmMc2oZNJkz1tEEADs8shECJt"],"default"]
-5:I[22016,["/_next/static/chunks/0d46db6cf73968fd.js?dpl=dpl_GwuwmMc2oZNJkz1tEEADs8shECJt","/_next/static/chunks/39ad7020066b4868.js?dpl=dpl_GwuwmMc2oZNJkz1tEEADs8shECJt","/_next/static/chunks/33f7e5a25c4fcd0b.js?dpl=dpl_GwuwmMc2oZNJkz1tEEADs8shECJt"],""]
-6:I[2355,["/_next/static/chunks/0d46db6cf73968fd.js?dpl=dpl_GwuwmMc2oZNJkz1tEEADs8shECJt"],"Analytics"]
-11:I[68027,["/_next/static/chunks/ff1a16fafef87110.js?dpl=dpl_GwuwmMc2oZNJkz1tEEADs8shECJt","/_next/static/chunks/803a574de9eda7ae.js?dpl=dpl_GwuwmMc2oZNJkz1tEEADs8shECJt"],"default"]
-12:I[97367,["/_next/static/chunks/ff1a16fafef87110.js?dpl=dpl_GwuwmMc2oZNJkz1tEEADs8shECJt","/_next/static/chunks/803a574de9eda7ae.js?dpl=dpl_GwuwmMc2oZNJkz1tEEADs8shECJt"],"OutletBoundary"]
-13:"$Sreact.suspense"
-15:I[93539,["/_next/static/chunks/0d46db6cf73968fd.js?dpl=dpl_GwuwmMc2oZNJkz1tEEADs8shECJt","/_next/static/chunks/39ad7020066b4868.js?dpl=dpl_GwuwmMc2oZNJkz1tEEADs8shECJt","/_next/static/chunks/33f7e5a25c4fcd0b.js?dpl=dpl_GwuwmMc2oZNJkz1tEEADs8shECJt"],"ThemeToggle"]
-23:I[97367,["/_next/static/chunks/ff1a16fafef87110.js?dpl=dpl_GwuwmMc2oZNJkz1tEEADs8shECJt","/_next/static/chunks/803a574de9eda7ae.js?dpl=dpl_GwuwmMc2oZNJkz1tEEADs8shECJt"],"ViewportBoundary"]
-25:I[97367,["/_next/static/chunks/ff1a16fafef87110.js?dpl=dpl_GwuwmMc2oZNJkz1tEEADs8shECJt","/_next/static/chunks/803a574de9eda7ae.js?dpl=dpl_GwuwmMc2oZNJkz1tEEADs8shECJt"],"MetadataBoundary"]
-:HL["/_next/static/chunks/8be82ca8498e7d4a.css?dpl=dpl_GwuwmMc2oZNJkz1tEEADs8shECJt","style"]
-:HL["/_next/static/media/1b99372b3eaef0c8-s.p.758e15a8.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
-:HL["/_next/static/media/23b7a97ae3b5c134-s.p.2902b61f.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
-:HL["/_next/static/media/68d403cf9f2c68c5-s.p.f9f15f61.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
-:HL["/_next/static/media/99e609270109b47d-s.p.64b9304e.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
-:HL["/_next/static/media/a7e15459c1805da0-s.p.ec654d65.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
-:HL["/_next/static/media/ea3421846039b7f3-s.p.093205c5.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
-:HL["/_next/static/media/effe91970fc4db64-s.p.19510058.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+The Muse launched in 2011 as a values-driven alternative to legacy job boards, betting that job seekers would pay a premium — in attention and loyalty — for transparent, behind-the-scenes views of company culture before applying. The company built genuine product differentiation through rich visual employer profiles, accumulated 75 million annual users at its peak, and attracted clients across 10% of the Fortune 500. <sup><a href="https://www.prnewswire.com/news-releases/the-muse-acquires-fairygodboss-the-largest-online-career-community-for-women-301646577.html">[1]</a></sup> <sup><a href="https://www.prnewswire.com/news-releases/the-muse-announces-8-million-investment-led-by-mbm-capital-for-future-of-work-consolidation-play-301628964.html">[2]</a></sup> Yet after 14 years, four acquisitions, and at least $45 million in disclosed funding, the company never translated that audience into a sustainable revenue engine. <sup><a href="https://tracxn.com/d/companies/the-muse/__lD5yRARE1xHIaiDmacAYnHLAwxGaEUhixKkoAdwoX6k">[3]</a></sup> In September 2025, the engineering team was let go, the president stepped down, and Y Combinator listed the company as "Inactive" — the quiet end of a business that proved audience scale and business model viability are entirely separate problems. <sup><a href="https://www.ycombinator.com/companies/the-muse">[4]</a></sup> <sup><a href="https://www.jobboarddoctor.com/2025/09/26/the-muse-acquired-indeed-hits-all-agencies/">[5]</a></sup>
+
+---
+
+<report-gallery>
+<media-image src="https://techcrunch.com/wp-content/uploads/2015/05/the-muse-screenshot.png" alt="The Muse product screenshot showing company profiles and job listings" caption="The Muse's signature product circa 2015 — photo-rich company profiles that promised job seekers a behind-the-scenes look at workplace culture before ever submitting a résumé. The visual format was the company's core bet: that transparency would win loyalty. It won 75 million annual users. It never quite won a sustainable business model."></media-image>
+<media-image src="https://aimgroup.com/wp-content/uploads/2023/09/1692636955751.jpg" alt="The Muse co-founder Minshew steps down as CEO - AIM Group" caption="The beginning of the end: Kathryn Minshew's departure as CEO in 2023, covered by the AIM Group, marked a turning point for the company she had built from a Brooklyn content startup into a platform serving 10% of the Fortune 500. Two years later, the engineering team would be let go and Y Combinator would quietly list The Muse as 'Inactive.'"></media-image>
+</report-gallery>
 
 ## Founding Story
 

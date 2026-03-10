@@ -6,7 +6,7 @@ Enflux was a Chicago-based smart apparel startup (2012–2020) that embedded ten
 
 The rebuild thesis is not to repeat the hardware bet. Camera-based AI pose estimation and CMS reimbursement codes for remote therapeutic monitoring (RTM) have together created a path that Enflux never had: a software-first motion coaching product with near-zero COGS, sold into physical therapy clinics as a billable clinical tool, that can expand into consumer fitness once the revenue base funds hardware optionality. **The new Enflux is a software platform that turns any smartphone camera into a clinical-grade movement coach — and gets paid by insurers to do it.**
 
----33:Ta88,
+---34:Ta88,
 
 ## Why Now?
 

@@ -2,28 +2,21 @@
 
 ## Overview
 
-1:"$Sreact.fragment"
-2:I[39756,["/_next/static/chunks/ff1a16fafef87110.js?dpl=dpl_GwuwmMc2oZNJkz1tEEADs8shECJt","/_next/static/chunks/803a574de9eda7ae.js?dpl=dpl_GwuwmMc2oZNJkz1tEEADs8shECJt"],"default"]
-3:I[8821,["/_next/static/chunks/0d46db6cf73968fd.js?dpl=dpl_GwuwmMc2oZNJkz1tEEADs8shECJt","/_next/static/chunks/5f4dcbc1da431ca9.js?dpl=dpl_GwuwmMc2oZNJkz1tEEADs8shECJt","/_next/static/chunks/33f7e5a25c4fcd0b.js?dpl=dpl_GwuwmMc2oZNJkz1tEEADs8shECJt"],"default"]
-4:I[37457,["/_next/static/chunks/ff1a16fafef87110.js?dpl=dpl_GwuwmMc2oZNJkz1tEEADs8shECJt","/_next/static/chunks/803a574de9eda7ae.js?dpl=dpl_GwuwmMc2oZNJkz1tEEADs8shECJt"],"default"]
-5:I[22016,["/_next/static/chunks/0d46db6cf73968fd.js?dpl=dpl_GwuwmMc2oZNJkz1tEEADs8shECJt","/_next/static/chunks/39ad7020066b4868.js?dpl=dpl_GwuwmMc2oZNJkz1tEEADs8shECJt","/_next/static/chunks/33f7e5a25c4fcd0b.js?dpl=dpl_GwuwmMc2oZNJkz1tEEADs8shECJt"],""]
-6:I[2355,["/_next/static/chunks/0d46db6cf73968fd.js?dpl=dpl_GwuwmMc2oZNJkz1tEEADs8shECJt"],"Analytics"]
-11:I[68027,["/_next/static/chunks/ff1a16fafef87110.js?dpl=dpl_GwuwmMc2oZNJkz1tEEADs8shECJt","/_next/static/chunks/803a574de9eda7ae.js?dpl=dpl_GwuwmMc2oZNJkz1tEEADs8shECJt"],"default"]
-12:I[97367,["/_next/static/chunks/ff1a16fafef87110.js?dpl=dpl_GwuwmMc2oZNJkz1tEEADs8shECJt","/_next/static/chunks/803a574de9eda7ae.js?dpl=dpl_GwuwmMc2oZNJkz1tEEADs8shECJt"],"OutletBoundary"]
-13:"$Sreact.suspense"
-15:I[93539,["/_next/static/chunks/0d46db6cf73968fd.js?dpl=dpl_GwuwmMc2oZNJkz1tEEADs8shECJt","/_next/static/chunks/39ad7020066b4868.js?dpl=dpl_GwuwmMc2oZNJkz1tEEADs8shECJt","/_next/static/chunks/33f7e5a25c4fcd0b.js?dpl=dpl_GwuwmMc2oZNJkz1tEEADs8shECJt"],"ThemeToggle"]
-23:I[97367,["/_next/static/chunks/ff1a16fafef87110.js?dpl=dpl_GwuwmMc2oZNJkz1tEEADs8shECJt","/_next/static/chunks/803a574de9eda7ae.js?dpl=dpl_GwuwmMc2oZNJkz1tEEADs8shECJt"],"ViewportBoundary"]
-25:I[97367,["/_next/static/chunks/ff1a16fafef87110.js?dpl=dpl_GwuwmMc2oZNJkz1tEEADs8shECJt","/_next/static/chunks/803a574de9eda7ae.js?dpl=dpl_GwuwmMc2oZNJkz1tEEADs8shECJt"],"MetadataBoundary"]
-:HL["/_next/static/chunks/8be82ca8498e7d4a.css?dpl=dpl_GwuwmMc2oZNJkz1tEEADs8shECJt","style"]
-:HL["/_next/static/media/1b99372b3eaef0c8-s.p.758e15a8.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
-:HL["/_next/static/media/23b7a97ae3b5c134-s.p.2902b61f.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
-:HL["/_next/static/media/68d403cf9f2c68c5-s.p.f9f15f61.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
-:HL["/_next/static/media/99e609270109b47d-s.p.64b9304e.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
-:HL["/_next/static/media/a7e15459c1805da0-s.p.ec654d65.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
-:HL["/_next/static/media/ea3421846039b7f3-s.p.093205c5.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
-:HL["/_next/static/media/effe91970fc4db64-s.p.19510058.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
-
 ## Founding Story
+
+Catherine Hrdy came to Allo through a combination of elite academic credentials and a deeply personal experience of the problem she was trying to solve. She studied at Harvard University and earned her MBA from UC Berkeley's Haas School of Business, then built her professional career in enterprise software at athenahealth and TIBCO — companies known for complex, data-intensive platforms serving large institutional clients.<sup><a href="https://www.crunchbase.com/person/catherine-hrdy">[3]</a></sup><sup><a href="https://rocketreach.co/catherine-hrdy-email_92815426">[4]</a></sup> Neither role was in consumer social products or community-building, which made Allo a significant departure from her prior work.
+
+The founding insight was not drawn from a market analysis but from lived experience. As a new mother, Hrdy encountered firsthand the friction of coordinating practical support among nearby families — the logistical difficulty of finding a neighbor to watch a child for an hour, or arranging a carpool with parents whose kids attended the same school.<sup><a href="https://blog.ycombinator.com/17-companies-from-the-yc-w19-batch-part-4/">[5]</a></sup> This gave the company authentic problem-market fit at the individual level: the founder was the user, and the pain was real.
+
+The YC batch announcement captured her framing directly: Allo was "building neighborhoods that work for families," with the tagline "The modern family deserves a modern village."<sup><a href="https://blog.ycombinator.com/17-companies-from-the-yc-w19-batch-part-4/">[6]</a></sup> The phrase "modern village" is deliberate — it acknowledges that the informal support networks that once existed organically in stable, multigenerational communities have eroded for mobile, dual-income millennial families, and positions Allo as the technological replacement.
+
+The founding date is ambiguous. PitchBook records 2017 as the founding year, while Easyleadz records 2018 — a discrepancy that suggests the idea may have been incubated informally for one to two years before the YC application formalized it in early 2019.<sup><a href="https://www.easyleadz.com/people/catherine-hrdy-9649875">[7]</a></sup>
+
+Hrdy is listed as the sole founder on YC's directory, but the company had two employees total.<sup><a href="https://www.ycombinator.com/companies/allo">[8]</a></sup> Crunchbase identifies John Ababseh as an iOS developer at Allo — the only non-founder employee profile on record.<sup><a href="https://www.crunchbase.com/organization/allo">[9]</a></sup> Whether Ababseh was a co-founder, a contractor, or a full-time hire is not documented. This ambiguity around the team's composition is one of several gaps in the public record.
+
+Allo was flagged by Crunchbase as both Women Founded and Women Led — a demographic detail that, in the context of a product targeting mothers and families, may have informed both the product's design sensibility and its go-to-market approach.<sup><a href="https://www.crunchbase.com/organization/allo">[10]</a></sup>
+
+---
 
 ## Timeline
 
@@ -34,7 +27,7 @@
 - **March 22, 2019:** Allo presents at YC W19 Demo Day; TechCrunch describes it as "a marketplace where parents can exchange babysitting and errand-running"<sup>[[14]](https://techcrunch.com/2019/03/22/top-yc-startups/)</sup>
 - **2019 (exact date unknown):** Allo winds down; no follow-on funding raised, no acquisition recorded; Catherine Hrdy's LinkedIn shows Allo tenure ending in 2019<sup>[[15]](https://www.linkedin.com/in/catherinehrdy/)</sup>
 
----2c:Te04,
+---2b:Te04,
 
 ## What They Built
 
@@ -68,7 +61,7 @@ Allo's business model at the time of shutdown was not publicly documented. The p
 
 The most plausible monetization paths for a product like Allo — subscription fees for premium features, sponsored placements for family-oriented businesses, or a freemium model with enhanced discovery tools — were never publicly articulated. At the time of Demo Day in March 2019, the company was almost certainly pre-revenue, focused on user growth rather than monetization.<sup><a href="https://techcrunch.com/2019/03/22/top-yc-startups/">[14]</a></sup> The absence of a clear revenue model, combined with the non-transactional nature of the core product, would have made the path to sustainable unit economics difficult to articulate to investors evaluating the company post-Demo Day.
 
----2f:T5ab,
+---2e:T5ab,
 
 ## Traction
 
@@ -129,8 +122,8 @@ The Microsoft Store presence is a minor but telling detail. Building and maintai
 9. [TechCrunch – Top YC Startups, March 22 2019](https://techcrunch.com/2019/03/22/top-yc-startups/)
 10. [CB Insights – Allo Financials](https://www.cbinsights.com/company/allo/financials)
 11. [PitchBook – Allo Company Profile](https://pitchbook.com/profiles/company/265245-13)
-12. [LinkedIn – Catherine Hrdy](https://www.linkedin.com/in/catherinehrdy/)33:T500,By 2026, Allo is a school-network-native coordination tool for elementary parents—not a broad neighborhood app, but a tight, verified community within a single school's parent base. The product solves one problem obsessively: matching parents who need practical help (carpool coverage, last-minute pickup, meal swaps) with parents who can provide it, all within a trust boundary that actually works.
+12. [LinkedIn – Catherine Hrdy](https://www.linkedin.com/in/catherinehrdy/)32:T500,By 2026, Allo is a school-network-native coordination tool for elementary parents—not a broad neighborhood app, but a tight, verified community within a single school's parent base. The product solves one problem obsessively: matching parents who need practical help (carpool coverage, last-minute pickup, meal swaps) with parents who can provide it, all within a trust boundary that actually works.
 
 The viability shift is AI-powered request matching. In 2019, Allo required manual browsing and messaging—friction that killed adoption in sparse networks. Now, parents post requests in natural language ("need pickup Tuesday 3pm, can babysit Friday evening"), and GPT-4o instantly surfaces compatible matches with transparent reciprocity tracking. The cold-start problem dissolves when matching is frictionless enough to work even with 50 active parents, not 5,000.
 
-The go-to-market is PTO partnerships at target schools—10 to 15 schools per metro, starting in Austin. Schools provide the trust gate (verified parent directory) and distribution (PTO email). Parents get a free, ad-free, family-only tool that actually reduces their logistics burden. Allo wins by being boring, practical, and genuinely useful within a bounded community—the opposite of social-feed sprawl.34:T881,
+The go-to-market is PTO partnerships at target schools—10 to 15 schools per metro, starting in Austin. Schools provide the trust gate (verified parent directory) and distribution (PTO email). Parents get a free, ad-free, family-only tool that actually reduces their logistics burden. Allo wins by being boring, practical, and genuinely useful within a bounded community—the opposite of social-feed sprawl.33:T881,

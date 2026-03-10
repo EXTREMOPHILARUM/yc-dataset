@@ -6,7 +6,7 @@ By 2026, 20n is a cloud-native AI platform that turns target molecules into vali
 
 The viability shift is structural: AlphaFold solved protein structure prediction, making enzymatic pathway design computationally tractable. Simultaneously, cloud lab APIs (Emerald, Strateos) eliminated the need for in-house fermentation. The original 20n died waiting for industrial biotech to move at software speed. This version wins by removing that friction—validation happens in parallel, not sequentially, compressing the sales cycle from 18 months to 90 days.
 
-The go-to-market is direct: land one mid-market customer with a high-value molecule, prove 70% pathway success rates in cloud validation, and expand into their ingredient roadmap. Undercut Ginkgo on speed and capital efficiency while staying focused enough to own the "fast pathway discovery" niche before the incumbents build it themselves.34:T87a,
+The go-to-market is direct: land one mid-market customer with a high-value molecule, prove 70% pathway success rates in cloud validation, and expand into their ingredient roadmap. Undercut Ginkgo on speed and capital efficiency while staying focused enough to own the "fast pathway discovery" niche before the incumbents build it themselves.33:T87a,
 
 ## Why Now?
 

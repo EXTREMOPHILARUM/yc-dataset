@@ -6,7 +6,7 @@ By 2026, Allure rebuilds as a Shopify-native app for mid-market apparel brands (
 
 The viability shift is simple: generative models are now commodity infrastructure. What was proprietary in 2021 is API-accessible in 2025. The real moat is workflow—embedding generation into the merchant's existing Shopify pipeline so it becomes as frictionless as uploading a SKU. Competitors building standalone tools or enterprise platforms will always require sales cycles and custom integration. Allure wins by being already there.
 
-Go-to-market is the Shopify App Store. Four million merchants, zero outbound sales cost, and a pricing model ($49–$399/month, consumption-based) that aligns with merchant growth. The measurable win condition: 10% conversion rate lift, visible in Shopify analytics within 60 days of activation. That's not a feature claim—it's a retention engine.34:T7f7,
+Go-to-market is the Shopify App Store. Four million merchants, zero outbound sales cost, and a pricing model ($49–$399/month, consumption-based) that aligns with merchant growth. The measurable win condition: 10% conversion rate lift, visible in Shopify analytics within 60 days of activation. That's not a feature claim—it's a retention engine.33:T7f7,
 
 ## Why Now?
 

@@ -317,10 +317,30 @@ def _build_rsc_text_map(decoded_chunks: list[str]) -> dict[str, str]:
     """
     text_map = {}
     pending_key = None
-    first_text_captured = False
 
+    # Two-pass approach:
+    # Pass 1: find the index of the first T-header
+    first_t_idx = None
+    for i, chunk in enumerate(decoded_chunks):
+        if re.match(r'^[0-9a-f]+:T[0-9a-f]+,', chunk):
+            first_t_idx = i
+            break
+
+    # The Overview chunk (key "29") is the last bare prose chunk before the
+    # first T-header. Scan backwards from first_t_idx to find it.
+    if first_t_idx is not None:
+        for i in range(first_t_idx - 1, -1, -1):
+            chunk = decoded_chunks[i]
+            # Must be substantial prose, not framework/component code
+            if (len(chunk) > 100
+                and not re.match(r'^(\d+:|\[|I\[|[0-9a-f]+:)', chunk)
+                and "className" not in chunk[:200]
+                and "react." not in chunk[:200]):
+                text_map["29"] = chunk
+                break
+
+    # Pass 2: process T-header chunks and their following text
     for chunk in decoded_chunks:
-        # Check if this is a T-header: "2a:Td5c," or "2a:Td5c,<inline content>"
         m = re.match(r'^([0-9a-f]+):T([0-9a-f]+),(.*)', chunk, re.DOTALL)
         if m:
             key = m.group(1)
@@ -332,19 +352,10 @@ def _build_rsc_text_map(decoded_chunks: list[str]) -> dict[str, str]:
                 pending_key = key
             continue
 
-        # If we have a pending key, this chunk is the text for it
         if pending_key is not None:
             text_map[pending_key] = chunk
             pending_key = None
             continue
-
-        # First substantial prose chunk before any T-header -> key "29"
-        # (This is the Overview section content for the first $ref)
-        if not first_text_captured and len(chunk) > 200:
-            # Skip framework chunks
-            if not chunk.startswith(("{", "[", "I[")) and "className" not in chunk[:200]:
-                text_map["29"] = chunk
-                first_text_captured = True
 
     return text_map
 

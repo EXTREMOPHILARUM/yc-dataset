@@ -8,26 +8,19 @@ Cache raised only the standard $125,000 YC pre-seed and never closed a follow-on
 
 ## Founding Story
 
-1:"$Sreact.fragment"
-2:I[39756,["/_next/static/chunks/ff1a16fafef87110.js?dpl=dpl_GwuwmMc2oZNJkz1tEEADs8shECJt","/_next/static/chunks/803a574de9eda7ae.js?dpl=dpl_GwuwmMc2oZNJkz1tEEADs8shECJt"],"default"]
-3:I[8821,["/_next/static/chunks/0d46db6cf73968fd.js?dpl=dpl_GwuwmMc2oZNJkz1tEEADs8shECJt","/_next/static/chunks/5f4dcbc1da431ca9.js?dpl=dpl_GwuwmMc2oZNJkz1tEEADs8shECJt","/_next/static/chunks/33f7e5a25c4fcd0b.js?dpl=dpl_GwuwmMc2oZNJkz1tEEADs8shECJt"],"default"]
-4:I[37457,["/_next/static/chunks/ff1a16fafef87110.js?dpl=dpl_GwuwmMc2oZNJkz1tEEADs8shECJt","/_next/static/chunks/803a574de9eda7ae.js?dpl=dpl_GwuwmMc2oZNJkz1tEEADs8shECJt"],"default"]
-5:I[22016,["/_next/static/chunks/0d46db6cf73968fd.js?dpl=dpl_GwuwmMc2oZNJkz1tEEADs8shECJt","/_next/static/chunks/39ad7020066b4868.js?dpl=dpl_GwuwmMc2oZNJkz1tEEADs8shECJt","/_next/static/chunks/33f7e5a25c4fcd0b.js?dpl=dpl_GwuwmMc2oZNJkz1tEEADs8shECJt"],""]
-6:I[2355,["/_next/static/chunks/0d46db6cf73968fd.js?dpl=dpl_GwuwmMc2oZNJkz1tEEADs8shECJt"],"Analytics"]
-11:I[68027,["/_next/static/chunks/ff1a16fafef87110.js?dpl=dpl_GwuwmMc2oZNJkz1tEEADs8shECJt","/_next/static/chunks/803a574de9eda7ae.js?dpl=dpl_GwuwmMc2oZNJkz1tEEADs8shECJt"],"default"]
-12:I[97367,["/_next/static/chunks/ff1a16fafef87110.js?dpl=dpl_GwuwmMc2oZNJkz1tEEADs8shECJt","/_next/static/chunks/803a574de9eda7ae.js?dpl=dpl_GwuwmMc2oZNJkz1tEEADs8shECJt"],"OutletBoundary"]
-13:"$Sreact.suspense"
-15:I[93539,["/_next/static/chunks/0d46db6cf73968fd.js?dpl=dpl_GwuwmMc2oZNJkz1tEEADs8shECJt","/_next/static/chunks/39ad7020066b4868.js?dpl=dpl_GwuwmMc2oZNJkz1tEEADs8shECJt","/_next/static/chunks/33f7e5a25c4fcd0b.js?dpl=dpl_GwuwmMc2oZNJkz1tEEADs8shECJt"],"ThemeToggle"]
-23:I[97367,["/_next/static/chunks/ff1a16fafef87110.js?dpl=dpl_GwuwmMc2oZNJkz1tEEADs8shECJt","/_next/static/chunks/803a574de9eda7ae.js?dpl=dpl_GwuwmMc2oZNJkz1tEEADs8shECJt"],"ViewportBoundary"]
-25:I[97367,["/_next/static/chunks/ff1a16fafef87110.js?dpl=dpl_GwuwmMc2oZNJkz1tEEADs8shECJt","/_next/static/chunks/803a574de9eda7ae.js?dpl=dpl_GwuwmMc2oZNJkz1tEEADs8shECJt"],"MetadataBoundary"]
-:HL["/_next/static/chunks/8be82ca8498e7d4a.css?dpl=dpl_GwuwmMc2oZNJkz1tEEADs8shECJt","style"]
-:HL["/_next/static/media/1b99372b3eaef0c8-s.p.758e15a8.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
-:HL["/_next/static/media/23b7a97ae3b5c134-s.p.2902b61f.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
-:HL["/_next/static/media/68d403cf9f2c68c5-s.p.f9f15f61.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
-:HL["/_next/static/media/99e609270109b47d-s.p.64b9304e.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
-:HL["/_next/static/media/a7e15459c1805da0-s.p.ec654d65.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
-:HL["/_next/static/media/ea3421846039b7f3-s.p.093205c5.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
-:HL["/_next/static/media/effe91970fc4db64-s.p.19510058.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+Cache was founded in August 2021 by Christopher Wu and Jimmy Young, two former DoorDash employees who met through their overlapping work in the delivery economy. Their shared employer gave them an unusually direct view into the structural economics of dark stores and delivery platforms — knowledge that became the foundation of Cache's thesis.
+
+Wu had led business development for Ghost Kitchens at DoorDash, a role that put him at the intersection of real estate, operations, and platform economics for delivery-only restaurant concepts. Before DoorDash, he managed a ride type at Lyft and worked in operations and compliance at Funding Circle. Young's background was on the product side: he had served as product lead for DashPass and Affordability at DoorDash, giving him direct exposure to subscription delivery economics and consumer price sensitivity. Before DoorDash, he had held product roles at Lyft, Twitch, and Freelancer.com, and studied computer science and chemical engineering at the University of Sydney. <sup><a href="https://www.ycombinator.com/companies/cache">[1]</a></sup>
+
+The insight that drove Cache was straightforward: the dark store model pioneered by GoPuff and DashMart worked in dense urban cores but broke down economically in suburban markets. Facilities cost over $1 million to build out, and labor ran $50,000 or more per month — costs that required order density that suburbs couldn't provide. <sup><a href="https://yetanotherstartup.com/p/cache">[2]</a></sup> Wu and Young believed that a radically smaller, fully automated unit — one that could be installed in an hour and required no staff — could serve those markets profitably.
+
+In August 2021, Young announced the company publicly: "Proud to announce Christopher Wu & I have officially founded Cache (grabcache.com) and are backed by Y Combinator!" <sup><a href="https://www.linkedin.com/posts/jimmyyoungsydney_cache-automated-delivery-first-convenience-activity-6828747289419505664-MCi1">[3]</a></sup> The announcement also contained an early signal of the difficulty ahead: "Starting a company is the hardest thing we've ever done. Huge respect to all founders." <sup><a href="https://www.linkedin.com/posts/jimmyyoungsydney_cache-automated-delivery-first-convenience-activity-6828747289419505664-MCi1">[3]</a></sup>
+
+Cache was accepted into YC's Summer 2021 batch, providing initial validation and $125,000 in pre-seed capital. <sup><a href="https://www.crunchbase.com/organization/cache-0d59">[4]</a></sup> The company was headquartered in San Francisco and, as far as public records indicate, never grew beyond its two founders. <sup><a href="https://www.ycombinator.com/companies/cache">[1]</a></sup>
+
+No public information is available on whether the founders had prior hardware or manufacturing experience relevant to building the Cache Units, or how they divided technical versus business responsibilities.
+
+---
 
 ## Timeline
 

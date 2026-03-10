@@ -2,6 +2,17 @@
 
 ## Overview
 
+Honeydue was a couples-focused personal finance app built by Eugene Park and Thien Tran, incorporated as WalletIQ, Inc. and operating from 2016 to 2021. The app let partners link their individual bank accounts, share balances and transaction history, set joint spending limits, and communicate about money — all in one place. It launched on iOS in January 2017, expanded to Android in March 2017, and eventually supported over 20,000 financial institutions across six countries in three languages.<sup><a href="https://www.businesswire.com/news/home/20210524005130/en/Mission-Lane-Acquires-Honeydue-to-Expand-Debit-and-Digital-Banking-Capabilities">[1]</a></sup>
+
+Honeydue found a real audience — 500,000 registered users, Apple and Google editorial recognition, and a user base that skewed 60% female in a category historically dominated by male users. But the product was free, monetized only through in-app ads and voluntary tips of $1–$10 per month, and the company raised just $120,000 from Y Combinator — its only institutional funding round.<sup><a href="https://tracxn.com/d/companies/honeydue/__fTO6sYPSc2ZUR6qZs2iTp7GMImdNEecnzvkMZh77inw">[2]</a></sup> The monetization model could not generate the revenue needed to sustain growth or attract a Series A, trapping a well-loved product in a slow decline.
+
+Mission Lane acquired Honeydue on May 24, 2021 for undisclosed terms — a signal, in the absence of disclosed financials, of a below-market acqui-hire rather than a strategic premium exit. Park joined Mission Lane as Head of Product for its Mission Money debit card, not to run Honeydue. The product was subsequently deprioritized, its debit card program discontinued in September 2023, and the app divested into a new entity, Moneydue, Inc., in 2024.<sup><a href="https://www.honeydue.com/about">[3]</a></sup>
+
+<report-gallery>
+<media-image src="https://wealthpursuits.com/wp-content/uploads/2021/11/Honeydue-How-it-Works-300x140.png" alt="Honeydue app interface showing couples finance features" caption="Honeydue's core UI — shared account balances, spending categories, and couple messaging in a single view. The product earned editorial recognition from Apple and Google, but the free-plus-tips model meant that user love never translated into revenue."></media-image>
+<media-image src="https://www.wsj.com/buyside/content-images/699a64cf-9b28-4f53-af01-4b8a57ee01b7?width=343&height=193&pixel_ratio=1&size=hero_343x193" alt="Honeydue Budgeting App Review - WSJ Buy Side" caption="Honeydue continued to receive press coverage and positive reviews well into 2021 — even as the company was quietly running out of runway and preparing for an exit to Mission Lane."></media-image>
+</report-gallery>
+
 ## Founding Story
 
 Eugene Park and Thien Tran were not strangers when they started Honeydue. The two had attended the same high school and college simultaneously and had already built one startup together before turning their attention to personal finance.<sup><a href="https://www.wayup.com/i-Consumer-Services-j-Operations-Intern-20-hr-Honeydue-447515372050706/">[4]</a></sup> That prior collaboration gave them a working relationship most co-founders spend years developing — a meaningful structural advantage for a two-person team attempting to build a regulated fintech product.

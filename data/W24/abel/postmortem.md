@@ -2,26 +2,21 @@
 
 ## Overview
 
-1:"$Sreact.fragment"
-2:I[39756,["/_next/static/chunks/ff1a16fafef87110.js?dpl=dpl_GwuwmMc2oZNJkz1tEEADs8shECJt","/_next/static/chunks/803a574de9eda7ae.js?dpl=dpl_GwuwmMc2oZNJkz1tEEADs8shECJt"],"default"]
-3:I[8821,["/_next/static/chunks/0d46db6cf73968fd.js?dpl=dpl_GwuwmMc2oZNJkz1tEEADs8shECJt","/_next/static/chunks/5f4dcbc1da431ca9.js?dpl=dpl_GwuwmMc2oZNJkz1tEEADs8shECJt","/_next/static/chunks/33f7e5a25c4fcd0b.js?dpl=dpl_GwuwmMc2oZNJkz1tEEADs8shECJt"],"default"]
-4:I[37457,["/_next/static/chunks/ff1a16fafef87110.js?dpl=dpl_GwuwmMc2oZNJkz1tEEADs8shECJt","/_next/static/chunks/803a574de9eda7ae.js?dpl=dpl_GwuwmMc2oZNJkz1tEEADs8shECJt"],"default"]
-5:I[22016,["/_next/static/chunks/0d46db6cf73968fd.js?dpl=dpl_GwuwmMc2oZNJkz1tEEADs8shECJt","/_next/static/chunks/39ad7020066b4868.js?dpl=dpl_GwuwmMc2oZNJkz1tEEADs8shECJt","/_next/static/chunks/33f7e5a25c4fcd0b.js?dpl=dpl_GwuwmMc2oZNJkz1tEEADs8shECJt"],""]
-6:I[2355,["/_next/static/chunks/0d46db6cf73968fd.js?dpl=dpl_GwuwmMc2oZNJkz1tEEADs8shECJt"],"Analytics"]
-11:I[68027,["/_next/static/chunks/ff1a16fafef87110.js?dpl=dpl_GwuwmMc2oZNJkz1tEEADs8shECJt","/_next/static/chunks/803a574de9eda7ae.js?dpl=dpl_GwuwmMc2oZNJkz1tEEADs8shECJt"],"default"]
-12:I[97367,["/_next/static/chunks/ff1a16fafef87110.js?dpl=dpl_GwuwmMc2oZNJkz1tEEADs8shECJt","/_next/static/chunks/803a574de9eda7ae.js?dpl=dpl_GwuwmMc2oZNJkz1tEEADs8shECJt"],"OutletBoundary"]
-13:"$Sreact.suspense"
-15:I[93539,["/_next/static/chunks/0d46db6cf73968fd.js?dpl=dpl_GwuwmMc2oZNJkz1tEEADs8shECJt","/_next/static/chunks/39ad7020066b4868.js?dpl=dpl_GwuwmMc2oZNJkz1tEEADs8shECJt","/_next/static/chunks/33f7e5a25c4fcd0b.js?dpl=dpl_GwuwmMc2oZNJkz1tEEADs8shECJt"],"ThemeToggle"]
-23:I[97367,["/_next/static/chunks/ff1a16fafef87110.js?dpl=dpl_GwuwmMc2oZNJkz1tEEADs8shECJt","/_next/static/chunks/803a574de9eda7ae.js?dpl=dpl_GwuwmMc2oZNJkz1tEEADs8shECJt"],"ViewportBoundary"]
-25:I[97367,["/_next/static/chunks/ff1a16fafef87110.js?dpl=dpl_GwuwmMc2oZNJkz1tEEADs8shECJt","/_next/static/chunks/803a574de9eda7ae.js?dpl=dpl_GwuwmMc2oZNJkz1tEEADs8shECJt"],"MetadataBoundary"]
-:HL["/_next/static/chunks/8be82ca8498e7d4a.css?dpl=dpl_GwuwmMc2oZNJkz1tEEADs8shECJt","style"]
-:HL["/_next/static/media/1b99372b3eaef0c8-s.p.758e15a8.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
-:HL["/_next/static/media/23b7a97ae3b5c134-s.p.2902b61f.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
-:HL["/_next/static/media/68d403cf9f2c68c5-s.p.f9f15f61.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
-:HL["/_next/static/media/99e609270109b47d-s.p.64b9304e.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
-:HL["/_next/static/media/a7e15459c1805da0-s.p.ec654d65.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
-:HL["/_next/static/media/ea3421846039b7f3-s.p.093205c5.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
-:HL["/_next/static/media/effe91970fc4db64-s.p.19510058.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+Abel was founded in 2023 by Sean Safahi and Chenyu Li, two operators who had each previously built and sold companies before turning their attention to legal technology.
+
+Safahi served as CEO. His background was in consumer product development at scale: he held product roles at Netflix and Airbnb before co-founding Bold, a startup that Airbnb subsequently acquired.<sup><a href="https://www.ycombinator.com/companies/abel">[1]</a></sup> That acquisition gave him firsthand experience navigating the transition from independent startup to enterprise integration — a signal that he understood how large organizations adopt new tools.
+
+Li served as CTO. His engineering career ran through Yahoo! and Chime, the consumer fintech company, where he built infrastructure at significant scale. He had also co-founded Telescope, which Chime acquired — giving him a parallel exit trajectory to Safahi's.<sup><a href="https://www.ycombinator.com/companies/abel">[2]</a></sup> Together, the two founders brought a combined track record of two acquisitions, two major consumer platforms, and experience shipping products to millions of users.
+
+What they did not bring was legal industry experience. Neither founder's public profile indicates prior work at a law firm, legal technology company, or in any legal-adjacent role. Their insight into the problem appears to have come from the outside — observing the legal industry's dependence on legacy eDiscovery platforms and recognizing that the emergence of large language models created an opportunity to do something those platforms could not: extract meaning, not just keywords.
+
+Abel's problem framing was precise. As the founders articulated in their YC launch post, existing eDiscovery platforms "don't help attorneys understand the information that exists inside the documents" and are "costly, cumbersome, and their search is difficult to use to pinpoint the relevant information."<sup><a href="https://www.ycombinator.com/launches/KdK-abel-transforming-document-review-for-law-firms">[3]</a></sup> The vision was to replace that keyword-search paradigm with a structured, relationship-aware representation of every document in a case file.
+
+The company's stated mission carried an access-to-justice dimension: to "empower attorneys to practice more efficiently, so they can extend representation to more people."<sup><a href="https://www.ycombinator.com/companies/abel">[4]</a></sup> In practice, however, the product was sold business-to-business to law firms — a tension between mission framing and commercial reality that was never publicly resolved.
+
+Abel created its Twitter account in November 2023 but never posted a single tweet from it — an early indicator that go-to-market execution was not running in parallel with product development.<sup><a href="https://x.com/abelforlaw?lang=en">[5]</a></sup>
+
+---
 
 ## Founding Story
 

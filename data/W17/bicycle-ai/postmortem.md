@@ -2,26 +2,19 @@
 
 ## Overview
 
-1:"$Sreact.fragment"
-2:I[39756,["/_next/static/chunks/ff1a16fafef87110.js?dpl=dpl_GwuwmMc2oZNJkz1tEEADs8shECJt","/_next/static/chunks/803a574de9eda7ae.js?dpl=dpl_GwuwmMc2oZNJkz1tEEADs8shECJt"],"default"]
-3:I[8821,["/_next/static/chunks/0d46db6cf73968fd.js?dpl=dpl_GwuwmMc2oZNJkz1tEEADs8shECJt","/_next/static/chunks/5f4dcbc1da431ca9.js?dpl=dpl_GwuwmMc2oZNJkz1tEEADs8shECJt","/_next/static/chunks/33f7e5a25c4fcd0b.js?dpl=dpl_GwuwmMc2oZNJkz1tEEADs8shECJt"],"default"]
-4:I[37457,["/_next/static/chunks/ff1a16fafef87110.js?dpl=dpl_GwuwmMc2oZNJkz1tEEADs8shECJt","/_next/static/chunks/803a574de9eda7ae.js?dpl=dpl_GwuwmMc2oZNJkz1tEEADs8shECJt"],"default"]
-5:I[22016,["/_next/static/chunks/0d46db6cf73968fd.js?dpl=dpl_GwuwmMc2oZNJkz1tEEADs8shECJt","/_next/static/chunks/39ad7020066b4868.js?dpl=dpl_GwuwmMc2oZNJkz1tEEADs8shECJt","/_next/static/chunks/33f7e5a25c4fcd0b.js?dpl=dpl_GwuwmMc2oZNJkz1tEEADs8shECJt"],""]
-6:I[2355,["/_next/static/chunks/0d46db6cf73968fd.js?dpl=dpl_GwuwmMc2oZNJkz1tEEADs8shECJt"],"Analytics"]
-11:I[68027,["/_next/static/chunks/ff1a16fafef87110.js?dpl=dpl_GwuwmMc2oZNJkz1tEEADs8shECJt","/_next/static/chunks/803a574de9eda7ae.js?dpl=dpl_GwuwmMc2oZNJkz1tEEADs8shECJt"],"default"]
-12:I[97367,["/_next/static/chunks/ff1a16fafef87110.js?dpl=dpl_GwuwmMc2oZNJkz1tEEADs8shECJt","/_next/static/chunks/803a574de9eda7ae.js?dpl=dpl_GwuwmMc2oZNJkz1tEEADs8shECJt"],"OutletBoundary"]
-13:"$Sreact.suspense"
-15:I[93539,["/_next/static/chunks/0d46db6cf73968fd.js?dpl=dpl_GwuwmMc2oZNJkz1tEEADs8shECJt","/_next/static/chunks/39ad7020066b4868.js?dpl=dpl_GwuwmMc2oZNJkz1tEEADs8shECJt","/_next/static/chunks/33f7e5a25c4fcd0b.js?dpl=dpl_GwuwmMc2oZNJkz1tEEADs8shECJt"],"ThemeToggle"]
-23:I[97367,["/_next/static/chunks/ff1a16fafef87110.js?dpl=dpl_GwuwmMc2oZNJkz1tEEADs8shECJt","/_next/static/chunks/803a574de9eda7ae.js?dpl=dpl_GwuwmMc2oZNJkz1tEEADs8shECJt"],"ViewportBoundary"]
-25:I[97367,["/_next/static/chunks/ff1a16fafef87110.js?dpl=dpl_GwuwmMc2oZNJkz1tEEADs8shECJt","/_next/static/chunks/803a574de9eda7ae.js?dpl=dpl_GwuwmMc2oZNJkz1tEEADs8shECJt"],"MetadataBoundary"]
-:HL["/_next/static/chunks/8be82ca8498e7d4a.css?dpl=dpl_GwuwmMc2oZNJkz1tEEADs8shECJt","style"]
-:HL["/_next/static/media/1b99372b3eaef0c8-s.p.758e15a8.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
-:HL["/_next/static/media/23b7a97ae3b5c134-s.p.2902b61f.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
-:HL["/_next/static/media/68d403cf9f2c68c5-s.p.f9f15f61.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
-:HL["/_next/static/media/99e609270109b47d-s.p.64b9304e.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
-:HL["/_next/static/media/a7e15459c1805da0-s.p.ec654d65.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
-:HL["/_next/static/media/ea3421846039b7f3-s.p.093205c5.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
-:HL["/_next/static/media/effe91970fc4db64-s.p.19510058.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+Bicycle AI was founded in July 2016 by three co-founders: Abhishek Nayak (CEO), Arpit Mohan (CTO), and Arvind Singh, with headquarters in Bengaluru, India. <sup><a href="https://golden.com/wiki/Bicycle_AI-BWKEEG8">[1]</a></sup> The legal entity was incorporated as Wise Mobile Technology Inc., a US holding structure typical of YC-backed Indian startups seeking access to American investors and customers. <sup><a href="https://www.cbinsights.com/company/bicycle-ai">[2]</a></sup>
+
+Nayak brought a strong serial-entrepreneur pedigree to the founding. He had previously co-founded Gharpay, a cash-on-delivery payment startup that was acquired by logistics company Delhivery, and ClinkNow, a mobile payments startup acquired by Ezetap — both backed by Sequoia Capital India. <sup><a href="https://www.crunchbase.com/person/abhishek-nayak">[3]</a></sup> His experience building and exiting consumer-facing startups in India gave him credibility with investors and a practical understanding of the operational challenges facing fast-growing companies — including the customer support burden that comes with scale.
+
+Mohan joined as CTO in September 2016, bringing engineering depth from his time as a Senior Engineer at Exotel, a cloud telephony startup, as well as prior experience at Gharpay and ClinkNow alongside Nayak. <sup><a href="https://www.crunchbase.com/person/arpit-mohan">[4]</a></sup> The two had worked together before, which likely accelerated the early product development cycle.
+
+<media-image src="https://assets.website-files.com/606cae0c4e05dc45295b04a7/606cae0c4e05dcff6b5b0cae_5f2d08209d3fc4e92793acaf_cknld.jpeg" alt="Abhishek Nayak, CEO and co-founder of Bicycle AI (YC W17)" caption="Abhishek Nayak, CEO and co-founder of Bicycle AI (YC W17). After Bicycle AI shut down, he went on to co-found Appsmith, which raised $51.5M and reached a $250M valuation."></media-image>
+
+The third co-founder, Arvind Singh, headed the AI team during the YC batch. Beyond this structural detail — surfaced in a contemporaneous blog post by team member Matt Szaszko — Singh's background, specific role, and post-Bicycle AI trajectory are entirely undocumented in available public sources.
+
+The founding insight appears to have been straightforward: customer support at scale is expensive, repetitive, and largely rule-based at the Level 1 tier. If machine learning could handle the majority of inbound tickets automatically, companies could serve more customers without proportionally growing their support headcount. The 2016 chatbot boom and rising enterprise interest in AI-powered automation made the timing feel right. The company entered Y Combinator's Winter 2017 cohort in January 2017, <sup><a href="https://www.ycombinator.com/companies/bicycle-ai">[5]</a></sup> operating with a split team between Bengaluru and San Francisco during the batch.
+
+---
 
 ## Founding Story
 

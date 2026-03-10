@@ -2,26 +2,17 @@
 
 ## Overview
 
-1:"$Sreact.fragment"
-2:I[39756,["/_next/static/chunks/ff1a16fafef87110.js?dpl=dpl_GwuwmMc2oZNJkz1tEEADs8shECJt","/_next/static/chunks/803a574de9eda7ae.js?dpl=dpl_GwuwmMc2oZNJkz1tEEADs8shECJt"],"default"]
-3:I[8821,["/_next/static/chunks/0d46db6cf73968fd.js?dpl=dpl_GwuwmMc2oZNJkz1tEEADs8shECJt","/_next/static/chunks/5f4dcbc1da431ca9.js?dpl=dpl_GwuwmMc2oZNJkz1tEEADs8shECJt","/_next/static/chunks/33f7e5a25c4fcd0b.js?dpl=dpl_GwuwmMc2oZNJkz1tEEADs8shECJt"],"default"]
-4:I[37457,["/_next/static/chunks/ff1a16fafef87110.js?dpl=dpl_GwuwmMc2oZNJkz1tEEADs8shECJt","/_next/static/chunks/803a574de9eda7ae.js?dpl=dpl_GwuwmMc2oZNJkz1tEEADs8shECJt"],"default"]
-5:I[22016,["/_next/static/chunks/0d46db6cf73968fd.js?dpl=dpl_GwuwmMc2oZNJkz1tEEADs8shECJt","/_next/static/chunks/39ad7020066b4868.js?dpl=dpl_GwuwmMc2oZNJkz1tEEADs8shECJt","/_next/static/chunks/33f7e5a25c4fcd0b.js?dpl=dpl_GwuwmMc2oZNJkz1tEEADs8shECJt"],""]
-6:I[2355,["/_next/static/chunks/0d46db6cf73968fd.js?dpl=dpl_GwuwmMc2oZNJkz1tEEADs8shECJt"],"Analytics"]
-11:I[68027,["/_next/static/chunks/ff1a16fafef87110.js?dpl=dpl_GwuwmMc2oZNJkz1tEEADs8shECJt","/_next/static/chunks/803a574de9eda7ae.js?dpl=dpl_GwuwmMc2oZNJkz1tEEADs8shECJt"],"default"]
-12:I[97367,["/_next/static/chunks/ff1a16fafef87110.js?dpl=dpl_GwuwmMc2oZNJkz1tEEADs8shECJt","/_next/static/chunks/803a574de9eda7ae.js?dpl=dpl_GwuwmMc2oZNJkz1tEEADs8shECJt"],"OutletBoundary"]
-13:"$Sreact.suspense"
-15:I[93539,["/_next/static/chunks/0d46db6cf73968fd.js?dpl=dpl_GwuwmMc2oZNJkz1tEEADs8shECJt","/_next/static/chunks/39ad7020066b4868.js?dpl=dpl_GwuwmMc2oZNJkz1tEEADs8shECJt","/_next/static/chunks/33f7e5a25c4fcd0b.js?dpl=dpl_GwuwmMc2oZNJkz1tEEADs8shECJt"],"ThemeToggle"]
-23:I[97367,["/_next/static/chunks/ff1a16fafef87110.js?dpl=dpl_GwuwmMc2oZNJkz1tEEADs8shECJt","/_next/static/chunks/803a574de9eda7ae.js?dpl=dpl_GwuwmMc2oZNJkz1tEEADs8shECJt"],"ViewportBoundary"]
-25:I[97367,["/_next/static/chunks/ff1a16fafef87110.js?dpl=dpl_GwuwmMc2oZNJkz1tEEADs8shECJt","/_next/static/chunks/803a574de9eda7ae.js?dpl=dpl_GwuwmMc2oZNJkz1tEEADs8shECJt"],"MetadataBoundary"]
-:HL["/_next/static/chunks/8be82ca8498e7d4a.css?dpl=dpl_GwuwmMc2oZNJkz1tEEADs8shECJt","style"]
-:HL["/_next/static/media/1b99372b3eaef0c8-s.p.758e15a8.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
-:HL["/_next/static/media/23b7a97ae3b5c134-s.p.2902b61f.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
-:HL["/_next/static/media/68d403cf9f2c68c5-s.p.f9f15f61.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
-:HL["/_next/static/media/99e609270109b47d-s.p.64b9304e.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
-:HL["/_next/static/media/a7e15459c1805da0-s.p.ec654d65.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
-:HL["/_next/static/media/ea3421846039b7f3-s.p.093205c5.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
-:HL["/_next/static/media/effe91970fc4db64-s.p.19510058.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+Sage Care was founded in 2015 by Vanessa Lee and Lucas Lu, initially incorporated in Toronto, Canada. <sup><a href="https://tracxn.com/d/companies/sage-care/__ymCNNNnyQbrinVuaV4q7PBXBtom9OGdmUwgc1NaA3qc">[3]</a></sup> By mid-2016, the company had relocated its operational base to Cambridge, Massachusetts—almost certainly in connection with its acceptance into Y Combinator's Summer 2016 batch, which requires founders to be present in the Bay Area during the program. <sup><a href="https://www.ycombinator.com/companies/sage-care">[4]</a></sup>
+
+Vanessa Lee brought a credible and unusually varied background for a healthcare startup founder. She studied at the University of Waterloo and co-founded BufferBox in 2010, a package locker startup that was acquired by Google in 2012. <sup><a href="https://rocketreach.co/vanessa-lee-email_3078774">[5]</a></sup><sup><a href="https://tracxn.com/d/companies/bufferbox/__C28ISpWBwehys6uZq-sL0aM5COqGC2xfcmx2oO6LQQ4">[6]</a></sup> She subsequently spent two years as a Program Manager at Microsoft on the Windows Fundamentals team before co-founding Canvas Labs in 2013, where she remained until 2015. <sup><a href="https://rocketreach.co/vanessa-lee-email_3078774">[5]</a></sup> This trajectory—hardware startup exit, enterprise product management, second startup—gave Lee a credible signal of both technical and operational range. Her Medium profile bio confirms her role: "Previously co-founder of Sage Care (YCS16)." <sup><a href="https://medium.com/@vlaurenlee">[7]</a></sup>
+
+Lucas Lu's background, specific role at Sage Care, and equity stake could not be independently verified from available sources. The reason for the geographic shift from Toronto to Boston—whether driven by YC's requirements, a deliberate market choice, or both—is not documented publicly.
+
+The founding insight appears to have been experiential rather than purely analytical. The elder care coordination problem is one that adult children encounter suddenly and without preparation: a parent's health declines, and the family is thrust into managing schedules, medications, and caregiver relationships while holding down jobs and raising their own families. Lee articulated the product philosophy in terms of fitting into that reality: "We wanted to make sure if you needed someone you would be able to text, you wouldn't need to call, you could do it between meetings. It fits better into modern life." <sup><a href="https://www.bostonherald.com/2016/06/26/startup-offers-elder-care-via-text-message/">[8]</a></sup>
+
+Importantly, Lee was deliberate about how she framed the company's identity. Rather than positioning Sage Care as a software tool layered on top of existing agencies, she described it as a care company in its own right: "We think of ourselves as a home care company. We just happen to be more technology-focused." <sup><a href="https://www.bostonherald.com/2016/06/26/startup-offers-elder-care-via-text-message/">[9]</a></sup> That framing—care-first, technology-enabled—distinguished the company's pitch from pure scheduling software plays and implied a higher level of accountability to families.
+
+---
 
 ## Founding Story
 

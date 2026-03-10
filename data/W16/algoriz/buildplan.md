@@ -6,7 +6,7 @@ Algoriz 2026 is a no-code algorithmic trading platform for retail traders who ha
 
 The viability shift: LLMs are now good enough that custom NLP is no longer the bottleneck. GPT-4o and Claude 3.5 handle strategy parsing reliably. The real moat is the execution layer—seamless OAuth connections to Alpaca and Coinbase, plus backtesting infrastructure that speaks plain English instead of Python. QuantConnect dominates the coder segment; we own the trader segment.
 
-Go-to-market targets active retail traders already frustrated with Python learning curves on QuantConnect or TradingView. We win by removing the 6-month friction tax. Launch on Product Hunt, build community in Discord, partner with retail trading educators. Revenue: 2% commission on live trades, freemium backtesting tier.34:T81d,
+Go-to-market targets active retail traders already frustrated with Python learning curves on QuantConnect or TradingView. We win by removing the 6-month friction tax. Launch on Product Hunt, build community in Discord, partner with retail trading educators. Revenue: 2% commission on live trades, freemium backtesting tier.33:T81d,
 
 ## Why Now?
 
@@ -24,7 +24,7 @@ The global algorithmic trading market was valued at approximately $2.19 billion 
 
 **The gap:** No U.S.-focused platform combines natural language strategy input, live brokerage execution, and multi-asset coverage (equities + crypto) in a single product. Demand signals from Composer's growth and QuantConnect's community size confirm the audience is real and underserved by tools requiring code.
 
----36:T774,
+---35:T774,
 
 ## Recommended MVP
 

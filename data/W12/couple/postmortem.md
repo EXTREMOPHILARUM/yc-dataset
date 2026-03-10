@@ -2,26 +2,23 @@
 
 ## Overview
 
-1:"$Sreact.fragment"
-2:I[39756,["/_next/static/chunks/ff1a16fafef87110.js?dpl=dpl_GwuwmMc2oZNJkz1tEEADs8shECJt","/_next/static/chunks/803a574de9eda7ae.js?dpl=dpl_GwuwmMc2oZNJkz1tEEADs8shECJt"],"default"]
-3:I[8821,["/_next/static/chunks/0d46db6cf73968fd.js?dpl=dpl_GwuwmMc2oZNJkz1tEEADs8shECJt","/_next/static/chunks/5f4dcbc1da431ca9.js?dpl=dpl_GwuwmMc2oZNJkz1tEEADs8shECJt","/_next/static/chunks/33f7e5a25c4fcd0b.js?dpl=dpl_GwuwmMc2oZNJkz1tEEADs8shECJt"],"default"]
-4:I[37457,["/_next/static/chunks/ff1a16fafef87110.js?dpl=dpl_GwuwmMc2oZNJkz1tEEADs8shECJt","/_next/static/chunks/803a574de9eda7ae.js?dpl=dpl_GwuwmMc2oZNJkz1tEEADs8shECJt"],"default"]
-5:I[22016,["/_next/static/chunks/0d46db6cf73968fd.js?dpl=dpl_GwuwmMc2oZNJkz1tEEADs8shECJt","/_next/static/chunks/39ad7020066b4868.js?dpl=dpl_GwuwmMc2oZNJkz1tEEADs8shECJt","/_next/static/chunks/33f7e5a25c4fcd0b.js?dpl=dpl_GwuwmMc2oZNJkz1tEEADs8shECJt"],""]
-6:I[2355,["/_next/static/chunks/0d46db6cf73968fd.js?dpl=dpl_GwuwmMc2oZNJkz1tEEADs8shECJt"],"Analytics"]
-11:I[68027,["/_next/static/chunks/ff1a16fafef87110.js?dpl=dpl_GwuwmMc2oZNJkz1tEEADs8shECJt","/_next/static/chunks/803a574de9eda7ae.js?dpl=dpl_GwuwmMc2oZNJkz1tEEADs8shECJt"],"default"]
-12:I[97367,["/_next/static/chunks/ff1a16fafef87110.js?dpl=dpl_GwuwmMc2oZNJkz1tEEADs8shECJt","/_next/static/chunks/803a574de9eda7ae.js?dpl=dpl_GwuwmMc2oZNJkz1tEEADs8shECJt"],"OutletBoundary"]
-13:"$Sreact.suspense"
-15:I[93539,["/_next/static/chunks/0d46db6cf73968fd.js?dpl=dpl_GwuwmMc2oZNJkz1tEEADs8shECJt","/_next/static/chunks/39ad7020066b4868.js?dpl=dpl_GwuwmMc2oZNJkz1tEEADs8shECJt","/_next/static/chunks/33f7e5a25c4fcd0b.js?dpl=dpl_GwuwmMc2oZNJkz1tEEADs8shECJt"],"ThemeToggle"]
-23:I[97367,["/_next/static/chunks/ff1a16fafef87110.js?dpl=dpl_GwuwmMc2oZNJkz1tEEADs8shECJt","/_next/static/chunks/803a574de9eda7ae.js?dpl=dpl_GwuwmMc2oZNJkz1tEEADs8shECJt"],"ViewportBoundary"]
-25:I[97367,["/_next/static/chunks/ff1a16fafef87110.js?dpl=dpl_GwuwmMc2oZNJkz1tEEADs8shECJt","/_next/static/chunks/803a574de9eda7ae.js?dpl=dpl_GwuwmMc2oZNJkz1tEEADs8shECJt"],"MetadataBoundary"]
-:HL["/_next/static/chunks/8be82ca8498e7d4a.css?dpl=dpl_GwuwmMc2oZNJkz1tEEADs8shECJt","style"]
-:HL["/_next/static/media/1b99372b3eaef0c8-s.p.758e15a8.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
-:HL["/_next/static/media/23b7a97ae3b5c134-s.p.2902b61f.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
-:HL["/_next/static/media/68d403cf9f2c68c5-s.p.f9f15f61.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
-:HL["/_next/static/media/99e609270109b47d-s.p.64b9304e.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
-:HL["/_next/static/media/a7e15459c1805da0-s.p.ec654d65.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
-:HL["/_next/static/media/ea3421846039b7f3-s.p.093205c5.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
-:HL["/_next/static/media/effe91970fc4db64-s.p.19510058.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+The five co-founders of TenthBit Inc. — Oleg Kostour, Anton Krutiansky, Aswin Rajendiran, Michael Petrov, and Jamie Murai — were all University of Waterloo students who met at the VeloCity Residence, a startup-focused student housing program on campus, in 2011.<sup><a href="https://uwaterloo.ca/news/are-you-connecting-your-love-theres-app">[1]</a></sup> The team was among the first winners of the VeloCity Venture Fund, an early-stage grant program that gave them institutional credibility before they had a product.<sup><a href="https://uwaterloo.ca/news/are-you-connecting-your-love-theres-app">[1]</a></sup>
+
+Their first company was Maide, a multi-touch tablet application for 3D computer-aided design — a technically ambitious but commercially difficult product aimed at engineering workflows.<sup><a href="https://uwaterloo.ca/news/are-you-connecting-your-love-theres-app">[1]</a></sup> The team abandoned Maide after being accepted into Y Combinator's Winter 2012 batch, demonstrating an early willingness to cut losses on sunk costs. What replaced it came from lived experience rather than market research.
+
+When the team relocated to California for YC, they found themselves separated from their partners back in Canada. The friction of maintaining relationships across distance — and the inadequacy of existing tools for doing so — became the founding insight. The product they built was not a feature of an existing platform but a dedicated space for two people to communicate without an audience.
+
+<media-tweet url="https://x.com/OlegKostour/status/1979990552520368285" author="@OlegKostour" date="2025-10-19" text="A decade ago, we started a scrappy startup in my dorm room in Waterloo. We were so low on cash that we had to ask PG to help us pay for our 1st month's rent during YC. 3 months later, we were in Bloomberg. Now I'm back in @ycombinator a 2nd time with @AtlasGridAI (F25)"></media-tweet>
+
+Kostour later reflected that the financial constraints were severe enough that the team asked YC's Paul Graham to help cover their first month's rent during the program. Three months after launch, the app was featured in Bloomberg — a trajectory that validated the pivot decision, even if it could not sustain the company long-term.
+
+The founding thesis was articulated clearly by Kostour: "Because couples are communicating in private, they communicate differently. The whole world isn't watching their posts to each other like on other social media platforms."<sup><a href="https://uwaterloo.ca/news/are-you-connecting-your-love-theres-app">[1]</a></sup> This was not a messaging app with a privacy toggle — it was a product built from the ground up around the assumption that intimacy changes communication behavior.
+
+<media-image src="https://uwaterloo.ca/news/sites/ca.news/files/styles/body-500px-wide/public/uploads/images/couple_founders.jpg" alt="Couple/Pair founders team photo: Front L to R: Oleg Kostour, Aswin Rajendiran; Back L to R: Michael Petrov, Anton Krutiansky" caption="The founding team of Tenthbit Inc. (makers of Pair/Couple), all University of Waterloo alumni. Front row: Oleg Kostour and Aswin Rajendiran; Back row: Michael Petrov and Anton Krutiansky. Published by UWaterloo on Valentine's Day 2013."></media-image>
+
+The app launched publicly in March 2012 under the name "Pair," as part of the YC W12 cohort, headquartered in Mountain View, California.<sup><a href="https://techcrunch.com/2013/02/02/pair-the-mobile-app-for-two-buys-uks-cupple-and-rebrands-as-couple/">[5]</a></sup><sup><a href="https://www.prnewswire.com/news-releases/love-is-in-the-air-life360-acquires-couple-the-app-for-two-300218735.html">[6]</a></sup>
+
+---
 
 ## Founding Story
 

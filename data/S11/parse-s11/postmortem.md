@@ -2,26 +2,16 @@
 
 ## Overview
 
-1:"$Sreact.fragment"
-2:I[39756,["/_next/static/chunks/ff1a16fafef87110.js?dpl=dpl_GwuwmMc2oZNJkz1tEEADs8shECJt","/_next/static/chunks/803a574de9eda7ae.js?dpl=dpl_GwuwmMc2oZNJkz1tEEADs8shECJt"],"default"]
-3:I[8821,["/_next/static/chunks/0d46db6cf73968fd.js?dpl=dpl_GwuwmMc2oZNJkz1tEEADs8shECJt","/_next/static/chunks/5f4dcbc1da431ca9.js?dpl=dpl_GwuwmMc2oZNJkz1tEEADs8shECJt","/_next/static/chunks/33f7e5a25c4fcd0b.js?dpl=dpl_GwuwmMc2oZNJkz1tEEADs8shECJt"],"default"]
-4:I[37457,["/_next/static/chunks/ff1a16fafef87110.js?dpl=dpl_GwuwmMc2oZNJkz1tEEADs8shECJt","/_next/static/chunks/803a574de9eda7ae.js?dpl=dpl_GwuwmMc2oZNJkz1tEEADs8shECJt"],"default"]
-5:I[22016,["/_next/static/chunks/0d46db6cf73968fd.js?dpl=dpl_GwuwmMc2oZNJkz1tEEADs8shECJt","/_next/static/chunks/39ad7020066b4868.js?dpl=dpl_GwuwmMc2oZNJkz1tEEADs8shECJt","/_next/static/chunks/33f7e5a25c4fcd0b.js?dpl=dpl_GwuwmMc2oZNJkz1tEEADs8shECJt"],""]
-6:I[2355,["/_next/static/chunks/0d46db6cf73968fd.js?dpl=dpl_GwuwmMc2oZNJkz1tEEADs8shECJt"],"Analytics"]
-11:I[68027,["/_next/static/chunks/ff1a16fafef87110.js?dpl=dpl_GwuwmMc2oZNJkz1tEEADs8shECJt","/_next/static/chunks/803a574de9eda7ae.js?dpl=dpl_GwuwmMc2oZNJkz1tEEADs8shECJt"],"default"]
-12:I[97367,["/_next/static/chunks/ff1a16fafef87110.js?dpl=dpl_GwuwmMc2oZNJkz1tEEADs8shECJt","/_next/static/chunks/803a574de9eda7ae.js?dpl=dpl_GwuwmMc2oZNJkz1tEEADs8shECJt"],"OutletBoundary"]
-13:"$Sreact.suspense"
-15:I[93539,["/_next/static/chunks/0d46db6cf73968fd.js?dpl=dpl_GwuwmMc2oZNJkz1tEEADs8shECJt","/_next/static/chunks/39ad7020066b4868.js?dpl=dpl_GwuwmMc2oZNJkz1tEEADs8shECJt","/_next/static/chunks/33f7e5a25c4fcd0b.js?dpl=dpl_GwuwmMc2oZNJkz1tEEADs8shECJt"],"ThemeToggle"]
-23:I[97367,["/_next/static/chunks/ff1a16fafef87110.js?dpl=dpl_GwuwmMc2oZNJkz1tEEADs8shECJt","/_next/static/chunks/803a574de9eda7ae.js?dpl=dpl_GwuwmMc2oZNJkz1tEEADs8shECJt"],"ViewportBoundary"]
-25:I[97367,["/_next/static/chunks/ff1a16fafef87110.js?dpl=dpl_GwuwmMc2oZNJkz1tEEADs8shECJt","/_next/static/chunks/803a574de9eda7ae.js?dpl=dpl_GwuwmMc2oZNJkz1tEEADs8shECJt"],"MetadataBoundary"]
-:HL["/_next/static/chunks/8be82ca8498e7d4a.css?dpl=dpl_GwuwmMc2oZNJkz1tEEADs8shECJt","style"]
-:HL["/_next/static/media/1b99372b3eaef0c8-s.p.758e15a8.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
-:HL["/_next/static/media/23b7a97ae3b5c134-s.p.2902b61f.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
-:HL["/_next/static/media/68d403cf9f2c68c5-s.p.f9f15f61.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
-:HL["/_next/static/media/99e609270109b47d-s.p.64b9304e.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
-:HL["/_next/static/media/a7e15459c1805da0-s.p.ec654d65.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
-:HL["/_next/static/media/ea3421846039b7f3-s.p.093205c5.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
-:HL["/_next/static/media/effe91970fc4db64-s.p.19510058.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+Parse was a San Francisco-based mobile Backend-as-a-Service (mBaaS) company founded in 2011 by Tikhon Bernstam, Ilya Sukhar, James Yu, and Kevin Lacker. <sup><a href="https://en.wikipedia.org/wiki/Parse,_Inc.">[1]</a></sup> It offered mobile developers a complete cloud infrastructure stack — data storage, user authentication, push notifications, analytics, and custom server-side logic — through native iOS and Android SDKs, eliminating the need to build and manage backend servers. <sup><a href="https://en.wikipedia.org/wiki/Parse,_Inc.">[2]</a></sup> The company emerged from Y Combinator's Summer 2011 batch and was acquired by Facebook in April 2013 for a reported $85 million. <sup><a href="https://techcrunch.com/2013/04/25/facebook-parse/">[3]</a></sup>
+
+Parse's failure was not a product failure. Facebook acquired a genuinely valuable, fast-growing platform before Parse had solved its monetization problems — and then, when Facebook's mobile advertising business took off, the strategic rationale for owning a developer hosting platform evaporated. Parse was deprioritized, starved of investment, and eventually shut down in January 2017.
+
+Facebook announced the shutdown on January 28, 2016, giving developers one year to migrate. <sup><a href="https://en.wikipedia.org/wiki/Parse,_Inc.">[4]</a></sup> At shutdown, approximately 600,000 apps relied on the platform. <sup><a href="https://techcrunch.com/2017/01/30/facebooks-parse-developer-platform-is-shutting-down-today/">[5]</a></sup> Facebook open-sourced the Parse codebase, which attracted 2,000 GitHub stars within 15 hours — a posthumous validation of the product's underlying value. <sup><a href="https://adtmag.com/articles/2016/01/29/parse-to-shut-down.aspx">[6]</a></sup> Ilya Sukhar went on to become a General Partner at Matrix Partners; Tikhon Bernstam became managing partner at Uncommon Capital. <sup><a href="https://20vc.substack.com/p/20vc-matrixs-ilya-sukhar-on-how-the-eaa">[7]</a></sup> <sup><a href="https://grokipedia.com/page/Tikhon_Bernstam">[8]</a></sup>
+
+<report-gallery>
+<media-image src="https://www.smartcompany.com.au/wp-content/uploads/sites/4/2014/12/l_tikhon445.jpg" alt="Parse founder Tikhon Bernstam" caption="Parse co-founder Tikhon Bernstam, photographed circa 2014 — a Scribd veteran who helped build Parse from a YC landing-page experiment into a platform powering hundreds of thousands of apps."></media-image>
+<media-image src="https://smartface.io/wp-content/uploads/2014/10/parse-banner.png" alt="Parse platform banner showing REST API integration for iOS and Android" caption="Parse's developer-facing brand circa 2014: a clean promise of native iOS and Android integration with zero backend management — the 'Heroku for mobile' pitch made visual."></media-image>
+</report-gallery>
 
 ## Founding Story
 

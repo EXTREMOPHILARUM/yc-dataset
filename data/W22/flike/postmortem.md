@@ -2,28 +2,25 @@
 
 ## Overview
 
-1:"$Sreact.fragment"
-2:I[39756,["/_next/static/chunks/ff1a16fafef87110.js?dpl=dpl_GwuwmMc2oZNJkz1tEEADs8shECJt","/_next/static/chunks/803a574de9eda7ae.js?dpl=dpl_GwuwmMc2oZNJkz1tEEADs8shECJt"],"default"]
-3:I[8821,["/_next/static/chunks/0d46db6cf73968fd.js?dpl=dpl_GwuwmMc2oZNJkz1tEEADs8shECJt","/_next/static/chunks/5f4dcbc1da431ca9.js?dpl=dpl_GwuwmMc2oZNJkz1tEEADs8shECJt","/_next/static/chunks/33f7e5a25c4fcd0b.js?dpl=dpl_GwuwmMc2oZNJkz1tEEADs8shECJt"],"default"]
-4:I[37457,["/_next/static/chunks/ff1a16fafef87110.js?dpl=dpl_GwuwmMc2oZNJkz1tEEADs8shECJt","/_next/static/chunks/803a574de9eda7ae.js?dpl=dpl_GwuwmMc2oZNJkz1tEEADs8shECJt"],"default"]
-5:I[22016,["/_next/static/chunks/0d46db6cf73968fd.js?dpl=dpl_GwuwmMc2oZNJkz1tEEADs8shECJt","/_next/static/chunks/39ad7020066b4868.js?dpl=dpl_GwuwmMc2oZNJkz1tEEADs8shECJt","/_next/static/chunks/33f7e5a25c4fcd0b.js?dpl=dpl_GwuwmMc2oZNJkz1tEEADs8shECJt"],""]
-6:I[2355,["/_next/static/chunks/0d46db6cf73968fd.js?dpl=dpl_GwuwmMc2oZNJkz1tEEADs8shECJt"],"Analytics"]
-11:I[68027,["/_next/static/chunks/ff1a16fafef87110.js?dpl=dpl_GwuwmMc2oZNJkz1tEEADs8shECJt","/_next/static/chunks/803a574de9eda7ae.js?dpl=dpl_GwuwmMc2oZNJkz1tEEADs8shECJt"],"default"]
-12:I[97367,["/_next/static/chunks/ff1a16fafef87110.js?dpl=dpl_GwuwmMc2oZNJkz1tEEADs8shECJt","/_next/static/chunks/803a574de9eda7ae.js?dpl=dpl_GwuwmMc2oZNJkz1tEEADs8shECJt"],"OutletBoundary"]
-13:"$Sreact.suspense"
-15:I[93539,["/_next/static/chunks/0d46db6cf73968fd.js?dpl=dpl_GwuwmMc2oZNJkz1tEEADs8shECJt","/_next/static/chunks/39ad7020066b4868.js?dpl=dpl_GwuwmMc2oZNJkz1tEEADs8shECJt","/_next/static/chunks/33f7e5a25c4fcd0b.js?dpl=dpl_GwuwmMc2oZNJkz1tEEADs8shECJt"],"ThemeToggle"]
-23:I[97367,["/_next/static/chunks/ff1a16fafef87110.js?dpl=dpl_GwuwmMc2oZNJkz1tEEADs8shECJt","/_next/static/chunks/803a574de9eda7ae.js?dpl=dpl_GwuwmMc2oZNJkz1tEEADs8shECJt"],"ViewportBoundary"]
-25:I[97367,["/_next/static/chunks/ff1a16fafef87110.js?dpl=dpl_GwuwmMc2oZNJkz1tEEADs8shECJt","/_next/static/chunks/803a574de9eda7ae.js?dpl=dpl_GwuwmMc2oZNJkz1tEEADs8shECJt"],"MetadataBoundary"]
-:HL["/_next/static/chunks/8be82ca8498e7d4a.css?dpl=dpl_GwuwmMc2oZNJkz1tEEADs8shECJt","style"]
-:HL["/_next/static/media/1b99372b3eaef0c8-s.p.758e15a8.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
-:HL["/_next/static/media/23b7a97ae3b5c134-s.p.2902b61f.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
-:HL["/_next/static/media/68d403cf9f2c68c5-s.p.f9f15f61.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
-:HL["/_next/static/media/99e609270109b47d-s.p.64b9304e.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
-:HL["/_next/static/media/a7e15459c1805da0-s.p.ec654d65.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
-:HL["/_next/static/media/ea3421846039b7f3-s.p.093205c5.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
-:HL["/_next/static/media/effe91970fc4db64-s.p.19510058.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
-
 ## Founding Story
+
+Flike was founded in 2021 in San Francisco by three co-founders: Tobias Müller (CEO), Yannick Müller, and Henrik Laxhuber.<sup><a href="https://golden.com/wiki/Flike-6AX8YWA">[1]</a></sup> Tobias and Yannick Müller came from finance backgrounds and had experienced firsthand the dysfunction of collaborative spreadsheet work—the version chaos, the time lost gathering inputs from colleagues, and the errors that compounded across shared files.<sup><a href="https://www.linkedin.com/posts/y-combinator_flike-raises-16m-to-build-github-for-spreadsheets-activity-6912448529386938368-2Wd0">[2]</a></sup> That lived frustration became the founding thesis: build the infrastructure layer that spreadsheets had always lacked.
+
+The Müller brothers' finance backgrounds gave them authentic founder-market fit for the original product. They understood the workflows they were targeting not as outside observers but as former practitioners. Henrik Laxhuber's specific background and contributions to the founding remain largely undocumented in public sources.
+
+From the start, the team signaled technical ambition through its hiring. Yannick Müller announced the addition of Andrew Chou as Head of ML—a Stanford-trained engineer with experience at Google, Facebook, Amazon, Amplitude, and Coursera—and Saikishore Kalloori as AI Researcher, a postdoctoral researcher from ETH Zurich who had published papers on recommender systems and personalization.<sup><a href="https://www.linkedin.com/posts/yajm_flike-raises-16m-to-build-github-for-spreadsheets-activity-6912355141861937152-kOt4">[3]</a></sup> The decision to hire a recommender-systems specialist at the spreadsheet-collaboration stage is notable in retrospect: it suggests the founders were already thinking beyond static tooling toward dynamic, AI-driven personalization.
+
+Flike joined Y Combinator's Winter 2022 batch in January 2022.<sup><a href="https://www.ycombinator.com/companies/flike">[4]</a></sup> The YC program provided both the $1.6M pre-seed lead and the network that would later shape the company's distribution strategy—and ultimately its exit.
+
+<media-image src="https://imageio.forbes.com/specials-images/imageserve/623a820dc39c48e2b306f292/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds" alt="Forbes article: 'Flike Raises $1.6M To Build GitHub For Spreadsheets' — March 2022" caption="Forbes coverage of Flike's $1.6M pre-seed raise in March 2022, led by Y Combinator. The article covers the founding story: Tobias and Yannick Müller built Flike after experiencing spreadsheet collaboration pain in their own finance careers."></media-image>
+
+Tobias Müller's approach to product development was unusually rigorous for a seed-stage founder. In an April 2022 case study published during the spreadsheet phase, he articulated a philosophy that prioritized user input above all internal assumptions: "The number one lesson was to learn to throw out all internal beliefs, hypotheses, and opinions about a problem and instead take the users' input as the unquestionable truth."<sup><a href="https://f2f.substack.com/p/case-study-on-the-road-to-product">[5]</a></sup> He described a critical early challenge: "A critical problem we've had to overcome early on was figuring out how to get unfiltered data from user interviews."<sup><a href="https://f2f.substack.com/p/case-study-on-the-road-to-product">[6]</a></sup>
+
+The team went as far as embedding with customers on-site. "We believe that having customers who want us to succeed is incredibly important. Both founders spent a week at a customer's site, which gave us insights into their workflows we could have never anticipated."<sup><a href="https://f2f.substack.com/p/case-study-on-the-road-to-product">[7]</a></sup> On hiring, Müller was equally deliberate: "While great technical ability is a must, I think nothing makes up for true intrinsic motivation, and we like to hire for that"—with candidates trialed as consultants before receiving full-time offers.<sup><a href="https://f2f.substack.com/p/case-study-on-the-road-to-product">[8]</a></sup>
+
+The irony embedded in this founding story is significant: a founder who articulated one of the more thoughtful PMF methodologies in the YC ecosystem still pivoted twice and ultimately could not scale independently.
+
+---
 
 ## Timeline
 
@@ -105,7 +102,7 @@ Flike operated on a B2B SaaS subscription model, selling seats or licenses to sa
 
 No revenue figures, ARR, MRR, or pricing tiers were publicly disclosed at any stage of the company's life. The asset deal structure of the acquisition—rather than a full company purchase—suggests the company had not reached a revenue scale that would have supported a traditional acquisition multiple. Total funding of $2.1M across all rounds<sup><a href="https://www.cbinsights.com/company/flike">[22]</a></sup> implies the company operated on an extremely lean budget for a technical team in San Francisco over approximately three years, with no disclosed Series A or seed extension. The absence of follow-on capital is the clearest available proxy for the company's commercial trajectory.
 
----2f:T6a4,
+---2e:T6a4,
 
 ## Traction
 

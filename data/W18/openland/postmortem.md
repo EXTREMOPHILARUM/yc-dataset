@@ -2,26 +2,21 @@
 
 ## Overview
 
-1:"$Sreact.fragment"
-2:I[39756,["/_next/static/chunks/ff1a16fafef87110.js?dpl=dpl_GwuwmMc2oZNJkz1tEEADs8shECJt","/_next/static/chunks/803a574de9eda7ae.js?dpl=dpl_GwuwmMc2oZNJkz1tEEADs8shECJt"],"default"]
-3:I[8821,["/_next/static/chunks/0d46db6cf73968fd.js?dpl=dpl_GwuwmMc2oZNJkz1tEEADs8shECJt","/_next/static/chunks/5f4dcbc1da431ca9.js?dpl=dpl_GwuwmMc2oZNJkz1tEEADs8shECJt","/_next/static/chunks/33f7e5a25c4fcd0b.js?dpl=dpl_GwuwmMc2oZNJkz1tEEADs8shECJt"],"default"]
-4:I[37457,["/_next/static/chunks/ff1a16fafef87110.js?dpl=dpl_GwuwmMc2oZNJkz1tEEADs8shECJt","/_next/static/chunks/803a574de9eda7ae.js?dpl=dpl_GwuwmMc2oZNJkz1tEEADs8shECJt"],"default"]
-5:I[22016,["/_next/static/chunks/0d46db6cf73968fd.js?dpl=dpl_GwuwmMc2oZNJkz1tEEADs8shECJt","/_next/static/chunks/39ad7020066b4868.js?dpl=dpl_GwuwmMc2oZNJkz1tEEADs8shECJt","/_next/static/chunks/33f7e5a25c4fcd0b.js?dpl=dpl_GwuwmMc2oZNJkz1tEEADs8shECJt"],""]
-6:I[2355,["/_next/static/chunks/0d46db6cf73968fd.js?dpl=dpl_GwuwmMc2oZNJkz1tEEADs8shECJt"],"Analytics"]
-11:I[68027,["/_next/static/chunks/ff1a16fafef87110.js?dpl=dpl_GwuwmMc2oZNJkz1tEEADs8shECJt","/_next/static/chunks/803a574de9eda7ae.js?dpl=dpl_GwuwmMc2oZNJkz1tEEADs8shECJt"],"default"]
-12:I[97367,["/_next/static/chunks/ff1a16fafef87110.js?dpl=dpl_GwuwmMc2oZNJkz1tEEADs8shECJt","/_next/static/chunks/803a574de9eda7ae.js?dpl=dpl_GwuwmMc2oZNJkz1tEEADs8shECJt"],"OutletBoundary"]
-13:"$Sreact.suspense"
-15:I[93539,["/_next/static/chunks/0d46db6cf73968fd.js?dpl=dpl_GwuwmMc2oZNJkz1tEEADs8shECJt","/_next/static/chunks/39ad7020066b4868.js?dpl=dpl_GwuwmMc2oZNJkz1tEEADs8shECJt","/_next/static/chunks/33f7e5a25c4fcd0b.js?dpl=dpl_GwuwmMc2oZNJkz1tEEADs8shECJt"],"ThemeToggle"]
-23:I[97367,["/_next/static/chunks/ff1a16fafef87110.js?dpl=dpl_GwuwmMc2oZNJkz1tEEADs8shECJt","/_next/static/chunks/803a574de9eda7ae.js?dpl=dpl_GwuwmMc2oZNJkz1tEEADs8shECJt"],"ViewportBoundary"]
-25:I[97367,["/_next/static/chunks/ff1a16fafef87110.js?dpl=dpl_GwuwmMc2oZNJkz1tEEADs8shECJt","/_next/static/chunks/803a574de9eda7ae.js?dpl=dpl_GwuwmMc2oZNJkz1tEEADs8shECJt"],"MetadataBoundary"]
-:HL["/_next/static/chunks/8be82ca8498e7d4a.css?dpl=dpl_GwuwmMc2oZNJkz1tEEADs8shECJt","style"]
-:HL["/_next/static/media/1b99372b3eaef0c8-s.p.758e15a8.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
-:HL["/_next/static/media/23b7a97ae3b5c134-s.p.2902b61f.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
-:HL["/_next/static/media/68d403cf9f2c68c5-s.p.f9f15f61.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
-:HL["/_next/static/media/99e609270109b47d-s.p.64b9304e.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
-:HL["/_next/static/media/a7e15459c1805da0-s.p.ec654d65.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
-:HL["/_next/static/media/ea3421846039b7f3-s.p.093205c5.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
-:HL["/_next/static/media/effe91970fc4db64-s.p.19510058.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+Yury Lifshits and Steve Korshakov brought complementary but heavily engineering-weighted backgrounds to Openland's founding in 2017. Lifshits had worked as a data scientist at Yahoo and Caltech before becoming a serial entrepreneur, having previously founded Zonaspace, Blended Labs, and Entangled Solutions.<sup><a href="https://vcnewsdaily.com/openland/venture-capital-funding/llbfsslytl">[1]</a></sup><sup><a href="https://www.theconsumervc.com/84-yury-lifshits-openland-how-to-build-a-community-the-hard-pivot-and-minimizing-friction/">[2]</a></sup> Korshakov brought deep messaging infrastructure expertise as a former lead engineer at Telegram and the author of Actor.im, an open-source messaging platform.<sup><a href="https://vcnewsdaily.com/openland/venture-capital-funding/llbfsslytl">[3]</a></sup> The founding team's technical depth was exceptional. Its go-to-market experience was thinner.
+
+<media-image src="https://news.crunchbase.com/wp-content/uploads/2018/08/openland-founders.jpg" alt="Yury Lifshits and Steve Korshakov, co-founders of Openland" caption="Founders Yury Lifshits (CEO) and Steve Korshakov (CTO) — image courtesy of Openland, published in Crunchbase News at the time of their $2.25M seed round announcement in August 2018."></media-image>
+
+The original thesis was grounded in a genuine real estate market inefficiency. The founders identified that the vast majority of buildable urban land never reaches the open market—owners don't list, developers can't find it, and the entire ecosystem of owners, builders, investors, brokers, local officials, and tenants lacks a shared communication layer. At YC W18 Demo Day in March 2018, Lifshits framed the problem directly: "90% of buildable space isn't for sale is the biggest roadblock for the real estate industry."<sup><a href="https://techcrunch.com/2018/03/19/here-are-64-startups-that-launched-today-at-y-combinators-w18-demo-day/">[4]</a></sup>
+
+<media-image src="https://techcrunch.com/wp-content/uploads/2018/03/yc-demo-day-w18.jpg" alt="Y Combinator W18 Demo Day at the Computer History Museum, March 2018" caption="Y Combinator Winter 2018 Demo Day at the Computer History Museum in Mountain View — the event where Openland first publicly pitched its real estate marketplace concept to investors."></media-image>
+
+The pivot away from real estate came quickly—within months of YC graduation. The founders' stated rationale was that building a messaging module for the real estate product revealed a broader opportunity. As they later explained: "While working on its messaging module, we realized that professional messaging in general is much underdeveloped and our talents are better suited for building a horizontal messenger than a vertical marketplace."<sup><a href="https://bestofshowhn.com/yc-w18/openland">[5]</a></sup>
+
+This explanation reveals something important about the founding team's decision-making framework. The pivot was driven by founder-product fit—what the team felt capable of building—rather than by a validated market signal that the real estate product had failed or that a horizontal messenger had a clear acquisition path. Korshakov's background at Telegram made building a messenger feel tractable. That tractability became the justification.
+
+No public record exists of whether the real estate marketplace ever had paying customers, signed letters of intent, or any revenue before the pivot was made. The decision appears to have been made on the basis of founder preference and technical affinity rather than a specific failure signal from the market.
+
+---
 
 ## Founding Story
 

@@ -2,26 +2,16 @@
 
 ## Overview
 
-1:"$Sreact.fragment"
-2:I[39756,["/_next/static/chunks/ff1a16fafef87110.js?dpl=dpl_GwuwmMc2oZNJkz1tEEADs8shECJt","/_next/static/chunks/803a574de9eda7ae.js?dpl=dpl_GwuwmMc2oZNJkz1tEEADs8shECJt"],"default"]
-3:I[8821,["/_next/static/chunks/0d46db6cf73968fd.js?dpl=dpl_GwuwmMc2oZNJkz1tEEADs8shECJt","/_next/static/chunks/5f4dcbc1da431ca9.js?dpl=dpl_GwuwmMc2oZNJkz1tEEADs8shECJt","/_next/static/chunks/33f7e5a25c4fcd0b.js?dpl=dpl_GwuwmMc2oZNJkz1tEEADs8shECJt"],"default"]
-4:I[37457,["/_next/static/chunks/ff1a16fafef87110.js?dpl=dpl_GwuwmMc2oZNJkz1tEEADs8shECJt","/_next/static/chunks/803a574de9eda7ae.js?dpl=dpl_GwuwmMc2oZNJkz1tEEADs8shECJt"],"default"]
-5:I[22016,["/_next/static/chunks/0d46db6cf73968fd.js?dpl=dpl_GwuwmMc2oZNJkz1tEEADs8shECJt","/_next/static/chunks/39ad7020066b4868.js?dpl=dpl_GwuwmMc2oZNJkz1tEEADs8shECJt","/_next/static/chunks/33f7e5a25c4fcd0b.js?dpl=dpl_GwuwmMc2oZNJkz1tEEADs8shECJt"],""]
-6:I[2355,["/_next/static/chunks/0d46db6cf73968fd.js?dpl=dpl_GwuwmMc2oZNJkz1tEEADs8shECJt"],"Analytics"]
-11:I[68027,["/_next/static/chunks/ff1a16fafef87110.js?dpl=dpl_GwuwmMc2oZNJkz1tEEADs8shECJt","/_next/static/chunks/803a574de9eda7ae.js?dpl=dpl_GwuwmMc2oZNJkz1tEEADs8shECJt"],"default"]
-12:I[97367,["/_next/static/chunks/ff1a16fafef87110.js?dpl=dpl_GwuwmMc2oZNJkz1tEEADs8shECJt","/_next/static/chunks/803a574de9eda7ae.js?dpl=dpl_GwuwmMc2oZNJkz1tEEADs8shECJt"],"OutletBoundary"]
-13:"$Sreact.suspense"
-15:I[93539,["/_next/static/chunks/0d46db6cf73968fd.js?dpl=dpl_GwuwmMc2oZNJkz1tEEADs8shECJt","/_next/static/chunks/39ad7020066b4868.js?dpl=dpl_GwuwmMc2oZNJkz1tEEADs8shECJt","/_next/static/chunks/33f7e5a25c4fcd0b.js?dpl=dpl_GwuwmMc2oZNJkz1tEEADs8shECJt"],"ThemeToggle"]
-23:I[97367,["/_next/static/chunks/ff1a16fafef87110.js?dpl=dpl_GwuwmMc2oZNJkz1tEEADs8shECJt","/_next/static/chunks/803a574de9eda7ae.js?dpl=dpl_GwuwmMc2oZNJkz1tEEADs8shECJt"],"ViewportBoundary"]
-25:I[97367,["/_next/static/chunks/ff1a16fafef87110.js?dpl=dpl_GwuwmMc2oZNJkz1tEEADs8shECJt","/_next/static/chunks/803a574de9eda7ae.js?dpl=dpl_GwuwmMc2oZNJkz1tEEADs8shECJt"],"MetadataBoundary"]
-:HL["/_next/static/chunks/8be82ca8498e7d4a.css?dpl=dpl_GwuwmMc2oZNJkz1tEEADs8shECJt","style"]
-:HL["/_next/static/media/1b99372b3eaef0c8-s.p.758e15a8.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
-:HL["/_next/static/media/23b7a97ae3b5c134-s.p.2902b61f.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
-:HL["/_next/static/media/68d403cf9f2c68c5-s.p.f9f15f61.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
-:HL["/_next/static/media/99e609270109b47d-s.p.64b9304e.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
-:HL["/_next/static/media/a7e15459c1805da0-s.p.ec654d65.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
-:HL["/_next/static/media/ea3421846039b7f3-s.p.093205c5.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
-:HL["/_next/static/media/effe91970fc4db64-s.p.19510058.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+Creative Market is an online marketplace for user-generated design assets — fonts, graphics, templates, illustrations, icons, and web themes — founded in San Francisco in 2011 by Aaron Epstein, Chris Williams, and Darius Monsef. The company emerged from a deliberate pivot away from COLOURlovers, a Y Combinator-backed color inspiration community the same founders had built, and launched publicly in late 2012. It was acquired by Autodesk in 2014, spun back out as an independent company in 2017, and acquired again by Dribbble (owned by Tiny) in 2020. As of 2026, it continues to operate and grow.
+
+This is not a failure story. Creative Market is one of the more instructive success cases in the YC portfolio precisely because its defining moment was a willingness to abandon a working business — COLOURlovers, generating roughly $500K in annual revenue with over one million members — in favor of a harder, more monetizable one. The founders correctly diagnosed that high engagement without a direct payment mechanism is a structural ceiling, not a growth opportunity.
+
+The outcome validated that diagnosis. By June 2024, creators on the platform had collectively earned over $165 million in lifetime earnings. <sup><a href="https://www.newswire.com/news/creative-market-adds-5-000-new-independent-creator-shops-22369653">[1]</a></sup> Aaron Epstein went on to become a General Partner at Y Combinator. <sup><a href="https://www.ycombinator.com/people/aaron-epstein">[2]</a></sup> The platform's two acquisitions — one a strategic misfit that nonetheless funded 7x growth, the other a natural home inside a design-community ecosystem — trace a path that few early-stage marketplaces manage to walk.
+
+<report-gallery>
+<media-image src="https://images.squarespace-cdn.com/content/v1/627bc6447503e23c3b15db50/1659719081861-3VD6ONCIROCU96GQ4F75/image-asset.png?format=300w" alt="Creative Market product interface showing design assets in Canva" caption="Creative Market's design assets embedded in a third-party workflow — the platform's strategy of meeting designers inside their existing tools, not just on the marketplace itself."></media-image>
+<media-image src="https://images.squarespace-cdn.com/content/v1/627bc6447503e23c3b15db50/1659719082774-ZLRVE9JKN5U7UBU0MA1V/image-asset.png?format=300w" alt="Creative Market product browsing interface" caption="The Creative Market browsing experience circa 2022 — a catalog that grew from 25,000 products at the 2014 Autodesk acquisition to over 10 million by 2023."></media-image>
+</report-gallery>
 
 ## Founding Story
 

@@ -2,6 +2,17 @@
 
 ## Overview
 
+OneGraph was a San Francisco-based developer tools startup founded in July 2018 by Sean Grove and Daniel Woelfel. The company built a single GraphQL endpoint that aggregated dozens of SaaS APIs — Salesforce, Stripe, GitHub, Clearbit, Gmail, Twilio, Zendesk, and more — into a unified interface, handling authentication, parallelization, caching, and queuing behind a single request. It participated in Y Combinator's Summer 2018 batch and later raised a seed round from SignalFire and Perceptual Networks before being acquired by Netlify in November 2021.<sup><a href="https://www.ycombinator.com/companies/onegraph">[1]</a></sup>
+
+OneGraph built genuinely useful infrastructure, but it operated as a two-person team in a market that rewarded either massive API partnership scale or deep platform embedding. The company never publicly disclosed revenue, user counts, or growth metrics — a silence that, combined with a sub-$1M headcount and no evidence of a sales function, suggests the business never reached the scale needed to survive independently.
+
+Netlify acquired OneGraph on November 17, 2021, simultaneously with closing a $105M Series D at a $2B valuation — a signal that the deal was a strategic capability purchase, not a distress acquisition.<sup><a href="https://en.wikipedia.org/wiki/Netlify">[2]</a></sup> Both founders joined Netlify in senior engineering roles. The outcome was a clean acqui-hire with a technology integration story attached: OneGraph's infrastructure became Netlify API Authentication, and its founders briefly led API ecosystem strategy before moving on to other ventures.
+
+<report-gallery>
+<media-image src="https://bookface-images.s3.amazonaws.com/avatars/beac2fb5c7b8410c82c15eac74e5a15bea537203.jpg" alt="Sean Grove, co-founder of OneGraph" caption="Sean Grove, co-founder of OneGraph — serial YC founder who previously built Bushido (YC S11) and worked at Sauce Labs before identifying the API integration pain that became OneGraph's founding thesis."></media-image>
+<media-image src="https://bookface-images.s3.amazonaws.com/avatars/ee2a54305f7d9ec7eab20e349405ad1b3245bf9c.jpg" alt="Daniel Woelfel, co-founder of OneGraph" caption="Daniel Woelfel, co-founder of OneGraph — the engineering counterpart who co-built the ReasonML backend and shipped the graphiql-explorer that spread across the GraphQL ecosystem."></media-image>
+</report-gallery>
+
 ## Founding Story
 
 Sean Grove arrived at OneGraph with a résumé that read like a tour of developer infrastructure. He had co-founded Bushido, a developer tools company in Y Combinator's S11 batch, then worked at Sauce Labs — a cross-browser testing infrastructure company — and built PayGarden, a gift card payment platform.<sup><a href="https://www.riseos.com/">[3]</a></sup> Each stop gave him direct exposure to the same recurring problem: integrating a product into third-party SaaS APIs was painful, repetitive, and never got easier regardless of how many times you did it.

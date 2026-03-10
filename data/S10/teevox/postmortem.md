@@ -8,26 +8,19 @@ The core thesis of failure is one of timing: Teevox built a technically sophisti
 
 ## Founding Story
 
-1:"$Sreact.fragment"
-2:I[39756,["/_next/static/chunks/ff1a16fafef87110.js?dpl=dpl_GwuwmMc2oZNJkz1tEEADs8shECJt","/_next/static/chunks/803a574de9eda7ae.js?dpl=dpl_GwuwmMc2oZNJkz1tEEADs8shECJt"],"default"]
-3:I[8821,["/_next/static/chunks/0d46db6cf73968fd.js?dpl=dpl_GwuwmMc2oZNJkz1tEEADs8shECJt","/_next/static/chunks/5f4dcbc1da431ca9.js?dpl=dpl_GwuwmMc2oZNJkz1tEEADs8shECJt","/_next/static/chunks/33f7e5a25c4fcd0b.js?dpl=dpl_GwuwmMc2oZNJkz1tEEADs8shECJt"],"default"]
-4:I[37457,["/_next/static/chunks/ff1a16fafef87110.js?dpl=dpl_GwuwmMc2oZNJkz1tEEADs8shECJt","/_next/static/chunks/803a574de9eda7ae.js?dpl=dpl_GwuwmMc2oZNJkz1tEEADs8shECJt"],"default"]
-5:I[22016,["/_next/static/chunks/0d46db6cf73968fd.js?dpl=dpl_GwuwmMc2oZNJkz1tEEADs8shECJt","/_next/static/chunks/39ad7020066b4868.js?dpl=dpl_GwuwmMc2oZNJkz1tEEADs8shECJt","/_next/static/chunks/33f7e5a25c4fcd0b.js?dpl=dpl_GwuwmMc2oZNJkz1tEEADs8shECJt"],""]
-6:I[2355,["/_next/static/chunks/0d46db6cf73968fd.js?dpl=dpl_GwuwmMc2oZNJkz1tEEADs8shECJt"],"Analytics"]
-11:I[68027,["/_next/static/chunks/ff1a16fafef87110.js?dpl=dpl_GwuwmMc2oZNJkz1tEEADs8shECJt","/_next/static/chunks/803a574de9eda7ae.js?dpl=dpl_GwuwmMc2oZNJkz1tEEADs8shECJt"],"default"]
-12:I[97367,["/_next/static/chunks/ff1a16fafef87110.js?dpl=dpl_GwuwmMc2oZNJkz1tEEADs8shECJt","/_next/static/chunks/803a574de9eda7ae.js?dpl=dpl_GwuwmMc2oZNJkz1tEEADs8shECJt"],"OutletBoundary"]
-13:"$Sreact.suspense"
-15:I[93539,["/_next/static/chunks/0d46db6cf73968fd.js?dpl=dpl_GwuwmMc2oZNJkz1tEEADs8shECJt","/_next/static/chunks/39ad7020066b4868.js?dpl=dpl_GwuwmMc2oZNJkz1tEEADs8shECJt","/_next/static/chunks/33f7e5a25c4fcd0b.js?dpl=dpl_GwuwmMc2oZNJkz1tEEADs8shECJt"],"ThemeToggle"]
-23:I[97367,["/_next/static/chunks/ff1a16fafef87110.js?dpl=dpl_GwuwmMc2oZNJkz1tEEADs8shECJt","/_next/static/chunks/803a574de9eda7ae.js?dpl=dpl_GwuwmMc2oZNJkz1tEEADs8shECJt"],"ViewportBoundary"]
-25:I[97367,["/_next/static/chunks/ff1a16fafef87110.js?dpl=dpl_GwuwmMc2oZNJkz1tEEADs8shECJt","/_next/static/chunks/803a574de9eda7ae.js?dpl=dpl_GwuwmMc2oZNJkz1tEEADs8shECJt"],"MetadataBoundary"]
-:HL["/_next/static/chunks/8be82ca8498e7d4a.css?dpl=dpl_GwuwmMc2oZNJkz1tEEADs8shECJt","style"]
-:HL["/_next/static/media/1b99372b3eaef0c8-s.p.758e15a8.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
-:HL["/_next/static/media/23b7a97ae3b5c134-s.p.2902b61f.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
-:HL["/_next/static/media/68d403cf9f2c68c5-s.p.f9f15f61.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
-:HL["/_next/static/media/99e609270109b47d-s.p.64b9304e.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
-:HL["/_next/static/media/a7e15459c1805da0-s.p.ec654d65.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
-:HL["/_next/static/media/ea3421846039b7f3-s.p.093205c5.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
-:HL["/_next/static/media/effe91970fc4db64-s.p.19510058.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+Teevox was founded in 2010 by Jong-Moon Kim (known online as "Jiggity") and Andrew Sugaya, both former MIT students. <sup><a href="https://techcrunch.com/2010/08/19/teevox/">[2]</a></sup> Sugaya graduated at the top of his class. <sup><a href="https://usa2018.augmentedworldexpo.com/speakers/andrew-sugaya/">[3]</a></sup> The company was headquartered in Cupertino, California, placing it squarely inside the consumer tech ecosystem that defined the early smartphone era. <sup><a href="https://www.ycombinator.com/companies/teevox">[4]</a></sup>
+
+The founding insight was straightforward and grounded in a real product gap. In 2010, the market for iPhone remote control apps was crowded, but Kim observed that every existing solution required either proprietary hardware — an Apple TV, a Boxee box — or a separate software installation on the target computer. His pitch was that Teevox required neither. As Kim put it at the time: "While there are hundreds, if not thousands of iPhone remote apps. If you take a closer look, you'll notice they all require proprietary hardware (Apple TV, Boxee) or separate software you need to download and install." <sup><a href="https://techcrunch.com/2010/08/19/teevox/">[5]</a></sup> The product, teevoxRemote, let a user control Hulu and Netflix from their iPhone without touching anything else.
+
+The team was accepted into Y Combinator's Summer 2010 cohort — one of 36 companies in what TechCrunch described as YC's biggest Demo Day yet. <sup><a href="https://readwrite.com/2010/08/24/ycombinator-demoday">[6]</a></sup> YC provided early validation, network access, and a seed check of approximately $20,000, with angel investor David Nakayama also participating. <sup><a href="https://www.cbinsights.com/company/teevox">[7]</a></sup>
+
+<media-image src="https://techcrunch.com/wp-content/uploads/2010/08/teevox.png" alt="Teevox iPhone remote app interface showing Hulu and Netflix control screen" caption="TechCrunch's August 2010 coverage of Teevox — the YC S10 startup that turned an iPhone into a remote control for Hulu and Netflix without requiring any additional hardware or software."></media-image>
+
+The original product did not survive long enough to become the company's defining identity. At some point in 2011, Kim made a pivot that would reshape Teevox entirely. He was a StarCraft player and fan of competitive gaming, and he noticed that watching multiple eSports livestreams simultaneously on Twitch was technically impossible with existing tools. He built a multi-stream viewer, initially naming it after a StarCraft unit called the Warp Prism, then rebranded it as Teevox to generalize the product across other games. <sup><a href="https://www.alistdaily.com/strategy/how-teevox-was-resurrected-for-new-age-of-esports/">[8]</a></sup>
+
+The pivot was organic rather than strategic — a founder scratching his own itch — and it would define both the company's peak and its eventual collapse.
+
+---
 
 ## Timeline
 

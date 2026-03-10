@@ -2,26 +2,23 @@
 
 ## Overview
 
-1:"$Sreact.fragment"
-2:I[39756,["/_next/static/chunks/ff1a16fafef87110.js?dpl=dpl_GwuwmMc2oZNJkz1tEEADs8shECJt","/_next/static/chunks/803a574de9eda7ae.js?dpl=dpl_GwuwmMc2oZNJkz1tEEADs8shECJt"],"default"]
-3:I[8821,["/_next/static/chunks/0d46db6cf73968fd.js?dpl=dpl_GwuwmMc2oZNJkz1tEEADs8shECJt","/_next/static/chunks/5f4dcbc1da431ca9.js?dpl=dpl_GwuwmMc2oZNJkz1tEEADs8shECJt","/_next/static/chunks/33f7e5a25c4fcd0b.js?dpl=dpl_GwuwmMc2oZNJkz1tEEADs8shECJt"],"default"]
-4:I[37457,["/_next/static/chunks/ff1a16fafef87110.js?dpl=dpl_GwuwmMc2oZNJkz1tEEADs8shECJt","/_next/static/chunks/803a574de9eda7ae.js?dpl=dpl_GwuwmMc2oZNJkz1tEEADs8shECJt"],"default"]
-5:I[22016,["/_next/static/chunks/0d46db6cf73968fd.js?dpl=dpl_GwuwmMc2oZNJkz1tEEADs8shECJt","/_next/static/chunks/39ad7020066b4868.js?dpl=dpl_GwuwmMc2oZNJkz1tEEADs8shECJt","/_next/static/chunks/33f7e5a25c4fcd0b.js?dpl=dpl_GwuwmMc2oZNJkz1tEEADs8shECJt"],""]
-6:I[2355,["/_next/static/chunks/0d46db6cf73968fd.js?dpl=dpl_GwuwmMc2oZNJkz1tEEADs8shECJt"],"Analytics"]
-11:I[68027,["/_next/static/chunks/ff1a16fafef87110.js?dpl=dpl_GwuwmMc2oZNJkz1tEEADs8shECJt","/_next/static/chunks/803a574de9eda7ae.js?dpl=dpl_GwuwmMc2oZNJkz1tEEADs8shECJt"],"default"]
-12:I[97367,["/_next/static/chunks/ff1a16fafef87110.js?dpl=dpl_GwuwmMc2oZNJkz1tEEADs8shECJt","/_next/static/chunks/803a574de9eda7ae.js?dpl=dpl_GwuwmMc2oZNJkz1tEEADs8shECJt"],"OutletBoundary"]
-13:"$Sreact.suspense"
-15:I[93539,["/_next/static/chunks/0d46db6cf73968fd.js?dpl=dpl_GwuwmMc2oZNJkz1tEEADs8shECJt","/_next/static/chunks/39ad7020066b4868.js?dpl=dpl_GwuwmMc2oZNJkz1tEEADs8shECJt","/_next/static/chunks/33f7e5a25c4fcd0b.js?dpl=dpl_GwuwmMc2oZNJkz1tEEADs8shECJt"],"ThemeToggle"]
-23:I[97367,["/_next/static/chunks/ff1a16fafef87110.js?dpl=dpl_GwuwmMc2oZNJkz1tEEADs8shECJt","/_next/static/chunks/803a574de9eda7ae.js?dpl=dpl_GwuwmMc2oZNJkz1tEEADs8shECJt"],"ViewportBoundary"]
-25:I[97367,["/_next/static/chunks/ff1a16fafef87110.js?dpl=dpl_GwuwmMc2oZNJkz1tEEADs8shECJt","/_next/static/chunks/803a574de9eda7ae.js?dpl=dpl_GwuwmMc2oZNJkz1tEEADs8shECJt"],"MetadataBoundary"]
-:HL["/_next/static/chunks/8be82ca8498e7d4a.css?dpl=dpl_GwuwmMc2oZNJkz1tEEADs8shECJt","style"]
-:HL["/_next/static/media/1b99372b3eaef0c8-s.p.758e15a8.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
-:HL["/_next/static/media/23b7a97ae3b5c134-s.p.2902b61f.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
-:HL["/_next/static/media/68d403cf9f2c68c5-s.p.f9f15f61.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
-:HL["/_next/static/media/99e609270109b47d-s.p.64b9304e.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
-:HL["/_next/static/media/a7e15459c1805da0-s.p.ec654d65.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
-:HL["/_next/static/media/ea3421846039b7f3-s.p.093205c5.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
-:HL["/_next/static/media/effe91970fc4db64-s.p.19510058.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+CareLedger was founded in 2014 in Sunnyvale, California, by three co-founders whose combined credentials were unusually strong for an early-stage startup: Oliver Takach as CEO, Nik Swain as CTO, and Klaus Mergener as the domain expert and physician co-founder. <sup><a href="https://tracxn.com/d/companies/careledger/__GlHg6BmJWSy-8ANF3iefYZzixBlCS_vPzhiCC-x6m6c">[3]</a></sup><sup><a href="https://www.ycombinator.com/companies/careledger">[4]</a></sup>
+
+Oliver Takach brought a scientific and operational background to the CEO role. He holds a Master of Science in Molecular Neuroscience from Simon Fraser University and a Bachelor of Science in Chemistry with an emphasis in Biochemistry. Before CareLedger, he worked as a Clinical Scientist at Providence Health & Services, where he developed and managed clinical studies — giving him direct exposure to the inefficiencies of healthcare delivery from the inside. <sup><a href="https://clay.earth/profile/oliver-takach">[5]</a></sup> Takach had also previously founded Aiddly Health in 2014, an automated healthcare product company, suggesting CareLedger was not his first attempt to solve a healthcare problem but rather a more focused iteration on a theme. <sup><a href="https://theorg.com/org/keep-technologies/org-chart/oliver-takach">[6]</a></sup>
+
+Klaus Mergener brought the kind of insider credibility that most health-tech startups spend years trying to manufacture. An MD, PhD, and MBA, Mergener was a practicing gastroenterologist — a specialty directly relevant to the elective ambulatory procedures CareLedger targeted. A May 2015 profile in Becker's ASC described CareLedger as "a health benefits platform that enables self-insured businesses to direct their employees to high quality, low cost providers for elective ambulatory medical services." <sup><a href="https://www.beckersasc.com/gastroenterology-and-endoscopy/gi-physician-leader-to-know-dr-klaus-mergener-of-digestive-health-specialists/">[7]</a></sup> His presence on the founding team gave CareLedger a credible answer to the question every employer benefits buyer would ask: how do you know which providers are actually high quality?
+
+Nik Swain rounded out the team as CTO, overseeing technology strategy and implementation through the YC program. <sup><a href="https://www.zoominfo.com/p/Nik-Swain/1546257823">[8]</a></sup>
+
+The founding insight appears to have emerged from Takach's clinical experience: healthcare pricing in the United States is opaque by design, and self-insured employers — who bear the direct financial risk of their employees' medical claims — had no reliable tool to steer employees toward lower-cost, equivalent-quality providers. The founding team was assembled before YC acceptance, suggesting genuine conviction in the problem rather than opportunistic formation around a funding opportunity.
+
+Takach was actively doing customer development well before the YC Demo Day. In April 2015, he attended BenefitsConf — an industry conference for employer benefits professionals — and was publicly identifying himself as building CareLedger.
+
+<media-tweet url="https://twitter.com/thetakach/status/585954760903135232" author="@TheTakach" date="2015-04-08" text="Use storytelling to make complex concepts digestible and more likely to be acted upon! So simple, yet so difficult to remember #BenefitsConf"></media-tweet>
+
+His bio at the time read: "Working on better outcomes, better experiences, and way lower costs for healthcare. CareLedger.com" — indicating the brand and pitch were already formed months before the public launch.
+
+---
 
 ## Founding Story
 

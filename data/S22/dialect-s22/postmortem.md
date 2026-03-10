@@ -8,26 +8,17 @@ The company raised approximately $150K in confirmed funding, never grew beyond t
 
 ## Founding Story
 
-1:"$Sreact.fragment"
-2:I[39756,["/_next/static/chunks/ff1a16fafef87110.js?dpl=dpl_GwuwmMc2oZNJkz1tEEADs8shECJt","/_next/static/chunks/803a574de9eda7ae.js?dpl=dpl_GwuwmMc2oZNJkz1tEEADs8shECJt"],"default"]
-3:I[8821,["/_next/static/chunks/0d46db6cf73968fd.js?dpl=dpl_GwuwmMc2oZNJkz1tEEADs8shECJt","/_next/static/chunks/5f4dcbc1da431ca9.js?dpl=dpl_GwuwmMc2oZNJkz1tEEADs8shECJt","/_next/static/chunks/33f7e5a25c4fcd0b.js?dpl=dpl_GwuwmMc2oZNJkz1tEEADs8shECJt"],"default"]
-4:I[37457,["/_next/static/chunks/ff1a16fafef87110.js?dpl=dpl_GwuwmMc2oZNJkz1tEEADs8shECJt","/_next/static/chunks/803a574de9eda7ae.js?dpl=dpl_GwuwmMc2oZNJkz1tEEADs8shECJt"],"default"]
-5:I[22016,["/_next/static/chunks/0d46db6cf73968fd.js?dpl=dpl_GwuwmMc2oZNJkz1tEEADs8shECJt","/_next/static/chunks/39ad7020066b4868.js?dpl=dpl_GwuwmMc2oZNJkz1tEEADs8shECJt","/_next/static/chunks/33f7e5a25c4fcd0b.js?dpl=dpl_GwuwmMc2oZNJkz1tEEADs8shECJt"],""]
-6:I[2355,["/_next/static/chunks/0d46db6cf73968fd.js?dpl=dpl_GwuwmMc2oZNJkz1tEEADs8shECJt"],"Analytics"]
-11:I[68027,["/_next/static/chunks/ff1a16fafef87110.js?dpl=dpl_GwuwmMc2oZNJkz1tEEADs8shECJt","/_next/static/chunks/803a574de9eda7ae.js?dpl=dpl_GwuwmMc2oZNJkz1tEEADs8shECJt"],"default"]
-12:I[97367,["/_next/static/chunks/ff1a16fafef87110.js?dpl=dpl_GwuwmMc2oZNJkz1tEEADs8shECJt","/_next/static/chunks/803a574de9eda7ae.js?dpl=dpl_GwuwmMc2oZNJkz1tEEADs8shECJt"],"OutletBoundary"]
-13:"$Sreact.suspense"
-15:I[93539,["/_next/static/chunks/0d46db6cf73968fd.js?dpl=dpl_GwuwmMc2oZNJkz1tEEADs8shECJt","/_next/static/chunks/39ad7020066b4868.js?dpl=dpl_GwuwmMc2oZNJkz1tEEADs8shECJt","/_next/static/chunks/33f7e5a25c4fcd0b.js?dpl=dpl_GwuwmMc2oZNJkz1tEEADs8shECJt"],"ThemeToggle"]
-23:I[97367,["/_next/static/chunks/ff1a16fafef87110.js?dpl=dpl_GwuwmMc2oZNJkz1tEEADs8shECJt","/_next/static/chunks/803a574de9eda7ae.js?dpl=dpl_GwuwmMc2oZNJkz1tEEADs8shECJt"],"ViewportBoundary"]
-25:I[97367,["/_next/static/chunks/ff1a16fafef87110.js?dpl=dpl_GwuwmMc2oZNJkz1tEEADs8shECJt","/_next/static/chunks/803a574de9eda7ae.js?dpl=dpl_GwuwmMc2oZNJkz1tEEADs8shECJt"],"MetadataBoundary"]
-:HL["/_next/static/chunks/8be82ca8498e7d4a.css?dpl=dpl_GwuwmMc2oZNJkz1tEEADs8shECJt","style"]
-:HL["/_next/static/media/1b99372b3eaef0c8-s.p.758e15a8.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
-:HL["/_next/static/media/23b7a97ae3b5c134-s.p.2902b61f.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
-:HL["/_next/static/media/68d403cf9f2c68c5-s.p.f9f15f61.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
-:HL["/_next/static/media/99e609270109b47d-s.p.64b9304e.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
-:HL["/_next/static/media/a7e15459c1805da0-s.p.ec654d65.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
-:HL["/_next/static/media/ea3421846039b7f3-s.p.093205c5.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
-:HL["/_next/static/media/effe91970fc4db64-s.p.19510058.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+Dialect was founded in 2022 by three longtime friends who met during their time at Stanford and Google. <sup><a href="https://www.ycombinator.com/launches/JjA-dialect-copilot-for-vendor-questionnaires">[1]</a></sup> The team brought genuine technical depth: Tony Ginart completed a PhD in Electrical Engineering (machine learning) at Stanford in the summer of 2022, advised by Professor James Zou and supported by a Stanford Bio-X Graduate Fellowship. <sup><a href="https://www.tginart.dev/">[2]</a></sup> James Thomas completed a Stanford PhD focused on data systems. Tejas Sundaresan came from the product and engineering side, having worked as an ML engineer and product manager at Google Research. <sup><a href="https://www.ycombinator.com/launches/JjA-dialect-copilot-for-vendor-questionnaires">[3]</a></sup>
+
+The founding moment was direct: Ginart finished his PhD in summer 2022 and co-founded Dialect almost immediately, channeling his academic research momentum into a commercial product. <sup><a href="https://www.tginart.dev/">[4]</a></sup> The team described their motivation in their YC launch post: "We're longtime friends since college and grad school who came together around a shared passion for AI products." <sup><a href="https://www.ycombinator.com/launches/JjA-dialect-copilot-for-vendor-questionnaires">[5]</a></sup>
+
+The problem they identified was concrete. Sales engineering and field security teams at software companies spend significant time manually answering repetitive vendor questionnaires—documents that ask largely the same questions about security posture, compliance certifications, and product capabilities. The answers already exist somewhere inside the company, buried in help centers, security reports, and prior questionnaire responses. The founders believed that large language models, grounded in a company's own content library, could automate the first draft of every questionnaire and eliminate most of the manual work.
+
+Dialect was accepted into Y Combinator's Summer 2022 batch, giving the team its initial $150K in funding and institutional validation. <sup><a href="https://www.ycombinator.com/companies/dialect-2">[6]</a></sup> Soma Capital later joined as an institutional investor in a seed round recorded in February 2023. <sup><a href="https://tracxn.com/d/companies/dialect/__Vdim91yKfJBl4jW1kP8e24K8lMQ-1m05Hg3c51uf8DQ">[7]</a></sup>
+
+One structural ambiguity worth noting: Dialect's legal entity was registered as Drifto Technologies Inc., and Crunchbase conflates the company with an entity called "Questa." <sup><a href="https://www.crunchbase.com/organization/questa-7e15">[8]</a></sup> Whether Questa represents a late pivot of Dialect or a separate post-Dialect venture by one or more founders remains unresolved in the public record.
+
+---
 
 ## Timeline
 

@@ -8,26 +8,19 @@ The core thesis of failure is straightforward: a solo founder with minimal capit
 
 ## Founding Story
 
-1:"$Sreact.fragment"
-2:I[39756,["/_next/static/chunks/ff1a16fafef87110.js?dpl=dpl_GwuwmMc2oZNJkz1tEEADs8shECJt","/_next/static/chunks/803a574de9eda7ae.js?dpl=dpl_GwuwmMc2oZNJkz1tEEADs8shECJt"],"default"]
-3:I[8821,["/_next/static/chunks/0d46db6cf73968fd.js?dpl=dpl_GwuwmMc2oZNJkz1tEEADs8shECJt","/_next/static/chunks/5f4dcbc1da431ca9.js?dpl=dpl_GwuwmMc2oZNJkz1tEEADs8shECJt","/_next/static/chunks/33f7e5a25c4fcd0b.js?dpl=dpl_GwuwmMc2oZNJkz1tEEADs8shECJt"],"default"]
-4:I[37457,["/_next/static/chunks/ff1a16fafef87110.js?dpl=dpl_GwuwmMc2oZNJkz1tEEADs8shECJt","/_next/static/chunks/803a574de9eda7ae.js?dpl=dpl_GwuwmMc2oZNJkz1tEEADs8shECJt"],"default"]
-5:I[22016,["/_next/static/chunks/0d46db6cf73968fd.js?dpl=dpl_GwuwmMc2oZNJkz1tEEADs8shECJt","/_next/static/chunks/39ad7020066b4868.js?dpl=dpl_GwuwmMc2oZNJkz1tEEADs8shECJt","/_next/static/chunks/33f7e5a25c4fcd0b.js?dpl=dpl_GwuwmMc2oZNJkz1tEEADs8shECJt"],""]
-6:I[2355,["/_next/static/chunks/0d46db6cf73968fd.js?dpl=dpl_GwuwmMc2oZNJkz1tEEADs8shECJt"],"Analytics"]
-11:I[68027,["/_next/static/chunks/ff1a16fafef87110.js?dpl=dpl_GwuwmMc2oZNJkz1tEEADs8shECJt","/_next/static/chunks/803a574de9eda7ae.js?dpl=dpl_GwuwmMc2oZNJkz1tEEADs8shECJt"],"default"]
-12:I[97367,["/_next/static/chunks/ff1a16fafef87110.js?dpl=dpl_GwuwmMc2oZNJkz1tEEADs8shECJt","/_next/static/chunks/803a574de9eda7ae.js?dpl=dpl_GwuwmMc2oZNJkz1tEEADs8shECJt"],"OutletBoundary"]
-13:"$Sreact.suspense"
-15:I[93539,["/_next/static/chunks/0d46db6cf73968fd.js?dpl=dpl_GwuwmMc2oZNJkz1tEEADs8shECJt","/_next/static/chunks/39ad7020066b4868.js?dpl=dpl_GwuwmMc2oZNJkz1tEEADs8shECJt","/_next/static/chunks/33f7e5a25c4fcd0b.js?dpl=dpl_GwuwmMc2oZNJkz1tEEADs8shECJt"],"ThemeToggle"]
-23:I[97367,["/_next/static/chunks/ff1a16fafef87110.js?dpl=dpl_GwuwmMc2oZNJkz1tEEADs8shECJt","/_next/static/chunks/803a574de9eda7ae.js?dpl=dpl_GwuwmMc2oZNJkz1tEEADs8shECJt"],"ViewportBoundary"]
-25:I[97367,["/_next/static/chunks/ff1a16fafef87110.js?dpl=dpl_GwuwmMc2oZNJkz1tEEADs8shECJt","/_next/static/chunks/803a574de9eda7ae.js?dpl=dpl_GwuwmMc2oZNJkz1tEEADs8shECJt"],"MetadataBoundary"]
-:HL["/_next/static/chunks/8be82ca8498e7d4a.css?dpl=dpl_GwuwmMc2oZNJkz1tEEADs8shECJt","style"]
-:HL["/_next/static/media/1b99372b3eaef0c8-s.p.758e15a8.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
-:HL["/_next/static/media/23b7a97ae3b5c134-s.p.2902b61f.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
-:HL["/_next/static/media/68d403cf9f2c68c5-s.p.f9f15f61.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
-:HL["/_next/static/media/99e609270109b47d-s.p.64b9304e.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
-:HL["/_next/static/media/a7e15459c1805da0-s.p.ec654d65.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
-:HL["/_next/static/media/ea3421846039b7f3-s.p.093205c5.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
-:HL["/_next/static/media/effe91970fc4db64-s.p.19510058.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+Travis Kiefer grew up in low-income rural South Dakota and was the first in his family to attend college.<sup><a href="https://techcrunch.com/2010/12/03/for-27-this-kid-will-do-whatever-you-want-in-antartica-on-tuesday/">[2]</a></sup> He enrolled at Stanford University after graduating from Groton High School in 2006, entering an environment that would expose him to Silicon Valley's startup culture at its most formative post-iPhone moment.
+
+At Stanford, Kiefer demonstrated early entrepreneurial instincts by founding Gumball Capital, a non-profit designed to spread entrepreneurship and philanthropy among college students.<sup><a href="https://techcrunch.com/2010/12/03/for-27-this-kid-will-do-whatever-you-want-in-antartica-on-tuesday/">[3]</a></sup> The organization attracted enough attention to earn a TechCrunch mention in December 2010, signaling that Kiefer could build and promote a project with limited resources. However, Gumball Capital was a non-profit with a community-building mission—structurally different from the two-sided commercial marketplace he would attempt to build with BookSolid.
+
+No co-founders have been identified in any available record. Kiefer appears to have entered YC's Winter 2012 batch as a solo founder—a significant structural risk for a marketplace business that requires simultaneous acquisition of supply (tour operators) and demand (travelers), typically demanding parallel sales, product, and marketing execution.
+
+The insight behind BookSolid followed a pattern common to YC companies of that era: take a proven marketplace model (OpenTable's restaurant reservation system) and apply it to an adjacent, underserved vertical. OpenTable had demonstrated by 2012 that fragmented SMB service providers—restaurants—could be aggregated onto a single booking platform, generating value for both operators and consumers. Tour operators presented a similar profile: thousands of small, independent businesses with no unified discovery or booking layer, relying on phone calls, email, and travel agents to fill capacity.
+
+What Kiefer's background did not include, as far as available records show, was direct experience in travel, tourism, or B2B SaaS sales. The tour operator market's specific dynamics—seasonal demand, high operator distrust of technology intermediaries, and the dominance of established players like Viator—would prove to be a different challenge than the restaurant industry OpenTable had navigated.
+
+BookSolid was headquartered in Mountain View, CA, consistent with YC participation, and entered the program in January 2012.<sup><a href="https://pitchbook.com/profiles/company/226168-75">[4]</a></sup>
+
+---
 
 ## Timeline
 

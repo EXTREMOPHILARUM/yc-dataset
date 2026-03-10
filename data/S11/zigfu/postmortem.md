@@ -2,6 +2,14 @@
 
 ## Overview
 
+Zigfu was a San Francisco-based developer tools startup that built a cross-platform software development kit (SDK) on top of Microsoft Kinect and other depth-sensing hardware.Founded in 2011 and backed by Y Combinator's Summer 2011 batch, the company's core thesis was that gesture-control technology would become a mainstream computing interface — and that Zigfu would own the developer tooling layer that made it accessible.
+
+The company attracted genuine developer interest, secured OEM licensing deals, and earned validation from Microsoft's own developer channel.But it never raised a second round of funding, launched its commercial product nearly a year late, and dissolved gradually through 2012 as co-founders departed one by one. The primary cause of failure was a self-reinforcing trap: the team spent its limited runway chasing venture capital instead of monetizing the organic traction it had already built, and by the time it launched a commercial product, there was no money left to grow it. <sup><a href="http://fpgacomputing.blogspot.com/2012/10/fear-and-loathing-at-zigfu-my.html">[1]</a></sup>
+
+<report-gallery>
+<media-image src="https://www.researchgate.net/publication/335106372/figure/fig3/AS:790711423221761@1565531702543/The-commercial-package-Zigfu-allows-multiple-players-and-interaction-with-physical.jpg" alt="The commercial package Zigfu allows multiple players and interaction with physical objects" caption="Zigfu's commercial SDK in action — multiple players tracked simultaneously against a physical backdrop, the kind of demo that made Paul Graham do the hokey-pokey and put the company on VentureBeat's 'startups to watch' list at YC S11 Demo Day."></media-image>
+</report-gallery>
+
 ## Founding Story
 
 Zigfu's origin story begins with a piece of consumer hardware and a founder who couldn't leave it alone.

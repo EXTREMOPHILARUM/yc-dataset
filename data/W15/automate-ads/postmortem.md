@@ -4,26 +4,17 @@
 
 ## Founding Story
 
-1:"$Sreact.fragment"
-2:I[39756,["/_next/static/chunks/ff1a16fafef87110.js?dpl=dpl_GwuwmMc2oZNJkz1tEEADs8shECJt","/_next/static/chunks/803a574de9eda7ae.js?dpl=dpl_GwuwmMc2oZNJkz1tEEADs8shECJt"],"default"]
-3:I[8821,["/_next/static/chunks/0d46db6cf73968fd.js?dpl=dpl_GwuwmMc2oZNJkz1tEEADs8shECJt","/_next/static/chunks/5f4dcbc1da431ca9.js?dpl=dpl_GwuwmMc2oZNJkz1tEEADs8shECJt","/_next/static/chunks/33f7e5a25c4fcd0b.js?dpl=dpl_GwuwmMc2oZNJkz1tEEADs8shECJt"],"default"]
-4:I[37457,["/_next/static/chunks/ff1a16fafef87110.js?dpl=dpl_GwuwmMc2oZNJkz1tEEADs8shECJt","/_next/static/chunks/803a574de9eda7ae.js?dpl=dpl_GwuwmMc2oZNJkz1tEEADs8shECJt"],"default"]
-5:I[22016,["/_next/static/chunks/0d46db6cf73968fd.js?dpl=dpl_GwuwmMc2oZNJkz1tEEADs8shECJt","/_next/static/chunks/39ad7020066b4868.js?dpl=dpl_GwuwmMc2oZNJkz1tEEADs8shECJt","/_next/static/chunks/33f7e5a25c4fcd0b.js?dpl=dpl_GwuwmMc2oZNJkz1tEEADs8shECJt"],""]
-6:I[2355,["/_next/static/chunks/0d46db6cf73968fd.js?dpl=dpl_GwuwmMc2oZNJkz1tEEADs8shECJt"],"Analytics"]
-11:I[68027,["/_next/static/chunks/ff1a16fafef87110.js?dpl=dpl_GwuwmMc2oZNJkz1tEEADs8shECJt","/_next/static/chunks/803a574de9eda7ae.js?dpl=dpl_GwuwmMc2oZNJkz1tEEADs8shECJt"],"default"]
-12:I[97367,["/_next/static/chunks/ff1a16fafef87110.js?dpl=dpl_GwuwmMc2oZNJkz1tEEADs8shECJt","/_next/static/chunks/803a574de9eda7ae.js?dpl=dpl_GwuwmMc2oZNJkz1tEEADs8shECJt"],"OutletBoundary"]
-13:"$Sreact.suspense"
-15:I[93539,["/_next/static/chunks/0d46db6cf73968fd.js?dpl=dpl_GwuwmMc2oZNJkz1tEEADs8shECJt","/_next/static/chunks/39ad7020066b4868.js?dpl=dpl_GwuwmMc2oZNJkz1tEEADs8shECJt","/_next/static/chunks/33f7e5a25c4fcd0b.js?dpl=dpl_GwuwmMc2oZNJkz1tEEADs8shECJt"],"ThemeToggle"]
-23:I[97367,["/_next/static/chunks/ff1a16fafef87110.js?dpl=dpl_GwuwmMc2oZNJkz1tEEADs8shECJt","/_next/static/chunks/803a574de9eda7ae.js?dpl=dpl_GwuwmMc2oZNJkz1tEEADs8shECJt"],"ViewportBoundary"]
-25:I[97367,["/_next/static/chunks/ff1a16fafef87110.js?dpl=dpl_GwuwmMc2oZNJkz1tEEADs8shECJt","/_next/static/chunks/803a574de9eda7ae.js?dpl=dpl_GwuwmMc2oZNJkz1tEEADs8shECJt"],"MetadataBoundary"]
-:HL["/_next/static/chunks/8be82ca8498e7d4a.css?dpl=dpl_GwuwmMc2oZNJkz1tEEADs8shECJt","style"]
-:HL["/_next/static/media/1b99372b3eaef0c8-s.p.758e15a8.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
-:HL["/_next/static/media/23b7a97ae3b5c134-s.p.2902b61f.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
-:HL["/_next/static/media/68d403cf9f2c68c5-s.p.f9f15f61.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
-:HL["/_next/static/media/99e609270109b47d-s.p.64b9304e.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
-:HL["/_next/static/media/a7e15459c1805da0-s.p.ec654d65.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
-:HL["/_next/static/media/ea3421846039b7f3-s.p.093205c5.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
-:HL["/_next/static/media/effe91970fc4db64-s.p.19510058.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+Andrew Torba and Charles Szymanski were childhood best friends from Scranton, Pennsylvania. Torba had recently graduated from the University of Scranton; Szymanski was attending Drexel University when they co-founded the company in 2011.<sup><a href="https://technical.ly/startups/gab-andrew-torba-kuhcoon-startup/">[1]</a></sup> The two are also described as college roommates at the time of founding, though the exact living arrangement across two different universities is unclear.<sup><a href="https://en.wikipedia.org/wiki/Automate_Ads">[2]</a></sup>
+
+The founding insight was practical. Torba later told Wishpond in a February 2015 podcast interview that he started Kuhcoon after finding it nearly impossible to manage a client's Facebook ad campaigns on mobile — the existing tools were desktop-bound, manual, and time-consuming.<sup><a href="https://wishpond.com/blog/kuhcoon-ceo-andrew-torba-tells-us-how-he-grew-his/">[3]</a></sup> The solution he envisioned was not a better dashboard but a system that would make decisions on behalf of the advertiser: pause underperforming ads, rotate creative variants, and allocate budget — all without human intervention.
+
+The company operated for roughly three years before gaining significant outside validation. There is no public record of revenue, customers, or product milestones from 2011 to late 2014 — suggesting a long bootstrapped or pre-revenue period. In late 2014, Torba and Szymanski won a competition that resulted in Y Combinator accepting Kuhcoon into its Winter 2015 batch.<sup><a href="https://en.wikipedia.org/wiki/Andrew_Torba">[4]</a></sup> The acceptance prompted a move from Scranton to Palo Alto, which Torba marked with a Medium post on New Year's Eve 2014: "Scranton will always be our home, but Silicon Valley has always been our destiny."<sup><a href="https://www.mercurynews.com/2018/11/01/from-silicon-valley-elite-to-social-media-hate-the-radicalization-that-led-to-gab/amp/">[5]</a></sup>
+
+That framing — Silicon Valley as destiny — would prove bitterly ironic. Within two years, Torba would describe his experience there as a disillusionment: "I became incredibly disillusioned after only one year living and working with some of the 'top names' and companies. These are not good people."<sup><a href="https://www.mercurynews.com/2018/11/01/from-silicon-valley-elite-to-social-media-hate-the-radicalization-that-led-to-gab/amp/">[6]</a></sup>
+
+At YC, the team was described by Washington Post sources as "mild-mannered and largely unremarkable" — not top of the batch, but respected for their work ethic.<sup><a href="https://www.mercurynews.com/2018/11/01/from-silicon-valley-elite-to-social-media-hate-the-radicalization-that-led-to-gab/amp/">[7]</a></sup> Torba served as CEO and the public face of the company; Szymanski served as CTO and handled the technical architecture.<sup><a href="https://techcrunch.com/2015/02/19/yc-backed-kuhcoon-promises-to-automate-facebook-ad-campaigns-for-small-businesses/">[8]</a></sup> The two-person founding team structure — with no other executives on record — would later prove to be a critical single point of failure.
+
+---
 
 ## Timeline
 

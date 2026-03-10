@@ -2,26 +2,19 @@
 
 ## Overview
 
-1:"$Sreact.fragment"
-2:I[39756,["/_next/static/chunks/ff1a16fafef87110.js?dpl=dpl_GwuwmMc2oZNJkz1tEEADs8shECJt","/_next/static/chunks/803a574de9eda7ae.js?dpl=dpl_GwuwmMc2oZNJkz1tEEADs8shECJt"],"default"]
-3:I[8821,["/_next/static/chunks/0d46db6cf73968fd.js?dpl=dpl_GwuwmMc2oZNJkz1tEEADs8shECJt","/_next/static/chunks/5f4dcbc1da431ca9.js?dpl=dpl_GwuwmMc2oZNJkz1tEEADs8shECJt","/_next/static/chunks/33f7e5a25c4fcd0b.js?dpl=dpl_GwuwmMc2oZNJkz1tEEADs8shECJt"],"default"]
-4:I[37457,["/_next/static/chunks/ff1a16fafef87110.js?dpl=dpl_GwuwmMc2oZNJkz1tEEADs8shECJt","/_next/static/chunks/803a574de9eda7ae.js?dpl=dpl_GwuwmMc2oZNJkz1tEEADs8shECJt"],"default"]
-5:I[22016,["/_next/static/chunks/0d46db6cf73968fd.js?dpl=dpl_GwuwmMc2oZNJkz1tEEADs8shECJt","/_next/static/chunks/39ad7020066b4868.js?dpl=dpl_GwuwmMc2oZNJkz1tEEADs8shECJt","/_next/static/chunks/33f7e5a25c4fcd0b.js?dpl=dpl_GwuwmMc2oZNJkz1tEEADs8shECJt"],""]
-6:I[2355,["/_next/static/chunks/0d46db6cf73968fd.js?dpl=dpl_GwuwmMc2oZNJkz1tEEADs8shECJt"],"Analytics"]
-11:I[68027,["/_next/static/chunks/ff1a16fafef87110.js?dpl=dpl_GwuwmMc2oZNJkz1tEEADs8shECJt","/_next/static/chunks/803a574de9eda7ae.js?dpl=dpl_GwuwmMc2oZNJkz1tEEADs8shECJt"],"default"]
-12:I[97367,["/_next/static/chunks/ff1a16fafef87110.js?dpl=dpl_GwuwmMc2oZNJkz1tEEADs8shECJt","/_next/static/chunks/803a574de9eda7ae.js?dpl=dpl_GwuwmMc2oZNJkz1tEEADs8shECJt"],"OutletBoundary"]
-13:"$Sreact.suspense"
-15:I[93539,["/_next/static/chunks/0d46db6cf73968fd.js?dpl=dpl_GwuwmMc2oZNJkz1tEEADs8shECJt","/_next/static/chunks/39ad7020066b4868.js?dpl=dpl_GwuwmMc2oZNJkz1tEEADs8shECJt","/_next/static/chunks/33f7e5a25c4fcd0b.js?dpl=dpl_GwuwmMc2oZNJkz1tEEADs8shECJt"],"ThemeToggle"]
-23:I[97367,["/_next/static/chunks/ff1a16fafef87110.js?dpl=dpl_GwuwmMc2oZNJkz1tEEADs8shECJt","/_next/static/chunks/803a574de9eda7ae.js?dpl=dpl_GwuwmMc2oZNJkz1tEEADs8shECJt"],"ViewportBoundary"]
-25:I[97367,["/_next/static/chunks/ff1a16fafef87110.js?dpl=dpl_GwuwmMc2oZNJkz1tEEADs8shECJt","/_next/static/chunks/803a574de9eda7ae.js?dpl=dpl_GwuwmMc2oZNJkz1tEEADs8shECJt"],"MetadataBoundary"]
-:HL["/_next/static/chunks/8be82ca8498e7d4a.css?dpl=dpl_GwuwmMc2oZNJkz1tEEADs8shECJt","style"]
-:HL["/_next/static/media/1b99372b3eaef0c8-s.p.758e15a8.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
-:HL["/_next/static/media/23b7a97ae3b5c134-s.p.2902b61f.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
-:HL["/_next/static/media/68d403cf9f2c68c5-s.p.f9f15f61.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
-:HL["/_next/static/media/99e609270109b47d-s.p.64b9304e.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
-:HL["/_next/static/media/a7e15459c1805da0-s.p.ec654d65.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
-:HL["/_next/static/media/ea3421846039b7f3-s.p.093205c5.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
-:HL["/_next/static/media/effe91970fc4db64-s.p.19510058.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+Royal Jain and Vedant Agarwala brought complementary and unusually strong credentials to CodeParrot. Jain, the CEO, studied computer science at IIT Bombay—India's most selective engineering institution—and went on to serve as CTO of Mastree, an edtech startup that reached $7 million ARR before being acquired by Unacademy, one of India's largest edtech unicorns. Before that, he was a founding engineer at Deepaffects, a voice analytics company later acquired by RingCentral. <sup><a href="https://www.ycombinator.com/companies/codeparrot-ai">[4]</a></sup> Agarwala, the CTO, had led backend and mobile engineering at Apna, a hyper-growth jobs platform where he scaled systems to handle over 100 million daily requests. <sup><a href="https://startuptalky.com/why-codeparrot-shutdown/">[5]</a></sup>
+
+<media-tweet url="https://x.com/royaljain4" author="@royaljain4" date="" text="@CodeParrotAI (YC W23) | Prev - CTO @Mastree (acqd. by Unacademy) | IITB Comp Science"></media-tweet>
+
+The two founded CodeParrot in 2022 and incorporated the legal entity as Good Engineering, Inc., with offices spanning Bengaluru and San Francisco. <sup><a href="https://www.crunchbase.com/organization/codeparrot-57b1">[2]</a></sup> They were accepted into Y Combinator's Winter 2023 batch on the strength of the founding team alone—no product, no customers, just a thesis. The journey to San Francisco was itself an adventure: the pair left India, transited through Singapore to sort out US visas, and arrived in the Bay Area for what Agarwala later described as "three magical months." <sup><a href="https://startuppedia.in/trending/trending/yc-backed-indian-ai-startup-codeparrot-shuts-down-startups-are-brutally-hard-says-cofounder-9512641">[3]</a></sup>
+
+<media-tweet url="https://x.com/vedantsopinions" author="@vedantsopinions" date="" text="Cofounder @ Code Parrot (YC W23) | Early employee in unicorn companies | Angel Investor | 1x acqui-hired"></media-tweet>
+
+The original idea they brought to YC was scrapped within weeks of arrival. <sup><a href="https://startuppedia.in/trending/trending/yc-backed-indian-ai-startup-codeparrot-shuts-down-startups-are-brutally-hard-says-cofounder-9512641">[3]</a></sup> The specific concept has never been disclosed publicly. What replaced it was a developer tooling product focused on automated API testing—a problem both founders had encountered firsthand while managing engineering teams at scale. The insight was straightforward: production traffic already contains the ground truth about how an API behaves, so why not use it to generate and maintain test suites automatically, rather than requiring engineers to write and update tests by hand?
+
+That thesis was technically coherent and grounded in real engineering pain. But it would prove difficult to sell. The team launched publicly in March 2023, failed to raise at Demo Day in June, and spent the following year in what Agarwala would later call "pivot hell"—a period of searching, experimentation, and painful personnel decisions that ultimately led them to a second, very different product: a VS Code extension that converted Figma designs into production-ready frontend code using large language models.
+
+---
 
 ## Founding Story
 
